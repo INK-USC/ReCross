@@ -12,8 +12,8 @@ last_modified_date: April 5th 2022
 
 ---
 <span class="fs-2">
-[Paper](https://yuchenlin.xyz/files/cmr.pdf){: target="_blank" .btn .btn-green .mr-1 .fs-3}
-[Github](https://github.com/yuchenlin/CMR/){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
+[Paper](https://arxiv.org/abs/2204.07937){: target="_blank" .btn .btn-green .mr-1 .fs-3}
+[Github](https://github.com/INK-USC/ReCross/){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
 [Video](#){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
 [Slides](#){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
 </span>
@@ -66,13 +66,19 @@ This is the project site for the paper, [_**Unsupervised Cross-Task Generalizati
 
 
 
-<!-- ![Introduction of OpenCSR](images/opencsr_t1.png){: style="text-align:center; display:block; margin-left: auto; margin-right: auto;" width="100%"} -->
+
  
 <!-- {: .fs-3 .fw-300 } -->
 ### Abstract
 Humans can perform unseen tasks by recalling relevant skills that are acquired previously and then generalizing them to the target tasks, even if there is no supervision at all. In this paper, we aim to improve such cross-task generalization ability of massive multi-task language models such as T0 (Sanh et al., 2021) in an unsupervised setting. We propose a retrieval-augmentation method named ReCross that takes a few unlabelled examples as queries to retrieve a small subset of upstream data and uses them to update the multi-task model for better generalization. Our empirical results show that the proposed ReCross consistently outperforms non-retrieval baselines by a significant margin.
 
 ---
+
+![Introduction of the problem](images/opencsr_t1.png){: style="text-align:center; display:block; margin-left: auto; margin-right: auto;" width="100%"}
+
+---
+
+![Introduction of the ReCross](images/upload/opencsr_t2.png){: style="text-align:center; display:block; margin-left: auto; margin-right: auto;" width="100%"}
 
 <!-- 
 ```bibtex
