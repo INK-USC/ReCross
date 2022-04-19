@@ -14,7 +14,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "ReCross" # the subpath of your site, e.g. /blog
 url: "https://inklab.usc.edu/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: billyuchenlin
-github_username:  yuchenlin
+github_username:  INK-USC
 # Footer content
 # appears at the bottom of every page's main content
 
