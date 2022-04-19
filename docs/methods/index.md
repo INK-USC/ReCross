@@ -7,7 +7,7 @@ has_toc: false
 permalink: /methods/
 ---
 
-# Methods for CMR
+# ReCross Framework
 {: .no_toc}
 
 
@@ -19,6 +19,6 @@ permalink: /methods/
 - TOC
 {:toc} -->
 
-**Please check our code at [this Github repo](https://github.com/yuchenlin/OpenCSR/){: target="_blank"}.**
+**Please check our code at [this Github repo](https://github.com/INK-USC/ReCross){: target="_blank"}.**
 
 TBA

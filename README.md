@@ -1,4 +1,4 @@
-# Project page of OpenCSR
+# Project website of ReCross
 
 The website url is [http://open-csr.github.io/](http://open-csr.github.io/), and it is based on [Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll) and [Just-the-Docs](https://pmarsceill.github.io/just-the-docs/) template.
 
