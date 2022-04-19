@@ -1,0 +1,50 @@
+# Local Setting
+baseurl: ""
+url: ""
+include: [".well-known"]
+# Theme
+theme: "just-the-docs"
+# remote_theme: pmarsceill/just-the-docs
+color_scheme: opencsr
+logo: "ocs_logo.png"
+
+
+# Changes
+title: ReCross | Unsupervised Cross-Task Generalization via Retrieval Augmentation
+
+email: yuchen.lin@usc.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  ReCross's project page. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://inklab.usc.edu/ReCross/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: billyuchenlin
+github_username:  yuchenlin
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: '<a href="" class="btn btn-red fs-4">The site is under development. Please email [<strong><em>yuchen.lin@usc.edu</em></strong>] if you have any questions.</a>'
+
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+search_enabled: true
+search.button: true
+
+# # Footer "Edit this page on GitHub" link text
+# gh_edit_link: true # show or hide edit this page link
+# gh_edit_link_text: "Edit this page on GitHub."
+# gh_edit_repository: "https://github.com/OpenCommonSense/CommonSensePortalSite" # the github URL for your repo
+# gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+compress_html:
+  blanklines: true
+
+mathjax:
+  source: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML
+  config: 'MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } })'
