@@ -85,23 +85,7 @@ if [[ "$RETRIEVER" == "SentenceTransformer"* ]]; then
 elif [[ "$RETRIEVER" == "Random"* ]]; then
     memory_cache_path="memory_cache/random_memory.pkl"
 elif [[ "$RETRIEVER" == "BART"* ]]; then
-    memory_cache_path="memory_cache/bart0_memory.pkl"
-elif [[ "$RETRIEVER" == "vBART"* ]]; then 
-    memory_cache_path="memory_cache/bart_memory.pkl"
-elif [[ "$RETRIEVER" == "TRAINED"* ]]; then 
-    memory_cache_path="memory_cache/trained_memory.pkl"
-    QUERY_ENCODER_PATH='outputs/query_encoder_epoch_8.pt'
-    MEMORY_ENCODER_PATH='outputs/memory_encoder_epoch_8.pt'
-elif [[ "$RETRIEVER" == "TwoStage-Random-TRAINED"* ]]; then
-    reranker_oversample_rate=3
-    memory_cache_path="memory_cache/random_memory.pkl"
-    QUERY_ENCODER_PATH='outputs/query_encoder_epoch_8.pt'
-    MEMORY_ENCODER_PATH='outputs/memory_encoder_epoch_8.pt'
-elif [[ "$RETRIEVER" == "TwoStage-BART-TRAINED"* ]]; then
-    reranker_oversample_rate=2
-    memory_cache_path="memory_cache/bart0_memory.pkl"
-    QUERY_ENCODER_PATH='outputs/query_encoder_epoch_8.pt'
-    MEMORY_ENCODER_PATH='outputs/memory_encoder_epoch_8.pt'    
+    memory_cache_path="memory_cache/bart0_memory.pkl" 
 fi
 
 mkdir -p $RETRIEVED_DATA_DIR

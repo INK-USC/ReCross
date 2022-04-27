@@ -69,6 +69,9 @@ done
 
 python scripts/zs_retrieval/merge_memory_index.py memory_cache/sbert_memory.pkl 8
 
+
+
+
 for shard_id in {0..19};
 do
     sbatch scripts/zs_retrieval/zeroshot_build_index.sh BART 20 $shard_id

@@ -1,7 +1,7 @@
 # ReCross: Unsupervised Cross-Task Generalization via Retrieval Augmentation
 
 
-### **_Quick links:_**  [**[Paper]**](https://arxiv.org/abs/2204.07937)   [**[Docs]**](https://inklab.usc.edu/ReCross/)
+### **_Quick links:_**  [**[Paper]**](https://arxiv.org/abs/2204.07937)   [**[Docs]**](https://inklab.usc.edu/ReCross/) [**[BART0]**](https://huggingface.co/yuchenlin/BART0)
 
 ---
 This is the repository of the paper, [_**Unsupervised Cross-Task Generalization via Retrieval Augmentation**_](https://arxiv.org/abs/2204.07937), by [_Bill Yuchen Lin_](https://yuchenlin.xyz/), Kangmin Tan, Chris Miller, Beiwen Tian, and [Xiang Ren](http://www-bcf.usc.edu/~xiangren/).
@@ -38,14 +38,99 @@ pip install -e ./   # install the source code as `metax` to local
 ```
 
 
-## Data Basics
+## The ReCross datasets 
 
-To download the upstream datasets, click [here](https://drive.google.com/drive/folders/10FSUb3xN_ajmwpwxa7cnjmPTGa8NqmDK?usp=sharing) 
-to download `T0_upstream_train.json` and `T0pp_upstream_train.json` and put it under the `data` folder.
-Run below to convert the data format:
+We follow the split of the T0 paper and use the PromptSource templates to convert all examples to text-to-text formats.
+
+### Upstream data for learning the base models
+
+We combine the examples from nearly 40 upstream tasks into a single processed data file, which can be downloaded here: [https://drive.google.com/file/d/1WB6DM7llv5M-UGgdz2X9xtrCZSy5VgVy/view?usp=sharing](https://drive.google.com/file/d/1WB6DM7llv5M-UGgdz2X9xtrCZSy5VgVy/view?usp=sharing).
+
+We will add docs on how to use the scripts under `metax/prompts/` to generate such upstream data later.
+
+### Test data for evaluating cross-task generalization 
+
+Please check `data/task_name/fewshot.json` for the query examples (there are multiple different sets for each size of the query set: 16, 32, 64, etc.). 
+
+And we will use `data/task_name/test-1000.json` for evaluating the performance on generalizing to each target unseen task.
+
+### The upstream/target split of tasks
+
+We use the exactly the same set of upstream tasks as the T0(-3B) models used for training our BART0 models, while the specific selections of the instances and templates may be different.
+We use a similar set of target tasks for evaluating the cross-task generation performance, 10 tasks form the PromptSource and 5 from the BIG-bench. Please check our paper and the appendix for more details.
+
+## BART0: a parameter-efficient alternative of T0-3B
+
+We use the above upstream data to fine-tune the `facebook/bart-large` and obtain the `yuchenlin/BART0` model checkpoint.
+Please click this link to access the model checkpoint via HuggingFace: [https://huggingface.co/yuchenlin/BART0](https://huggingface.co/yuchenlin/BART0).
+Please refer to the `scripts/upstream_training` folder for more implementation details and hyper-parameters.
+
+## Cross-Task Generalization
+
+### Common pipeline
+All experiments will start with `metax/run.py` and the common pipeline is based on `MetaX_Common` and `MetaX_Retrieve` class which are located in `metax/commons.py` and `metax/retrieve.py` respectively. 
+The former is the base class for some basic utility functions and support the normal, non-retrieval augmentation methods for cross-task generalization.
+The latter is the base class for all retrieval augmentation methods. 
+
+### Running Non-Retrieval Methods 
+
+To run an experiment for such a method, please check `scripts/no_ret/zeroshot_one.sh`, where we have shown the example usages for running multiple target tasks with different base LMs such as BART0 and T0-3B.
+
+Note that this script is a `sbatch` script for submitting a gpu job via the Slurm system, although one can also use it as if it is a standard bash script file.
+If you'd like to submit multiple jobs in a batch, please refer to the `scripts/no_ret/zeroshot_all.sh`.
+
+### Running Retrieval-based Methods 
+
+For both SBERT and ReCross methods, we will need to build the dense index of upstream data first before we use them for retrieving additional data based on query examples.
+
+- ***Build the index in parallel *** （SBERT）
+
+Please run `scripts/zs_retrieval/zeroshot_build_index.sh`.
 
 ```bash
-python scripts/convert_upstrem_data_format.py
+# submit multiple indexing jobs in parallel 
+for shard_id in {0..7}; # in 8 batches
+do
+    sbatch scripts/zs_retrieval/zeroshot_build_index.sh Semantic 8 $shard_id
+done
+
+# when the above jobs are finished, combine the produced files 
+python scripts/zs_retrieval/merge_memory_index.py memory_cache/sbert_memory.pkl 8
 ```
-And you will get `data/t0[pp]_upstream_train_lines.json`.
+
+- ***Build the index in parallel *** （BART0）
+
+```bash 
+# submit multiple indexing jobs in parallel 
+for shard_id in {0..19};    # in 20 batches
+do
+    sbatch scripts/zs_retrieval/zeroshot_build_index.sh BART 20 $shard_id
+done
+
+# when the above jobs are finished, combine the produced files 
+python scripts/zs_retrieval/merge_memory_index.py memory_cache/bart0_memory.pkl 20
+```
+
+
+- ***Run an experiment***
+
+Please check the script `scripts/ret/zs_with_ret.sh` and the `metax/cli.py` to know more configurations. 
+Here, one can run a particular experiment that uses a particular retrieval method for a certain target task. 
+
+
+```bash 
+sbatch scripts/ret/zs_with_ret.sh  [task names]  [retriever] 42 5 [no|rerank]
+```
+
+The first slot should be a string that is a comma-separated list of target task names. For example, `ai2_arc-ARC-Challenge,super_glue-cb`. Then, this script will run 2 individual process at the same time ***on a single gpu*** for each target task. You can also just input a single task name for the 1st slot to run a single target task at a time --- this depends the memory size of the GPUs you have and the consideration on the trade-off between single-gpu efficiency and the number of required gpus.
+
+The second slot is the name of the retriever where we have three options here: Random, SentenceTransformer, BART. The index path for each option is listed in the script, which can be customized by yourself.
+
+
+
+
+
+
+
+### Train the Reranking module for ReCross 
 

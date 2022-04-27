@@ -8,13 +8,11 @@ import json
 import random
 from random import shuffle
 
-from metax.config import UPSTREAM_DATASETS, DOWNSTREAM_DATASETS, CSR_TARGET_TASKS, CSR_UPSTEREAM_TASKS
+from metax.config import UPSTREAM_DATASETS, DOWNSTREAM_DATASETS
 
 # Dataset directory with prompted dataset files
-DATA_ROOT='data_csr'
-# datasets = UPSTREAM_DATASETS + DOWNSTREAM_DATASETS
-
-datasets = CSR_UPSTEREAM_TASKS 
+DATA_ROOT='data'
+datasets = UPSTREAM_DATASETS + DOWNSTREAM_DATASETS
 
 # datasets = [
 #     "ai2_arc-ARC-Easy",
