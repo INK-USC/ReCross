@@ -8,7 +8,7 @@ last_modified_date: April 5th 2022
 ---
  
 # ReCross | Unsupervised Cross-Task Generalization via Retrieval Augmentation
-{: .fs-7 .fw-700 .text-blue-300 }
+{: .fs-6 .fw-700 .text-blue-300 }
 
 ---
 <span class="fs-2">
