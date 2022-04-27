@@ -95,9 +95,6 @@ do
 done
 # when the above jobs are finished, combine the produced files 
 python scripts/ret/merge_memory_index.py memory_cache/sbert_memory.pkl 16
-
-
-
 ```
 
 - ***Build the index in parallel*** （BART0）

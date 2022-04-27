@@ -76,20 +76,20 @@ Humans can perform unseen tasks by recalling relevant skills that are acquired p
 ---
 ## Problem Formulation
 
-![Introduction of the problem](images/rex_intro.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="95%"}
+![Introduction of the problem](images/rex_intro.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="98%"}
 
 
 ---
 
 ## ReCross: the upstream stage
 
-![Introduction of the ReCross](images/rex_method_train.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="95%"}
+![Introduction of the ReCross](images/rex_method_train.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="98%"}
 
 --- 
 
 ## ReCross: the generalization stage
 
-![Introduction of the ReCross](images/rex_method_test.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="95%"}
+![Introduction of the ReCross](images/rex_method_test.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="98%"}
 
 ---
 
