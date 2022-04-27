@@ -2,7 +2,7 @@
 layout: default
 title: Methods
 nav_order: 3
-has_children: true
+has_children: false
 has_toc: false
 permalink: /methods/
 ---
@@ -10,7 +10,7 @@ permalink: /methods/
 # ReCross Framework
 {: .no_toc}
 
-
+---
 
 <!-- 
 ## Table of contents

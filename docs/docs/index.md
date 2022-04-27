@@ -37,6 +37,7 @@ last_modified_date: April 5th 2022
 This is the project site for the paper, [_**Unsupervised Cross-Task Generalization via Retrieval Augmentation**_](https://arxiv.org/abs/2204.07937), by [_Bill Yuchen Lin_](https://yuchenlin.xyz/), Kangmin Tan, Chris Miller, Beiwen Tian, and [Xiang Ren](http://www-bcf.usc.edu/~xiangren/).
 
 
+ 
 ---
 
 <!-- 
@@ -69,23 +70,39 @@ This is the project site for the paper, [_**Unsupervised Cross-Task Generalizati
 
  
 <!-- {: .fs-3 .fw-300 } -->
-### Abstract
+## Abstract
 Humans can perform unseen tasks by recalling relevant skills that are acquired previously and then generalizing them to the target tasks, even if there is no supervision at all. In this paper, we aim to improve such cross-task generalization ability of massive multi-task language models such as T0 (Sanh et al., 2021) in an unsupervised setting. We propose a retrieval-augmentation method named ReCross that takes a few unlabelled examples as queries to retrieve a small subset of upstream data and uses them to update the multi-task model for better generalization. Our empirical results show that the proposed ReCross consistently outperforms non-retrieval baselines by a significant margin.
 
 ---
+## Problem Formulation
 
-![Introduction of the problem](images/opencsr_t1.png){: style="text-align:center; display:block; margin-left: auto; margin-right: auto;" width="100%"}
+![Introduction of the problem](images/rex_intro.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="95%"}
+
 
 ---
 
-![Introduction of the ReCross](images/upload/opencsr_t2.png){: style="text-align:center; display:block; margin-left: auto; margin-right: auto;" width="100%"}
+## ReCross: the upstream stage
 
-<!-- 
+![Introduction of the ReCross](images/rex_method_train.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="95%"}
+
+--- 
+
+## ReCross: the generalization stage
+
+![Introduction of the ReCross](images/rex_method_test.gif){: style="text-align:center; display:block; margin-left: auto; margin-right: auto; border: 2px solid black;" width="95%"}
+
+---
+
+## Cite
+
+If you'd like cite us, please use this:
+
 ```bibtex
-@inproceedings{lin-etal-2022-cmr,
-    title = "On Continual Model Refinement in Out-of-Distribution Data Streams",
-    author = "Lin, Bill Yuchen and Wang, Sida and Lin, Xi Victoria and Jia, Robin and Xiao, Lin and Ren, Xiang and Yih, Wen-tau",
-    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL 2022)",
-    year = "2022"
+@article{Lin2022UnsupervisedCG,
+  title={Unsupervised Cross-Task Generalization via Retrieval Augmentation},
+  author={Bill Yuchen Lin and Kangmin Tan and Chris Miller and Beiwen Tian and Xiang Ren},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2204.07937}
 }
- -->
+```
