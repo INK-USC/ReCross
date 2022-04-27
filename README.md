@@ -83,7 +83,7 @@ If you'd like to submit multiple jobs in a batch, please refer to the `scripts/n
 
 For both SBERT and ReCross methods, we will need to build the dense index of upstream data first before we use them for retrieving additional data based on query examples.
 
-- ***Build the index in parallel *** （SBERT）
+- ***Build the index in parallel*** （SBERT）
 
 Please run `scripts/ret/build_index.sh`.
 
@@ -100,7 +100,7 @@ python scripts/ret/merge_memory_index.py memory_cache/sbert_memory.pkl 16
 
 ```
 
-- ***Build the index in parallel *** （BART0）
+- ***Build the index in parallel*** （BART0）
 
 ```bash 
 # submit multiple indexing jobs in parallel 
