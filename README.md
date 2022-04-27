@@ -1,6 +1,15 @@
-# MetaCross
+# ReCross: Unsupervised Cross-Task Generalization via Retrieval Augmentation
 
-Meta-Learning for Low-Resource Cross-Task Generalization
+
+### **_Quick links:_**  [**[Paper]**](https://arxiv.org/abs/2204.07937)   [**[Documentation]**](https://inklab.usc.edu//ReCross/)
+
+---
+This is the repository of the paper, [_**Unsupervised Cross-Task Generalization via Retrieval Augmentation**_](https://arxiv.org/abs/2204.07937), by [_Bill Yuchen Lin_](https://yuchenlin.xyz/), Kangmin Tan, Chris Miller, Beiwen Tian, and [Xiang Ren](http://www-bcf.usc.edu/~xiangren/).
+---
+
+## Abstract 
+Humans can perform unseen tasks by recalling relevant skills that are acquired previously and then generalizing them to the target tasks, even if there is no supervision at all. In this paper, we aim to improve such cross-task generalization ability of massive multi-task language models such as T0 (Sanh et al., 2021) in an unsupervised setting. We propose a retrieval-augmentation method named ReCross that takes a few unlabelled examples as queries to retrieve a small subset of upstream data and uses them to update the multi-task model for better generalization. Our empirical results show that the proposed ReCross consistently outperforms non-retrieval baselines by a significant margin.
+
 
 ## Installation
 
