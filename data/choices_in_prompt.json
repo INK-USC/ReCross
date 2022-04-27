@@ -1,0 +1,2583 @@
+{
+    "duorc-ParaphraseRC": {
+        "answer_question": false,
+        "build_story_around_qa": false,
+        "decide_worth_it": false,
+        "extract_answer": false,
+        "generate_question": false,
+        "generate_question_by_answer": false,
+        "movie_director": false,
+        "question_answering": false,
+        "title_generation": false
+    },
+    "duorc-SelfRC": {
+        "answer_question": false,
+        "build_story_around_qa": false,
+        "decide_worth_it": false,
+        "extract_answer": false,
+        "generate_question": false,
+        "generate_question_by_answer": false,
+        "movie_director": false,
+        "question_answering": false,
+        "title_generation": false
+    },
+    "paws-x-en": {
+        "Concatenation": true,
+        "Concatenation-no-label": false,
+        "Meaning": true,
+        "Meaning-no-label": false,
+        "PAWS-ANLI GPT3": true,
+        "PAWS-ANLI GPT3-no-label": false,
+        "Rewrite": true,
+        "Rewrite-no-label": false,
+        "context-question": true,
+        "context-question-no-label": false,
+        "paraphrase-task": false,
+        "task_description-no-label": false
+    },
+    "multi_nli": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "snli": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "multi_news": {
+        "distill": false,
+        "expand (reverse task)": false,
+        "summarize": false,
+        "summary scenario": false,
+        "synthesize": false,
+        "what are the key points": false
+    },
+    "aeslc": {
+        "generate_subject": false,
+        "generate_subject_line": false,
+        "the_text_below": false,
+        "what_about": false,
+        "what_is_the_subject_of_this_email": false,
+        "what_is_this_email_about": false,
+        "what_subject_of_email": false,
+        "what_topic": false
+    },
+    "dream": {
+        "answer-to-dialogue": false,
+        "baseline": true,
+        "generate-first-utterance": false,
+        "generate-last-utterance": false,
+        "read_the_following_conversation_and_answer_the_question": true
+    },
+    "sick": {
+        "A entails B?": false,
+        "A entails_neutral_contradict B?": true,
+        "B entails A?": false,
+        "B entails_netural_contradict A?": true,
+        "sentences relation score": false
+    },
+    "climate_fever": {
+        "claim_and_all_supporting_evidences": true,
+        "fifth_evidence_and_claim_itemization": true,
+        "first_evidence_and_claim_itemization": true,
+        "fourth_evidence_and_claim_itemization": true,
+        "second_evidence_and_claim_itemization": true,
+        "third_evidence_and_claim_itemization": true,
+        "third_evidence_claim_pair": true
+    },
+    "newspop": {
+        "after_text_question": true,
+        "after_text_question_headline_only": true,
+        "after_text_question_no_choice": false,
+        "after_text_question_title_only": true,
+        "before_text_question": true,
+        "before_text_question_no_choice": false,
+        "headline_to_title": false,
+        "topic_no_choice_in_template": false
+    },
+    "super_glue-boolq": {
+        "GPT-3 Style": false,
+        "I wonder\u2026": false,
+        "after_reading": true,
+        "based on the following passage": false,
+        "based on the previous passage": false,
+        "could you tell me\u2026": false,
+        "exam": true,
+        "exercise": true,
+        "valid_binary": true,
+        "yes_no_question": true
+    },
+    "super_glue-cb": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "super_glue-copa": {
+        "C1 or C2? premise, so/because\u2026": true,
+        "best_option": true,
+        "cause_effect": true,
+        "choose": true,
+        "exercise": true,
+        "i_am_hesitating": true,
+        "more likely": true,
+        "plausible_alternatives": true,
+        "\u2026As a result, C1 or C2?": true,
+        "\u2026What could happen next, C1 or C2?": true,
+        "\u2026which may be caused by": true,
+        "\u2026why? C1 or C2": true
+    },
+    "super_glue-wsc.fixed": {
+        "GPT-3 Style": false,
+        "I think they mean": true,
+        "Who or what is/are": false,
+        "by p they mean": true,
+        "does p stand for": true,
+        "does the pronoun refer to": true,
+        "in other words": true,
+        "p is/are r": true,
+        "replaced with": true,
+        "the pronoun refers to": true
+    },
+    "super_glue-axb": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true
+    },
+    "super_glue-multirc": {
+        "I was going to say\u2026": false,
+        "Would it be good to answer\u2026": false,
+        "confirm": true,
+        "correct": false,
+        "decide_valid": false,
+        "found_this_answer": true,
+        "grading": false,
+        "is the correct answer\u2026": false,
+        "is\u2026 a correct answer?": false,
+        "paragraph\u2026 question\u2026 is it\u2026 ?": false
+    },
+    "super_glue-wic": {
+        "GPT-3-prompt": false,
+        "GPT-3-prompt-with-label": true,
+        "affirmation_true_or_false": true,
+        "grammar_homework": true,
+        "polysemous": true,
+        "question-context": false,
+        "question-context-meaning": false,
+        "question-context-meaning-with-label": true,
+        "same_sense": true,
+        "similar-sense": false
+    },
+    "super_glue-axg": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true
+    },
+    "super_glue-record": {
+        "Add sentence after (continuation choices)": false,
+        "Add sentence after after (continuation choices)": false,
+        "Can you figure out\u2026": false,
+        "GPT-3 style (continuation choices)": false,
+        "GPT-3 style summary only (continuation choices)": false,
+        "GPT-3 style with labels (continuation choices)": false,
+        "GPT-3 style with labels without hyphens (continuation choices)": false,
+        "GPT-3 style without hyphens (continuation choices)": false,
+        "In the question above, the placeholder stands for": false,
+        "New highlight (continuation choices)": false,
+        "News article (continuation choices)": false,
+        "Summary first (continuation choices)": false,
+        "What could the placeholder be?": true,
+        "Which one is the placeholder?": true,
+        "choose_between": true,
+        "corrupted": false,
+        "exercise": false,
+        "pick_one_option": true,
+        "the placeholder refers to\u2026": false,
+        "trying_to_decide": true
+    },
+    "super_glue-rte": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true
+    },
+    "scicite": {
+        "Classify intent": true,
+        "Classify intent (choices first)": true,
+        "Classify intent (select choice)": true,
+        "Classify intent w/section (select choice)": true,
+        "can_describe": true
+    },
+    "aqua_rat-raw": {
+        "Answer questions from options": true,
+        "answer_question_with_rationale": true,
+        "answer_quiz": true,
+        "generate_rational_and_correct_choice": true,
+        "generate_rationale": true,
+        "select_the_best_option": true
+    },
+    "ecthr_cases-alleged-violation-prediction": {
+        "confirm number of violated articles": true,
+        "ecthr_alleged_articles_declaration_at_end": false,
+        "ecthr_alleged_articles_question_at_start": true,
+        "implicit_advice_number": false,
+        "implicit_judgment_paragraph": false,
+        "silver_rationales": true
+    },
+    "billsum": {
+        "Generate title from summary": null,
+        "Summarize this bill in one sentence: (text-> title)": null,
+        "Summarize this bill: (text-> summary)": null,
+        "Summarize: (summary -> title)": null,
+        "Summarize: (text -> summary )": null,
+        "Summarize: (text-> title,summary)": null,
+        "Write a bill: (summary-> text)": null,
+        "Write a bill: (title-> text)": null
+    },
+    "discovery-discovery": {
+        "connector": null,
+        "correction": null,
+        "discourse": null,
+        "make_sense": null,
+        "transition": null
+    },
+    "wiki_qa": {
+        "Decide_good_answer": true,
+        "Direct Answer to Question": false,
+        "Generate Question from Topic": false,
+        "Is This True?": false,
+        "Jeopardy style": false,
+        "Topic Prediction - Answer Only": false,
+        "Topic Prediction - Question Only": false,
+        "Topic Prediction - Question and Answer Pair": false,
+        "automatic_system": false,
+        "exercise": true,
+        "found_on_google": true
+    },
+    "xquad_r-en": {
+        "answer_given_context_and_question": false,
+        "answer_question_given_context": false,
+        "answer_the_question": false,
+        "given_context_answer_question_variation": false,
+        "given_context_generate_question": false,
+        "jeopardy": false
+    },
+    "covid_qa_castorini": {
+        "answers_to_qn": false,
+        "keyword_form": false,
+        "papers_to_qn": false
+    },
+    "glue-cola": {
+        "Following sentence acceptable": true,
+        "Make sense yes no": true,
+        "Previous sentence acceptable": false,
+        "editing": true,
+        "is_this_correct": false
+    },
+    "glue-mnli_mismatched": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "glue-wnli": {
+        "confident": true,
+        "entailment explained": false,
+        "imply": false,
+        "justified": false,
+        "mean": false
+    },
+    "glue-qqp": {
+        "answer": false,
+        "duplicate": false,
+        "duplicate or not": true,
+        "meaning": true,
+        "quora": false,
+        "same thing": false
+    },
+    "glue-mnli": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "glue-stsb": {
+        "examples": false,
+        "rank": false,
+        "rate": false,
+        "score": false,
+        "similarity": false
+    },
+    "glue-mrpc": {
+        "equivalent": true,
+        "generate_paraphrase": false,
+        "generate_sentence": false,
+        "paraphrase": false,
+        "replace": false,
+        "same thing": false,
+        "want to know": false
+    },
+    "glue-sst2": {
+        "following positive negative": true,
+        "happy or mad": true,
+        "positive negative after": true,
+        "review": true,
+        "said": true
+    },
+    "glue-ax": {
+        "based_on_prem_is_hypothesis": true,
+        "does_hyp_follow_from_prem": true,
+        "does_this_imply": true,
+        "does_this_support": true,
+        "relationship_between_hypothesis_premise": true
+    },
+    "glue-rte": {
+        "does the claim\u2026 follow the fact\u2026": true,
+        "entailment explained": true,
+        "imply": true,
+        "imply separated": true,
+        "mean": true
+    },
+    "glue-qnli": {
+        "based only on": false,
+        "have all you need": false,
+        "imply": false,
+        "possible to answer": true,
+        "want to know": false
+    },
+    "glue-mnli_matched": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "sciq": {
+        "Direct Question": false,
+        "Direct Question (Closed Book)": false,
+        "Multiple Choice": true,
+        "Multiple Choice (Closed Book)": true,
+        "Multiple Choice Question First": true
+    },
+    "snips_built_in_intents": {
+        "categorize_query": null,
+        "categorize_query_brief": null,
+        "intent_query": null,
+        "query_intent": null,
+        "query_options_or": null,
+        "query_summarize": null,
+        "voice_intent": null
+    },
+    "turk": {
+        "choose-simplification": true,
+        "choose-verbose": true,
+        "make-verbose": false,
+        "simplify": false
+    },
+    "quarel": {
+        "choose_between": true,
+        "do_not_use": true,
+        "heres_a_story": true,
+        "logic_test": true,
+        "testing_students": true
+    },
+    "kelm": {
+        "kb_to_sentence_affirmative": false,
+        "kb_to_sentence_combine": false,
+        "kb_to_sentence_easier_to_understand": false,
+        "kb_to_sentence_from_notes": false,
+        "kb_to_sentence_uses_all_facts": false,
+        "sentence_to_kb": false
+    },
+    "cnn_dailymail-3.0.0": {
+        "2_or_3_sentences": false,
+        "generate_story": false,
+        "news_card_view": false,
+        "news_stock": false,
+        "news_summary": false,
+        "spice_up_story": false,
+        "sum_in_brief": false,
+        "tldr_summary": false,
+        "write_an_outline": false
+    },
+    "hotpot_qa-distractor": {
+        "generate_answer_affirmative": false,
+        "generate_answer_and_explanations": false,
+        "generate_answer_interrogative": false,
+        "generate_explanations_affirmative": false,
+        "generate_explanations_interrogative": false,
+        "generate_question": false,
+        "generate_title_affirmative": false
+    },
+    "hotpot_qa-fullwiki": {
+        "classify_question_type": true,
+        "generate_answer_affirmative": false,
+        "generate_answer_and_explanations": false,
+        "generate_answer_interrogative": false,
+        "generate_explanations_affirmative": false,
+        "generate_explanations_interrogative": false,
+        "generate_question": false,
+        "generate_title_affirmative": false
+    },
+    "scientific_papers-arxiv": {
+        "generate_first_100_words_for_article": null,
+        "generate_first_line_abstract_from_first_three_lines_article": null,
+        "generate_first_line_from_abstract": null,
+        "generate_first_three_sentences_of_an_article_from_abstract": null,
+        "get_section_names_from_abstract": null
+    },
+    "scientific_papers-pubmed": {
+        "generate_first_100_words_for_article": null,
+        "generate_first_line_abstract_from_first_three_lines_article": null,
+        "generate_first_line_from_abstract": null,
+        "generate_first_three_sentences_of_an_article_from_abstract": null,
+        "get_section_names_from_abstract": null
+    },
+    "sent_comp": {
+        "Template_0": null,
+        "Template_1": null,
+        "Template_2": null,
+        "Template_3": null,
+        "Template_4": null,
+        "Template_5": null,
+        "Template_6": null
+    },
+    "pubmed_qa-pqa_labeled": {
+        "Context Section Type": null,
+        "Generate Question Title ": null,
+        "Long Answer to Final Decision": null,
+        "Medical Subject Headings": null,
+        "Question Answering (Long)": null,
+        "Question Answering (Short)": null
+    },
+    "common_gen": {
+        "Example prompt": false,
+        "Given concepts - type 2": false,
+        "Given concepts type 1": false,
+        "Put together": false,
+        "choice in concept centric sentence generation": false,
+        "random task template prompt": false,
+        "sentence to concepts": false,
+        "topic to sentence": false,
+        "topics from the sentence": false
+    },
+    "emo": {
+        "dialogue_between": true,
+        "emotional_state": true,
+        "feel_when_last_answer": true,
+        "feeling": true,
+        "final_message": true,
+        "in_this_dialogue": true,
+        "persons_describe": true,
+        "persons_infer": true,
+        "spoke_last": true,
+        "what_emotion_do_you_think": true
+    },
+    "financial_phrasebank-sentences_allagree": {
+        "bullish_neutral_bearish": true,
+        "complementary_industries": false,
+        "complementary_industries_option": true,
+        "local_economy": false,
+        "sentiment": false,
+        "sentiment_option": true,
+        "share_price": false,
+        "share_price_option": true,
+        "word_comes_to_mind": true
+    },
+    "onestop_english": {
+        "ara_context": true,
+        "assess": true,
+        "ats": true,
+        "esl_context": true,
+        "esl_variation": true
+    },
+    "yelp_review_full": {
+        "based_on_that": false,
+        "format_rating": false,
+        "format_score": false,
+        "format_star": false,
+        "on_a_scale": false,
+        "so_i_would": false,
+        "this_place": false
+    },
+    "yelp_polarity": {
+        "come_again": false,
+        "experience_good_bad": false,
+        "format_come_again": false,
+        "format_good_bad": false,
+        "like_dislike": false,
+        "like_dislike_2": false,
+        "place_good_bad": false,
+        "rating_high_low": false,
+        "regret_yes_or_no": false
+    },
+    "guardian_authorship-cross_topic_4": {
+        "article_from_author": false,
+        "article_from_author_topic": false,
+        "article_from_topic": false,
+        "topic": true,
+        "who_wrote_article": true,
+        "who_wrote_article_affirmative": true,
+        "who_wrote_article_with_topic_affirmative": true,
+        "who_wrote_article_with_topic_exam": true,
+        "who_wrote_article_with_topic_hint": true,
+        "writing_style": true
+    },
+    "guardian_authorship-cross_genre_1": {
+        "article_from_author": false,
+        "article_from_author_topic": false,
+        "article_from_topic": false,
+        "topic": true,
+        "who_wrote_article": true,
+        "who_wrote_article_affirmative": true,
+        "who_wrote_article_with_topic_affirmative": true,
+        "who_wrote_article_with_topic_exam": true,
+        "who_wrote_article_with_topic_hint": true,
+        "writing_style": true
+    },
+    "guardian_authorship-cross_topic_7": {
+        "article_from_author": false,
+        "article_from_author_topic": false,
+        "article_from_topic": false,
+        "topic": true,
+        "who_wrote_article": true,
+        "who_wrote_article_affirmative": true,
+        "who_wrote_article_with_topic_affirmative": true,
+        "who_wrote_article_with_topic_exam": true,
+        "who_wrote_article_with_topic_hint": true,
+        "writing_style": true
+    },
+    "guardian_authorship-cross_topic_1": {
+        "article_from_author": false,
+        "article_from_author_topic": false,
+        "article_from_topic": false,
+        "topic": true,
+        "who_wrote_article": true,
+        "who_wrote_article_affirmative": true,
+        "who_wrote_article_with_topic_affirmative": true,
+        "who_wrote_article_with_topic_exam": true,
+        "who_wrote_article_with_topic_hint": true,
+        "writing_style": true
+    },
+    "amazon_us_reviews-Wireless_v1_00": {
+        "Generate review based on rating and category": false,
+        "Generate review headline based on rating": false,
+        "Generate review headline based on review body": false,
+        "Given the review body return a categorical rating": true,
+        "Given the review headline return a categorical rating": true
+    },
+    "limit": {
+        "any_entity": false,
+        "any_entity_reference": false,
+        "count_entities": false,
+        "count_entities_affirm": false,
+        "find_entities_dynamic": false,
+        "find_entities_extract": false,
+        "find_entities_list_out": false,
+        "find_entities_moving_in_video": false,
+        "find_entities_question": false,
+        "first_moving_entity": false,
+        "last_moving_entity": false,
+        "more_than_one": false
+    },
+    "quac": {
+        "Answer Converation ": false,
+        "Answer Given Full Dialogue": false,
+        "Answer Given Only First Dialogue": false,
+        "Context First ": false,
+        "Student Asking Teacher ": false,
+        "Use Dialogue as Hint": false
+    },
+    "bing_coronavirus_query_set": {
+        "is_explicit_country_date ": true,
+        "is_explicit_query": false,
+        "is_implicit_or_explicit ": true,
+        "is_implicit_query": false,
+        "what_country ": false
+    },
+    "squad": {
+        "after": null,
+        "cbqa": null,
+        "cbqa qa": null,
+        "cbqa question answer": null,
+        "count letters": null,
+        "exam": null,
+        "exam creation help": null,
+        "find": null,
+        "find text": null,
+        "generate question": null,
+        "question/hint": null,
+        "wondered": null
+    },
+    "discofuse-discofuse-sport": {
+        "decompose_bottom": false,
+        "decompose_remainder_1": false,
+        "decompose_remainder_2": false,
+        "decompose_top": false,
+        "fuse_instruction_bottom": false,
+        "fuse_instruction_top": false,
+        "fuse_interrogative_bottom": false,
+        "fuse_top": false,
+        "grammar_detection_bottom": true,
+        "grammar_detection_top": true
+    },
+    "discofuse-discofuse-wikipedia": {
+        "decompose_bottom": false,
+        "decompose_remainder_1": false,
+        "decompose_remainder_2": false,
+        "decompose_top": false,
+        "fuse_instruction_bottom": false,
+        "fuse_instruction_top": false,
+        "fuse_interrogative_bottom": false,
+        "fuse_top": false,
+        "grammar_detection_bottom": true,
+        "grammar_detection_top": true
+    },
+    "ai2_arc-ARC-Challenge": {
+        "heres_a_problem": true,
+        "i_am_hesitating": true,
+        "multiple_choice": true,
+        "pick_false_options": true,
+        "pick_the_most_correct_option": true,
+        "qa_options": true
+    },
+    "ai2_arc-ARC-Easy": {
+        "heres_a_problem": true,
+        "i_am_hesitating": true,
+        "multiple_choice": true,
+        "pick_false_options": true,
+        "pick_the_most_correct_option": true,
+        "qa_options": true
+    },
+    "squadshifts-nyt": {
+        "after": false,
+        "answers_question": false,
+        "exam": false,
+        "exam_creation_help": false,
+        "generate_question": false,
+        "pick_one_answer": false,
+        "question_num_hint_answer": false,
+        "wondered": false
+    },
+    "squadshifts-amazon": {
+        "after": false,
+        "answers_question": false,
+        "exam": false,
+        "exam_creation_help": false,
+        "generate_question": false,
+        "pick_one_answer": false,
+        "question_num_hint_answer": false,
+        "wondered": false
+    },
+    "squadshifts-new_wiki": {
+        "after": false,
+        "answers_question": false,
+        "exam": false,
+        "exam_creation_help": false,
+        "generate_question": false,
+        "pick_one_answer": false,
+        "question_num_hint_answer": false,
+        "title": false,
+        "wondered": false
+    },
+    "quail": {
+        "context_description_question_answer_id": true,
+        "context_description_question_answer_text": true,
+        "context_description_question_text": false,
+        "context_question_answer_description_id": true,
+        "context_question_answer_description_text": true,
+        "context_question_description_answer_id": true,
+        "context_question_description_answer_text": true,
+        "context_question_description_text": false,
+        "description_context_question_answer_id": true,
+        "description_context_question_answer_text": true,
+        "description_context_question_text": false,
+        "no_prompt_id": true,
+        "no_prompt_text": true
+    },
+    "Zaid/coqa_expanded": {
+        "Answer the last question": false,
+        "Complete the dialogue": false,
+        "GPT-3 Style": false,
+        "Help me": false,
+        "Verbose instructions": false,
+        "What is the answer": false,
+        "extract_answer": false
+    },
+    "Zaid/quac_expanded": {
+        "Answer the last question": false,
+        "Complete the dialogue": false,
+        "GPT-3 Style": false,
+        "Help me": false,
+        "Verbose instructions": false,
+        "What is the answer": false
+    },
+    "narrativeqa": {
+        "answer_using_summary_full_text": false,
+        "full_text_question_answer": false,
+        "given_summary_answer_text": false,
+        "given_text_answer_question": false,
+        "recapitulate_given_text": false,
+        "state_main_points": false,
+        "summarize_text": false,
+        "summary_answer_query": false
+    },
+    "winograd_wsc-wsc273": {
+        "GPT-3 Style": true,
+        "Who or what is/are": true,
+        "by p they mean": true,
+        "does p stand for": true,
+        "does the pronoun refer to": true,
+        "p is/are r": true,
+        "replaced with": true,
+        "the pronoun refers to": true
+    },
+    "winograd_wsc-wsc285": {
+        "GPT-3 Style": true,
+        "Who or what is/are": true,
+        "by p they mean": true,
+        "does p stand for": true,
+        "does the pronoun refer to": true,
+        "p is/are r": true,
+        "replaced with": true,
+        "the pronoun refers to": true
+    },
+    "ncbi_disease": {
+        "identify_diseases_names_mentioned": false,
+        "list_diseases_mentioned": false,
+        "list_diseases_mentioned_after_text": false,
+        "question_asking_diseases_presence": false,
+        "question_asking_diseases_presence_after_text": false,
+        "simple_question_asking_response_as_text": false,
+        "simple_question_asking_response_as_text_after_text": false
+    },
+    "hlgd": {
+        "generate_another_headline": false,
+        "is_same_event_describe_rel": true,
+        "is_same_event_discuss": true,
+        "is_same_event_editor_asks": false,
+        "is_same_event_interrogative_talk": false,
+        "is_same_event_read": true,
+        "is_same_event_refer": false,
+        "is_same_event_replace": false,
+        "is_same_event_with_time_affirmative": true,
+        "is_same_event_with_time_interrogative_related": true,
+        "is_same_event_with_time_interrogative_talk": true
+    },
+    "health_fact": {
+        "claim_explanation": null,
+        "main_explanation_claim": null,
+        "main_explanation_claim2": null,
+        "main_explanation_claim3": null,
+        "main_explanation_claim4": null,
+        "main_explanation_claim5": null
+    },
+    "paws-unlabeled_final": {
+        "Concatenation": true,
+        "Concatenation-no-label": false,
+        "Meaning": true,
+        "Meaning-no-label": false,
+        "PAWS-ANLI GPT3": true,
+        "PAWS-ANLI GPT3-no-label": false,
+        "Rewrite": true,
+        "Rewrite-no-label": false,
+        "context-question": true,
+        "context-question-no-label": false,
+        "paraphrase-task": false,
+        "task_description-no-label": false
+    },
+    "paws-labeled_swap": {
+        "Concatenation": true,
+        "Concatenation-no-label": false,
+        "Meaning": true,
+        "Meaning-no-label": false,
+        "PAWS-ANLI GPT3": true,
+        "PAWS-ANLI GPT3-no-label": false,
+        "Rewrite": true,
+        "Rewrite-no-label": false,
+        "context-question": true,
+        "context-question-no-label": false,
+        "paraphrase-task": false,
+        "task_description-no-label": false
+    },
+    "paws-labeled_final": {
+        "Concatenation": true,
+        "Concatenation-no-label": false,
+        "Meaning": true,
+        "Meaning-no-label": false,
+        "PAWS-ANLI GPT3": true,
+        "PAWS-ANLI GPT3-no-label": false,
+        "Rewrite": true,
+        "Rewrite-no-label": false,
+        "context-question": true,
+        "context-question-no-label": false,
+        "paraphrase-task": false,
+        "task_description-no-label": false
+    },
+    "selqa-answer_selection_analysis": {
+        "about-topic-vs-random": null,
+        "is-he-talking-about": null,
+        "make-sense-0": null,
+        "which-answer-1st-vs-random": null,
+        "would-make-sense-qu-rand": null
+    },
+    "amazon_polarity": {
+        "Is_this_product_review_positive": false,
+        "Is_this_review": true,
+        "Is_this_review_negative": false,
+        "User_recommend_this_product": false,
+        "convey_negative_or_positive_sentiment": true,
+        "flattering_or_not": true,
+        "negative_or_positive_tone": true,
+        "user_satisfied": true,
+        "would_you_buy": true
+    },
+    "conv_ai_3": {
+        "ambiguous": false,
+        "clarification_needed": false,
+        "directly_answer": false,
+        "generate_clarif_question": false,
+        "score_give_number": false,
+        "score_how_much": false,
+        "self_contained": false
+    },
+    "mocha": {
+        "classifiy_similarity_candidate_with_ques": true,
+        "generate_correct_answer_with_noisy_candidates": false,
+        "generate_question": false,
+        "score_candidate_no_ques_no_context_affirmative": false,
+        "score_candidate_no_ques_no_context_interrogative": false,
+        "score_candidate_with_question": false,
+        "score_candidate_with_question_context_affirmative": false,
+        "score_candidate_with_question_context_interrogative": false
+    },
+    "kilt_tasks-nq": {
+        "first_person_context": false,
+        "formal_description": false,
+        "guess_question": false,
+        "question_answer": false,
+        "question_with_instruction": false,
+        "question_with_multiple_answer": false,
+        "search query": false
+    },
+    "kilt_tasks-hotpotqa": {
+        "combining_facts": false,
+        "complex_question": false,
+        "final_exam": false,
+        "formulate": false,
+        "straighforward_qa": false
+    },
+    "circa": {
+        "goldstandard1_judgement": true,
+        "goldstandard2_judgement": true,
+        "judgement": false,
+        "possible_qn": false,
+        "question_declarative": false
+    },
+    "app_reviews": {
+        "categorize_rating_using_review": true,
+        "convert_to_rating": false,
+        "convert_to_star_rating": false,
+        "generate_review": null
+    },
+    "xnli-en": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "commonsense_qa": {
+        "answer_given_question_without_options": false,
+        "answer_to_question": false,
+        "most_suitable_answer": true,
+        "question_answering": true,
+        "question_to_answer_index": true
+    },
+    "mc_taco": {
+        "asked_my_friend": false,
+        "asked_my_friend_doubt": false,
+        "believable": false,
+        "formal_description": true,
+        "generate_answer_from_question_and_context": false,
+        "observe_check_plausible_yes_no": false,
+        "plausible_negated": false,
+        "plausible_true_false": true,
+        "temporal_categories_no_choices": false,
+        "temporal_categories_with_choices": true
+    },
+    "nq_open": {
+        "first_person_context": false,
+        "formal_description": false,
+        "guess_question": false,
+        "question_answer": false,
+        "question_with_instruction": false,
+        "search query": false
+    },
+    "mdd-task1_qa": {
+        "generate_question": false,
+        "prompt_generate_question": false,
+        "prompt_question_answering": false,
+        "question_answering": false,
+        "question_answering_speaker": false,
+        "using_internet_answer": false
+    },
+    "mdd-task3_qarecs": {
+        "next_utterance_4_and_6": false,
+        "next_utterance_4_for_6": false,
+        "qa_about movie": false,
+        "recommend_movie_first_round": false,
+        "recommend_movie_second_round": false,
+        "recommend_movie_second_round_with_context": false
+    },
+    "mdd-task2_recs": {
+        "recommed_movies": false,
+        "recommend_movies_dialogue": false,
+        "recommend_movies_speaker": false
+    },
+    "scitldr-Abstract": {
+        "basic_task_description_like": false,
+        "basic_with_choice_output": false,
+        "gpt_2_style": false,
+        "instructions_for_summary": false,
+        "reverse_generation": false,
+        "summarize_in_sentence": false
+    },
+    "asnq": {
+        "Sentence question generation 2": null,
+        "Sentence question generation 3": null,
+        "answer question as a sentence": null,
+        "answer question with a sentence 2": null,
+        "answer question with a sentence 3": null,
+        "sentence question generation": null
+    },
+    "evidence_infer_treatment-1.1": {
+        "template_1": null,
+        "template_2": null,
+        "template_3": null,
+        "template_4": null,
+        "template_5": null,
+        "template_with_all_info": null
+    },
+    "evidence_infer_treatment-2.0": {
+        "template_1": null,
+        "template_2": null,
+        "template_3": null,
+        "template_4": null,
+        "template_5": null,
+        "template_with_all_info": null
+    },
+    "acronym_identification": {
+        "acronyms_and_expansions_bio_encode": false,
+        "find_acronym": false,
+        "find_acronym_meaning": false,
+        "find_acronyms_and_expansions": false,
+        "list_abbreviations": false,
+        "list_expansions": false
+    },
+    "squad_adversarial-AddSent": {
+        "after": null,
+        "answers_question": null,
+        "cbqa": null,
+        "cbqa qa": null,
+        "cbqa question answer": null,
+        "count letters": null,
+        "exam": null,
+        "exam creation help": null,
+        "find text": null,
+        "generate question": null,
+        "incorrect_answers": null,
+        "possible_pitfalls": null,
+        "possible_qn": null,
+        "question/hint": null,
+        "title": null,
+        "wondered": null
+    },
+    "craigslist_bargains": {
+        "best deal": null,
+        "gap between parties": null,
+        "generate line": null,
+        "good deal for seller": null,
+        "good deal for seller no list price": null,
+        "good deal for seller no list price implicit": null
+    },
+    "ropes": {
+        "background_new_situation_answer": false,
+        "background_situation_middle": false,
+        "given_background_situation": false,
+        "new_situation_background_answer": false,
+        "plain_background_situation": false,
+        "plain_bottom_hint": false,
+        "plain_no_background": false,
+        "prompt_beginning": false,
+        "prompt_bottom_hint_beginning": false,
+        "prompt_bottom_no_hint": false,
+        "prompt_mix": false,
+        "read_background_situation": false
+    },
+    "sem_eval_2010_task_8": {
+        "semantic relations nominials without options": false,
+        "semantic relations with options": true,
+        "semantic relations without options": false,
+        "semantically nominals with options": true,
+        "semantically related nominials with options": true
+    },
+    "jfleg": {
+        "academic_writing_rules": false,
+        "english_teacher": false,
+        "hard_to_read": false,
+        "how_to_rewrite": false,
+        "improved_to_be_fluent": false,
+        "native_english_speaker": false,
+        "rules_to_follow": false
+    },
+    "conv_ai_2": {
+        "match_profile": true,
+        "match_profile_agree": false,
+        "match_profile_expected": false,
+        "match_profile_guess": true,
+        "match_profile_question": false
+    },
+    "emotion": {
+        "answer_question_with_emotion_label": false,
+        "answer_with_class_label": false,
+        "choose_the_best_emotion_label": false,
+        "predict_the_best_emotion_label": false,
+        "reply_with_emoation_label": false,
+        "select_emotion_label_from_list": true
+    },
+    "google_wellformed_query": {
+        "is_wellformed_affirmative": true,
+        "is_wellformed_finding_for_search": false,
+        "is_wellformed_interrogative": true,
+        "is_wellformed_know_for_search": true,
+        "is_wellformed_type_for_search": false,
+        "wellformed_rating": false
+    },
+    "gutenberg_time": {
+        "asking_AM_PM_affirmative": true,
+        "asking_AM_PM_interrogative": true,
+        "asking_the_hour_affirmative": false,
+        "asking_the_hour_interrogative": false,
+        "asking_the_hour_refer": false,
+        "asking_the_time_reference": false
+    },
+    "openbookqa-additional": {
+        "choices": true,
+        "choose_an_answer_with_options": true,
+        "only_options": true,
+        "pick_answer_with_options": true,
+        "pick_using_id": true,
+        "which_correct": true,
+        "which_correct_inverse": true
+    },
+    "openbookqa-main": {
+        "choices": true,
+        "choose_an_answer_with_options": true,
+        "only_options": true,
+        "pick_answer_with_options": true,
+        "pick_using_id": true,
+        "which_correct": true,
+        "which_correct_inverse": true
+    },
+    "rotten_tomatoes": {
+        "Movie Expressed Sentiment": false,
+        "Movie Expressed Sentiment 2": false,
+        "Reviewer Enjoyment": false,
+        "Reviewer Enjoyment Yes No": false,
+        "Reviewer Expressed Sentiment": false,
+        "Reviewer Opinion bad good choices": true,
+        "Reviewer Sentiment Feeling": false,
+        "Sentiment with choices ": true,
+        "Text Expressed Sentiment": false,
+        "Writer Expressed Sentiment": false
+    },
+    "e2e_nlg_cleaned": {
+        "area_qa": false,
+        "coherent_text": false,
+        "create_text_for_me": false,
+        "eat_type_qa": false,
+        "family_friendly_yes_no": false,
+        "food_qa": false,
+        "generate_gramatically_correct_text": false,
+        "generate_text_restaurant": false,
+        "name_qa": false,
+        "near_qa": false,
+        "price_range_qa": false,
+        "rating_qa": false
+    },
+    "subjqa-books": {
+        "answer_q_with_context_after": false,
+        "answer_q_with_context_first": false,
+        "domain_hint_og_task": false,
+        "domain_q": true,
+        "domain_q_after_context": true,
+        "exam_style_prompt": false,
+        "exam_style_without_hint": false,
+        "q_subj_score": true,
+        "q_subj_score_with_context": true
+    },
+    "subjqa-movies": {
+        "answer_q_with_context_after": false,
+        "answer_q_with_context_first": false,
+        "domain_hint_og_task": false,
+        "domain_q": true,
+        "domain_q_after_context": true,
+        "exam_style_prompt": false,
+        "exam_style_without_hint": false,
+        "q_subj_score": true,
+        "q_subj_score_with_context": true
+    },
+    "subjqa-tripadvisor": {
+        "answer_q_with_context_after": false,
+        "answer_q_with_context_first": false,
+        "domain_hint_og_task": false,
+        "domain_q": true,
+        "domain_q_after_context": true,
+        "exam_style_prompt": false,
+        "exam_style_without_hint": false,
+        "q_subj_score": true,
+        "q_subj_score_with_context": true
+    },
+    "subjqa-restaurants": {
+        "answer_q_with_context_after": false,
+        "answer_q_with_context_first": false,
+        "domain_hint_og_task": false,
+        "domain_q": true,
+        "domain_q_after_context": true,
+        "exam_style_prompt": false,
+        "exam_style_without_hint": false,
+        "q_subj_score": true,
+        "q_subj_score_with_context": true
+    },
+    "subjqa-grocery": {
+        "answer_q_with_context_after": false,
+        "answer_q_with_context_first": false,
+        "domain_hint_og_task": false,
+        "domain_q": true,
+        "domain_q_after_context": true,
+        "exam_style_prompt": false,
+        "exam_style_without_hint": false,
+        "q_subj_score": true,
+        "q_subj_score_with_context": true
+    },
+    "subjqa-electronics": {
+        "answer_q_with_context_after": false,
+        "answer_q_with_context_first": false,
+        "domain_hint_og_task": false,
+        "domain_q": true,
+        "domain_q_after_context": true,
+        "exam_style_prompt": false,
+        "exam_style_without_hint": false,
+        "q_subj_score": true,
+        "q_subj_score_with_context": true
+    },
+    "tweet_eval-sentiment": {
+        "sentiment": null,
+        "sentiment_option": null
+    },
+    "tweet_eval-hate": {
+        "author_hate": null,
+        "hate or not": null,
+        "hate_option": null
+    },
+    "tweet_eval-offensive": {
+        "offensive": null,
+        "take_down_offensive": null
+    },
+    "tweet_eval-irony": {
+        "irony": null,
+        "irony_option": null
+    },
+    "tweet_eval-stance_feminist": {
+        "feminism": true,
+        "feminism_guess_passive": false,
+        "feminism_guess_passive_author": false,
+        "feminism_how_describe": true,
+        "feminism_option": true,
+        "feminism_predict_stance": false
+    },
+    "tweet_eval-stance_abortion": {
+        "abortion": true,
+        "abortion_guess_passive": false,
+        "abortion_guess_passive_author": false,
+        "abortion_how_describe": true,
+        "abortion_option": true,
+        "abortion_predict_stance": false
+    },
+    "tweet_eval-emotion": {
+        "author_emotion": null,
+        "emotion": null,
+        "emotion_option": null
+    },
+    "tweet_eval-stance_climate": {
+        "climate_change": true,
+        "climate_guess_passive": false,
+        "climate_guess_passive_author": false,
+        "climate_how_describe": true,
+        "climate_option": true,
+        "climate_predict_stance": false
+    },
+    "tweet_eval-stance_atheism": {
+        "atheism": true,
+        "atheism_guess_passive": false,
+        "atheism_guess_passive_author": false,
+        "atheism_how_describe": true,
+        "atheism_option": true,
+        "atheism_predict_stance": false
+    },
+    "tweet_eval-stance_hillary": {
+        "Hillary": true,
+        "Hillary_guess_passive": false,
+        "Hillary_guess_passive_author": false,
+        "Hillary_how_describe": true,
+        "Hillary_option": true,
+        "Hillary_predict_stance": false
+    },
+    "tweet_eval-emoji": {
+        "emoji": false,
+        "emoji_option": true,
+        "emoji_reply": true
+    },
+    "cbt-CN": {
+        "answer_prediction": null,
+        "multi_choice": null,
+        "next_sentence_generation": null
+    },
+    "cbt-raw": {
+        "write_story": null,
+        "write_title": null
+    },
+    "cbt-V": {
+        "answer_prediction": null,
+        "multi_choice": null,
+        "next_sentence_generation": null
+    },
+    "cbt-NE": {
+        "answer_prediction": null,
+        "multi_choice": null,
+        "next_sentence_generation": null
+    },
+    "cbt-P": {
+        "answer_prediction": null,
+        "multi_choice": null,
+        "next_sentence_generation": null
+    },
+    "piqa": {
+        "Correct the solution": false,
+        "Correct the solution if false: from sol 1": false,
+        "Correct the solution if false: from sol 2": false,
+        "Does this solution make sense? sol1": true,
+        "Does this solution make sense? sol2": false,
+        "choose the most appropriate solution": true,
+        "finish_sentence_with_correct_choice": true,
+        "no prompt needed": false,
+        "pick_correct_choice_index": true,
+        "pick_correct_choice_with_choice_given_before_goal": true,
+        "what_is_the_correct_ending": true
+    },
+    "cos_e-v1.11": {
+        "aligned_with_common_sense": false,
+        "description_question_option_id": true,
+        "description_question_option_text": true,
+        "explain_why_human": false,
+        "generate_explanation_given_text": false,
+        "i_think": false,
+        "question_description_option_id": true,
+        "question_description_option_text": true,
+        "question_option_description_id": true,
+        "question_option_description_text": true,
+        "rationale": false
+    },
+    "cos_e-v1.0": {
+        "aligned_with_common_sense": false,
+        "description_question_option_id": true,
+        "description_question_option_text": true,
+        "explain_why_human": false,
+        "generate_explanation_given_text": false,
+        "i_think": false,
+        "question_description_option_id": true,
+        "question_description_option_text": true,
+        "question_option_description_id": true,
+        "question_option_description_text": true,
+        "rationale": false
+    },
+    "cosmos_qa": {
+        "context_answer_to_question": false,
+        "context_description_question_answer_id": true,
+        "context_description_question_answer_text": true,
+        "context_description_question_text": false,
+        "context_question_description_answer_id": true,
+        "context_question_description_answer_text": true,
+        "context_question_description_text": false,
+        "description_context_question_answer_id": true,
+        "description_context_question_answer_text": true,
+        "description_context_question_text": false,
+        "no_prompt_id": true,
+        "no_prompt_text": true,
+        "only_question_answer": false
+    },
+    "tab_fact-tab_fact": {
+        "parse_table": false,
+        "tab_fact_corroborated ": false,
+        "tab_fact_evidence ": false,
+        "tab_fact_express": false,
+        "tab_fact_table_caption": false
+    },
+    "sem_eval_2014_task_1": {
+        "entailment_basic_1": null,
+        "entailment_basic_2": null,
+        "entailment_basic_3": null,
+        "entailment_basic_4": null,
+        "entailment_localization_1": null,
+        "relatedness_basic_1": null,
+        "relatedness_basic_2": null
+    },
+    "dbpedia_14": {
+        "given_a_choice_of_categories ": true,
+        "given_a_list_of_category_what_does_the_title_belong_to": true,
+        "given_list_what_category_does_the_paragraph_belong_to": true,
+        "pick_one_category_for_the_following_text": true
+    },
+    "head_qa-en": {
+        "multiple_choice_a_and_q_en": null,
+        "multiple_choice_a_and_q_with_context_en": null,
+        "multiple_choice_q_and_a_en": null,
+        "multiple_choice_q_and_a_index_en": null,
+        "multiple_choice_q_and_a_index_with_context_en": null,
+        "multiple_choice_q_and_a_with_context_en": null
+    },
+    "meta_woz-dialogues": {
+        "predict_blank_response_random": false,
+        "predict_domain_ai_human_chat": false,
+        "predict_domain_ai_human_question": false,
+        "predict_domain_chatbot_human_chat": false,
+        "predict_last_statement_client_ai": false,
+        "predict_last_statement_human_chatbot": false,
+        "predict_last_statement_user_bot": false,
+        "predict_random_stop": false
+    },
+    "multi_x_science_sum": {
+        "generate_abstract_from_reference": false,
+        "generate_abstract_from_related_work": false,
+        "generate_related_work_from_abst_and_ref": false,
+        "generate_related_work_from_abstract": false,
+        "generate_related_work_from_abstract_and_related_abstract": false,
+        "generate_related_work_from_ref_abstracts": false,
+        "given_abst_and_ref_generate_related_work": false
+    },
+    "numer_sense": {
+        "fill_in_the_blank_before_sentence": false,
+        "fill_in_the_blank_with_choices_after": true,
+        "fill_in_the_blank_with_choices_before": true,
+        "fill_in_the_blank_with_instruction": false,
+        "fill_in_the_blank_with_instruction_and_choices": true
+    },
+    "wiki_hop-original": {
+        "choose_best_object_affirmative_1": true,
+        "choose_best_object_affirmative_2": true,
+        "choose_best_object_affirmative_3": true,
+        "choose_best_object_interrogative_1": true,
+        "choose_best_object_interrogative_2": true,
+        "explain_relation": false,
+        "generate_object": false,
+        "generate_subject": false,
+        "generate_subject_and_object": false
+    },
+    "wiki_hop-masked": {
+        "Choose Best Object Candidate": null,
+        "Explain Relation": null,
+        "Generate Fact Triple": null,
+        "Generate Object Answer": null,
+        "Generate Subject Answer": null,
+        "Indirect Question about Birthplace / Citizenship / Place of Death": null
+    },
+    "codah-fold_1": {
+        "answer_no_option": null,
+        "answer_with_option": null,
+        "answer_with_option_idx": null,
+        "answer_with_option_post": null,
+        "choose_from_list": null,
+        "finish_from_the_list": null,
+        "finish_from_the_list_post": null,
+        "finish_pre": null,
+        "question_category": null,
+        "question_category_bis": null
+    },
+    "codah-fold_3": {
+        "answer_no_option": null,
+        "answer_with_option": null,
+        "answer_with_option_idx": null,
+        "answer_with_option_post": null,
+        "choose_from_list": null,
+        "finish_from_the_list": null,
+        "finish_from_the_list_post": null,
+        "finish_pre": null,
+        "question_category": null,
+        "question_category_bis": null
+    },
+    "codah-fold_2": {
+        "answer_no_option": null,
+        "answer_with_option": null,
+        "answer_with_option_idx": null,
+        "answer_with_option_post": null,
+        "choose_from_list": null,
+        "finish_from_the_list": null,
+        "finish_from_the_list_post": null,
+        "finish_pre": null,
+        "question_category": null,
+        "question_category_bis": null
+    },
+    "codah-fold_4": {
+        "answer_no_option": null,
+        "answer_with_option": null,
+        "answer_with_option_idx": null,
+        "answer_with_option_post": null,
+        "choose_from_list": null,
+        "finish_from_the_list": null,
+        "finish_from_the_list_post": null,
+        "finish_pre": null,
+        "question_category": null,
+        "question_category_bis": null
+    },
+    "codah-fold_0": {
+        "answer_no_option": null,
+        "answer_with_option": null,
+        "answer_with_option_idx": null,
+        "answer_with_option_post": null,
+        "choose_from_list": null,
+        "finish_from_the_list": null,
+        "finish_from_the_list_post": null,
+        "finish_pre": null,
+        "question_category": null,
+        "question_category_bis": null
+    },
+    "codah-codah": {
+        "answer_no_option": false,
+        "answer_with_option": true,
+        "answer_with_option_idx": true,
+        "answer_with_option_post": true,
+        "choose_from_list": true,
+        "finish_from_the_list": true,
+        "finish_from_the_list_post": true,
+        "finish_pre": false,
+        "question_category": null,
+        "question_category_bis": null
+    },
+    "qa_zre": {
+        "based_on_context": null,
+        "copy_the_span": false,
+        "extract_relation": false,
+        "may_contain": false,
+        "qa_including_unanswerable": false,
+        "relation2": false,
+        "subject": false,
+        "using_a_passage": false
+    },
+    "amazon_reviews_multi-en": {
+        "generate_title": false,
+        "prompt_body_title_category_to_star": false,
+        "prompt_body_title_to_star": false,
+        "prompt_review_to_category": false,
+        "prompt_review_to_star": false,
+        "prompt_title_to_product_category": false,
+        "prompt_title_to_star": false
+    },
+    "wiki_split": {
+        "combine": false,
+        "find_A_given_B_and_C": false,
+        "split_complex_to_simple_affirmative_break_down": false,
+        "split_complex_to_simple_affirmative_simplify": false,
+        "split_complex_to_simple_interrogative_repeat": false,
+        "split_complex_to_simple_interrogative_represent": false,
+        "split_complex_to_simple_interrogative_textbook": false
+    },
+    "banking77": {
+        "choose the correct department": true,
+        "choose_the_correct_intent": true,
+        "direct_to_which_department": false,
+        "generate_subject_for_text": false,
+        "help_page_topic": false,
+        "rephrase_as_banking_term": false,
+        "what_is_intent": false
+    },
+    "winogrande-winogrande_m": {
+        "Replace": true,
+        "True or False": true,
+        "does underscore refer to": true,
+        "fill in the blank": true,
+        "stand for": true,
+        "underscore refer to": true
+    },
+    "winogrande-winogrande_debiased": {
+        "Replace": true,
+        "True or False": true,
+        "does underscore refer to": true,
+        "fill in the blank": true,
+        "stand for": true,
+        "underscore refer to": true
+    },
+    "winogrande-winogrande_xl": {
+        "Replace": true,
+        "True or False": true,
+        "does underscore refer to": true,
+        "fill in the blank": true,
+        "stand for": true,
+        "underscore refer to": true
+    },
+    "winogrande-winogrande_s": {
+        "Replace": true,
+        "True or False": true,
+        "does underscore refer to": true,
+        "fill in the blank": true,
+        "stand for": true,
+        "underscore refer to": true
+    },
+    "winogrande-winogrande_xs": {
+        "Replace": true,
+        "True or False": true,
+        "does underscore refer to": true,
+        "fill in the blank": true,
+        "stand for": true,
+        "underscore refer to": true
+    },
+    "winogrande-winogrande_l": {
+        "Replace": true,
+        "True or False": true,
+        "does underscore refer to": true,
+        "fill in the blank": true,
+        "stand for": true,
+        "underscore refer to": true
+    },
+    "qasc": {
+        "is_correct_1": false,
+        "is_correct_2": false,
+        "qa_with_combined_facts_1": true,
+        "qa_with_separated_facts_1": true,
+        "qa_with_separated_facts_2": true,
+        "qa_with_separated_facts_3": false,
+        "qa_with_separated_facts_4": true,
+        "qa_with_separated_facts_5": false
+    },
+    "squad_v2": {
+        "Jeopardy with Context": false,
+        "Jeopardy without Context": false,
+        "Questions with Context": false,
+        "Questions with Context +unanswerable": false,
+        "Questions with Context - Without Prompt Keywords": false,
+        "Questions with Context - Without Prompt Keywords +unanswerable": false,
+        "Topic Prediction - Context": false,
+        "Topic Prediction - Context with randomized prompt options": false,
+        "Topic Prediction - Context with randomized prompt options placed in the end": false,
+        "Topic Prediction - Question and Answer Pair": false,
+        "Trivia": false,
+        "Unanwerable question": true
+    },
+    "qa_srl": {
+        "answer_question": false,
+        "deconstruct_sentence": false,
+        "generate_question": false,
+        "identify_predicate": false,
+        "linguistic_problem": false,
+        "parse_structure": false,
+        "sentence_question_concatenation": false
+    },
+    "hyperpartisan_news_detection-byarticle": {
+        "extreme": null,
+        "ha": null,
+        "ha_2": null,
+        "ha_def": null,
+        "left_right": null,
+        "one-sidedness": null,
+        "opp": null
+    },
+    "hyperpartisan_news_detection-bypublisher": {
+        "leaning": null,
+        "political_bias": null,
+        "political_position": null,
+        "political_position_readers": null,
+        "political_position_readers_2": null
+    },
+    "asset-simplification": {
+        "asset_simplification1": null,
+        "asset_simplification2": null,
+        "asset_simplification3": null
+    },
+    "asset-ratings": {
+        "asset_ratings1": null,
+        "asset_ratings2": null,
+        "asset_ratings3": null
+    },
+    "conv_ai": {
+        "engagement_alice_interested": true,
+        "engagement_alice_really": false,
+        "engagement_bob_interested": false,
+        "engagement_bob_real": false,
+        "engagement_question_after": true,
+        "engagement_question_before": true
+    },
+    "biosses": {
+        "compare one sentence to another": false,
+        "rate with question first": false,
+        "rate with sentences first": false,
+        "resemblance": false,
+        "same info binary": false,
+        "same meaning binary": true,
+        "same thing binary": false,
+        "same thing scoring": false,
+        "similarity binary": false,
+        "similarity with question first": false,
+        "similarity with sentences first": false
+    },
+    "web_questions": {
+        "get_the_answer": false,
+        "potential-correct-answer": false,
+        "question-answer": false,
+        "short_general_knowledge_q": false,
+        "whats_the_answer": false
+    },
+    "liar": {
+        "Given statement and speaker guess job title ": false,
+        "Given statement guess category": true,
+        "Given statement guess subject ": false,
+        "Given statement, speaker and job title guess the context ": false,
+        "Guess affiliation ": true
+    },
+    "ag_news": {
+        "classify": false,
+        "classify_question_first": false,
+        "classify_with_choices": true,
+        "classify_with_choices_question_first": true,
+        "recommend": true,
+        "which_section": false,
+        "which_section_choices": true
+    },
+    "race-all": {
+        "Is this the right answer": true,
+        "Read the article and answer the question (no option)": false,
+        "Select the best answer": true,
+        "Select the best answer (generate span)": true,
+        "Select the best answer (no instructions)": true,
+        "Taking a test": true,
+        "Write a multi-choice question (options given)": false,
+        "Write a multi-choice question for the following article": false
+    },
+    "race-high": {
+        "Is this the right answer": true,
+        "Read the article and answer the question (no option)": false,
+        "Select the best answer": true,
+        "Select the best answer (generate span)": true,
+        "Select the best answer (no instructions)": true,
+        "Taking a test": true,
+        "Write a multi-choice question (options given)": false,
+        "Write a multi-choice question for the following article": false
+    },
+    "race-middle": {
+        "Is this the right answer": true,
+        "Read the article and answer the question (no option)": false,
+        "Select the best answer": true,
+        "Select the best answer (generate span)": true,
+        "Select the best answer (no instructions)": true,
+        "Taking a test": true,
+        "Write a multi-choice question (options given)": false,
+        "Write a multi-choice question for the following article": false
+    },
+    "nlu_evaluation_data": {
+        "classify_intent": false,
+        "classify_intent_choices": true,
+        "intent_to_query": false,
+        "what_does_user_want": false,
+        "what_does_user_want_choices": true,
+        "what_service_talk_about": false,
+        "what_service_talk_about_choices": true
+    },
+    "craffel/openai_lambada": {
+        "GPT-3 style": false,
+        "ellipses": false,
+        "fill in the ____": false,
+        "please next word": false,
+        "what comes next": false
+    },
+    "humicroedit-subtask-2": {
+        "only_edited_sentences_QA_id": true,
+        "only_edited_sentences_QA_text": true,
+        "only_edited_sentences_id": true,
+        "original_sent_edit_words_qa_id": true,
+        "original_sent_edit_words_qa_strategy": true,
+        "original_sent_edit_words_qa_strategy_id": true,
+        "original_sent_edited_sentences_qa": true,
+        "original_sent_edited_sentences_qa_id": true
+    },
+    "humicroedit-subtask-1": {
+        "best_shot_rate_original_sent_edited_sent": false,
+        "example_score_original_sent_edited_sent_interrogative": false,
+        "know_funniness_original_sent_edit_word": false,
+        "know_funniness_original_sent_edited_sent": false,
+        "score_original_sent_edit_word": false,
+        "score_original_sent_edit_word_low_high": false
+    },
+    "gigaword": {
+        "TLDR": false,
+        "first_sentence_title": false,
+        "generate_summary_for_this": null,
+        "in_a_nutshell": null,
+        "make_a_title": null,
+        "reverse_writing": null,
+        "write_a_title_for_this_sentence": false,
+        "write_an_article": null,
+        "write_its_sentence": null
+    },
+    "imdb": {
+        "Movie Expressed Sentiment": false,
+        "Movie Expressed Sentiment 2": false,
+        "Negation template for positive and negative": false,
+        "Reviewer Enjoyment": false,
+        "Reviewer Enjoyment Yes No": false,
+        "Reviewer Expressed Sentiment": false,
+        "Reviewer Opinion bad good choices": true,
+        "Reviewer Sentiment Feeling": false,
+        "Sentiment with choices ": true,
+        "Text Expressed Sentiment": false,
+        "Writer Expressed Sentiment": false
+    },
+    "art": {
+        "choose_hypothesis": true,
+        "choose_hypothesis_believable": true,
+        "choose_hypothesis_desc": true,
+        "choose_hypothesis_likely": true,
+        "choose_hypothesis_options": true
+    },
+    "swag-regular": {
+        "appropriate_continuation": true,
+        "first_then": true,
+        "first_then_key": true,
+        "generate_start": false,
+        "how_ends": true,
+        "open_completion": false,
+        "reversed_appropriate_continuation": true
+    },
+    "math_dataset-algebra__linear_1d": {
+        "no_question": false,
+        "no_question_extracting_variable_name": false,
+        "simple_template_question_after": false,
+        "simple_template_question_after_extracting_variable_name": false,
+        "simple_template_question_before": false,
+        "simple_template_question_before_extracting_variable_name": false,
+        "simple_template_question_one_sentence": false,
+        "simple_template_question_one_sentence_extract_variable_name_v2": false,
+        "simple_template_question_one_sentence_extracting_variable_name": false,
+        "simple_template_question_one_sentence_v2": false
+    },
+    "math_dataset-algebra__linear_1d_composed": {
+        "no_question": false,
+        "no_question_extracting_variable_name": false,
+        "simple_template_question_after": false,
+        "simple_template_question_after_extracting_variable_name": false,
+        "simple_template_question_before": false,
+        "simple_template_question_before_extracting_variable_name": false,
+        "simple_template_question_one_sentence": false,
+        "simple_template_question_one_sentence_extract_variable_name_v2": false,
+        "simple_template_question_one_sentence_extracting_variable_name": false,
+        "simple_template_question_one_sentence_v2": false
+    },
+    "math_dataset-algebra__linear_2d_composed": {
+        "no_question": false,
+        "no_question_extracting_variable_name": false,
+        "simple_template_question_after": false,
+        "simple_template_question_after_extracting_variable_name": false,
+        "simple_template_question_before": false,
+        "simple_template_question_before_extracting_variable_name": false,
+        "simple_template_question_one_sentence": false,
+        "simple_template_question_one_sentence_extract_variable_name_v2": false,
+        "simple_template_question_one_sentence_extracting_variable_name": false,
+        "simple_template_question_one_sentence_v2": false
+    },
+    "math_dataset-algebra__linear_2d": {
+        "no_question": false,
+        "no_question_extracting_variable_name": false,
+        "simple_template_question_after": false,
+        "simple_template_question_after_extracting_variable_name": false,
+        "simple_template_question_before": false,
+        "simple_template_question_before_extracting_variable_name": false,
+        "simple_template_question_one_sentence": false,
+        "simple_template_question_one_sentence_extract_variable_name_v2": false,
+        "simple_template_question_one_sentence_extracting_variable_name": false,
+        "simple_template_question_one_sentence_v2": false
+    },
+    "blended_skill_talk": {
+        "guess-correct-order": true,
+        "guess-first-utterance": false,
+        "guess-last-utterance": false
+    },
+    "docred": {
+        "entity-and-relation-to-text": false,
+        "find-all-locations": false,
+        "find-all-numbers": false,
+        "find-all-organizations": false,
+        "find-all-people": false,
+        "find-all-times": false,
+        "ner-to-text": false,
+        "ner-type": false,
+        "relation": false,
+        "type-to-entity": false
+    },
+    "quartz": {
+        "answer_question_based_on": true,
+        "answer_question_below": true,
+        "given_the_fact_answer_the_q": true,
+        "having_read_above_passage": true,
+        "paragraph_question_plain_concat": true,
+        "read_passage_below_choose": true,
+        "use_info_from_paragraph_question": true,
+        "use_info_from_question_paragraph": true
+    },
+    "quoref": {
+        "Answer Friend Question": false,
+        "Answer Question Given Context": false,
+        "Answer Test": false,
+        "Context Contains Answer": false,
+        "Find Answer": false,
+        "Found Context Online": false,
+        "Given Context Answer Question": false,
+        "Guess Answer": false,
+        "Guess Title For Context": false,
+        "Read And Extract ": false,
+        "What Is The Answer": false
+    },
+    "movie_rationales": {
+        "Evidences + review": true,
+        "Evidences sentiment classification": false,
+        "Generate evidences": false,
+        "Generate evidences and sentiment": true,
+        "Standard binary sentiment analysis": true
+    },
+    "trivia_qa-unfiltered": {
+        "first_person_context": false,
+        "formal_description": false,
+        "guess_question": false,
+        "question_answer": false,
+        "question_with_instruction": false
+    },
+    "hans": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true
+    },
+    "wiki_bio": {
+        "comprehension": null,
+        "guess_person": null,
+        "key_content": null,
+        "what_content": null,
+        "who": false
+    },
+    "stsb_multi_mt-en": {
+        "Similarity_express_binary": false,
+        "Similarity_how": false,
+        "Similarity_rate": false,
+        "Similarity_scale": false,
+        "Similarity_seem_binary": false
+    },
+    "math_qa": {
+        "choose_correct_og": true,
+        "choose_correct_variant": true,
+        "first_choice_then_problem": true,
+        "gre_problem": true,
+        "pick_the_correct": true,
+        "problem_set_type": true
+    },
+    "crows_pairs": {
+        "anti_stereotype": true,
+        "anti_stereotype_confirm": true,
+        "demontraste_or_violate": true,
+        "stereotype": true,
+        "stereotype_confirm": true,
+        "transform_anti_stereo": false,
+        "transform_stereo": false,
+        "which_bias": true
+    },
+    "yahoo_answers_topics": {
+        "classify_document": true,
+        "classify_document_exam_style": true,
+        "gameshow_topic_classification": true,
+        "generate_question_from_answer": false,
+        "options_for_topic": true,
+        "question_answer": false,
+        "question_content_answer_classification": true
+    },
+    "jigsaw_unintended_bias": {
+        "annotators_rated": null,
+        "binary_pred": true,
+        "browsing": true,
+        "hired_to_review": null,
+        "how_toxic": false,
+        "moderator": true,
+        "modified_scale": null,
+        "online_comment": null,
+        "threatening": null,
+        "yes_or_no": null,
+        "yes_or_no_remove": true
+    },
+    "scan-template_around_right": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-filler_num0": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-filler_num3": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-filler_num2": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-template_opposite_right": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-length": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-template_right": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-addprim_turn_left": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-addprim_jump": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-filler_num1": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-simple": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "scan-template_jump_around_right": {
+        "affirmative_beginning": false,
+        "affirmative_bottom": false,
+        "affirmative_mix": false,
+        "affirmative_opposite": false,
+        "interrogative_beginning": false,
+        "interrogative_bottom": false,
+        "interrogative_mix": false,
+        "interrogative_opposite": false,
+        "plain": false,
+        "translate": false,
+        "translate_opposite": false
+    },
+    "adversarial_qa-dbert": {
+        "answer_the_following_q": false,
+        "based_on": false,
+        "generate_question": false,
+        "question_context_answer": false,
+        "tell_what_it_is": false
+    },
+    "adversarial_qa-droberta": {
+        "answer_the_following_q": false,
+        "based_on": false,
+        "generate_question": false,
+        "question_context_answer": false,
+        "tell_what_it_is": false
+    },
+    "adversarial_qa-adversarialQA": {
+        "answer_the_following_q": false,
+        "based_on": false,
+        "generate_question": false,
+        "question_context_answer": false,
+        "tell_what_it_is": false
+    },
+    "adversarial_qa-dbidaf": {
+        "answer_the_following_q": false,
+        "based_on": false,
+        "generate_question": false,
+        "question_context_answer": false,
+        "tell_what_it_is": false
+    },
+    "sst-default": {
+        "did_reviewer_like": false,
+        "sentiment scoring scale": false,
+        "sentiment_classification": false,
+        "sentiment_watch_movie": false,
+        "sentiment_watch_scale": false
+    },
+    "poem_sentiment": {
+        "guess_sentiment_from_given_options": true,
+        "guess_sentiment_without_options": false,
+        "guess_sentiment_without_options_variation_1": false,
+        "guess_sentiment_without_options_variation_2": false,
+        "most_appropriate_sentiment": true,
+        "positive_or_negative_sentiment_variation_1": false,
+        "positive_or_negative_sentiment_variation_2": true,
+        "question_answer_format": true
+    },
+    "wiqa": {
+        "does_the_supposed_perturbation_have_an_effect": false,
+        "effect_with_label_answer": true,
+        "effect_with_string_answer": true,
+        "what_is_the_final_step_of_the_following_process": false,
+        "what_is_the_missing_first_step": false,
+        "what_might_be_the_first_step_of_the_process": false,
+        "what_might_be_the_last_step_of_the_process": false,
+        "which_of_the_following_is_the_supposed_perturbation": true
+    },
+    "ade_corpus_v2-Ade_corpus_v2_drug_ade_relation": {
+        "drug-and-effect-to-text": false,
+        "find-drug": false,
+        "find-drug-and-effect": false,
+        "find-drug-and-effect-two-questions": false,
+        "find-effect": false
+    },
+    "ade_corpus_v2-Ade_corpus_v2_classification": {
+        "binary-classification": true,
+        "label-to-text": false,
+        "verbose-binary-classification": true
+    },
+    "ade_corpus_v2-Ade_corpus_v2_drug_dosage_relation": {
+        "drug-and-dosage-to-text": false,
+        "find-dosage": false,
+        "find-drug": false,
+        "find-drug-and-dosage": false,
+        "find-drug-and-dosage-two-questions": false
+    },
+    "species_800": {
+        "affirmative_bottom_list": null,
+        "affirmative_bottom_string": null,
+        "affirmative_top_list": null,
+        "affirmative_top_string": null,
+        "interrogative_bottom_list": null,
+        "interrogative_bottom_string": null,
+        "interrogative_top_list": null,
+        "interrogative_top_string": null
+    },
+    "samsum": {
+        "Generate a summary for this dialogue": false,
+        "Given the above dialogue write a summary": false,
+        "Sum up the following dialogue": false,
+        "Summarize this dialogue:": false,
+        "Summarize:": false,
+        "To sum up this dialog": false,
+        "Write a dialogue that match this summary": false
+    },
+    "quora": {
+        "are_two_questions_different": true,
+        "are_two_questions_duplicate": false,
+        "are_two_questions_same": false,
+        "rephrase_given_question": false,
+        "true_or_false": true,
+        "yes_or_no": false
+    },
+    "fever-v1.0": {
+        "cbqa_fever_dialog_style_postprompt_all_class": true,
+        "cbqa_fever_dialog_style_surrounded_all_class": true,
+        "cbqa_fever_postprompt": false,
+        "cbqa_fever_preprompt": false,
+        "cbqa_fever_short": false
+    },
+    "fever-v2.0": {
+        "cbqa_fever_dialog_style_postprompt_all_class": true,
+        "cbqa_fever_dialog_style_surrounded_all_class": true,
+        "cbqa_fever_postprompt": false,
+        "cbqa_fever_preprompt": false,
+        "cbqa_fever_short": false
+    },
+    "scitail-tsv_format": {
+        "Suppose\u2026 Can we infer that\u2026": false,
+        "does S1 entail S2?": true,
+        "given\u2026 does it follow that\u2026 ": true,
+        "\u2026 Therefore, we're licensed to say that\u2026": true,
+        "\u2026does the previous passage support the claim that": false
+    },
+    "scitail-snli_format": {
+        "Another Yes/No Entailment Framing": true
+    },
+    "xquad-xquad.en": {
+        "answer_given_context_and_question": false,
+        "answer_question_given_context": false,
+        "answer_the_question": false,
+        "given_context_answer_question_variation": false,
+        "given_context_generate_question": false,
+        "jeopardy": false
+    },
+    "anli": {
+        "GPT-3 style": true,
+        "MNLI crowdsource": true,
+        "always/sometimes/never": true,
+        "based on the previous passage": true,
+        "can we infer": true,
+        "claim true/false/inconclusive": true,
+        "consider always/sometimes/never": true,
+        "does it follow that": true,
+        "does this imply": true,
+        "guaranteed true": true,
+        "guaranteed/possible/impossible": true,
+        "justified in saying": true,
+        "must be true": true,
+        "should assume": true,
+        "take the following as truth": true
+    },
+    "esnli": {
+        "choose_the_correct_class": true,
+        "determine_premise_hypothesis_relation": true,
+        "determine_the_relation": true,
+        "does_premise_contradicts_hypothesis": false,
+        "does_premise_imply_hypothesis": false,
+        "elaborate_on_the_choice": false,
+        "explain_the_choice": false,
+        "premise_hypothesis_relation": true,
+        "provide_explaination_to_the_choice": false,
+        "relate_premise_to_hypothesis_with_explanation": false
+    },
+    "tydiqa-secondary_task": {
+        "can_you_answer_the_question": false,
+        "can_you_tell_me_the_answer": false,
+        "end_to_end_question_generation": false,
+        "end_to_end_question_generation_with_title": false,
+        "extract_answer": false,
+        "simple_question_odqa": false,
+        "testing_students": false,
+        "title_generation": null,
+        "whats_the_answer": false
+    },
+    "tydiqa-primary_task": {
+        "after_reading_the_text": false,
+        "based_on_the_text": false,
+        "heres_what_I_found": true,
+        "open_domain_qa": true,
+        "open_domain_qa_without_choices": false,
+        "read_and_answer": true,
+        "yes_no_none": false,
+        "yes_no_question": false
+    },
+    "xsum": {
+        "DOC_boils_down_to_simple_idea_that": false,
+        "DOC_given_above_write_one_sentence": false,
+        "DOC_how_would_you_rephrase_few_words": false,
+        "DOC_tldr": false,
+        "DOC_write_summary_of_above": false,
+        "article_DOC_summary": false,
+        "college_roommate_asked_DOC_so_I_recap": false,
+        "read_below_DOC_write_abstract": false,
+        "summarize_DOC": false,
+        "summarize_this_DOC_summary": false
+    },
+    "medical_questions_pairs": {
+        "duplicates": true,
+        "in_the_context": true,
+        "possible_way": true,
+        "rewrite_or_related": true,
+        "same_question": true,
+        "similar_dissimilar": true,
+        "true_or_false": true,
+        "yes_or_no_in_the_context": true
+    },
+    "ambig_qa-light": {
+        "answer_prediction_all_answers_affirmative": false,
+        "answer_prediction_all_answers_interrogative": false,
+        "answer_prediction_yes_or_no": true,
+        "is_question_ambiguous": false,
+        "perform_question_disambiguation": false
+    },
+    "cord19-metadata": {
+        "abstract_generation_from_following_title": false,
+        "abstract_generation_from_previous_title": false,
+        "abstract_generation_on_coronavirus": false,
+        "title_generation_from_following_abstract": false,
+        "title_generation_from_previous_abstract": false
+    },
+    "social_i_qa": {
+        "Check if a random answer is valid or not": false,
+        "Generate answer": false,
+        "Generate the question from the answer": false,
+        "I was wondering": false,
+        "Show choices and generate answer": true,
+        "Show choices and generate index": true
+    },
+    "tmu_gfm_dataset": {
+        "choose-better": true,
+        "correct-sentence": false,
+        "fluency": false,
+        "grammar": false,
+        "grammar-fluency-meaning": false,
+        "meaning": false
+    },
+    "coqa": {
+        "extract_answer_first_qa_turn": false,
+        "first_qa_turn": false,
+        "generate_dialogue": false,
+        "last_qa_turn": false,
+        "missing_answer": false
+    },
+    "generated_reviews_enth": {
+        "how positive review": false,
+        "rate positive review": false,
+        "scale of positive review": false,
+        "seem like a positive review": false,
+        "think positive review": false
+    },
+    "yahoo_answers_qa": {
+        "answer_to_question": false,
+        "best_answer": false,
+        "category": true,
+        "exam_style_prompt": false,
+        "hint_question_answer": false,
+        "n_best_answer": false,
+        "using_internet_answer": false
+    },
+    "zest": {
+        "answerable_or_not": false,
+        "ask_question_as_kid": false,
+        "ask_question_as_teacher": false,
+        "concat_quest_context": false,
+        "gpt3_instruct_format": false,
+        "gpt3_instruct_format_with_domain": false
+    },
+    "wino_bias-type2_pro": {
+        "What does p stand for": false,
+        "Who or what is/are": false,
+        "by p they mean": false,
+        "refers_to": false,
+        "replaced with": false,
+        "represent": false,
+        "the pronoun refers to": false
+    },
+    "wino_bias-type2_anti": {
+        "What does p stand for": false,
+        "Who or what is/are": false,
+        "by p they mean": false,
+        "refers_to": false,
+        "replaced with": false,
+        "represent": false,
+        "the pronoun refers to": false
+    },
+    "wino_bias-type1_anti": {
+        "What does p stand for": false,
+        "Who or what is/are": false,
+        "by p they mean": false,
+        "refers_to": false,
+        "replaced with": false,
+        "represent": false,
+        "the pronoun refers to": false
+    },
+    "wino_bias-type1_pro": {
+        "What does p stand for": false,
+        "Who or what is/are": false,
+        "by p they mean": false,
+        "refers_to": false,
+        "replaced with": false,
+        "represent": false,
+        "the pronoun refers to": false
+    },
+    "sms_spam": {
+        "sms_spam_1": null,
+        "sms_spam_2": null,
+        "sms_spam_3": null,
+        "sms_spam_4": null,
+        "sms_spam_5": null
+    },
+    "freebase_qa": {
+        "inference_chain_prompt": null,
+        "inference_chain_prompt_context": null,
+        "qa_context_1": null,
+        "qa_context_2": null,
+        "qa_template_basic": null
+    },
+    "trec": {
+        "fine_grained_ABBR": true,
+        "fine_grained_ABBR_context_first": true,
+        "fine_grained_DESC": true,
+        "fine_grained_DESC_context_first": false,
+        "fine_grained_ENTY": true,
+        "fine_grained_HUM": true,
+        "fine_grained_HUM_context_first": true,
+        "fine_grained_LOC": true,
+        "fine_grained_LOC_context_first": true,
+        "fine_grained_NUM": true,
+        "fine_grained_NUM_context_first": true,
+        "fine_grained_open": false,
+        "fine_grained_open_context_first": false,
+        "pick_the_best_descriptor": true,
+        "trec1": true,
+        "trec2": true,
+        "what_category_best_describe": true,
+        "which_category_best_describes": true
+    },
+    "mwsc": {
+        "in-the-sentence": false,
+        "in-the-sentence-question-first": false,
+        "is-correct": false,
+        "options-or": true,
+        "what-think": true
+    },
+    "lambada": {
+        "GPT-3 style": false,
+        "ellipses": false,
+        "fill in the ____": false,
+        "please next word": false,
+        "what comes next": false
+    },
+    "qed": {
+        "basic": null,
+        "is_answer_exist": null,
+        "original_nq_answers": null,
+        "question_forming": null,
+        "title_prediction": null,
+        "topic_prompt": null
+    },
+    "cc_news": {
+        "Choose a title for text": false,
+        "Generate description using text": false,
+        "Generate title using news text": false,
+        "Generate title using text": false,
+        "Give text a title": false,
+        "Given brief description of text": false,
+        "Summarize ideas from news": false,
+        "Summarize text using description": false,
+        "Text summarized using description ": false,
+        "Use title and description to generate news": false,
+        "Use title and description to generate news article": false,
+        "Use title and description to generate text": false,
+        "Use title and summary to generate news": false,
+        "Write brief summary": false
+    },
+    "drop": {
+        "DROP GPT3": false,
+        "can you tell me": false,
+        "context question answer": false,
+        "generate_question_with_passage_and_answer": false,
+        "question context answer": false
+    },
+    "hellaswag": {
+        "Appropriate continuation - Yes or No": true,
+        "Open-ended completion": false,
+        "Open-ended start": false,
+        "Predict ending with hint": true,
+        "Randomized prompts template": true,
+        "Reversed appropriate continuation - Yes or No": true,
+        "Topic of the context": false,
+        "Topic without the ending answer": false,
+        "complete_first_then": true,
+        "how_ends": true,
+        "if_begins_how_continues": true
+    },
+    "story_cloze-2016": {
+        "Answer Given options": true,
+        "Choose Story Ending": true,
+        "Generate Ending": false,
+        "Movie What Happens Next": true,
+        "Novel Correct Ending": true,
+        "Story Continuation and Options": true
+    }
+}

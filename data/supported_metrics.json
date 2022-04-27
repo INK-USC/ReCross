@@ -1,0 +1,6468 @@
+{
+    "duorc-ParaphraseRC": {
+        "answer_question": [
+            "Squad"
+        ],
+        "build_story_around_qa": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "decide_worth_it": [
+            "Squad"
+        ],
+        "extract_answer": [
+            "Squad"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_question_by_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "movie_director": [
+            "Squad"
+        ],
+        "question_answering": [
+            "Squad"
+        ],
+        "title_generation": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "duorc-SelfRC": {
+        "answer_question": [
+            "Squad"
+        ],
+        "build_story_around_qa": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "decide_worth_it": [
+            "Squad"
+        ],
+        "extract_answer": [
+            "Squad"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_question_by_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "movie_director": [
+            "Squad"
+        ],
+        "question_answering": [
+            "Squad"
+        ],
+        "title_generation": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "paws-x-en": {
+        "Concatenation": [
+            "Accuracy"
+        ],
+        "Concatenation-no-label": [
+            "Accuracy"
+        ],
+        "Meaning": [
+            "Accuracy"
+        ],
+        "Meaning-no-label": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3-no-label": [
+            "Accuracy"
+        ],
+        "Rewrite": [
+            "Accuracy"
+        ],
+        "Rewrite-no-label": [
+            "Accuracy"
+        ],
+        "context-question": [
+            "Accuracy"
+        ],
+        "context-question-no-label": [
+            "Accuracy"
+        ],
+        "paraphrase-task": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "task_description-no-label": [
+            "Accuracy"
+        ]
+    },
+    "multi_nli": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "snli": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "multi_news": {
+        "distill": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "expand (reverse task)": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "summarize": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "summary scenario": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "synthesize": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "what are the key points": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "aeslc": {
+        "generate_subject": [
+            "ROUGE",
+            "Other"
+        ],
+        "generate_subject_line": [
+            "ROUGE",
+            "Other"
+        ],
+        "the_text_below": [
+            "ROUGE",
+            "Other"
+        ],
+        "what_about": [
+            "ROUGE",
+            "Other"
+        ],
+        "what_is_the_subject_of_this_email": [
+            "ROUGE",
+            "Other"
+        ],
+        "what_is_this_email_about": [
+            "ROUGE",
+            "Other"
+        ],
+        "what_subject_of_email": [
+            "ROUGE",
+            "Other"
+        ],
+        "what_topic": [
+            "ROUGE",
+            "Other"
+        ]
+    },
+    "dream": {
+        "answer-to-dialogue": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "baseline": [
+            "Accuracy"
+        ],
+        "generate-first-utterance": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate-last-utterance": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "read_the_following_conversation_and_answer_the_question": [
+            "Accuracy"
+        ]
+    },
+    "sick": {
+        "A entails B?": [
+            "Accuracy"
+        ],
+        "A entails_neutral_contradict B?": [
+            "Accuracy"
+        ],
+        "B entails A?": [
+            "Accuracy"
+        ],
+        "B entails_netural_contradict A?": [
+            "Accuracy"
+        ],
+        "sentences relation score": [
+            "Pearson Correlation",
+            "Spearman Correlation"
+        ]
+    },
+    "climate_fever": {
+        "claim_and_all_supporting_evidences": [
+            "Accuracy"
+        ],
+        "fifth_evidence_and_claim_itemization": [
+            "Accuracy"
+        ],
+        "first_evidence_and_claim_itemization": [
+            "Accuracy"
+        ],
+        "fourth_evidence_and_claim_itemization": [
+            "Accuracy"
+        ],
+        "second_evidence_and_claim_itemization": [
+            "Accuracy"
+        ],
+        "third_evidence_and_claim_itemization": [
+            "Accuracy"
+        ],
+        "third_evidence_claim_pair": [
+            "Accuracy"
+        ]
+    },
+    "newspop": {
+        "after_text_question": [
+            "Accuracy"
+        ],
+        "after_text_question_headline_only": [
+            "Accuracy"
+        ],
+        "after_text_question_no_choice": [
+            "Accuracy"
+        ],
+        "after_text_question_title_only": [
+            "Accuracy"
+        ],
+        "before_text_question": [
+            "Accuracy"
+        ],
+        "before_text_question_no_choice": [
+            "Accuracy"
+        ],
+        "headline_to_title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "topic_no_choice_in_template": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-boolq": {
+        "GPT-3 Style": [
+            "Accuracy"
+        ],
+        "I wonder\u2026": [
+            "Accuracy"
+        ],
+        "after_reading": [
+            "Accuracy"
+        ],
+        "based on the following passage": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "could you tell me\u2026": [
+            "Accuracy"
+        ],
+        "exam": [
+            "Accuracy"
+        ],
+        "exercise": [
+            "Accuracy"
+        ],
+        "valid_binary": [
+            "Accuracy"
+        ],
+        "yes_no_question": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-cb": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-copa": {
+        "C1 or C2? premise, so/because\u2026": [
+            "Accuracy"
+        ],
+        "best_option": [
+            "Accuracy"
+        ],
+        "cause_effect": [
+            "Accuracy"
+        ],
+        "choose": [
+            "Accuracy"
+        ],
+        "exercise": [
+            "Accuracy"
+        ],
+        "i_am_hesitating": [
+            "Accuracy"
+        ],
+        "more likely": [
+            "Accuracy"
+        ],
+        "plausible_alternatives": [
+            "Accuracy"
+        ],
+        "\u2026As a result, C1 or C2?": [
+            "Accuracy"
+        ],
+        "\u2026What could happen next, C1 or C2?": [
+            "Accuracy"
+        ],
+        "\u2026which may be caused by": [
+            "Accuracy"
+        ],
+        "\u2026why? C1 or C2": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-wsc.fixed": {
+        "GPT-3 Style": [
+            "Accuracy"
+        ],
+        "I think they mean": [
+            "Accuracy"
+        ],
+        "Who or what is/are": [
+            "Accuracy"
+        ],
+        "by p they mean": [
+            "Accuracy"
+        ],
+        "does p stand for": [
+            "Accuracy"
+        ],
+        "does the pronoun refer to": [
+            "Accuracy"
+        ],
+        "in other words": [
+            "Accuracy"
+        ],
+        "p is/are r": [
+            "Accuracy"
+        ],
+        "replaced with": [
+            "Accuracy"
+        ],
+        "the pronoun refers to": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-axb": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-multirc": {
+        "I was going to say\u2026": [
+            "Accuracy"
+        ],
+        "Would it be good to answer\u2026": [
+            "Accuracy"
+        ],
+        "confirm": [
+            "Accuracy"
+        ],
+        "correct": [
+            "Accuracy"
+        ],
+        "decide_valid": [
+            "Accuracy"
+        ],
+        "found_this_answer": [
+            "Accuracy"
+        ],
+        "grading": [
+            "Accuracy"
+        ],
+        "is the correct answer\u2026": [
+            "Accuracy"
+        ],
+        "is\u2026 a correct answer?": [
+            "Accuracy"
+        ],
+        "paragraph\u2026 question\u2026 is it\u2026 ?": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-wic": {
+        "GPT-3-prompt": [
+            "Accuracy"
+        ],
+        "GPT-3-prompt-with-label": [
+            "Accuracy"
+        ],
+        "affirmation_true_or_false": [
+            "Accuracy"
+        ],
+        "grammar_homework": [
+            "Accuracy"
+        ],
+        "polysemous": [
+            "Accuracy"
+        ],
+        "question-context": [
+            "Accuracy"
+        ],
+        "question-context-meaning": [
+            "Accuracy"
+        ],
+        "question-context-meaning-with-label": [
+            "Accuracy"
+        ],
+        "same_sense": [
+            "Accuracy"
+        ],
+        "similar-sense": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-axg": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ]
+    },
+    "super_glue-record": {
+        "Add sentence after (continuation choices)": [
+            "Accuracy"
+        ],
+        "Add sentence after after (continuation choices)": [
+            "Accuracy"
+        ],
+        "Can you figure out\u2026": [
+            "Squad"
+        ],
+        "GPT-3 style (continuation choices)": [
+            "Accuracy"
+        ],
+        "GPT-3 style summary only (continuation choices)": [
+            "Accuracy"
+        ],
+        "GPT-3 style with labels (continuation choices)": [
+            "Accuracy"
+        ],
+        "GPT-3 style with labels without hyphens (continuation choices)": [
+            "Accuracy"
+        ],
+        "GPT-3 style without hyphens (continuation choices)": [
+            "Accuracy"
+        ],
+        "In the question above, the placeholder stands for": [
+            "Squad"
+        ],
+        "New highlight (continuation choices)": [
+            "Accuracy"
+        ],
+        "News article (continuation choices)": [
+            "Accuracy"
+        ],
+        "Summary first (continuation choices)": [
+            "Accuracy"
+        ],
+        "What could the placeholder be?": [
+            "Squad"
+        ],
+        "Which one is the placeholder?": [
+            "Squad"
+        ],
+        "choose_between": [
+            "Squad"
+        ],
+        "corrupted": [
+            "Squad"
+        ],
+        "exercise": [
+            "Squad"
+        ],
+        "pick_one_option": [
+            "Squad"
+        ],
+        "the placeholder refers to\u2026": [
+            "Squad"
+        ],
+        "trying_to_decide": [
+            "Squad"
+        ]
+    },
+    "super_glue-rte": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ]
+    },
+    "scicite": {
+        "Classify intent": [
+            "Other"
+        ],
+        "Classify intent (choices first)": [
+            "Other"
+        ],
+        "Classify intent (select choice)": [
+            "Other"
+        ],
+        "Classify intent w/section (select choice)": [
+            "Other"
+        ],
+        "can_describe": [
+            "Other"
+        ]
+    },
+    "aqua_rat-raw": {
+        "Answer questions from options": [
+            "Accuracy"
+        ],
+        "answer_question_with_rationale": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "answer_quiz": [
+            "Accuracy"
+        ],
+        "generate_rational_and_correct_choice": [
+            "Other"
+        ],
+        "generate_rationale": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "select_the_best_option": [
+            "Accuracy"
+        ]
+    },
+    "ecthr_cases-alleged-violation-prediction": {
+        "confirm number of violated articles": [
+            "Other"
+        ],
+        "ecthr_alleged_articles_declaration_at_end": [
+            "Other"
+        ],
+        "ecthr_alleged_articles_question_at_start": [
+            "Other"
+        ],
+        "implicit_advice_number": [
+            "Other"
+        ],
+        "implicit_judgment_paragraph": [
+            "Other"
+        ],
+        "silver_rationales": [
+            "Other"
+        ]
+    },
+    "billsum": {
+        "Generate title from summary": [],
+        "Summarize this bill in one sentence: (text-> title)": [],
+        "Summarize this bill: (text-> summary)": [],
+        "Summarize: (summary -> title)": [],
+        "Summarize: (text -> summary )": [],
+        "Summarize: (text-> title,summary)": [],
+        "Write a bill: (summary-> text)": [],
+        "Write a bill: (title-> text)": []
+    },
+    "discovery-discovery": {
+        "connector": [],
+        "correction": [],
+        "discourse": [],
+        "make_sense": [],
+        "transition": []
+    },
+    "wiki_qa": {
+        "Decide_good_answer": [
+            "Accuracy"
+        ],
+        "Direct Answer to Question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Generate Question from Topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Is This True?": [
+            "Accuracy"
+        ],
+        "Jeopardy style": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Topic Prediction - Answer Only": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Topic Prediction - Question Only": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Topic Prediction - Question and Answer Pair": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "automatic_system": [
+            "Accuracy"
+        ],
+        "exercise": [
+            "Accuracy"
+        ],
+        "found_on_google": [
+            "Accuracy"
+        ]
+    },
+    "xquad_r-en": {
+        "answer_given_context_and_question": [
+            "Squad"
+        ],
+        "answer_question_given_context": [
+            "Squad"
+        ],
+        "answer_the_question": [
+            "Squad"
+        ],
+        "given_context_answer_question_variation": [
+            "Squad"
+        ],
+        "given_context_generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "jeopardy": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "covid_qa_castorini": {
+        "answers_to_qn": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "keyword_form": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "papers_to_qn": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "glue-cola": {
+        "Following sentence acceptable": [
+            "Accuracy"
+        ],
+        "Make sense yes no": [
+            "Accuracy"
+        ],
+        "Previous sentence acceptable": [
+            "Accuracy"
+        ],
+        "editing": [
+            "Accuracy"
+        ],
+        "is_this_correct": [
+            "Accuracy"
+        ]
+    },
+    "glue-mnli_mismatched": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "glue-wnli": {
+        "confident": [
+            "Accuracy"
+        ],
+        "entailment explained": [
+            "Accuracy"
+        ],
+        "imply": [
+            "Accuracy"
+        ],
+        "justified": [
+            "Accuracy"
+        ],
+        "mean": [
+            "Accuracy"
+        ]
+    },
+    "glue-qqp": {
+        "answer": [
+            "Accuracy"
+        ],
+        "duplicate": [
+            "Accuracy"
+        ],
+        "duplicate or not": [
+            "Accuracy"
+        ],
+        "meaning": [
+            "Accuracy"
+        ],
+        "quora": [
+            "Accuracy"
+        ],
+        "same thing": [
+            "Accuracy"
+        ]
+    },
+    "glue-mnli": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "glue-stsb": {
+        "examples": [
+            "Pearson Correlation",
+            "Spearman Correlation"
+        ],
+        "rank": [
+            "Pearson Correlation",
+            "Spearman Correlation"
+        ],
+        "rate": [
+            "Pearson Correlation",
+            "Spearman Correlation"
+        ],
+        "score": [
+            "Pearson Correlation",
+            "Spearman Correlation"
+        ],
+        "similarity": [
+            "Pearson Correlation",
+            "Spearman Correlation"
+        ]
+    },
+    "glue-mrpc": {
+        "equivalent": [
+            "Accuracy"
+        ],
+        "generate_paraphrase": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_sentence": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "paraphrase": [
+            "Accuracy"
+        ],
+        "replace": [
+            "Accuracy"
+        ],
+        "same thing": [
+            "Accuracy"
+        ],
+        "want to know": [
+            "Accuracy"
+        ]
+    },
+    "glue-sst2": {
+        "following positive negative": [
+            "Accuracy"
+        ],
+        "happy or mad": [
+            "Accuracy"
+        ],
+        "positive negative after": [
+            "Accuracy"
+        ],
+        "review": [
+            "Accuracy"
+        ],
+        "said": [
+            "Accuracy"
+        ]
+    },
+    "glue-ax": {
+        "based_on_prem_is_hypothesis": [
+            "Accuracy"
+        ],
+        "does_hyp_follow_from_prem": [
+            "Accuracy"
+        ],
+        "does_this_imply": [],
+        "does_this_support": [],
+        "relationship_between_hypothesis_premise": [
+            "Accuracy"
+        ]
+    },
+    "glue-rte": {
+        "does the claim\u2026 follow the fact\u2026": [
+            "Accuracy"
+        ],
+        "entailment explained": [
+            "Accuracy"
+        ],
+        "imply": [
+            "Accuracy"
+        ],
+        "imply separated": [
+            "Accuracy"
+        ],
+        "mean": [
+            "Accuracy"
+        ]
+    },
+    "glue-qnli": {
+        "based only on": [
+            "Accuracy"
+        ],
+        "have all you need": [
+            "Accuracy"
+        ],
+        "imply": [
+            "Accuracy"
+        ],
+        "possible to answer": [
+            "Accuracy"
+        ],
+        "want to know": [
+            "Accuracy"
+        ]
+    },
+    "glue-mnli_matched": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "sciq": {
+        "Direct Question": [
+            "Accuracy"
+        ],
+        "Direct Question (Closed Book)": [
+            "Accuracy"
+        ],
+        "Multiple Choice": [
+            "Accuracy"
+        ],
+        "Multiple Choice (Closed Book)": [
+            "Accuracy"
+        ],
+        "Multiple Choice Question First": [
+            "Accuracy"
+        ]
+    },
+    "snips_built_in_intents": {
+        "categorize_query": [],
+        "categorize_query_brief": [],
+        "intent_query": [],
+        "query_intent": [],
+        "query_options_or": [],
+        "query_summarize": [],
+        "voice_intent": []
+    },
+    "turk": {
+        "choose-simplification": [
+            "Accuracy"
+        ],
+        "choose-verbose": [
+            "Accuracy"
+        ],
+        "make-verbose": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "simplify": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "quarel": {
+        "choose_between": [
+            "Accuracy"
+        ],
+        "do_not_use": [
+            "Accuracy"
+        ],
+        "heres_a_story": [
+            "Accuracy"
+        ],
+        "logic_test": [
+            "Accuracy"
+        ],
+        "testing_students": [
+            "Accuracy"
+        ]
+    },
+    "kelm": {
+        "kb_to_sentence_affirmative": [
+            "Other"
+        ],
+        "kb_to_sentence_combine": [
+            "Other"
+        ],
+        "kb_to_sentence_easier_to_understand": [
+            "Other"
+        ],
+        "kb_to_sentence_from_notes": [
+            "Other"
+        ],
+        "kb_to_sentence_uses_all_facts": [
+            "Other"
+        ],
+        "sentence_to_kb": [
+            "ROUGE",
+            "BLEU"
+        ]
+    },
+    "cnn_dailymail-3.0.0": {
+        "2_or_3_sentences": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_story": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "news_card_view": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "news_stock": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "news_summary": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "spice_up_story": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "sum_in_brief": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "tldr_summary": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "write_an_outline": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "hotpot_qa-distractor": {
+        "generate_answer_affirmative": [
+            "Squad"
+        ],
+        "generate_answer_and_explanations": [
+            "Other"
+        ],
+        "generate_answer_interrogative": [
+            "Squad"
+        ],
+        "generate_explanations_affirmative": [
+            "BLEU",
+            "Other",
+            "ROUGE"
+        ],
+        "generate_explanations_interrogative": [
+            "COQA F1",
+            "Other"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_title_affirmative": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "hotpot_qa-fullwiki": {
+        "classify_question_type": [
+            "Accuracy"
+        ],
+        "generate_answer_affirmative": [
+            "Squad"
+        ],
+        "generate_answer_and_explanations": [
+            "Other"
+        ],
+        "generate_answer_interrogative": [
+            "Squad"
+        ],
+        "generate_explanations_affirmative": [
+            "BLEU",
+            "Other",
+            "ROUGE"
+        ],
+        "generate_explanations_interrogative": [
+            "COQA F1",
+            "Other"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_title_affirmative": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scientific_papers-arxiv": {
+        "generate_first_100_words_for_article": [],
+        "generate_first_line_abstract_from_first_three_lines_article": [],
+        "generate_first_line_from_abstract": [],
+        "generate_first_three_sentences_of_an_article_from_abstract": [],
+        "get_section_names_from_abstract": []
+    },
+    "scientific_papers-pubmed": {
+        "generate_first_100_words_for_article": [],
+        "generate_first_line_abstract_from_first_three_lines_article": [],
+        "generate_first_line_from_abstract": [],
+        "generate_first_three_sentences_of_an_article_from_abstract": [],
+        "get_section_names_from_abstract": []
+    },
+    "sent_comp": {
+        "Template_0": [],
+        "Template_1": [],
+        "Template_2": [],
+        "Template_3": [],
+        "Template_4": [],
+        "Template_5": [],
+        "Template_6": []
+    },
+    "pubmed_qa-pqa_labeled": {
+        "Context Section Type": [],
+        "Generate Question Title ": [],
+        "Long Answer to Final Decision": [],
+        "Medical Subject Headings": [],
+        "Question Answering (Long)": [],
+        "Question Answering (Short)": []
+    },
+    "common_gen": {
+        "Example prompt": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Given concepts - type 2": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Given concepts type 1": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Put together": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "choice in concept centric sentence generation": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "random task template prompt": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "sentence to concepts": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "topic to sentence": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "topics from the sentence": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "emo": {
+        "dialogue_between": [
+            "Accuracy",
+            "Other"
+        ],
+        "emotional_state": [
+            "Accuracy",
+            "Other"
+        ],
+        "feel_when_last_answer": [
+            "Accuracy",
+            "Other"
+        ],
+        "feeling": [
+            "Accuracy",
+            "Other"
+        ],
+        "final_message": [
+            "Accuracy",
+            "Other"
+        ],
+        "in_this_dialogue": [
+            "Accuracy",
+            "Other"
+        ],
+        "persons_describe": [
+            "Accuracy",
+            "Other"
+        ],
+        "persons_infer": [
+            "Accuracy",
+            "Other"
+        ],
+        "spoke_last": [
+            "Accuracy",
+            "Other"
+        ],
+        "what_emotion_do_you_think": [
+            "Accuracy",
+            "Other"
+        ]
+    },
+    "financial_phrasebank-sentences_allagree": {
+        "bullish_neutral_bearish": [
+            "Accuracy",
+            "Other"
+        ],
+        "complementary_industries": [
+            "Accuracy",
+            "Other"
+        ],
+        "complementary_industries_option": [
+            "Accuracy",
+            "Other"
+        ],
+        "local_economy": [
+            "Accuracy",
+            "Other"
+        ],
+        "sentiment": [
+            "Accuracy",
+            "Other"
+        ],
+        "sentiment_option": [
+            "Accuracy",
+            "Other"
+        ],
+        "share_price": [
+            "Accuracy",
+            "Other"
+        ],
+        "share_price_option": [
+            "Accuracy",
+            "Other"
+        ],
+        "word_comes_to_mind": [
+            "Accuracy",
+            "Other"
+        ]
+    },
+    "onestop_english": {
+        "ara_context": [],
+        "assess": [],
+        "ats": [],
+        "esl_context": [],
+        "esl_variation": []
+    },
+    "yelp_review_full": {
+        "based_on_that": [
+            "Accuracy"
+        ],
+        "format_rating": [
+            "Accuracy"
+        ],
+        "format_score": [
+            "Accuracy"
+        ],
+        "format_star": [
+            "Accuracy"
+        ],
+        "on_a_scale": [
+            "Accuracy"
+        ],
+        "so_i_would": [
+            "Accuracy"
+        ],
+        "this_place": [
+            "Accuracy"
+        ]
+    },
+    "yelp_polarity": {
+        "come_again": [
+            "Accuracy"
+        ],
+        "experience_good_bad": [
+            "Accuracy"
+        ],
+        "format_come_again": [
+            "Accuracy"
+        ],
+        "format_good_bad": [
+            "Accuracy"
+        ],
+        "like_dislike": [
+            "Accuracy"
+        ],
+        "like_dislike_2": [
+            "Accuracy"
+        ],
+        "place_good_bad": [
+            "Accuracy"
+        ],
+        "rating_high_low": [
+            "Accuracy"
+        ],
+        "regret_yes_or_no": [
+            "Accuracy"
+        ]
+    },
+    "guardian_authorship-cross_topic_4": {
+        "article_from_author": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_author_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "topic": [
+            "Accuracy"
+        ],
+        "who_wrote_article": [
+            "Accuracy"
+        ],
+        "who_wrote_article_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_exam": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_hint": [
+            "Accuracy"
+        ],
+        "writing_style": [
+            "Accuracy"
+        ]
+    },
+    "guardian_authorship-cross_genre_1": {
+        "article_from_author": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_author_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "topic": [
+            "Accuracy"
+        ],
+        "who_wrote_article": [
+            "Accuracy"
+        ],
+        "who_wrote_article_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_exam": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_hint": [
+            "Accuracy"
+        ],
+        "writing_style": [
+            "Accuracy"
+        ]
+    },
+    "guardian_authorship-cross_topic_7": {
+        "article_from_author": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_author_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "topic": [
+            "Accuracy"
+        ],
+        "who_wrote_article": [
+            "Accuracy"
+        ],
+        "who_wrote_article_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_exam": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_hint": [
+            "Accuracy"
+        ],
+        "writing_style": [
+            "Accuracy"
+        ]
+    },
+    "guardian_authorship-cross_topic_1": {
+        "article_from_author": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_author_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "article_from_topic": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "topic": [
+            "Accuracy"
+        ],
+        "who_wrote_article": [
+            "Accuracy"
+        ],
+        "who_wrote_article_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_affirmative": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_exam": [
+            "Accuracy"
+        ],
+        "who_wrote_article_with_topic_hint": [
+            "Accuracy"
+        ],
+        "writing_style": [
+            "Accuracy"
+        ]
+    },
+    "amazon_us_reviews-Wireless_v1_00": {
+        "Generate review based on rating and category": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Generate review headline based on rating": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Generate review headline based on review body": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Given the review body return a categorical rating": [
+            "Accuracy"
+        ],
+        "Given the review headline return a categorical rating": [
+            "Accuracy"
+        ]
+    },
+    "limit": {
+        "any_entity": [
+            "Accuracy"
+        ],
+        "any_entity_reference": [
+            "Accuracy"
+        ],
+        "count_entities": [
+            "Other"
+        ],
+        "count_entities_affirm": [
+            "Other"
+        ],
+        "find_entities_dynamic": [
+            "Other"
+        ],
+        "find_entities_extract": [
+            "Other"
+        ],
+        "find_entities_list_out": [
+            "Other"
+        ],
+        "find_entities_moving_in_video": [
+            "Other"
+        ],
+        "find_entities_question": [
+            "Other"
+        ],
+        "first_moving_entity": [
+            "Accuracy"
+        ],
+        "last_moving_entity": [
+            "Accuracy"
+        ],
+        "more_than_one": [
+            "Accuracy"
+        ]
+    },
+    "quac": {
+        "Answer Converation ": [
+            "Squad"
+        ],
+        "Answer Given Full Dialogue": [
+            "Squad"
+        ],
+        "Answer Given Only First Dialogue": [
+            "Squad"
+        ],
+        "Context First ": [
+            "Squad"
+        ],
+        "Student Asking Teacher ": [
+            "Squad"
+        ],
+        "Use Dialogue as Hint": [
+            "Squad"
+        ]
+    },
+    "bing_coronavirus_query_set": {
+        "is_explicit_country_date ": [
+            "Accuracy"
+        ],
+        "is_explicit_query": [
+            "Accuracy"
+        ],
+        "is_implicit_or_explicit ": [
+            "Accuracy"
+        ],
+        "is_implicit_query": [
+            "Accuracy"
+        ],
+        "what_country ": [
+            "Accuracy"
+        ]
+    },
+    "squad": {
+        "after": [],
+        "cbqa": [],
+        "cbqa qa": [],
+        "cbqa question answer": [],
+        "count letters": [],
+        "exam": [],
+        "exam creation help": [],
+        "find": [],
+        "find text": [],
+        "generate question": [],
+        "question/hint": [],
+        "wondered": []
+    },
+    "discofuse-discofuse-sport": {
+        "decompose_bottom": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "decompose_remainder_1": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "decompose_remainder_2": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "decompose_top": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "fuse_instruction_bottom": [
+            "Other"
+        ],
+        "fuse_instruction_top": [
+            "Other"
+        ],
+        "fuse_interrogative_bottom": [
+            "Other"
+        ],
+        "fuse_top": [
+            "Other"
+        ],
+        "grammar_detection_bottom": [
+            "Accuracy",
+            "AUC"
+        ],
+        "grammar_detection_top": [
+            "Accuracy",
+            "AUC"
+        ]
+    },
+    "discofuse-discofuse-wikipedia": {
+        "decompose_bottom": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "decompose_remainder_1": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "decompose_remainder_2": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "decompose_top": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "fuse_instruction_bottom": [
+            "Other"
+        ],
+        "fuse_instruction_top": [
+            "Other"
+        ],
+        "fuse_interrogative_bottom": [
+            "Other"
+        ],
+        "fuse_top": [
+            "Other"
+        ],
+        "grammar_detection_bottom": [
+            "Accuracy",
+            "AUC"
+        ],
+        "grammar_detection_top": [
+            "AUC",
+            "Accuracy"
+        ]
+    },
+    "ai2_arc-ARC-Challenge": {
+        "heres_a_problem": [
+            "Accuracy"
+        ],
+        "i_am_hesitating": [
+            "Accuracy"
+        ],
+        "multiple_choice": [
+            "Accuracy"
+        ],
+        "pick_false_options": [
+            "Accuracy",
+            "Other"
+        ],
+        "pick_the_most_correct_option": [
+            "Accuracy"
+        ],
+        "qa_options": [
+            "Accuracy"
+        ]
+    },
+    "ai2_arc-ARC-Easy": {
+        "heres_a_problem": [
+            "Accuracy"
+        ],
+        "i_am_hesitating": [
+            "Accuracy"
+        ],
+        "multiple_choice": [
+            "Accuracy"
+        ],
+        "pick_false_options": [
+            "Accuracy",
+            "Other"
+        ],
+        "pick_the_most_correct_option": [
+            "Accuracy"
+        ],
+        "qa_options": [
+            "Accuracy"
+        ]
+    },
+    "squadshifts-nyt": {
+        "after": [
+            "Squad"
+        ],
+        "answers_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "exam": [
+            "Squad"
+        ],
+        "exam_creation_help": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "pick_one_answer": [
+            "Squad"
+        ],
+        "question_num_hint_answer": [
+            "Squad"
+        ],
+        "wondered": [
+            "Squad"
+        ]
+    },
+    "squadshifts-amazon": {
+        "after": [
+            "Squad"
+        ],
+        "answers_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "exam": [
+            "Squad"
+        ],
+        "exam_creation_help": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "pick_one_answer": [
+            "Squad"
+        ],
+        "question_num_hint_answer": [
+            "Squad"
+        ],
+        "wondered": [
+            "Squad"
+        ]
+    },
+    "squadshifts-new_wiki": {
+        "after": [
+            "Squad"
+        ],
+        "answers_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "exam": [
+            "Squad"
+        ],
+        "exam_creation_help": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "pick_one_answer": [
+            "Squad"
+        ],
+        "question_num_hint_answer": [
+            "Squad"
+        ],
+        "title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "wondered": [
+            "Squad"
+        ]
+    },
+    "quail": {
+        "context_description_question_answer_id": [
+            "Accuracy"
+        ],
+        "context_description_question_answer_text": [
+            "Accuracy"
+        ],
+        "context_description_question_text": [
+            "Accuracy"
+        ],
+        "context_question_answer_description_id": [
+            "Accuracy"
+        ],
+        "context_question_answer_description_text": [
+            "Accuracy"
+        ],
+        "context_question_description_answer_id": [
+            "Accuracy"
+        ],
+        "context_question_description_answer_text": [
+            "Accuracy"
+        ],
+        "context_question_description_text": [
+            "Accuracy"
+        ],
+        "description_context_question_answer_id": [
+            "Accuracy"
+        ],
+        "description_context_question_answer_text": [
+            "Accuracy"
+        ],
+        "description_context_question_text": [
+            "Accuracy"
+        ],
+        "no_prompt_id": [
+            "Accuracy"
+        ],
+        "no_prompt_text": [
+            "Accuracy"
+        ]
+    },
+    "Zaid/coqa_expanded": {
+        "Answer the last question": [
+            "Other"
+        ],
+        "Complete the dialogue": [
+            "Other"
+        ],
+        "GPT-3 Style": [
+            "Other"
+        ],
+        "Help me": [
+            "Other"
+        ],
+        "Verbose instructions": [
+            "Other"
+        ],
+        "What is the answer": [
+            "Other"
+        ],
+        "extract_answer": [
+            "Squad"
+        ]
+    },
+    "Zaid/quac_expanded": {
+        "Answer the last question": [
+            "Other"
+        ],
+        "Complete the dialogue": [
+            "Other"
+        ],
+        "GPT-3 Style": [
+            "Other"
+        ],
+        "Help me": [
+            "Other"
+        ],
+        "Verbose instructions": [
+            "Other"
+        ],
+        "What is the answer": [
+            "Other"
+        ]
+    },
+    "narrativeqa": {
+        "answer_using_summary_full_text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "full_text_question_answer": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "given_summary_answer_text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "given_text_answer_question": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "recapitulate_given_text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "state_main_points": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "summarize_text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "summary_answer_query": [
+            "ROUGE",
+            "BLEU"
+        ]
+    },
+    "winograd_wsc-wsc273": {
+        "GPT-3 Style": [
+            "Accuracy"
+        ],
+        "Who or what is/are": [
+            "Accuracy"
+        ],
+        "by p they mean": [
+            "Accuracy"
+        ],
+        "does p stand for": [
+            "Accuracy"
+        ],
+        "does the pronoun refer to": [
+            "Accuracy"
+        ],
+        "p is/are r": [
+            "Accuracy"
+        ],
+        "replaced with": [
+            "Accuracy"
+        ],
+        "the pronoun refers to": [
+            "Accuracy"
+        ]
+    },
+    "winograd_wsc-wsc285": {
+        "GPT-3 Style": [
+            "Accuracy"
+        ],
+        "Who or what is/are": [
+            "Accuracy"
+        ],
+        "by p they mean": [
+            "Accuracy"
+        ],
+        "does p stand for": [
+            "Accuracy"
+        ],
+        "does the pronoun refer to": [
+            "Accuracy"
+        ],
+        "p is/are r": [
+            "Accuracy"
+        ],
+        "replaced with": [
+            "Accuracy"
+        ],
+        "the pronoun refers to": [
+            "Accuracy"
+        ]
+    },
+    "ncbi_disease": {
+        "identify_diseases_names_mentioned": [
+            "Other"
+        ],
+        "list_diseases_mentioned": [
+            "Other"
+        ],
+        "list_diseases_mentioned_after_text": [
+            "Other"
+        ],
+        "question_asking_diseases_presence": [
+            "Accuracy"
+        ],
+        "question_asking_diseases_presence_after_text": [
+            "Accuracy"
+        ],
+        "simple_question_asking_response_as_text": [
+            "Other"
+        ],
+        "simple_question_asking_response_as_text_after_text": [
+            "Other"
+        ]
+    },
+    "hlgd": {
+        "generate_another_headline": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "is_same_event_describe_rel": [
+            "Accuracy"
+        ],
+        "is_same_event_discuss": [
+            "Accuracy"
+        ],
+        "is_same_event_editor_asks": [
+            "Accuracy"
+        ],
+        "is_same_event_interrogative_talk": [
+            "Accuracy"
+        ],
+        "is_same_event_read": [
+            "Accuracy"
+        ],
+        "is_same_event_refer": [
+            "Accuracy"
+        ],
+        "is_same_event_replace": [
+            "Accuracy"
+        ],
+        "is_same_event_with_time_affirmative": [
+            "Accuracy"
+        ],
+        "is_same_event_with_time_interrogative_related": [
+            "Accuracy"
+        ],
+        "is_same_event_with_time_interrogative_talk": [
+            "Accuracy"
+        ]
+    },
+    "health_fact": {
+        "claim_explanation": [],
+        "main_explanation_claim": [],
+        "main_explanation_claim2": [],
+        "main_explanation_claim3": [],
+        "main_explanation_claim4": [],
+        "main_explanation_claim5": []
+    },
+    "paws-unlabeled_final": {
+        "Concatenation": [
+            "Accuracy"
+        ],
+        "Concatenation-no-label": [
+            "Accuracy"
+        ],
+        "Meaning": [
+            "Accuracy"
+        ],
+        "Meaning-no-label": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3-no-label": [
+            "Accuracy"
+        ],
+        "Rewrite": [
+            "Accuracy"
+        ],
+        "Rewrite-no-label": [
+            "Accuracy"
+        ],
+        "context-question": [
+            "Accuracy"
+        ],
+        "context-question-no-label": [
+            "Accuracy"
+        ],
+        "paraphrase-task": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "task_description-no-label": [
+            "Accuracy"
+        ]
+    },
+    "paws-labeled_swap": {
+        "Concatenation": [
+            "Accuracy"
+        ],
+        "Concatenation-no-label": [
+            "Accuracy"
+        ],
+        "Meaning": [
+            "Accuracy"
+        ],
+        "Meaning-no-label": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3-no-label": [
+            "Accuracy"
+        ],
+        "Rewrite": [
+            "Accuracy"
+        ],
+        "Rewrite-no-label": [
+            "Accuracy"
+        ],
+        "context-question": [
+            "Accuracy"
+        ],
+        "context-question-no-label": [
+            "Accuracy"
+        ],
+        "paraphrase-task": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "task_description-no-label": [
+            "Accuracy"
+        ]
+    },
+    "paws-labeled_final": {
+        "Concatenation": [
+            "Accuracy"
+        ],
+        "Concatenation-no-label": [
+            "Accuracy"
+        ],
+        "Meaning": [
+            "Accuracy"
+        ],
+        "Meaning-no-label": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3": [
+            "Accuracy"
+        ],
+        "PAWS-ANLI GPT3-no-label": [
+            "Accuracy"
+        ],
+        "Rewrite": [
+            "Accuracy"
+        ],
+        "Rewrite-no-label": [
+            "Accuracy"
+        ],
+        "context-question": [
+            "Accuracy"
+        ],
+        "context-question-no-label": [
+            "Accuracy"
+        ],
+        "paraphrase-task": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "task_description-no-label": [
+            "Accuracy"
+        ]
+    },
+    "selqa-answer_selection_analysis": {
+        "about-topic-vs-random": [],
+        "is-he-talking-about": [],
+        "make-sense-0": [],
+        "which-answer-1st-vs-random": [],
+        "would-make-sense-qu-rand": []
+    },
+    "amazon_polarity": {
+        "Is_this_product_review_positive": [
+            "Accuracy"
+        ],
+        "Is_this_review": [
+            "Accuracy"
+        ],
+        "Is_this_review_negative": [
+            "Accuracy"
+        ],
+        "User_recommend_this_product": [
+            "Accuracy"
+        ],
+        "convey_negative_or_positive_sentiment": [
+            "Accuracy"
+        ],
+        "flattering_or_not": [
+            "Accuracy"
+        ],
+        "negative_or_positive_tone": [
+            "Accuracy"
+        ],
+        "user_satisfied": [
+            "Accuracy"
+        ],
+        "would_you_buy": [
+            "Accuracy"
+        ]
+    },
+    "conv_ai_3": {
+        "ambiguous": [
+            "Other"
+        ],
+        "clarification_needed": [
+            "Other"
+        ],
+        "directly_answer": [
+            "Other"
+        ],
+        "generate_clarif_question": [
+            "Other"
+        ],
+        "score_give_number": [
+            "Other"
+        ],
+        "score_how_much": [
+            "Other"
+        ],
+        "self_contained": [
+            "Other"
+        ]
+    },
+    "mocha": {
+        "classifiy_similarity_candidate_with_ques": [
+            "Accuracy"
+        ],
+        "generate_correct_answer_with_noisy_candidates": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "score_candidate_no_ques_no_context_affirmative": [
+            "Pearson Correlation"
+        ],
+        "score_candidate_no_ques_no_context_interrogative": [
+            "Pearson Correlation"
+        ],
+        "score_candidate_with_question": [
+            "Pearson Correlation"
+        ],
+        "score_candidate_with_question_context_affirmative": [
+            "Pearson Correlation"
+        ],
+        "score_candidate_with_question_context_interrogative": [
+            "Pearson Correlation"
+        ]
+    },
+    "kilt_tasks-nq": {
+        "first_person_context": [
+            "Accuracy",
+            "Other"
+        ],
+        "formal_description": [
+            "Accuracy",
+            "Other"
+        ],
+        "guess_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_answer": [
+            "Accuracy",
+            "Other"
+        ],
+        "question_with_instruction": [
+            "Accuracy",
+            "Other"
+        ],
+        "question_with_multiple_answer": [
+            "Accuracy",
+            "Other"
+        ],
+        "search query": [
+            "Accuracy",
+            "Other"
+        ]
+    },
+    "kilt_tasks-hotpotqa": {
+        "combining_facts": [
+            "Squad"
+        ],
+        "complex_question": [
+            "Squad"
+        ],
+        "final_exam": [
+            "Squad"
+        ],
+        "formulate": [
+            "Squad"
+        ],
+        "straighforward_qa": [
+            "Squad"
+        ]
+    },
+    "circa": {
+        "goldstandard1_judgement": [
+            "Accuracy"
+        ],
+        "goldstandard2_judgement": [
+            "Accuracy"
+        ],
+        "judgement": [
+            "Accuracy"
+        ],
+        "possible_qn": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_declarative": [
+            "Accuracy",
+            "BLEU",
+            "Edit Distance",
+            "ROUGE"
+        ]
+    },
+    "app_reviews": {
+        "categorize_rating_using_review": [
+            "Accuracy",
+            "Spearman Correlation"
+        ],
+        "convert_to_rating": [
+            "Accuracy",
+            "Spearman Correlation"
+        ],
+        "convert_to_star_rating": [
+            "Accuracy",
+            "Spearman Correlation"
+        ],
+        "generate_review": []
+    },
+    "xnli-en": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "commonsense_qa": {
+        "answer_given_question_without_options": [
+            "Accuracy"
+        ],
+        "answer_to_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "most_suitable_answer": [
+            "Accuracy"
+        ],
+        "question_answering": [
+            "Accuracy"
+        ],
+        "question_to_answer_index": [
+            "Accuracy"
+        ]
+    },
+    "mc_taco": {
+        "asked_my_friend": [
+            "Accuracy"
+        ],
+        "asked_my_friend_doubt": [
+            "Accuracy"
+        ],
+        "believable": [
+            "Accuracy"
+        ],
+        "formal_description": [
+            "Accuracy"
+        ],
+        "generate_answer_from_question_and_context": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "observe_check_plausible_yes_no": [
+            "Accuracy"
+        ],
+        "plausible_negated": [
+            "Accuracy"
+        ],
+        "plausible_true_false": [
+            "Accuracy"
+        ],
+        "temporal_categories_no_choices": [
+            "Accuracy"
+        ],
+        "temporal_categories_with_choices": [
+            "Accuracy"
+        ]
+    },
+    "nq_open": {
+        "first_person_context": [
+            "Accuracy",
+            "Other"
+        ],
+        "formal_description": [
+            "Accuracy",
+            "Other"
+        ],
+        "guess_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_answer": [
+            "Accuracy",
+            "Other"
+        ],
+        "question_with_instruction": [
+            "Accuracy",
+            "Other"
+        ],
+        "search query": [
+            "Accuracy"
+        ]
+    },
+    "mdd-task1_qa": {
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "prompt_generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "prompt_question_answering": [
+            "Other"
+        ],
+        "question_answering": [
+            "Other"
+        ],
+        "question_answering_speaker": [
+            "Other"
+        ],
+        "using_internet_answer": [
+            "Other"
+        ]
+    },
+    "mdd-task3_qarecs": {
+        "next_utterance_4_and_6": [
+            "Other"
+        ],
+        "next_utterance_4_for_6": [
+            "Other"
+        ],
+        "qa_about movie": [
+            "Other"
+        ],
+        "recommend_movie_first_round": [
+            "Other"
+        ],
+        "recommend_movie_second_round": [
+            "Other"
+        ],
+        "recommend_movie_second_round_with_context": [
+            "Other"
+        ]
+    },
+    "mdd-task2_recs": {
+        "recommed_movies": [
+            "Other"
+        ],
+        "recommend_movies_dialogue": [],
+        "recommend_movies_speaker": [
+            "Other"
+        ]
+    },
+    "scitldr-Abstract": {
+        "basic_task_description_like": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "basic_with_choice_output": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "gpt_2_style": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "instructions_for_summary": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "reverse_generation": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "summarize_in_sentence": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "asnq": {
+        "Sentence question generation 2": [],
+        "Sentence question generation 3": [],
+        "answer question as a sentence": [],
+        "answer question with a sentence 2": [],
+        "answer question with a sentence 3": [],
+        "sentence question generation": []
+    },
+    "evidence_infer_treatment-1.1": {
+        "template_1": [],
+        "template_2": [],
+        "template_3": [],
+        "template_4": [],
+        "template_5": [],
+        "template_with_all_info": []
+    },
+    "evidence_infer_treatment-2.0": {
+        "template_1": [],
+        "template_2": [],
+        "template_3": [],
+        "template_4": [],
+        "template_5": [],
+        "template_with_all_info": []
+    },
+    "acronym_identification": {
+        "acronyms_and_expansions_bio_encode": [
+            "Other"
+        ],
+        "find_acronym": [
+            "Other"
+        ],
+        "find_acronym_meaning": [
+            "Other"
+        ],
+        "find_acronyms_and_expansions": [
+            "Other"
+        ],
+        "list_abbreviations": [
+            "Other"
+        ],
+        "list_expansions": [
+            "Other"
+        ]
+    },
+    "squad_adversarial-AddSent": {
+        "after": [],
+        "answers_question": [],
+        "cbqa": [],
+        "cbqa qa": [],
+        "cbqa question answer": [],
+        "count letters": [],
+        "exam": [],
+        "exam creation help": [],
+        "find text": [],
+        "generate question": [],
+        "incorrect_answers": [],
+        "possible_pitfalls": [],
+        "possible_qn": [],
+        "question/hint": [],
+        "title": [],
+        "wondered": []
+    },
+    "craigslist_bargains": {
+        "best deal": [],
+        "gap between parties": [],
+        "generate line": [],
+        "good deal for seller": [],
+        "good deal for seller no list price": [],
+        "good deal for seller no list price implicit": []
+    },
+    "ropes": {
+        "background_new_situation_answer": [
+            "Squad"
+        ],
+        "background_situation_middle": [
+            "Squad"
+        ],
+        "given_background_situation": [
+            "Squad"
+        ],
+        "new_situation_background_answer": [
+            "Squad"
+        ],
+        "plain_background_situation": [
+            "Squad"
+        ],
+        "plain_bottom_hint": [
+            "Squad"
+        ],
+        "plain_no_background": [
+            "Squad"
+        ],
+        "prompt_beginning": [
+            "Squad"
+        ],
+        "prompt_bottom_hint_beginning": [
+            "Squad"
+        ],
+        "prompt_bottom_no_hint": [
+            "Squad"
+        ],
+        "prompt_mix": [
+            "Squad"
+        ],
+        "read_background_situation": [
+            "Squad"
+        ]
+    },
+    "sem_eval_2010_task_8": {
+        "semantic relations nominials without options": [
+            "Other"
+        ],
+        "semantic relations with options": [
+            "Other"
+        ],
+        "semantic relations without options": [
+            "Other"
+        ],
+        "semantically nominals with options": [
+            "Other"
+        ],
+        "semantically related nominials with options": [
+            "Other"
+        ]
+    },
+    "jfleg": {
+        "academic_writing_rules": [
+            "Other"
+        ],
+        "english_teacher": [
+            "Other"
+        ],
+        "hard_to_read": [
+            "Other"
+        ],
+        "how_to_rewrite": [
+            "Other"
+        ],
+        "improved_to_be_fluent": [
+            "Other"
+        ],
+        "native_english_speaker": [
+            "Other"
+        ],
+        "rules_to_follow": [
+            "Other"
+        ]
+    },
+    "conv_ai_2": {
+        "match_profile": [
+            "Accuracy"
+        ],
+        "match_profile_agree": [
+            "Accuracy"
+        ],
+        "match_profile_expected": [
+            "Accuracy"
+        ],
+        "match_profile_guess": [
+            "Accuracy"
+        ],
+        "match_profile_question": [
+            "Accuracy"
+        ]
+    },
+    "emotion": {
+        "answer_question_with_emotion_label": [
+            "Accuracy"
+        ],
+        "answer_with_class_label": [
+            "Accuracy"
+        ],
+        "choose_the_best_emotion_label": [
+            "Accuracy"
+        ],
+        "predict_the_best_emotion_label": [
+            "Accuracy"
+        ],
+        "reply_with_emoation_label": [
+            "Accuracy"
+        ],
+        "select_emotion_label_from_list": [
+            "Accuracy"
+        ]
+    },
+    "google_wellformed_query": {
+        "is_wellformed_affirmative": [
+            "Accuracy"
+        ],
+        "is_wellformed_finding_for_search": [
+            "Accuracy"
+        ],
+        "is_wellformed_interrogative": [
+            "Accuracy"
+        ],
+        "is_wellformed_know_for_search": [
+            "Accuracy"
+        ],
+        "is_wellformed_type_for_search": [
+            "Accuracy"
+        ],
+        "wellformed_rating": [
+            "Other"
+        ]
+    },
+    "gutenberg_time": {
+        "asking_AM_PM_affirmative": [
+            "Accuracy"
+        ],
+        "asking_AM_PM_interrogative": [
+            "Accuracy"
+        ],
+        "asking_the_hour_affirmative": [
+            "Accuracy"
+        ],
+        "asking_the_hour_interrogative": [
+            "Accuracy"
+        ],
+        "asking_the_hour_refer": [
+            "Accuracy"
+        ],
+        "asking_the_time_reference": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "openbookqa-additional": {
+        "choices": [
+            "Accuracy"
+        ],
+        "choose_an_answer_with_options": [
+            "Accuracy"
+        ],
+        "only_options": [
+            "Accuracy"
+        ],
+        "pick_answer_with_options": [
+            "Accuracy"
+        ],
+        "pick_using_id": [
+            "Accuracy"
+        ],
+        "which_correct": [
+            "Accuracy"
+        ],
+        "which_correct_inverse": [
+            "Accuracy"
+        ]
+    },
+    "openbookqa-main": {
+        "choices": [
+            "Accuracy"
+        ],
+        "choose_an_answer_with_options": [
+            "Accuracy"
+        ],
+        "only_options": [
+            "Accuracy"
+        ],
+        "pick_answer_with_options": [
+            "Accuracy"
+        ],
+        "pick_using_id": [
+            "Accuracy"
+        ],
+        "which_correct": [
+            "Accuracy"
+        ],
+        "which_correct_inverse": [
+            "Accuracy"
+        ]
+    },
+    "rotten_tomatoes": {
+        "Movie Expressed Sentiment": [
+            "Accuracy"
+        ],
+        "Movie Expressed Sentiment 2": [
+            "Accuracy"
+        ],
+        "Reviewer Enjoyment": [
+            "Accuracy"
+        ],
+        "Reviewer Enjoyment Yes No": [
+            "Accuracy"
+        ],
+        "Reviewer Expressed Sentiment": [
+            "Accuracy"
+        ],
+        "Reviewer Opinion bad good choices": [
+            "Accuracy"
+        ],
+        "Reviewer Sentiment Feeling": [
+            "Accuracy"
+        ],
+        "Sentiment with choices ": [
+            "Accuracy"
+        ],
+        "Text Expressed Sentiment": [
+            "Accuracy"
+        ],
+        "Writer Expressed Sentiment": [
+            "Accuracy"
+        ]
+    },
+    "e2e_nlg_cleaned": {
+        "area_qa": [
+            "Accuracy"
+        ],
+        "coherent_text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "create_text_for_me": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "eat_type_qa": [
+            "Accuracy"
+        ],
+        "family_friendly_yes_no": [
+            "Accuracy"
+        ],
+        "food_qa": [
+            "Accuracy"
+        ],
+        "generate_gramatically_correct_text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_text_restaurant": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "name_qa": [
+            "Accuracy"
+        ],
+        "near_qa": [
+            "Accuracy"
+        ],
+        "price_range_qa": [
+            "Accuracy"
+        ],
+        "rating_qa": [
+            "Accuracy"
+        ]
+    },
+    "subjqa-books": {
+        "answer_q_with_context_after": [
+            "Squad"
+        ],
+        "answer_q_with_context_first": [
+            "Squad"
+        ],
+        "domain_hint_og_task": [
+            "Squad"
+        ],
+        "domain_q": [
+            "Accuracy"
+        ],
+        "domain_q_after_context": [
+            "Accuracy"
+        ],
+        "exam_style_prompt": [
+            "Squad"
+        ],
+        "exam_style_without_hint": [
+            "Squad"
+        ],
+        "q_subj_score": [
+            "Accuracy"
+        ],
+        "q_subj_score_with_context": [
+            "Accuracy"
+        ]
+    },
+    "subjqa-movies": {
+        "answer_q_with_context_after": [
+            "Squad"
+        ],
+        "answer_q_with_context_first": [
+            "Squad"
+        ],
+        "domain_hint_og_task": [
+            "Squad"
+        ],
+        "domain_q": [
+            "Accuracy"
+        ],
+        "domain_q_after_context": [
+            "Accuracy"
+        ],
+        "exam_style_prompt": [
+            "Squad"
+        ],
+        "exam_style_without_hint": [
+            "Squad"
+        ],
+        "q_subj_score": [
+            "Accuracy"
+        ],
+        "q_subj_score_with_context": [
+            "Accuracy"
+        ]
+    },
+    "subjqa-tripadvisor": {
+        "answer_q_with_context_after": [
+            "Squad"
+        ],
+        "answer_q_with_context_first": [
+            "Squad"
+        ],
+        "domain_hint_og_task": [
+            "Squad"
+        ],
+        "domain_q": [
+            "Accuracy"
+        ],
+        "domain_q_after_context": [
+            "Accuracy"
+        ],
+        "exam_style_prompt": [
+            "Squad"
+        ],
+        "exam_style_without_hint": [
+            "Squad"
+        ],
+        "q_subj_score": [
+            "Accuracy"
+        ],
+        "q_subj_score_with_context": [
+            "Accuracy"
+        ]
+    },
+    "subjqa-restaurants": {
+        "answer_q_with_context_after": [
+            "Squad"
+        ],
+        "answer_q_with_context_first": [
+            "Squad"
+        ],
+        "domain_hint_og_task": [
+            "Squad"
+        ],
+        "domain_q": [
+            "Accuracy"
+        ],
+        "domain_q_after_context": [
+            "Accuracy"
+        ],
+        "exam_style_prompt": [
+            "Squad"
+        ],
+        "exam_style_without_hint": [
+            "Squad"
+        ],
+        "q_subj_score": [
+            "Accuracy"
+        ],
+        "q_subj_score_with_context": [
+            "Accuracy"
+        ]
+    },
+    "subjqa-grocery": {
+        "answer_q_with_context_after": [
+            "Squad"
+        ],
+        "answer_q_with_context_first": [
+            "Squad"
+        ],
+        "domain_hint_og_task": [
+            "Squad"
+        ],
+        "domain_q": [
+            "Accuracy"
+        ],
+        "domain_q_after_context": [
+            "Accuracy"
+        ],
+        "exam_style_prompt": [
+            "Squad"
+        ],
+        "exam_style_without_hint": [
+            "Squad"
+        ],
+        "q_subj_score": [
+            "Accuracy"
+        ],
+        "q_subj_score_with_context": [
+            "Accuracy"
+        ]
+    },
+    "subjqa-electronics": {
+        "answer_q_with_context_after": [
+            "Squad"
+        ],
+        "answer_q_with_context_first": [
+            "Squad"
+        ],
+        "domain_hint_og_task": [
+            "Squad"
+        ],
+        "domain_q": [
+            "Accuracy"
+        ],
+        "domain_q_after_context": [
+            "Accuracy"
+        ],
+        "exam_style_prompt": [
+            "Squad"
+        ],
+        "exam_style_without_hint": [
+            "Squad"
+        ],
+        "q_subj_score": [
+            "Accuracy"
+        ],
+        "q_subj_score_with_context": [
+            "Accuracy"
+        ]
+    },
+    "tweet_eval-sentiment": {
+        "sentiment": [],
+        "sentiment_option": []
+    },
+    "tweet_eval-hate": {
+        "author_hate": [],
+        "hate or not": [],
+        "hate_option": []
+    },
+    "tweet_eval-offensive": {
+        "offensive": [],
+        "take_down_offensive": []
+    },
+    "tweet_eval-irony": {
+        "irony": [],
+        "irony_option": []
+    },
+    "tweet_eval-stance_feminist": {
+        "feminism": [
+            "Accuracy"
+        ],
+        "feminism_guess_passive": [
+            "Accuracy"
+        ],
+        "feminism_guess_passive_author": [
+            "Accuracy"
+        ],
+        "feminism_how_describe": [
+            "Accuracy"
+        ],
+        "feminism_option": [
+            "Accuracy"
+        ],
+        "feminism_predict_stance": [
+            "Accuracy"
+        ]
+    },
+    "tweet_eval-stance_abortion": {
+        "abortion": [
+            "Accuracy"
+        ],
+        "abortion_guess_passive": [
+            "Accuracy"
+        ],
+        "abortion_guess_passive_author": [
+            "Accuracy"
+        ],
+        "abortion_how_describe": [
+            "Accuracy"
+        ],
+        "abortion_option": [
+            "Accuracy"
+        ],
+        "abortion_predict_stance": [
+            "Accuracy"
+        ]
+    },
+    "tweet_eval-emotion": {
+        "author_emotion": [],
+        "emotion": [],
+        "emotion_option": []
+    },
+    "tweet_eval-stance_climate": {
+        "climate_change": [
+            "Accuracy"
+        ],
+        "climate_guess_passive": [
+            "Accuracy"
+        ],
+        "climate_guess_passive_author": [
+            "Accuracy"
+        ],
+        "climate_how_describe": [
+            "Accuracy"
+        ],
+        "climate_option": [
+            "Accuracy"
+        ],
+        "climate_predict_stance": [
+            "Accuracy"
+        ]
+    },
+    "tweet_eval-stance_atheism": {
+        "atheism": [
+            "Accuracy"
+        ],
+        "atheism_guess_passive": [
+            "Accuracy"
+        ],
+        "atheism_guess_passive_author": [
+            "Accuracy"
+        ],
+        "atheism_how_describe": [
+            "Accuracy"
+        ],
+        "atheism_option": [
+            "Accuracy"
+        ],
+        "atheism_predict_stance": [
+            "Accuracy"
+        ]
+    },
+    "tweet_eval-stance_hillary": {
+        "Hillary": [
+            "Accuracy"
+        ],
+        "Hillary_guess_passive": [
+            "Accuracy"
+        ],
+        "Hillary_guess_passive_author": [
+            "Accuracy"
+        ],
+        "Hillary_how_describe": [
+            "Accuracy"
+        ],
+        "Hillary_option": [
+            "Accuracy"
+        ],
+        "Hillary_predict_stance": [
+            "Accuracy"
+        ]
+    },
+    "tweet_eval-emoji": {
+        "emoji": [
+            "Other"
+        ],
+        "emoji_option": [
+            "Other"
+        ],
+        "emoji_reply": [
+            "Other"
+        ]
+    },
+    "cbt-CN": {
+        "answer_prediction": [],
+        "multi_choice": [],
+        "next_sentence_generation": []
+    },
+    "cbt-raw": {
+        "write_story": [],
+        "write_title": []
+    },
+    "cbt-V": {
+        "answer_prediction": [],
+        "multi_choice": [],
+        "next_sentence_generation": []
+    },
+    "cbt-NE": {
+        "answer_prediction": [],
+        "multi_choice": [],
+        "next_sentence_generation": []
+    },
+    "cbt-P": {
+        "answer_prediction": [],
+        "multi_choice": [],
+        "next_sentence_generation": []
+    },
+    "piqa": {
+        "Correct the solution": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Correct the solution if false: from sol 1": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Correct the solution if false: from sol 2": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Does this solution make sense? sol1": [
+            "Accuracy"
+        ],
+        "Does this solution make sense? sol2": [
+            "Accuracy"
+        ],
+        "choose the most appropriate solution": [
+            "Accuracy"
+        ],
+        "finish_sentence_with_correct_choice": [
+            "Accuracy"
+        ],
+        "no prompt needed": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "pick_correct_choice_index": [
+            "Accuracy"
+        ],
+        "pick_correct_choice_with_choice_given_before_goal": [
+            "Accuracy"
+        ],
+        "what_is_the_correct_ending": [
+            "Accuracy"
+        ]
+    },
+    "cos_e-v1.11": {
+        "aligned_with_common_sense": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "description_question_option_id": [
+            "Accuracy"
+        ],
+        "description_question_option_text": [
+            "Accuracy"
+        ],
+        "explain_why_human": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_explanation_given_text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "i_think": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_description_option_id": [
+            "Accuracy"
+        ],
+        "question_description_option_text": [
+            "Accuracy"
+        ],
+        "question_option_description_id": [
+            "Accuracy"
+        ],
+        "question_option_description_text": [
+            "Accuracy"
+        ],
+        "rationale": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "cos_e-v1.0": {
+        "aligned_with_common_sense": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "description_question_option_id": [
+            "Accuracy"
+        ],
+        "description_question_option_text": [
+            "Accuracy"
+        ],
+        "explain_why_human": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_explanation_given_text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "i_think": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_description_option_id": [
+            "Accuracy"
+        ],
+        "question_description_option_text": [
+            "Accuracy"
+        ],
+        "question_option_description_id": [
+            "Accuracy"
+        ],
+        "question_option_description_text": [
+            "Accuracy"
+        ],
+        "rationale": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "cosmos_qa": {
+        "context_answer_to_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "context_description_question_answer_id": [
+            "Accuracy"
+        ],
+        "context_description_question_answer_text": [
+            "Accuracy"
+        ],
+        "context_description_question_text": [
+            "Accuracy"
+        ],
+        "context_question_description_answer_id": [
+            "Accuracy"
+        ],
+        "context_question_description_answer_text": [
+            "Accuracy"
+        ],
+        "context_question_description_text": [
+            "Accuracy"
+        ],
+        "description_context_question_answer_id": [
+            "Accuracy"
+        ],
+        "description_context_question_answer_text": [
+            "Accuracy"
+        ],
+        "description_context_question_text": [
+            "Accuracy"
+        ],
+        "no_prompt_id": [
+            "Accuracy"
+        ],
+        "no_prompt_text": [
+            "Accuracy"
+        ],
+        "only_question_answer": [
+            "Accuracy"
+        ]
+    },
+    "tab_fact-tab_fact": {
+        "parse_table": [
+            "Accuracy"
+        ],
+        "tab_fact_corroborated ": [
+            "Accuracy"
+        ],
+        "tab_fact_evidence ": [
+            "Accuracy"
+        ],
+        "tab_fact_express": [
+            "Edit Distance"
+        ],
+        "tab_fact_table_caption": [
+            "Edit Distance"
+        ]
+    },
+    "sem_eval_2014_task_1": {
+        "entailment_basic_1": [],
+        "entailment_basic_2": [],
+        "entailment_basic_3": [],
+        "entailment_basic_4": [],
+        "entailment_localization_1": [],
+        "relatedness_basic_1": [],
+        "relatedness_basic_2": []
+    },
+    "dbpedia_14": {
+        "given_a_choice_of_categories ": [],
+        "given_a_list_of_category_what_does_the_title_belong_to": [
+            "Accuracy"
+        ],
+        "given_list_what_category_does_the_paragraph_belong_to": [
+            "Accuracy"
+        ],
+        "pick_one_category_for_the_following_text": []
+    },
+    "head_qa-en": {
+        "multiple_choice_a_and_q_en": [],
+        "multiple_choice_a_and_q_with_context_en": [],
+        "multiple_choice_q_and_a_en": [],
+        "multiple_choice_q_and_a_index_en": [],
+        "multiple_choice_q_and_a_index_with_context_en": [],
+        "multiple_choice_q_and_a_with_context_en": []
+    },
+    "meta_woz-dialogues": {
+        "predict_blank_response_random": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "predict_domain_ai_human_chat": [
+            "Accuracy"
+        ],
+        "predict_domain_ai_human_question": [
+            "Accuracy"
+        ],
+        "predict_domain_chatbot_human_chat": [
+            "Accuracy"
+        ],
+        "predict_last_statement_client_ai": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "predict_last_statement_human_chatbot": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "predict_last_statement_user_bot": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "predict_random_stop": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "multi_x_science_sum": {
+        "generate_abstract_from_reference": [
+            "ROUGE"
+        ],
+        "generate_abstract_from_related_work": [
+            "ROUGE"
+        ],
+        "generate_related_work_from_abst_and_ref": [
+            "ROUGE"
+        ],
+        "generate_related_work_from_abstract": [
+            "ROUGE"
+        ],
+        "generate_related_work_from_abstract_and_related_abstract": [
+            "ROUGE"
+        ],
+        "generate_related_work_from_ref_abstracts": [
+            "ROUGE"
+        ],
+        "given_abst_and_ref_generate_related_work": [
+            "ROUGE"
+        ]
+    },
+    "numer_sense": {
+        "fill_in_the_blank_before_sentence": [
+            "Accuracy"
+        ],
+        "fill_in_the_blank_with_choices_after": [
+            "Accuracy"
+        ],
+        "fill_in_the_blank_with_choices_before": [
+            "Accuracy"
+        ],
+        "fill_in_the_blank_with_instruction": [
+            "Accuracy"
+        ],
+        "fill_in_the_blank_with_instruction_and_choices": [
+            "Accuracy"
+        ]
+    },
+    "wiki_hop-original": {
+        "choose_best_object_affirmative_1": [
+            "Accuracy"
+        ],
+        "choose_best_object_affirmative_2": [
+            "Accuracy"
+        ],
+        "choose_best_object_affirmative_3": [
+            "Accuracy"
+        ],
+        "choose_best_object_interrogative_1": [
+            "Accuracy"
+        ],
+        "choose_best_object_interrogative_2": [
+            "Accuracy"
+        ],
+        "explain_relation": [
+            "Accuracy"
+        ],
+        "generate_object": [
+            "Accuracy"
+        ],
+        "generate_subject": [
+            "Accuracy"
+        ],
+        "generate_subject_and_object": [
+            "Accuracy"
+        ]
+    },
+    "wiki_hop-masked": {
+        "Choose Best Object Candidate": [],
+        "Explain Relation": [],
+        "Generate Fact Triple": [],
+        "Generate Object Answer": [],
+        "Generate Subject Answer": [],
+        "Indirect Question about Birthplace / Citizenship / Place of Death": []
+    },
+    "codah-fold_1": {
+        "answer_no_option": [],
+        "answer_with_option": [],
+        "answer_with_option_idx": [],
+        "answer_with_option_post": [],
+        "choose_from_list": [],
+        "finish_from_the_list": [],
+        "finish_from_the_list_post": [],
+        "finish_pre": [],
+        "question_category": [],
+        "question_category_bis": []
+    },
+    "codah-fold_3": {
+        "answer_no_option": [],
+        "answer_with_option": [],
+        "answer_with_option_idx": [],
+        "answer_with_option_post": [],
+        "choose_from_list": [],
+        "finish_from_the_list": [],
+        "finish_from_the_list_post": [],
+        "finish_pre": [],
+        "question_category": [],
+        "question_category_bis": []
+    },
+    "codah-fold_2": {
+        "answer_no_option": [],
+        "answer_with_option": [],
+        "answer_with_option_idx": [],
+        "answer_with_option_post": [],
+        "choose_from_list": [],
+        "finish_from_the_list": [],
+        "finish_from_the_list_post": [],
+        "finish_pre": [],
+        "question_category": [],
+        "question_category_bis": []
+    },
+    "codah-fold_4": {
+        "answer_no_option": [],
+        "answer_with_option": [],
+        "answer_with_option_idx": [],
+        "answer_with_option_post": [],
+        "choose_from_list": [],
+        "finish_from_the_list": [],
+        "finish_from_the_list_post": [],
+        "finish_pre": [],
+        "question_category": [],
+        "question_category_bis": []
+    },
+    "codah-fold_0": {
+        "answer_no_option": [],
+        "answer_with_option": [],
+        "answer_with_option_idx": [],
+        "answer_with_option_post": [],
+        "choose_from_list": [],
+        "finish_from_the_list": [],
+        "finish_from_the_list_post": [],
+        "finish_pre": [],
+        "question_category": [],
+        "question_category_bis": []
+    },
+    "codah-codah": {
+        "answer_no_option": [],
+        "answer_with_option": [],
+        "answer_with_option_idx": [],
+        "answer_with_option_post": [],
+        "choose_from_list": [],
+        "finish_from_the_list": [],
+        "finish_from_the_list_post": [],
+        "finish_pre": [],
+        "question_category": [],
+        "question_category_bis": []
+    },
+    "qa_zre": {
+        "based_on_context": [
+            "Other"
+        ],
+        "copy_the_span": [
+            "Other"
+        ],
+        "extract_relation": [
+            "Accuracy"
+        ],
+        "may_contain": [
+            "Other"
+        ],
+        "qa_including_unanswerable": [
+            "Other"
+        ],
+        "relation2": [
+            "Accuracy"
+        ],
+        "subject": [
+            "Other"
+        ],
+        "using_a_passage": [
+            "Other"
+        ]
+    },
+    "amazon_reviews_multi-en": {
+        "generate_title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "prompt_body_title_category_to_star": [
+            "Accuracy",
+            "Other"
+        ],
+        "prompt_body_title_to_star": [
+            "Accuracy",
+            "Other"
+        ],
+        "prompt_review_to_category": [
+            "Accuracy",
+            "Other"
+        ],
+        "prompt_review_to_star": [
+            "Accuracy",
+            "Other"
+        ],
+        "prompt_title_to_product_category": [
+            "Accuracy",
+            "Other"
+        ],
+        "prompt_title_to_star": [
+            "Accuracy",
+            "Other"
+        ]
+    },
+    "wiki_split": {
+        "combine": [
+            "BLEU"
+        ],
+        "find_A_given_B_and_C": [
+            "BLEU"
+        ],
+        "split_complex_to_simple_affirmative_break_down": [
+            "BLEU"
+        ],
+        "split_complex_to_simple_affirmative_simplify": [
+            "BLEU"
+        ],
+        "split_complex_to_simple_interrogative_repeat": [
+            "BLEU"
+        ],
+        "split_complex_to_simple_interrogative_represent": [
+            "BLEU"
+        ],
+        "split_complex_to_simple_interrogative_textbook": [
+            "BLEU"
+        ]
+    },
+    "banking77": {
+        "choose the correct department": [
+            "Accuracy"
+        ],
+        "choose_the_correct_intent": [
+            "Accuracy"
+        ],
+        "direct_to_which_department": [
+            "Accuracy"
+        ],
+        "generate_subject_for_text": [
+            "Accuracy"
+        ],
+        "help_page_topic": [
+            "Accuracy"
+        ],
+        "rephrase_as_banking_term": [
+            "Accuracy"
+        ],
+        "what_is_intent": [
+            "Accuracy"
+        ]
+    },
+    "winogrande-winogrande_m": {
+        "Replace": [
+            "Accuracy"
+        ],
+        "True or False": [
+            "Accuracy"
+        ],
+        "does underscore refer to": [
+            "Accuracy"
+        ],
+        "fill in the blank": [
+            "Accuracy"
+        ],
+        "stand for": [
+            "Accuracy"
+        ],
+        "underscore refer to": [
+            "Accuracy"
+        ]
+    },
+    "winogrande-winogrande_debiased": {
+        "Replace": [
+            "Accuracy"
+        ],
+        "True or False": [
+            "Accuracy"
+        ],
+        "does underscore refer to": [
+            "Accuracy"
+        ],
+        "fill in the blank": [
+            "Accuracy"
+        ],
+        "stand for": [
+            "Accuracy"
+        ],
+        "underscore refer to": [
+            "Accuracy"
+        ]
+    },
+    "winogrande-winogrande_xl": {
+        "Replace": [
+            "Accuracy"
+        ],
+        "True or False": [
+            "Accuracy"
+        ],
+        "does underscore refer to": [
+            "Accuracy"
+        ],
+        "fill in the blank": [
+            "Accuracy"
+        ],
+        "stand for": [
+            "Accuracy"
+        ],
+        "underscore refer to": [
+            "Accuracy"
+        ]
+    },
+    "winogrande-winogrande_s": {
+        "Replace": [
+            "Accuracy"
+        ],
+        "True or False": [
+            "Accuracy"
+        ],
+        "does underscore refer to": [
+            "Accuracy"
+        ],
+        "fill in the blank": [
+            "Accuracy"
+        ],
+        "stand for": [
+            "Accuracy"
+        ],
+        "underscore refer to": [
+            "Accuracy"
+        ]
+    },
+    "winogrande-winogrande_xs": {
+        "Replace": [
+            "Accuracy"
+        ],
+        "True or False": [
+            "Accuracy"
+        ],
+        "does underscore refer to": [
+            "Accuracy"
+        ],
+        "fill in the blank": [
+            "Accuracy"
+        ],
+        "stand for": [
+            "Accuracy"
+        ],
+        "underscore refer to": [
+            "Accuracy"
+        ]
+    },
+    "winogrande-winogrande_l": {
+        "Replace": [
+            "Accuracy"
+        ],
+        "True or False": [
+            "Accuracy"
+        ],
+        "does underscore refer to": [
+            "Accuracy"
+        ],
+        "fill in the blank": [
+            "Accuracy"
+        ],
+        "stand for": [
+            "Accuracy"
+        ],
+        "underscore refer to": [
+            "Accuracy"
+        ]
+    },
+    "qasc": {
+        "is_correct_1": [
+            "Accuracy"
+        ],
+        "is_correct_2": [
+            "Accuracy"
+        ],
+        "qa_with_combined_facts_1": [
+            "Accuracy"
+        ],
+        "qa_with_separated_facts_1": [
+            "Accuracy"
+        ],
+        "qa_with_separated_facts_2": [
+            "Accuracy"
+        ],
+        "qa_with_separated_facts_3": [
+            "Accuracy"
+        ],
+        "qa_with_separated_facts_4": [
+            "Accuracy"
+        ],
+        "qa_with_separated_facts_5": [
+            "Accuracy"
+        ]
+    },
+    "squad_v2": {
+        "Jeopardy with Context": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Jeopardy without Context": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Questions with Context": [
+            "Squad"
+        ],
+        "Questions with Context +unanswerable": [
+            "Squad"
+        ],
+        "Questions with Context - Without Prompt Keywords": [
+            "Squad"
+        ],
+        "Questions with Context - Without Prompt Keywords +unanswerable": [
+            "Squad"
+        ],
+        "Topic Prediction - Context": [
+            "BLEU",
+            "ROUGE",
+            "Other"
+        ],
+        "Topic Prediction - Context with randomized prompt options": [
+            "BLEU",
+            "ROUGE",
+            "Other"
+        ],
+        "Topic Prediction - Context with randomized prompt options placed in the end": [
+            "BLEU",
+            "ROUGE",
+            "Other"
+        ],
+        "Topic Prediction - Question and Answer Pair": [
+            "BLEU",
+            "ROUGE",
+            "Other"
+        ],
+        "Trivia": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Unanwerable question": [
+            "Accuracy"
+        ]
+    },
+    "qa_srl": {
+        "answer_question": [
+            "Other"
+        ],
+        "deconstruct_sentence": [
+            "Other"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "identify_predicate": [
+            "Accuracy"
+        ],
+        "linguistic_problem": [
+            "Other"
+        ],
+        "parse_structure": [
+            "Other"
+        ],
+        "sentence_question_concatenation": [
+            "Other"
+        ]
+    },
+    "hyperpartisan_news_detection-byarticle": {
+        "extreme": [],
+        "ha": [],
+        "ha_2": [],
+        "ha_def": [],
+        "left_right": [],
+        "one-sidedness": [],
+        "opp": []
+    },
+    "hyperpartisan_news_detection-bypublisher": {
+        "leaning": [],
+        "political_bias": [],
+        "political_position": [],
+        "political_position_readers": [],
+        "political_position_readers_2": []
+    },
+    "asset-simplification": {
+        "asset_simplification1": [],
+        "asset_simplification2": [],
+        "asset_simplification3": []
+    },
+    "asset-ratings": {
+        "asset_ratings1": [],
+        "asset_ratings2": [],
+        "asset_ratings3": []
+    },
+    "conv_ai": {
+        "engagement_alice_interested": [
+            "Accuracy"
+        ],
+        "engagement_alice_really": [
+            "Accuracy"
+        ],
+        "engagement_bob_interested": [
+            "Accuracy"
+        ],
+        "engagement_bob_real": [
+            "Accuracy"
+        ],
+        "engagement_question_after": [
+            "Accuracy"
+        ],
+        "engagement_question_before": [
+            "Accuracy"
+        ]
+    },
+    "biosses": {
+        "compare one sentence to another": [
+            "Pearson Correlation"
+        ],
+        "rate with question first": [
+            "Pearson Correlation"
+        ],
+        "rate with sentences first": [
+            "Pearson Correlation"
+        ],
+        "resemblance": [
+            "Pearson Correlation"
+        ],
+        "same info binary": [
+            "Accuracy"
+        ],
+        "same meaning binary": [
+            "Accuracy"
+        ],
+        "same thing binary": [
+            "Accuracy"
+        ],
+        "same thing scoring": [
+            "Pearson Correlation"
+        ],
+        "similarity binary": [
+            "Accuracy"
+        ],
+        "similarity with question first": [
+            "Pearson Correlation"
+        ],
+        "similarity with sentences first": [
+            "Pearson Correlation"
+        ]
+    },
+    "web_questions": {
+        "get_the_answer": [
+            "Squad"
+        ],
+        "potential-correct-answer": [
+            "Squad"
+        ],
+        "question-answer": [
+            "Squad"
+        ],
+        "short_general_knowledge_q": [
+            "Squad"
+        ],
+        "whats_the_answer": [
+            "Squad"
+        ]
+    },
+    "liar": {
+        "Given statement and speaker guess job title ": [
+            "Accuracy"
+        ],
+        "Given statement guess category": [
+            "Accuracy"
+        ],
+        "Given statement guess subject ": [
+            "Accuracy"
+        ],
+        "Given statement, speaker and job title guess the context ": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Guess affiliation ": [
+            "Accuracy"
+        ]
+    },
+    "ag_news": {
+        "classify": [
+            "Accuracy"
+        ],
+        "classify_question_first": [
+            "Accuracy"
+        ],
+        "classify_with_choices": [
+            "Accuracy"
+        ],
+        "classify_with_choices_question_first": [
+            "Accuracy"
+        ],
+        "recommend": [
+            "Accuracy"
+        ],
+        "which_section": [
+            "Accuracy"
+        ],
+        "which_section_choices": [
+            "Accuracy"
+        ]
+    },
+    "race-all": {
+        "Is this the right answer": [
+            "Accuracy"
+        ],
+        "Read the article and answer the question (no option)": [
+            "Accuracy"
+        ],
+        "Select the best answer": [
+            "Accuracy"
+        ],
+        "Select the best answer (generate span)": [
+            "Accuracy"
+        ],
+        "Select the best answer (no instructions)": [
+            "Accuracy"
+        ],
+        "Taking a test": [
+            "Accuracy"
+        ],
+        "Write a multi-choice question (options given)": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Write a multi-choice question for the following article": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "race-high": {
+        "Is this the right answer": [
+            "Accuracy"
+        ],
+        "Read the article and answer the question (no option)": [
+            "Accuracy"
+        ],
+        "Select the best answer": [
+            "Accuracy"
+        ],
+        "Select the best answer (generate span)": [
+            "Accuracy"
+        ],
+        "Select the best answer (no instructions)": [
+            "Accuracy"
+        ],
+        "Taking a test": [
+            "Accuracy"
+        ],
+        "Write a multi-choice question (options given)": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Write a multi-choice question for the following article": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "race-middle": {
+        "Is this the right answer": [
+            "Accuracy"
+        ],
+        "Read the article and answer the question (no option)": [
+            "Accuracy"
+        ],
+        "Select the best answer": [
+            "Accuracy"
+        ],
+        "Select the best answer (generate span)": [
+            "Accuracy"
+        ],
+        "Select the best answer (no instructions)": [
+            "Accuracy"
+        ],
+        "Taking a test": [
+            "Accuracy"
+        ],
+        "Write a multi-choice question (options given)": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Write a multi-choice question for the following article": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "nlu_evaluation_data": {
+        "classify_intent": [
+            "Accuracy"
+        ],
+        "classify_intent_choices": [
+            "Accuracy"
+        ],
+        "intent_to_query": [
+            "BLEU"
+        ],
+        "what_does_user_want": [
+            "Accuracy"
+        ],
+        "what_does_user_want_choices": [
+            "Accuracy"
+        ],
+        "what_service_talk_about": [
+            "Accuracy"
+        ],
+        "what_service_talk_about_choices": [
+            "Accuracy"
+        ]
+    },
+    "craffel/openai_lambada": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "ellipses": [
+            "Accuracy"
+        ],
+        "fill in the ____": [
+            "Accuracy"
+        ],
+        "please next word": [
+            "Accuracy"
+        ],
+        "what comes next": [
+            "Accuracy"
+        ]
+    },
+    "humicroedit-subtask-2": {
+        "only_edited_sentences_QA_id": [
+            "Accuracy"
+        ],
+        "only_edited_sentences_QA_text": [
+            "Accuracy"
+        ],
+        "only_edited_sentences_id": [
+            "Accuracy"
+        ],
+        "original_sent_edit_words_qa_id": [
+            "Accuracy"
+        ],
+        "original_sent_edit_words_qa_strategy": [
+            "Accuracy"
+        ],
+        "original_sent_edit_words_qa_strategy_id": [
+            "Accuracy"
+        ],
+        "original_sent_edited_sentences_qa": [
+            "Accuracy"
+        ],
+        "original_sent_edited_sentences_qa_id": [
+            "Accuracy"
+        ]
+    },
+    "humicroedit-subtask-1": {
+        "best_shot_rate_original_sent_edited_sent": [
+            "Other"
+        ],
+        "example_score_original_sent_edited_sent_interrogative": [
+            "Other"
+        ],
+        "know_funniness_original_sent_edit_word": [
+            "Other"
+        ],
+        "know_funniness_original_sent_edited_sent": [
+            "Other"
+        ],
+        "score_original_sent_edit_word": [
+            "Other"
+        ],
+        "score_original_sent_edit_word_low_high": [
+            "Other"
+        ]
+    },
+    "gigaword": {
+        "TLDR": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "first_sentence_title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "generate_summary_for_this": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "in_a_nutshell": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "make_a_title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "reverse_writing": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "write_a_title_for_this_sentence": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "write_an_article": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "write_its_sentence": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "imdb": {
+        "Movie Expressed Sentiment": [
+            "Accuracy"
+        ],
+        "Movie Expressed Sentiment 2": [
+            "Accuracy"
+        ],
+        "Negation template for positive and negative": [
+            "Accuracy"
+        ],
+        "Reviewer Enjoyment": [
+            "Accuracy"
+        ],
+        "Reviewer Enjoyment Yes No": [
+            "Accuracy"
+        ],
+        "Reviewer Expressed Sentiment": [
+            "Accuracy"
+        ],
+        "Reviewer Opinion bad good choices": [
+            "Accuracy"
+        ],
+        "Reviewer Sentiment Feeling": [
+            "Accuracy"
+        ],
+        "Sentiment with choices ": [
+            "Accuracy"
+        ],
+        "Text Expressed Sentiment": [
+            "Accuracy"
+        ],
+        "Writer Expressed Sentiment": [
+            "Accuracy"
+        ]
+    },
+    "art": {
+        "choose_hypothesis": [
+            "Accuracy"
+        ],
+        "choose_hypothesis_believable": [
+            "Accuracy"
+        ],
+        "choose_hypothesis_desc": [
+            "Accuracy"
+        ],
+        "choose_hypothesis_likely": [
+            "Accuracy"
+        ],
+        "choose_hypothesis_options": [
+            "Accuracy"
+        ]
+    },
+    "swag-regular": {
+        "appropriate_continuation": [
+            "Accuracy"
+        ],
+        "first_then": [
+            "Accuracy"
+        ],
+        "first_then_key": [
+            "Accuracy"
+        ],
+        "generate_start": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "how_ends": [
+            "Accuracy"
+        ],
+        "open_completion": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "reversed_appropriate_continuation": [
+            "Accuracy"
+        ]
+    },
+    "math_dataset-algebra__linear_1d": {
+        "no_question": [
+            "Other"
+        ],
+        "no_question_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_after": [
+            "Other"
+        ],
+        "simple_template_question_after_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_before": [
+            "Other"
+        ],
+        "simple_template_question_before_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extract_variable_name_v2": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_v2": [
+            "Other"
+        ]
+    },
+    "math_dataset-algebra__linear_1d_composed": {
+        "no_question": [
+            "Other"
+        ],
+        "no_question_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_after": [
+            "Other"
+        ],
+        "simple_template_question_after_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_before": [
+            "Other"
+        ],
+        "simple_template_question_before_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extract_variable_name_v2": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_v2": [
+            "Other"
+        ]
+    },
+    "math_dataset-algebra__linear_2d_composed": {
+        "no_question": [
+            "Other"
+        ],
+        "no_question_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_after": [
+            "Other"
+        ],
+        "simple_template_question_after_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_before": [
+            "Other"
+        ],
+        "simple_template_question_before_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extract_variable_name_v2": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_v2": [
+            "Other"
+        ]
+    },
+    "math_dataset-algebra__linear_2d": {
+        "no_question": [
+            "Other"
+        ],
+        "no_question_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_after": [
+            "Other"
+        ],
+        "simple_template_question_after_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_before": [
+            "Other"
+        ],
+        "simple_template_question_before_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extract_variable_name_v2": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_extracting_variable_name": [
+            "Other"
+        ],
+        "simple_template_question_one_sentence_v2": [
+            "Other"
+        ]
+    },
+    "blended_skill_talk": {
+        "guess-correct-order": [
+            "Accuracy"
+        ],
+        "guess-first-utterance": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "guess-last-utterance": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "docred": {
+        "entity-and-relation-to-text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "find-all-locations": [
+            "Other"
+        ],
+        "find-all-numbers": [
+            "Other"
+        ],
+        "find-all-organizations": [
+            "Other"
+        ],
+        "find-all-people": [
+            "Other"
+        ],
+        "find-all-times": [
+            "Other"
+        ],
+        "ner-to-text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "ner-type": [
+            "Other"
+        ],
+        "relation": [
+            "Other"
+        ],
+        "type-to-entity": [
+            "Other"
+        ]
+    },
+    "quartz": {
+        "answer_question_based_on": [
+            "Accuracy"
+        ],
+        "answer_question_below": [
+            "Accuracy"
+        ],
+        "given_the_fact_answer_the_q": [
+            "Accuracy"
+        ],
+        "having_read_above_passage": [
+            "Accuracy"
+        ],
+        "paragraph_question_plain_concat": [
+            "Accuracy"
+        ],
+        "read_passage_below_choose": [
+            "Accuracy"
+        ],
+        "use_info_from_paragraph_question": [
+            "Accuracy"
+        ],
+        "use_info_from_question_paragraph": [
+            "Accuracy"
+        ]
+    },
+    "quoref": {
+        "Answer Friend Question": [
+            "Squad"
+        ],
+        "Answer Question Given Context": [
+            "Squad"
+        ],
+        "Answer Test": [
+            "Squad"
+        ],
+        "Context Contains Answer": [
+            "Squad"
+        ],
+        "Find Answer": [
+            "Squad"
+        ],
+        "Found Context Online": [
+            "Squad"
+        ],
+        "Given Context Answer Question": [
+            "Squad"
+        ],
+        "Guess Answer": [
+            "Squad"
+        ],
+        "Guess Title For Context": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Read And Extract ": [
+            "Squad"
+        ],
+        "What Is The Answer": [
+            "Squad"
+        ]
+    },
+    "movie_rationales": {
+        "Evidences + review": [
+            "Accuracy"
+        ],
+        "Evidences sentiment classification": [
+            "Accuracy"
+        ],
+        "Generate evidences": [
+            "Other"
+        ],
+        "Generate evidences and sentiment": [
+            "Other"
+        ],
+        "Standard binary sentiment analysis": [
+            "Accuracy"
+        ]
+    },
+    "trivia_qa-unfiltered": {
+        "first_person_context": [
+            "Accuracy",
+            "Other"
+        ],
+        "formal_description": [
+            "Accuracy",
+            "Other"
+        ],
+        "guess_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_answer": [
+            "Accuracy",
+            "Other"
+        ],
+        "question_with_instruction": [
+            "Accuracy",
+            "Other"
+        ]
+    },
+    "hans": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ]
+    },
+    "wiki_bio": {
+        "comprehension": [],
+        "guess_person": [],
+        "key_content": [],
+        "what_content": [],
+        "who": []
+    },
+    "stsb_multi_mt-en": {
+        "Similarity_express_binary": [
+            "Accuracy"
+        ],
+        "Similarity_how": [
+            "Pearson Correlation"
+        ],
+        "Similarity_rate": [
+            "Pearson Correlation"
+        ],
+        "Similarity_scale": [
+            "Pearson Correlation"
+        ],
+        "Similarity_seem_binary": [
+            "Accuracy"
+        ]
+    },
+    "math_qa": {
+        "choose_correct_og": [
+            "Accuracy"
+        ],
+        "choose_correct_variant": [
+            "Accuracy"
+        ],
+        "first_choice_then_problem": [
+            "Accuracy"
+        ],
+        "gre_problem": [
+            "Accuracy"
+        ],
+        "pick_the_correct": [
+            "Accuracy"
+        ],
+        "problem_set_type": [
+            "Accuracy"
+        ]
+    },
+    "crows_pairs": {
+        "anti_stereotype": [
+            "Accuracy"
+        ],
+        "anti_stereotype_confirm": [
+            "Accuracy"
+        ],
+        "demontraste_or_violate": [
+            "Accuracy"
+        ],
+        "stereotype": [
+            "Accuracy"
+        ],
+        "stereotype_confirm": [
+            "Accuracy"
+        ],
+        "transform_anti_stereo": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "transform_stereo": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "which_bias": [
+            "Accuracy"
+        ]
+    },
+    "yahoo_answers_topics": {
+        "classify_document": [
+            "Accuracy"
+        ],
+        "classify_document_exam_style": [
+            "Accuracy"
+        ],
+        "gameshow_topic_classification": [
+            "Accuracy"
+        ],
+        "generate_question_from_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "options_for_topic": [
+            "Accuracy"
+        ],
+        "question_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_content_answer_classification": [
+            "Accuracy"
+        ]
+    },
+    "jigsaw_unintended_bias": {
+        "annotators_rated": [
+            "Other"
+        ],
+        "binary_pred": [
+            "Other"
+        ],
+        "browsing": [
+            "Other"
+        ],
+        "hired_to_review": [
+            "Other"
+        ],
+        "how_toxic": [
+            "Other"
+        ],
+        "moderator": [
+            "Other"
+        ],
+        "modified_scale": [
+            "Other"
+        ],
+        "online_comment": [
+            "Other"
+        ],
+        "threatening": [
+            "Other"
+        ],
+        "yes_or_no": [
+            "Other"
+        ],
+        "yes_or_no_remove": [
+            "Other"
+        ]
+    },
+    "scan-template_around_right": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-filler_num0": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-filler_num3": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-filler_num2": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-template_opposite_right": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-length": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-template_right": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-addprim_turn_left": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-addprim_jump": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-filler_num1": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-simple": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "scan-template_jump_around_right": {
+        "affirmative_beginning": [
+            "Accuracy"
+        ],
+        "affirmative_bottom": [
+            "Accuracy"
+        ],
+        "affirmative_mix": [
+            "Accuracy"
+        ],
+        "affirmative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "interrogative_beginning": [
+            "Accuracy"
+        ],
+        "interrogative_bottom": [
+            "Accuracy"
+        ],
+        "interrogative_mix": [
+            "Accuracy"
+        ],
+        "interrogative_opposite": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "plain": [
+            "Accuracy"
+        ],
+        "translate": [
+            "Accuracy"
+        ],
+        "translate_opposite": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "adversarial_qa-dbert": {
+        "answer_the_following_q": [
+            "Squad"
+        ],
+        "based_on": [
+            "Squad"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_context_answer": [
+            "Squad"
+        ],
+        "tell_what_it_is": [
+            "Squad"
+        ]
+    },
+    "adversarial_qa-droberta": {
+        "answer_the_following_q": [
+            "Squad"
+        ],
+        "based_on": [
+            "Squad"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_context_answer": [
+            "Squad"
+        ],
+        "tell_what_it_is": [
+            "Squad"
+        ]
+    },
+    "adversarial_qa-adversarialQA": {
+        "answer_the_following_q": [
+            "Squad"
+        ],
+        "based_on": [
+            "Squad"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_context_answer": [
+            "Squad"
+        ],
+        "tell_what_it_is": [
+            "Squad"
+        ]
+    },
+    "adversarial_qa-dbidaf": {
+        "answer_the_following_q": [
+            "Squad"
+        ],
+        "based_on": [
+            "Squad"
+        ],
+        "generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question_context_answer": [
+            "Squad"
+        ],
+        "tell_what_it_is": [
+            "Squad"
+        ]
+    },
+    "sst-default": {
+        "did_reviewer_like": [
+            "Accuracy"
+        ],
+        "sentiment scoring scale": [
+            "Other"
+        ],
+        "sentiment_classification": [
+            "Accuracy"
+        ],
+        "sentiment_watch_movie": [
+            "Accuracy"
+        ],
+        "sentiment_watch_scale": [
+            "Other"
+        ]
+    },
+    "poem_sentiment": {
+        "guess_sentiment_from_given_options": [
+            "Accuracy"
+        ],
+        "guess_sentiment_without_options": [
+            "Accuracy"
+        ],
+        "guess_sentiment_without_options_variation_1": [
+            "Accuracy"
+        ],
+        "guess_sentiment_without_options_variation_2": [
+            "Accuracy"
+        ],
+        "most_appropriate_sentiment": [
+            "Accuracy"
+        ],
+        "positive_or_negative_sentiment_variation_1": [
+            "Accuracy"
+        ],
+        "positive_or_negative_sentiment_variation_2": [
+            "Accuracy"
+        ],
+        "question_answer_format": [
+            "Accuracy"
+        ]
+    },
+    "wiqa": {
+        "does_the_supposed_perturbation_have_an_effect": [],
+        "effect_with_label_answer": [],
+        "effect_with_string_answer": [],
+        "what_is_the_final_step_of_the_following_process": [],
+        "what_is_the_missing_first_step": [],
+        "what_might_be_the_first_step_of_the_process": [],
+        "what_might_be_the_last_step_of_the_process": [],
+        "which_of_the_following_is_the_supposed_perturbation": []
+    },
+    "ade_corpus_v2-Ade_corpus_v2_drug_ade_relation": {
+        "drug-and-effect-to-text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "find-drug": [
+            "Accuracy"
+        ],
+        "find-drug-and-effect": [
+            "Accuracy"
+        ],
+        "find-drug-and-effect-two-questions": [
+            "Accuracy"
+        ],
+        "find-effect": [
+            "Accuracy"
+        ]
+    },
+    "ade_corpus_v2-Ade_corpus_v2_classification": {
+        "binary-classification": [
+            "Accuracy"
+        ],
+        "label-to-text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "verbose-binary-classification": [
+            "Accuracy"
+        ]
+    },
+    "ade_corpus_v2-Ade_corpus_v2_drug_dosage_relation": {
+        "drug-and-dosage-to-text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "find-dosage": [
+            "Accuracy"
+        ],
+        "find-drug": [
+            "Accuracy"
+        ],
+        "find-drug-and-dosage": [
+            "Accuracy"
+        ],
+        "find-drug-and-dosage-two-questions": [
+            "Accuracy"
+        ]
+    },
+    "species_800": {
+        "affirmative_bottom_list": [],
+        "affirmative_bottom_string": [],
+        "affirmative_top_list": [],
+        "affirmative_top_string": [],
+        "interrogative_bottom_list": [],
+        "interrogative_bottom_string": [],
+        "interrogative_top_list": [],
+        "interrogative_top_string": []
+    },
+    "samsum": {
+        "Generate a summary for this dialogue": [
+            "ROUGE"
+        ],
+        "Given the above dialogue write a summary": [
+            "ROUGE"
+        ],
+        "Sum up the following dialogue": [
+            "ROUGE"
+        ],
+        "Summarize this dialogue:": [
+            "ROUGE"
+        ],
+        "Summarize:": [
+            "ROUGE"
+        ],
+        "To sum up this dialog": [
+            "ROUGE"
+        ],
+        "Write a dialogue that match this summary": [
+            "ROUGE"
+        ]
+    },
+    "quora": {
+        "are_two_questions_different": [
+            "Accuracy"
+        ],
+        "are_two_questions_duplicate": [
+            "Accuracy"
+        ],
+        "are_two_questions_same": [
+            "Accuracy"
+        ],
+        "rephrase_given_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "true_or_false": [
+            "Accuracy"
+        ],
+        "yes_or_no": [
+            "Accuracy"
+        ]
+    },
+    "fever-v1.0": {
+        "cbqa_fever_dialog_style_postprompt_all_class": [
+            "Accuracy"
+        ],
+        "cbqa_fever_dialog_style_surrounded_all_class": [
+            "Accuracy"
+        ],
+        "cbqa_fever_postprompt": [
+            "Accuracy"
+        ],
+        "cbqa_fever_preprompt": [
+            "Accuracy"
+        ],
+        "cbqa_fever_short": [
+            "Accuracy"
+        ]
+    },
+    "fever-v2.0": {
+        "cbqa_fever_dialog_style_postprompt_all_class": [
+            "Accuracy"
+        ],
+        "cbqa_fever_dialog_style_surrounded_all_class": [
+            "Accuracy"
+        ],
+        "cbqa_fever_postprompt": [
+            "Accuracy"
+        ],
+        "cbqa_fever_preprompt": [
+            "Accuracy"
+        ],
+        "cbqa_fever_short": [
+            "Accuracy"
+        ]
+    },
+    "scitail-tsv_format": {
+        "Suppose\u2026 Can we infer that\u2026": [
+            "Accuracy"
+        ],
+        "does S1 entail S2?": [
+            "Accuracy"
+        ],
+        "given\u2026 does it follow that\u2026 ": [
+            "Accuracy"
+        ],
+        "\u2026 Therefore, we're licensed to say that\u2026": [
+            "Accuracy"
+        ],
+        "\u2026does the previous passage support the claim that": [
+            "Accuracy"
+        ]
+    },
+    "scitail-snli_format": {
+        "Another Yes/No Entailment Framing": []
+    },
+    "xquad-xquad.en": {
+        "answer_given_context_and_question": [
+            "Squad"
+        ],
+        "answer_question_given_context": [
+            "Squad"
+        ],
+        "answer_the_question": [
+            "Squad"
+        ],
+        "given_context_answer_question_variation": [
+            "Squad"
+        ],
+        "given_context_generate_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "jeopardy": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "anli": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "MNLI crowdsource": [
+            "Accuracy"
+        ],
+        "always/sometimes/never": [
+            "Accuracy"
+        ],
+        "based on the previous passage": [
+            "Accuracy"
+        ],
+        "can we infer": [
+            "Accuracy"
+        ],
+        "claim true/false/inconclusive": [
+            "Accuracy"
+        ],
+        "consider always/sometimes/never": [
+            "Accuracy"
+        ],
+        "does it follow that": [
+            "Accuracy"
+        ],
+        "does this imply": [
+            "Accuracy"
+        ],
+        "guaranteed true": [
+            "Accuracy"
+        ],
+        "guaranteed/possible/impossible": [
+            "Accuracy"
+        ],
+        "justified in saying": [
+            "Accuracy"
+        ],
+        "must be true": [
+            "Accuracy"
+        ],
+        "should assume": [
+            "Accuracy"
+        ],
+        "take the following as truth": [
+            "Accuracy"
+        ]
+    },
+    "esnli": {
+        "choose_the_correct_class": [
+            "Accuracy"
+        ],
+        "determine_premise_hypothesis_relation": [
+            "Accuracy"
+        ],
+        "determine_the_relation": [
+            "Accuracy"
+        ],
+        "does_premise_contradicts_hypothesis": [
+            "Accuracy"
+        ],
+        "does_premise_imply_hypothesis": [
+            "Accuracy"
+        ],
+        "elaborate_on_the_choice": [
+            "BLEU"
+        ],
+        "explain_the_choice": [
+            "BLEU"
+        ],
+        "premise_hypothesis_relation": [
+            "Accuracy"
+        ],
+        "provide_explaination_to_the_choice": [
+            "BLEU"
+        ],
+        "relate_premise_to_hypothesis_with_explanation": [
+            "BLEU"
+        ]
+    },
+    "tydiqa-secondary_task": {
+        "can_you_answer_the_question": [
+            "Squad"
+        ],
+        "can_you_tell_me_the_answer": [
+            "Squad"
+        ],
+        "end_to_end_question_generation": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "end_to_end_question_generation_with_title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "extract_answer": [
+            "Squad"
+        ],
+        "simple_question_odqa": [
+            "Squad"
+        ],
+        "testing_students": [
+            "Squad"
+        ],
+        "title_generation": [],
+        "whats_the_answer": [
+            "Squad"
+        ]
+    },
+    "tydiqa-primary_task": {
+        "after_reading_the_text": [
+            "Accuracy"
+        ],
+        "based_on_the_text": [],
+        "heres_what_I_found": [
+            "Accuracy"
+        ],
+        "open_domain_qa": [
+            "Accuracy"
+        ],
+        "open_domain_qa_without_choices": [
+            "Accuracy"
+        ],
+        "read_and_answer": [
+            "Accuracy"
+        ],
+        "yes_no_none": [
+            "Accuracy"
+        ],
+        "yes_no_question": [
+            "Accuracy"
+        ]
+    },
+    "xsum": {
+        "DOC_boils_down_to_simple_idea_that": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "DOC_given_above_write_one_sentence": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "DOC_how_would_you_rephrase_few_words": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "DOC_tldr": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "DOC_write_summary_of_above": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "article_DOC_summary": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "college_roommate_asked_DOC_so_I_recap": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "read_below_DOC_write_abstract": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "summarize_DOC": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "summarize_this_DOC_summary": [
+            "ROUGE",
+            "BLEU"
+        ]
+    },
+    "medical_questions_pairs": {
+        "duplicates": [
+            "Accuracy"
+        ],
+        "in_the_context": [
+            "Accuracy"
+        ],
+        "possible_way": [
+            "Accuracy"
+        ],
+        "rewrite_or_related": [
+            "Accuracy"
+        ],
+        "same_question": [
+            "Accuracy"
+        ],
+        "similar_dissimilar": [
+            "Accuracy"
+        ],
+        "true_or_false": [
+            "Accuracy"
+        ],
+        "yes_or_no_in_the_context": [
+            "Accuracy"
+        ]
+    },
+    "ambig_qa-light": {
+        "answer_prediction_all_answers_affirmative": [
+            "Other"
+        ],
+        "answer_prediction_all_answers_interrogative": [
+            "Other"
+        ],
+        "answer_prediction_yes_or_no": [
+            "Accuracy"
+        ],
+        "is_question_ambiguous": [
+            "BLEU",
+            "Edit Distance"
+        ],
+        "perform_question_disambiguation": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "cord19-metadata": {
+        "abstract_generation_from_following_title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "abstract_generation_from_previous_title": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "abstract_generation_on_coronavirus": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "title_generation_from_following_abstract": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "title_generation_from_previous_abstract": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "social_i_qa": {
+        "Check if a random answer is valid or not": [
+            "Accuracy"
+        ],
+        "Generate answer": [
+            "Accuracy"
+        ],
+        "Generate the question from the answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "I was wondering": [
+            "Accuracy"
+        ],
+        "Show choices and generate answer": [
+            "Accuracy"
+        ],
+        "Show choices and generate index": [
+            "Accuracy"
+        ]
+    },
+    "tmu_gfm_dataset": {
+        "choose-better": [
+            "Accuracy"
+        ],
+        "correct-sentence": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "fluency": [
+            "Other"
+        ],
+        "grammar": [
+            "Other"
+        ],
+        "grammar-fluency-meaning": [
+            "Other"
+        ],
+        "meaning": [
+            "Other"
+        ]
+    },
+    "coqa": {
+        "extract_answer_first_qa_turn": [
+            "Squad"
+        ],
+        "first_qa_turn": [
+            "Other"
+        ],
+        "generate_dialogue": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "last_qa_turn": [
+            "Other"
+        ],
+        "missing_answer": [
+            "Other"
+        ]
+    },
+    "generated_reviews_enth": {
+        "how positive review": [
+            "Accuracy",
+            "AUC"
+        ],
+        "rate positive review": [
+            "AUC",
+            "Accuracy"
+        ],
+        "scale of positive review": [
+            "AUC",
+            "Accuracy"
+        ],
+        "seem like a positive review": [
+            "AUC",
+            "Accuracy"
+        ],
+        "think positive review": [
+            "AUC",
+            "Accuracy"
+        ]
+    },
+    "yahoo_answers_qa": {
+        "answer_to_question": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "best_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "category": [
+            "Accuracy"
+        ],
+        "exam_style_prompt": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "hint_question_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "n_best_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "using_internet_answer": [
+            "BLEU",
+            "ROUGE"
+        ]
+    },
+    "zest": {
+        "answerable_or_not": [
+            "Other"
+        ],
+        "ask_question_as_kid": [
+            "Other"
+        ],
+        "ask_question_as_teacher": [
+            "Other"
+        ],
+        "concat_quest_context": [
+            "Other"
+        ],
+        "gpt3_instruct_format": [
+            "Other"
+        ],
+        "gpt3_instruct_format_with_domain": [
+            "Other"
+        ]
+    },
+    "wino_bias-type2_pro": {
+        "What does p stand for": [
+            "Other"
+        ],
+        "Who or what is/are": [
+            "Other"
+        ],
+        "by p they mean": [
+            "Other"
+        ],
+        "refers_to": [
+            "Other"
+        ],
+        "replaced with": [
+            "Other"
+        ],
+        "represent": [
+            "Other"
+        ],
+        "the pronoun refers to": [
+            "Other"
+        ]
+    },
+    "wino_bias-type2_anti": {
+        "What does p stand for": [
+            "Other"
+        ],
+        "Who or what is/are": [
+            "Other"
+        ],
+        "by p they mean": [
+            "Other"
+        ],
+        "refers_to": [
+            "Other"
+        ],
+        "replaced with": [
+            "Other"
+        ],
+        "represent": [
+            "Other"
+        ],
+        "the pronoun refers to": [
+            "Other"
+        ]
+    },
+    "wino_bias-type1_anti": {
+        "What does p stand for": [
+            "Other"
+        ],
+        "Who or what is/are": [
+            "Other"
+        ],
+        "by p they mean": [
+            "Other"
+        ],
+        "refers_to": [
+            "Other"
+        ],
+        "replaced with": [
+            "Other"
+        ],
+        "represent": [
+            "Other"
+        ],
+        "the pronoun refers to": [
+            "Other"
+        ]
+    },
+    "wino_bias-type1_pro": {
+        "What does p stand for": [
+            "Other"
+        ],
+        "Who or what is/are": [
+            "Other"
+        ],
+        "by p they mean": [
+            "Other"
+        ],
+        "refers_to": [
+            "Other"
+        ],
+        "replaced with": [
+            "Other"
+        ],
+        "represent": [
+            "Other"
+        ],
+        "the pronoun refers to": [
+            "Other"
+        ]
+    },
+    "sms_spam": {
+        "sms_spam_1": [],
+        "sms_spam_2": [],
+        "sms_spam_3": [],
+        "sms_spam_4": [],
+        "sms_spam_5": []
+    },
+    "freebase_qa": {
+        "inference_chain_prompt": [],
+        "inference_chain_prompt_context": [],
+        "qa_context_1": [],
+        "qa_context_2": [],
+        "qa_template_basic": []
+    },
+    "trec": {
+        "fine_grained_ABBR": [
+            "Accuracy"
+        ],
+        "fine_grained_ABBR_context_first": [
+            "Accuracy"
+        ],
+        "fine_grained_DESC": [
+            "Accuracy"
+        ],
+        "fine_grained_DESC_context_first": [
+            "Accuracy"
+        ],
+        "fine_grained_ENTY": [
+            "Accuracy"
+        ],
+        "fine_grained_HUM": [
+            "Accuracy"
+        ],
+        "fine_grained_HUM_context_first": [
+            "Accuracy"
+        ],
+        "fine_grained_LOC": [
+            "Accuracy"
+        ],
+        "fine_grained_LOC_context_first": [
+            "Accuracy"
+        ],
+        "fine_grained_NUM": [
+            "Accuracy"
+        ],
+        "fine_grained_NUM_context_first": [
+            "Accuracy"
+        ],
+        "fine_grained_open": [
+            "Accuracy"
+        ],
+        "fine_grained_open_context_first": [
+            "Accuracy"
+        ],
+        "pick_the_best_descriptor": [
+            "Accuracy"
+        ],
+        "trec1": [
+            "Accuracy"
+        ],
+        "trec2": [
+            "Accuracy"
+        ],
+        "what_category_best_describe": [
+            "Accuracy"
+        ],
+        "which_category_best_describes": [
+            "Accuracy"
+        ]
+    },
+    "mwsc": {
+        "in-the-sentence": [
+            "Accuracy"
+        ],
+        "in-the-sentence-question-first": [
+            "Accuracy"
+        ],
+        "is-correct": [
+            "Accuracy"
+        ],
+        "options-or": [
+            "Accuracy"
+        ],
+        "what-think": [
+            "Accuracy"
+        ]
+    },
+    "lambada": {
+        "GPT-3 style": [
+            "Accuracy"
+        ],
+        "ellipses": [
+            "Accuracy"
+        ],
+        "fill in the ____": [
+            "Accuracy"
+        ],
+        "please next word": [
+            "Accuracy"
+        ],
+        "what comes next": [
+            "Accuracy"
+        ]
+    },
+    "qed": {
+        "basic": [],
+        "is_answer_exist": [],
+        "original_nq_answers": [],
+        "question_forming": [],
+        "title_prediction": [],
+        "topic_prompt": []
+    },
+    "cc_news": {
+        "Choose a title for text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Generate description using text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Generate title using news text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Generate title using text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Give text a title": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Given brief description of text": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Summarize ideas from news": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Summarize text using description": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Text summarized using description ": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Use title and description to generate news": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Use title and description to generate news article": [
+            "ROUGE",
+            "BLEU"
+        ],
+        "Use title and description to generate text": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Use title and summary to generate news": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Write brief summary": [
+            "ROUGE",
+            "BLEU"
+        ]
+    },
+    "drop": {
+        "DROP GPT3": [
+            "Accuracy",
+            "Other"
+        ],
+        "can you tell me": [
+            "Accuracy",
+            "Other"
+        ],
+        "context question answer": [
+            "Accuracy",
+            "Other"
+        ],
+        "generate_question_with_passage_and_answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "question context answer": [
+            "Accuracy",
+            "Other"
+        ]
+    },
+    "hellaswag": {
+        "Appropriate continuation - Yes or No": [
+            "Accuracy"
+        ],
+        "Open-ended completion": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Open-ended start": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Predict ending with hint": [
+            "Accuracy"
+        ],
+        "Randomized prompts template": [
+            "Accuracy"
+        ],
+        "Reversed appropriate continuation - Yes or No": [
+            "Accuracy"
+        ],
+        "Topic of the context": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Topic without the ending answer": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "complete_first_then": [
+            "Accuracy"
+        ],
+        "how_ends": [
+            "Accuracy"
+        ],
+        "if_begins_how_continues": [
+            "Accuracy"
+        ]
+    },
+    "story_cloze-2016": {
+        "Answer Given options": [
+            "Accuracy"
+        ],
+        "Choose Story Ending": [
+            "Accuracy"
+        ],
+        "Generate Ending": [
+            "BLEU",
+            "ROUGE"
+        ],
+        "Movie What Happens Next": [
+            "Accuracy"
+        ],
+        "Novel Correct Ending": [
+            "Accuracy"
+        ],
+        "Story Continuation and Options": [
+            "Accuracy"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# RERANKER_MODEL_TYPE="roberta"
+# RERANKER_MODEL_NAME="roberta-base"
+# RERANKER_MODEL_ALIAS="roberta_base"
+
+RERANKER_MODEL_TYPE="bart"
+RERANKER_MODEL_NAME="yuchenlin/BART0-base"
+RERANKER_MODEL_ALIAS="BART0_base"

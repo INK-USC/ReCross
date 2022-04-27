@@ -1,0 +1,1752 @@
+[
+    [
+        "Given that B: Now see I. A: I'm intrigued by it, but I'm not sure I want to go see it yet. B: Yeah, I don't think I want to see that either. Therefore, it must be true that \"she wants to see that\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#145"
+    ],
+    [
+        "A: The one thing I sometimes wonder about, um, in civil cases is, uh, whether, especially sort of in, uh, maybe like product liability, or medical malpractice, where there's, um, sort of a very technical decision to be made sometimes B: Yes. A: you know, it's not just a matter um, of, you know, did this guy rip off this guy, and it's just a matter of interpreting a contract, it's sort of a matter of, um, you know, sometimes getting into very technical issues, and I wonder um, if the system works adequately in educating the jurors about, uh, whatever, um, you know, issue is under discussion. B: I don't think that they educate them enough to really know what's going on. \n\nQuestion: Does this imply that \"they educate the jurors enough to really know what's going on\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does this imply|#189"
+    ],
+    [
+        "``His name is Matthew Blake,'' Mandy informed Charity as they descended the steps from their cabin on to the paved pathway that led to the lodge. Thankfully she hadn't even noticed that Charity had changed from the blue wrap-around skirt and was now wearing red shorts with her white silk blouse. \n\nKeeping in mind the above text, consider: Charity had changed from the blue wrap-around skirt Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#49"
+    ],
+    [
+        "Given that A: Uh, I saw Seven Eleven that was hiring. B: Well, I'm sure with the new, uh, contract awarding I think it went to Lockheed, didn't it? Therefore, it must be true that \"the contract went to Lockheed\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#217"
+    ],
+    [
+        "B: I understand we are doing care of the elderly, right? A: Yes. B: And how do you feel about putting someone in the nursing home? A: Well, I don't think that uh, any of my relatives would really like to go there. \n\nKeeping in mind the above text, consider: some of her relatives would really like to go there Is this always, sometimes, or never correct?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#160"
+    ],
+    [
+        "Take the following as truth: B: I do not know. I wonder where he gets it? You know, you must, I think TV is bad. Because they, uh, show all sorts of violence on, A: That and I do not think a lot of parents, I mean, I do not know how it is in the Air Force base. But, uh, I just do not think a lot of people, because of the economy, both need to work, you know. I just do not think a lot of parents are that involved any more.\nThen the following statement: \"a lot of parents are that involved\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#234"
+    ],
+    [
+        "Take the following as truth: He 'd gone. Philip had to get them back. His Dad would kill him if he found that he 'd taken them.\nThen the following statement: \"Philip had taken them\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#106"
+    ],
+    [
+        "Given B: Yeah. It's, uh, I have modem night computer so I can log into the, uh, network at Georgia Tech and access my account through there, which can be useful. But, uh, yeah that and word processing is while I tend to, I mean, obviously, I do almost all of my report writing on my computer, uh, whether it's term papers or even some smaller homework assignments. A: Uh-huh. B: So it's I don't know, really become my mainstay I guess. I can't even remember, actually I don't think I've ever used a typewriter in my life to do a report. Because my family, when I was growing up, we got a basic computer. TRS Eighty when they first came out. Should we assume that \"he has used a typewriter to do a report\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#143"
+    ],
+    [
+        "B: Oh, well that's good. A: but she really doesn't. Nobody thought she would adjust, \n\nKeeping in mind the above text, consider: she would adjust Is this always, sometimes, or never correct?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#154"
+    ],
+    [
+        "Suppose it's true that Under the Racketeer Influenced and Corrupt Organizations law, or RICO, the government has the authority to seek to freeze or seize a defendant's assets before trial.  According to individuals familiar with Mr. Antar's case, prosecutors issued their warning this week after one of Mr. Antar's attorneys asked whether legal fees might be subject to seizure. In a letter, prosecutors told Mr. Antar's lawyers that because of the recent Supreme Court rulings, they could expect that any fees collected from Mr. Antar may be seized. Then, is \"any fees collected from Mr. Antar may be seized\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#249"
+    ],
+    [
+        "Jane ate without pausing. Hunger was an unknown experience. She had never imagined it could actually hurt. Are we justified in saying that \"hunger could actually hurt\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#34"
+    ],
+    [
+        "His hair was white, as my daughters reported when they went to view the body before it was given to the Odonata. Now he is known as The Man Who Changed the World, and there are statues to him everywhere. No one remembers he had a younger brother.\nQuestion: The Man Who Changed the World had a younger brother True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#52"
+    ],
+    [
+        "Take the following as truth: A: Do you go to museums in Europe? B: Uh, actually, no, I don't think I went to any of them.\nThen the following statement: \"she went to some of them\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#146"
+    ],
+    [
+        "How do you know? she was going to ask, but his smile was answer enough. If DeVore said there was going to be a vacancy there would be a vacancy.\nQuestion: there was going to be a vacancy True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#78"
+    ],
+    [
+        "Suppose it's true that L. Underneath, in purple ink, had been added. ``And love, Fenella'', with a capital X as a kiss. I might have known Lisabeth wouldn't have walked up the stairs herself to leave the note. Then, is \"Lisabeth wouldn't have walked up the stairs herself to leave a note\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#105"
+    ],
+    [
+        "Given that When he was there we were Bonnie and Clyde, now he was gone we were Blondie and Dagwood. Or rather, now he was gone, I was Dennis. If I 'd been smarter or less vain I might have realized that this meant that my former role was now vacant. Does it follow that this meant her former role was now vacant Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#111"
+    ],
+    [
+        "Suppose A: How did Radio Shack work? B: If you go in and buy anything they want your phone number. And I don't think they're going to call me and ask me how it's functioning, Can we infer that \"they're going to call him\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|can we infer|#204"
+    ],
+    [
+        "Given that B: Well, I was never there for any sentencing. Uh, I finally got empaneled on one case, uh, on my next to the last day, and, uh, we got into the, uh, jury room to, uh, decide the case, and there was one guy on the jury who announced to everybody that he didn't need to deliberate, because he'd already decided that the guy was, uh, not guilty, and he would never vote for guilty. A: Huh. B: So, uh, they appointed me jury foreman and I, uh, didn't think that, uh, going in without deliberating allowed us to reach a verdict, Therefore, it must be true that \"going in without deliberating allowed them to reach a verdict\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#238"
+    ],
+    [
+        "Given B: Now see I. A: I'm intrigued by it, but I'm not sure I want to go see it yet. B: Yeah, I don't think I want to see that either. Is it guaranteed true that \"she wants to see that\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#145"
+    ],
+    [
+        "Given A: I think so, I think, B: I really do. Oh, yeah, it's going to take, uh, you know, the police, I don't think can do it alone, you know. Should we assume that \"the police can do it alone\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#182"
+    ],
+    [
+        "Suppose They 'd seen Miss Lavant on the promenade and about the town, always walking slowly, sometimes with a neat wicker basket. Kate had often thought she was beautiful. She hadn't known she was in love with Dr Greenslade who had a wife already and three children. Can we infer that \"Miss Lavant was in love with Dr Greenslade\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|can we infer|#39"
+    ],
+    [
+        "Given that A: I spend a lot of time reading about these things. I'm quite interested. I find it very exciting for the coverage we have now, today. B: Yes and I think we do get pretty good coverage. I don't feel that the American people is being shortchanged by uh, the news coverage. Does it follow that the American people are being shortchanged by the news coverage Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#175"
+    ],
+    [
+        "``It's not your day, is it, dear?'' ``No, but they 've got to be done, and Shirley's making the tea.'' Ianthe had not told her mother that she sometimes had to dust the books in the library. Are we justified in saying that \"Ianthe sometimes had to dust the books in the library\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#56"
+    ],
+    [
+        "Assume it is true that The city's Campaign Finance Board has refused to pay Mr. Dinkins $95,142 in matching funds because his campaign records are incomplete.  The campaign has blamed these reporting problems on computer errors. And, says Mr. Dinkins, he didn't know the man his campaign paid for a get-out-the-vote effort had been convicted of kidnapping. \n\nTherefore, \"the man Mr. Dinkins' campaign paid for a get-out-the-vote effort had been convicted of kidnapping\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#248"
+    ],
+    [
+        "Suppose it's true that It - the tractor, the boys and the bulbs in the earth - knew she had chosen for them and was coming back to them. Of course there was still love, there was healthy, growing love and its name was called Work. She had fallen in love with it so slowly and gently and sweetly that she had never noticed it had happened. Then, is \"falling in love had happened\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#47"
+    ],
+    [
+        "It - the tractor, the boys and the bulbs in the earth - knew she had chosen for them and was coming back to them. Of course there was still love, there was healthy, growing love and its name was called Work. She had fallen in love with it so slowly and gently and sweetly that she had never noticed it had happened. \n\nQuestion: Does this imply that \"falling in love had happened\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does this imply|#47"
+    ],
+    [
+        "B: That's what I've heard too. Uh, A: It seems bizarre to me. I don't quite understand it, although I think probably the worst thing that's happening at least the modern world today, is television. Based on that information, is the claim: \"the worst thing that's happening in the modern world is television\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#184"
+    ],
+    [
+        "Suppose it's true that B: Right, you know, like In packaging A: Yeah. B: and, uh, you know, just goodness. A: Yeah, I don't think they do the packaging at this plant, Then, is \"they do the packaging at this plant\" always, sometimes, or never true?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#188"
+    ],
+    [
+        "I spent just over an hour with Patterson which, I found out later, turned out to be another first. Time is money in the City and few people are worth an hour unless it's over lunch and only then if you're involved in a takeover bid. It was also I learned one of the few occasions anyone at PKB could remember that Patterson had a meeting with his door shut and nobody got fired. Using only the above description and what you know about the world, \"Patterson had a meeting with his door shut and nobody got fired\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#113"
+    ],
+    [
+        "Richard Breeden had n't noticed that his new desk had just four telephone lines and one phone . Based on that information, is the claim: \"Richard Breeden's new desk had just four telephone lines and one phone\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#247"
+    ],
+    [
+        "Take the following as truth: B: No, it was, I didn't like the way it ended. A: I know, well the only reason I know why it ended is on Arsenio Hall one night, Christopher Reeves told, that, you know, B: Uh-huh. A: I can't believe they killed them.\nThen the following statement: \"they killed them\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#231"
+    ],
+    [
+        "Given that A: I think so, I think, B: I really do. Oh, yeah, it's going to take, uh, you know, the police, I don't think can do it alone, you know. Therefore, it must be true that \"the police can do it alone\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#182"
+    ],
+    [
+        "Suppose it's true that Paula could not help herself. It was just the way she was. Others might say they hated her and mean it. Then, is \"others hated Paula\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#116"
+    ],
+    [
+        "It's where the bands practise. I can't remember what band Petra's in, but I seen them practise once. They were OK but I didn't think they was brilliant. \n\nKeeping in mind the above text, consider: Petra's band was brilliant Is this always, sometimes, or never correct?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#63"
+    ],
+    [
+        "Given B: they did things for people, you know, for their communities, for their, uh, families, for their friends, where now, I'm not sure they really do. A: Yes.  Yeah. Well, I think sometimes through groups and organizations, um, uh, when they asked the question I thought, well that sounds wonderful. And then, I wondered if people were unwilling but I think even if you went in with a negative attitude I don't think it would stay negative very long. Should we assume that \"that attitude would stay negative very long\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#170"
+    ],
+    [
+        "A: Yeah. The radio doesn't really have much news sometimes. The stations I listen to are just mainly music. B: Yeah, I think you pretty much have to listen to all news station to get any news at all. A: Yeah. Do you think that TV is, uh, pretty accurate.\nQuestion: TV is pretty accurate True, False, or Neither?",
+        [
+            "Neither"
+        ],
+        "super_glue-cb|train|GPT-3 style|#224"
+    ],
+    [
+        "Given that B: And the tanks came in and, you know, pretty much took care of that. A: Exactly. B: And, A: Yeah, uh, that, personally I don't see as Gorbachev as being maybe a threat, and I think he's actually, honestly trying to do some change. B: Uh-huh. A: But I don't believe that he, in this first pass around, you know, being the first one to really turn things around or attempt to is going to be allowed to get away with it either. Does it follow that Gorbachev is going to be allowed to get away with doing some change Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#239"
+    ],
+    [
+        "``Clever''. Klug means ``clever''. Would you say that Abie was clever? Based on the previous passage, is it true that \"Abie was clever\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|based on the previous passage|#76"
+    ],
+    [
+        "B: Right. And I'm sure that would make a big difference, too. You know, you've got, A: Yeah. Well, what about a voluntary program? Do you think that would be a good idea?\nQuestion: a voluntary program would be a good idea True, False, or Neither?",
+        [
+            "Neither"
+        ],
+        "super_glue-cb|train|GPT-3 style|#211"
+    ],
+    [
+        "B: Well, you've got, well, any of the big cities you've got the different rival gangs and they're having their little turf wars over their little drug kingdoms and such, A: Uh-huh. B: And they get out their little Mac tens, they get out their little uzis and they're going to fight with them. And it doesn't matter what restrictions you put on that type of weapon or a class three firearm. If they want it they'll get it. I don't care if they've got to go down into New Mexico to get it they'll get it and they'll get across the border. Now my position, although, I have absolutely no use for a fully automatic weapon, anyway. A: Uh-huh. B: Since I am a law-abiding citizen and I have never had a felony, if I wanted to buy one, I don't think there should be that big of a restriction on it. Based on that information, is the claim: \"there should be that big of a restriction on it\" true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#186"
+    ],
+    [
+        "Part of it was to be compulsorily purchased. You could say that Gustave was shepherded into creative retreat at Croisset by epilepsy. You could also say he was driven there by the railway. \n\nKeeping in mind the above text, consider: Gustave was driven to creative retreat in Croisset by the railway Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#3"
+    ],
+    [
+        "Suppose She longed for a weapon, for even a hairpin, and knowing that she did not have one, she knew too that she was totally defenceless, unarmed and alone. She could feel the great flight of the dragon and sensed that she was high in air and travelling fast towards the sunset. She could feel the great muscles of the dragon's wings send ripplings down the stomach walls and she gave herself over to death. Can we infer that \"the great muscles of the dragon's wings sent ripplings down the stomach walls\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|can we infer|#88"
+    ],
+    [
+        "A: It was just a side benefit. B: Yeah, yeah, because, I'm not big or anything, but I'm not in great shape, But when I worked out, I got in pretty good shape. I didn't build up muscle, though, I just got real good and toned. A: Yeah. B: I don't think women look good with muscles. Based on that information, is the claim: \"women look good with muscles\" true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#209"
+    ],
+    [
+        "B: So, let's talk about the, uh, wonderful abuses in the State of Pennsylvania of personal property taxes whereby you can purchase something mail order and after the fact, the State of Pennsylvania can find out about it and send you a bill for the sales tax appropriate to that item that you purchased as well as interest and penalties from the time that you bought it. What do you think? Is Pennsylvania kind of out of line there? A: Well, actually, I do n't think they're out of line. Are we justified in saying that \"they're out of line\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#205"
+    ],
+    [
+        "Assume it is true that ``Ely,'' I said (that was her name and the first time I 'd ever used it), ``I want to be free.'' She looked stunned. I don't think she 'd considered this. \n\nTherefore, \"Ely had considered him wanting to be free\" is guaranteed, possible, or impossible?",
+        [
+            "Impossible"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#59"
+    ],
+    [
+        "Take the following as truth: A: it was so fattening. B: That sounds good. A: But, I don't think we gained any weight from it\nThen the following statement: \"they gained any weight from it\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#192"
+    ],
+    [
+        "He 'd gone. Philip had to get them back. His Dad would kill him if he found that he 'd taken them. Based on that information, is the claim: \"Philip had taken them\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#106"
+    ],
+    [
+        "B: And, you know, the whole electronic classroom idea. I don't know if I I'm yeah, in favor of, yeah, A: I don't think that's going to work. Based on the previous passage, is it true that \"that is going to work\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#171"
+    ],
+    [
+        "A: Sometimes you hear things on the radio that, you know, could be true or couldn't be. B: Uh-huh. A: Uh, do you feel like this is, I guess they're spending a billion or so a year on this AIDS research. B: Uh-huh. A: Do you think they should spend more? Based on the previous passage, is it true that \"they should spend more\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|based on the previous passage|#221"
+    ],
+    [
+        "B: Right. And I'm sure that would make a big difference, too. You know, you've got, A: Yeah. Well, what about a voluntary program? Do you think that would be a good idea? Are we justified in saying that \"a voluntary program would be a good idea\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|justified in saying|#211"
+    ],
+    [
+        "Assume it is true that I WAS really only a bystander in the tragedy of young Mr and Mrs McLeod. It was not really my business although it could be said that I had known them both - had seen them about - for most of their lives. \n\nTherefore, \"she had known Mr. and Mrs. McLeod for most of their lives\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#115"
+    ],
+    [
+        "Assume it is true that ``Molly likes having an audience for her tales and it passes the hours for them.'' When Miss Louisa had a second more severe stroke at the end of August, and Miss Ellen another heart attack, both old ladies died within a few days of each other. Their friends could only feel that death was merciful in the circumstances especially with war imminent and that Molly had made the closing months of their lives very happy. \n\nTherefore, \"death was merciful in the circumstances\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#89"
+    ],
+    [
+        "Given that B: The kind you have sounds very interesting, though. A: Well, um, they're really sweet dogs. uh, we thought probably our neighborhood in Houston had more of this breed than any other place just because of, um, the family that had them and bred them. Therefore, it must be true that \"their neighborhood in Houston had more of this breed than any other place because of the family that had them and bred them\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#190"
+    ],
+    [
+        "Suppose it's true that B: And the tanks came in and, you know, pretty much took care of that. A: Exactly. B: And, A: Yeah, uh, that, personally I don't see as Gorbachev as being maybe a threat, and I think he's actually, honestly trying to do some change. B: Uh-huh. A: But I don't believe that he, in this first pass around, you know, being the first one to really turn things around or attempt to is going to be allowed to get away with it either. Then, is \"Gorbachev is going to be allowed to get away with doing some change\" always, sometimes, or never true?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#239"
+    ],
+    [
+        "B: That's what I've heard too. Uh, A: It seems bizarre to me. I don't quite understand it, although I think probably the worst thing that's happening at least the modern world today, is television. \n\nKeeping in mind the above text, consider: the worst thing that's happening in the modern world is television Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#184"
+    ],
+    [
+        "Given that B: Yeah, and the ground will filter some of it but not all of it. A: No, not when you figure, I didn't realize one cow produces that much manure Does it follow that one cow produces that much manure Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#136"
+    ],
+    [
+        "B: But, uh, if the wind comes basically from the south it can be really bad. A: Uh-huh. B: Uh, the State of Wisconsin, as a matter of fact, uh, started some litigation against Illinois because of the air pollution we were getting. A: Uh-huh. B: Uh, I don't think it's going to go very far, \n\nQuestion: Does this imply that \"it's going to go very far\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does this imply|#133"
+    ],
+    [
+        "Nicky approached her with the assumption that men are naturally right and it is the role of women to follow their lead. Constance, whose confidence was growing daily, was not prepared to give in to Nicky's wishes merely because of his sex. If she felt he was right then she agreed with him. \n\nQuestion: Does this imply that \"Nicky was right\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|does this imply|#84"
+    ],
+    [
+        "Suppose it's true that ``Molly likes having an audience for her tales and it passes the hours for them.'' When Miss Louisa had a second more severe stroke at the end of August, and Miss Ellen another heart attack, both old ladies died within a few days of each other. Their friends could only feel that death was merciful in the circumstances especially with war imminent and that Molly had made the closing months of their lives very happy. Then, is \"death was merciful in the circumstances\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#89"
+    ],
+    [
+        "Suppose it's true that B: That's true. A: So. B: Uh, the other argument is that the death penalty is a deterrent and I really don't, uh, agree with that. I don't think anyone who would commit uh, a crime that would get them the death penalty would stop at the moment and say, well, I was about to kill and dismember this person but, oh, if they catch me they're going to kill me so I better not do it. I just, don't think uh, that it works that way. A: Yeah.  I don't think it's done. Then, is \"it's done\" always, sometimes, or never true?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#132"
+    ],
+    [
+        "A: Uh, well, it would depend on when you go it's not excessively crowded on the weekends. B: See I'd want to be there in the mornings like from nine thirty to ten thirty. A: Oh, I don't think that would be bad at all. Based on the previous passage, is it true that \"that would be bad\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#173"
+    ],
+    [
+        "Suppose A: but, it was interesting to, I don't know if they're making them better or not, it's hard to say. I think they more of their parts plastic, which, you know, makes things break easier, but I think the technology is better. B: I think technology is better, I'm not sure. I think you've got a good point with the plastic and that. A: About quality. B: I don't think necessarily that, things are being made better uh, you know, Can we infer that \"things are being made better\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|can we infer|#208"
+    ],
+    [
+        "``For such a person, finding a protector might not be so difficult, even in Edinburgh.'' Jean smiled. He might have known that even someone as sensible as Miss van Wiliamsburgh would try to make a play of this sort. Are we justified in saying that \"even someone as sensible as Miss van Williamsburgh would try to make a play of this sort\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#104"
+    ],
+    [
+        "Given ``I hope you are settling down and the cat is well.'' This was a lie. She did not hope the cat was well. Should we assume that \"the cat was well\" is true? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|should assume|#33"
+    ],
+    [
+        "Given that B: um, they try to encourage you to follow a specific curriculum, although you don't have to. A: Uh-huh. B: And then if you have particular religious beliefs they're kind of monitored. You know, they will allow you to, I can't think of any examples but certain religious groups don't want their children in public schools because the influence. And maybe they were a group of Mennonites or something like that. A: Uh-huh. B: I don't think they're were in this area Therefore, it must be true that \"they were in this area\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#199"
+    ],
+    [
+        "Suppose it's true that ``It's not your day, is it, dear?'' ``No, but they 've got to be done, and Shirley's making the tea.'' Ianthe had not told her mother that she sometimes had to dust the books in the library. Then, is \"Ianthe sometimes had to dust the books in the library\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#56"
+    ],
+    [
+        "Ockleton, Morpurgo, Cornelius, Dysart and half a dozen others too drunk to mention. But there was so much coming and going that any one of us could have slipped out, pushed Everett through the window and slipped back again without being noticed. Damn it all we didn't even notice Everett was missing until a porter tripped over him in the quad so anything's theoretically possible.\nQuestion: Everett was missing True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#51"
+    ],
+    [
+        "Given B: And they go down the line ten years and then on some little technicality they get out and on the streets again doing the same they did before. A: Uh-huh. B: And, you know, that's about the only thing. Like for theft and stuff like that or manslaughter, you know, I don't think they should do that. Is it guaranteed true that \"they should do that\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#196"
+    ],
+    [
+        "``That's good.'' Ruth stood looking at her. Rachaela could imagine Emma would have been all congratulations and the joys of womanhood. Using only the above description and what you know about the world, \"Emma would have been all congratulations and the joys of womanhood\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#98"
+    ],
+    [
+        "Merrill dropped into her chair. That altercation with Luke had drained her. She might have known that he would never divulge his relationship with Elise.\nQuestion: Luke would never divulge his relationship with Elise True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#101"
+    ],
+    [
+        "Given A: They might be, but not at the human factors level. they're, B: Well, I heard it on the news today, I could swear it was IBM. Is it guaranteed true that \"it was IBM\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|guaranteed true|#157"
+    ],
+    [
+        "For a while the notion gripped him, and he prowled the many floors of Hamleys looking for toys. He bought a magic set for Sebastian (although his ideal present for the kid would have been a brand-new name) and a marionette for Louise. He could remember that there was an age for puppets and magic just as he could remember the time that he 'd spent trying to fan a deck of cards or sitting in front of a mirror trying to get the hard consonants down like a real ventriloquist.\nQuestion: there was an age for puppets and magic True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#112"
+    ],
+    [
+        "Given that The big Norwegian shook his head, frowning. ``Jeg fonstAr ikke.'' I don't think he found Ward's accent at all easy and anyway like many foreigners he found it easier to speak English than to understand it. Therefore, it must be true that \"the big Norwegian found Ward's accent at all easy\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#61"
+    ],
+    [
+        "She rubbed them away with an angry fist. She was a fool to let anyone get round her. How long before she learned that folk 'll always take advantage of weakness? Based on the previous passage, is it true that \"folk 'll always take advantage of weakness\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|based on the previous passage|#72"
+    ],
+    [
+        "Suppose it's true that Joseph spat and spluttered blood. He had lost the two centre top teeth and with the tip of his tongue he could feel that the two on either side were also loose. Then, is \"the two teeth on either side were also loose\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#90"
+    ],
+    [
+        "Suppose it's true that ``You don't need to worry. We're quite adequately chaperoned. Rosa is a woman of strict moral principles.'' If she knows I'm in here she's probably hovering outside the door right now. Then, is \"he's in here\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#36"
+    ],
+    [
+        "I'm sorry, I 've put you in an invidious position. If you're being run by Morton, he 'll want to hear all this. It won't do any harm but I 'd rather not give him food for thought because I consider him an idiot and I don't think he's capable of interpreting it correctly. Using only the above description and what you know about the world, \"Morton is capable of interpreting this food for thought correctly\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Incorrect"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#60"
+    ],
+    [
+        "Given that A: I do too. I believe about ten years ago that we went through a terrible time, but I don't, I believe that they're better now, you know, wh-, B: I think so. I don't think they're shoddy Therefore, it must be true that \"they're shoddy\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#206"
+    ],
+    [
+        "Jed wondered. He 'd scarcely set eyes on him since the night they 'd had dinner together at the house in Westwood. Nobody had mentioned him either and Jed didn't feel he should ask. Using only the above description and what you know about the world, \"Jed should ask\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Incorrect"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#29"
+    ],
+    [
+        "Matthew rode on feeling a little more at peace with himself. He skirted the spruce plantation and supposed that at some point he should tell Sara about it. He could imagine that she might be interested in its money-making propensity at the end of the year. Are we justified in saying that \"Sara might be interested in its money-making propensity at the end of the year\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#97"
+    ],
+    [
+        "Gloria remarked as they shared their coffee break in the kitchen. Melissa suppressed a sigh. She had hoped to dodge the subject but might have known that Gloria's boundless interest in all things morbid and sensational would make it impossible.\nQuestion: Gloria's boundless interest in all things morbid and sensational would make dodging the subject impossible True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#100"
+    ],
+    [
+        "Assume it is true that ``These ` ere smugglers is a dangerous bunch from wot I 've ` eard!'' ``If only we could devise a safe way of laying our hands on all that money,'' murmured Pugwash, whose greed was as proverbial as his cowardice. And the pirates were so busy discussing the problem and what they would do with the reward if they won it that they didn't notice that they were being observed from the window above by none other than the new Mayor and his entourage. \n\nTherefore, \"the pirates were being observed from the window above by none other than the new Mayor and his entourage\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#50"
+    ],
+    [
+        "Did he intend everyone in the castle to know he did not want the wife he had married in such a hurry? Did he intend to ignore her completely? Then Isabel saw Ellen's stunned face and realised that her maid at least did not know she had spent the night alone. Based on that information, is the claim: \"Isabel had spent the night alone\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#40"
+    ],
+    [
+        "Suppose B: they did things for people, you know, for their communities, for their, uh, families, for their friends, where now, I'm not sure they really do. A: Yes.  Yeah. Well, I think sometimes through groups and organizations, um, uh, when they asked the question I thought, well that sounds wonderful. And then, I wondered if people were unwilling but I think even if you went in with a negative attitude I don't think it would stay negative very long. Can we infer that \"that attitude would stay negative very long\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|can we infer|#170"
+    ],
+    [
+        "A: Yeah, they did. They put a lot of pressure on him from the outside and from the inside. Uh, it's funny watching them play, he's probably like a lot of quarterbacks, uh, when the pressure is really on when it's down to the last few minutes of the game for the season is when the guys seem to really do their best. B: Uh-huh. A: And I haven't quite figured that out, if they figure they have got it won or if there's no real hurry because the first three quarters or, uh, uh, if something happens that that adrenalin starts flowing. \n\nQuestion: Does this imply that \"they have got it won\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|does this imply|#126"
+    ],
+    [
+        "A: or you know, it doesn't seem that it's going to make much of a difference. B: Uh-huh. It, I mean, I don't know, I don't think George Bush will make the American people happy with ninety-seven cents a week.\nQuestion: George Bush will make American people happy with ninety-seven cents a week True, False, or Neither?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|GPT-3 style|#237"
+    ],
+    [
+        "A: and then once they do get elected, they don't have the power or the authority or the willingness to do those things that they promised, you know, beforehand. B: Right. A: You know, maybe it just wasn't possible at all in the first place, you know, like the no new taxes thing. You know, that's, uh, with the economy going the way it is and everything, that was nearly ridiculous thing to, even try to do. B: Yeah.  Yeah. Well, I don't think he's going to have to worry about that next year.\nQuestion: he's going to have to worry about that next year True, False, or Neither?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|GPT-3 style|#121"
+    ],
+    [
+        "Suppose it's true that Nora calculated that there must be lots of single men up there so she decided it was ideal for the ``manhunt'', as we called it, even though the train fare was a serious consideration. I remember we went up to Euston together one Saturday morning, very excited, to buy the ticket in advance. It was a secret - if my parents had known she was going away alone they would have soon put the kybosh on it. Then, is \"Nora was going away alone\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#31"
+    ],
+    [
+        "B: but if they get the little tiny kids saving it now, in five years, when they get bigger, it'll work a little bit more, too. A: Yeah.  True. B: Because it's, we've all got to do it right now. I just, I really amazed to find out that, eighty per cent are filled now, in garbage fills. In five years we're supposed to be at max. A: Uh-huh. B: I don't think I can keep my own garbage. Based on the previous passage, is it true that \"she can keep her own garbage\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#138"
+    ],
+    [
+        "Given that She swallowed hard, unsure if she had the nerve to go ahead. The memory of the pain in Tara's eyes last night decided her. Did he really expect her to believe that Tara was only the housekeeper? Therefore, it must be true that \"Tara was only the housekeeper\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#64"
+    ],
+    [
+        "B: Yeah. Those are pretty. A: Number one turned out just great, and the lady said she couldn't believe that they know that I had done it in the color that they had decorated the nursery \n\nKeeping in mind the above text, consider: they know that she had done it in the colors that they had decorated the nursery Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#232"
+    ],
+    [
+        "He's weird enough to have undressed me without thinking, according to some mad notion of the ``proper'' thing to do. Perhaps he thought I couldn't lie in bed with my clothes on. Based on the previous passage, is it true that \"she couldn't lie in bed with her clothes on\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#23"
+    ],
+    [
+        "B: You know, back around, you know, in the twenties and thirties when they were growing up, uh, you know, they were all located together, in one small community. A: Right, right.  Right. B: And I mean when time went on the family grew and moved away and so forth. And now when they come together it's generally, you know, like say the kids of those people who are not, you know, anywhere near one another and I do not think they feel the closeness that they used to be there. Which is a shame Based on that information, is the claim: \"they feel the closeness that they used to be there\" true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#191"
+    ],
+    [
+        "Take the following as truth: A: and then once they do get elected, they don't have the power or the authority or the willingness to do those things that they promised, you know, beforehand. B: Right. A: You know, maybe it just wasn't possible at all in the first place, you know, like the no new taxes thing. You know, that's, uh, with the economy going the way it is and everything, that was nearly ridiculous thing to, even try to do. B: Yeah.  Yeah. Well, I don't think he's going to have to worry about that next year.\nThen the following statement: \"he's going to have to worry about that next year\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#121"
+    ],
+    [
+        "I'm sorry, I 've put you in an invidious position. If you're being run by Morton, he 'll want to hear all this. It won't do any harm but I 'd rather not give him food for thought because I consider him an idiot and I don't think he's capable of interpreting it correctly. Are we justified in saying that \"Morton is capable of interpreting this food for thought correctly\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#60"
+    ],
+    [
+        "Given A: but, it was interesting to, I don't know if they're making them better or not, it's hard to say. I think they more of their parts plastic, which, you know, makes things break easier, but I think the technology is better. B: I think technology is better, I'm not sure. I think you've got a good point with the plastic and that. A: About quality. B: I don't think necessarily that, things are being made better uh, you know, Is it guaranteed true that \"things are being made better\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#208"
+    ],
+    [
+        "``Look, lady, give me a break. I just deliver the stuff, I don't interview it for the Sunday papers.'' He waved the paper at her and even at a distance she could see that it said very little. Using only the above description and what you know about the world, \"the paper said very little\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#11"
+    ],
+    [
+        "B: Yeah. Those are pretty. A: Number one turned out just great, and the lady said she couldn't believe that they know that I had done it in the color that they had decorated the nursery Are we justified in saying that \"they know that she had done it in the colors that they had decorated the nursery\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#232"
+    ],
+    [
+        "Take the following as truth: Why should this topic matter? You talked about everything else as you usually do. Why should I feel Maelmuire is important?\nThen the following statement: \"Maelmuire is important\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#66"
+    ],
+    [
+        "``His name is Matthew Blake,'' Mandy informed Charity as they descended the steps from their cabin on to the paved pathway that led to the lodge. Thankfully she hadn't even noticed that Charity had changed from the blue wrap-around skirt and was now wearing red shorts with her white silk blouse. Are we justified in saying that \"Charity had changed from the blue wrap-around skirt\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#49"
+    ],
+    [
+        "A: Big time there, sure is. B: It surely is. A: I don't think I'd go to work without a bulletproof vest on myself. \n\nQuestion: Does this imply that \"he would go to work without a bulletproof vest\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does this imply|#150"
+    ],
+    [
+        "Assume it is true that How do you know? she was going to ask, but his smile was answer enough. If DeVore said there was going to be a vacancy there would be a vacancy. \n\nTherefore, \"there was going to be a vacancy\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#78"
+    ],
+    [
+        "Given that B: and both of those seem very easy to use compared to D Base. A: Uh-huh. Do you think D Base is more flexible or allows you to do more. Or do you think the others are pretty much compatible these days? Therefore, it must be true that \"the others are pretty much compatible these days\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|must be true|#218"
+    ],
+    [
+        "``And you're not having this dress,'' Nora said, bending down to look at the price tag. ``It's two and a half guineas!'' she hissed at Louise who could tell that she was genuinely appalled. Based on the previous passage, is it true that \"Nora was genuinely appalled\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|based on the previous passage|#15"
+    ],
+    [
+        "What must it be like to be imprisoned here, day after day, month after month? I wonder, does he keep them chained and manacled, thought Fenella, or does he use sorcery? And so utterly immersed was she in this strange blue and green land that was not feeling strange any more that she did not even notice that she was weighing sorcery against steel chains and seriously considering the likely outcome. Are we justified in saying that \"Fenella was weighing sorcery against steel chains\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#45"
+    ],
+    [
+        "Take the following as truth: L. Underneath, in purple ink, had been added. ``And love, Fenella'', with a capital X as a kiss. I might have known Lisabeth wouldn't have walked up the stairs herself to leave the note.\nThen the following statement: \"Lisabeth wouldn't have walked up the stairs herself to leave a note\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#105"
+    ],
+    [
+        "Assume it is true that B: And I don't think that rehabilitation is effective. A: Right. Have to agree with you, and I'm kind of in favor of capital punishment also. I just don't think that it acts much as a deterrent to these people because, uh, you still see them committing the same crimes, \n\nTherefore, \"it acts much as a deterrent to these people\" is guaranteed, possible, or impossible?",
+        [
+            "Impossible"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#123"
+    ],
+    [
+        "But the damage was done as far as my faith was concerned, which is probably why I went mad. So anyway, that Christmas Eve night confirmed my worst fears, it was like a kind of ``royal flush'' for the infant Jimbo. All three kings - Pa Santa and the King of Kings - all down the pan together... And to be honest I don't believe any of them stands a chance of ever making a comeback with me. \n\nKeeping in mind the above text, consider: any of the three kings stands a chance of ever making a comeback with him Is this always, sometimes, or never correct?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#27"
+    ],
+    [
+        "Assume it is true that B: Yeah. How about Mister Rogers, is he still around? A: Yes. Yeah. They still show Mister Rogers. I don't think he's making new ones, \n\nTherefore, \"Mister Rogers is making new Mister Rogers\" is guaranteed, possible, or impossible?",
+        [
+            "Impossible"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#135"
+    ],
+    [
+        "Take the following as truth: A: But, uh, uh, I don't understand, I guess, why the schools seem to have such a high dropout rate in the big cities. B: Uh, well, I don't pretend to understand that either. Uh, but I'm not quite sure that it's the kind of thing that ought to be blamed on the schools. But then, again, I'm not quite sure where the blame ought to be put. Uh, because the dropout rate is, in those areas, w-, it's high in those areas where also there's poverty and crime. And they all seem to go together. And it seems like if you could eliminate one of the parts of that circle, where you have the dropout rate and crime and, you know, general poverty kind of conditions, that things ought to get better. So, uh, the other two a-, they're all three social issues and could be addressed by the government in any ways. And clearly, to me, is a kind of government thing to fix but it's just like, I don't expect them to know which part is best to fix just like I don't know. it's a complicated issue. I still don't think I would blame it directly on the school.\nThen the following statement: \"he would blame it directly on the school\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#148"
+    ],
+    [
+        "Suppose B: And as far as like them, uh, entertaining the rights that they should have. A: Uh-huh. B: I mean, we educate them, we feed them, we take care of them and they no sooner get out on the street and they're back in again. A: Uh-huh. B: I'm not saying they're all bad, Can we infer that \"they're all bad\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|can we infer|#202"
+    ],
+    [
+        "Given that A: I am right outside Baltimore. I am less than a mile from the Baltimore line. B: Um. A: And I go to a campus of the University of Maryland that is just, less than a mile from my house. So I'm actually in Baltimore, yeah, you could say I'm in Baltimore. Therefore, it must be true that \"he is in Baltimore\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#144"
+    ],
+    [
+        "Take the following as truth: However, I will let the gynandrous renegade stay here under one condition. If Penumbra questions either of us, we will not lie. If she suspects Crevecoeur is here and asks we let him go back.\nThen the following statement: \"Crevecoeur is here\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#82"
+    ],
+    [
+        "Assume it is true that Yet what good came from knowing that a woman had killed herself? The children who had suffered a trauma would survive the experience, scarred by it and a little flawed by it. They would never forget that for a week they had imagined the act of murder had been committed. \n\nTherefore, \"for a week the children had imagined the act of murder had been committed\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#30"
+    ],
+    [
+        "Given that B: She says that when her husband died oh, that my uncle had said that he would never put her in a rest home. So it's kind of, uh, I don't know. I mean, I don't think my parents would but she is getting pretty bad like she has to have like a little toilet right by her bed and, it's, A: Uh-huh. B: and my mom has to take care of her pretty much so it gets, I don't know. it's a hard decision, but I don't think I would do it to my parents personally. Does it follow that she would do it to her parents Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#149"
+    ],
+    [
+        "Assume it is true that A: I think so, I think, B: I really do. Oh, yeah, it's going to take, uh, you know, the police, I don't think can do it alone, you know. \n\nTherefore, \"the police can do it alone\" is guaranteed, possible, or impossible?",
+        [
+            "Impossible"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#182"
+    ],
+    [
+        "A: How do you feel about that. B: I don't really, I more, I don't know about the government as much as, uh, the people, uh, I wouldn't consider to be a threat at all and I really don't feel much like the Soviet Union itself is a threat anymore.\nQuestion: the Soviet Union itself is a threat still True, False, or Neither?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|GPT-3 style|#183"
+    ],
+    [
+        "Chopra stood unsteadily on his feet. The shapechanger bounded around with excitement. Chopra could tell something had happened. Are we justified in saying that \"something had happened\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#20"
+    ],
+    [
+        "So who knows? In a generation or two some of the New Crowd may attain true respectability, perhaps to be displaced in turn by a later flock of unscrupulous raptors. Or perhaps Wall Street, when it has suffered enough, will realize that finance is a service industry, and change its ethos.\nQuestion: finance is a service industry True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#246"
+    ],
+    [
+        "Suppose A: I got a friend who goes there, by the way. I want to talk to you about that afterward, okay. B: Okay. Uh, I've, the high school I went to uh, was a good one also. And well, I guess you could say one of the problems with the public education system is the disparity between different schools. Can we infer that \"one of the problems with the public education system is the disparity between different schools\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|can we infer|#167"
+    ],
+    [
+        "B: Uh, I have, uh, I guess a lot of thoughts about the Vietnam War, um, I guess I feel like I was pretty young while it was going on and so there's probably a lot of things I remember and a lot of things that I really didn't have a clue as to what was happening. B: Yeah. A: Um, looking back, like maybe some of the things that I know now, I'm not sure I do believe it was worth the cost in dollars and lives. That was one of the questions that she asked us to think about, because we never went to war. I don't think we were committed to winning it and getting out Using only the above description and what you know about the world, \"they were committed to winning the Vietnam War and getting out\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Incorrect"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#198"
+    ],
+    [
+        "Take the following as truth: Anna looked at Peter again and said to herself in a guilty whisper, ``Will he become even more difficult?'' She wondered if a stranger could tell that he was difficult, just by looking at him. Would such a person watching Peter now reading the prayers of Rite B in his level pleasant voice notice that resentment lay like his blood just under his skin because the life he had chosen had not turned out as he had expected it to?\nThen the following statement: \"resentment lay just under Peter's skin\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#74"
+    ],
+    [
+        "B: um, they try to encourage you to follow a specific curriculum, although you don't have to. A: Uh-huh. B: And then if you have particular religious beliefs they're kind of monitored. You know, they will allow you to, I can't think of any examples but certain religious groups don't want their children in public schools because the influence. And maybe they were a group of Mennonites or something like that. A: Uh-huh. B: I don't think they're were in this area Are we justified in saying that \"they were in this area\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#199"
+    ],
+    [
+        "A: I do too. I believe about ten years ago that we went through a terrible time, but I don't, I believe that they're better now, you know, wh-, B: I think so. I don't think they're shoddy Using only the above description and what you know about the world, \"they're shoddy\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Incorrect"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#206"
+    ],
+    [
+        "B: I do not know. I wonder where he gets it? You know, you must, I think TV is bad. Because they, uh, show all sorts of violence on, A: That and I do not think a lot of parents, I mean, I do not know how it is in the Air Force base. But, uh, I just do not think a lot of people, because of the economy, both need to work, you know. I just do not think a lot of parents are that involved any more. Are we justified in saying that \"a lot of parents are that involved\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#234"
+    ],
+    [
+        "Given that A: But, uh, B: Okay.  Uh, uh, I've had one or two American cars I think, and they were okay. I had a Pontiac once and I never had a problem with it, but, uh, my mother had a Dodge at one point and I had driven it a few times and I really did not feel that I would buy a Dodge just from, Does it follow that she would buy a Dodge Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#158"
+    ],
+    [
+        "Suppose it's true that At this time of year not much, it's been a dryish summer, and there's not a lot of water coming down. Say half a knot - and that's probably an over-estimate. If you say that a freely-floating body - and the weights would help a bit there because they'd keep it under water and out of any wind - moves down on the ebb at an average of a bit under two knots you'd not be far wrong. Then, is \"a freely-floating body moves down on the ebb at an average of a bit under two knots\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#81"
+    ],
+    [
+        "A: It was just a side benefit. B: Yeah, yeah, because, I'm not big or anything, but I'm not in great shape, But when I worked out, I got in pretty good shape. I didn't build up muscle, though, I just got real good and toned. A: Yeah. B: I don't think women look good with muscles. Based on the previous passage, is it true that \"women look good with muscles\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#209"
+    ],
+    [
+        "Given that A: Do you go to museums in Europe? B: Uh, actually, no, I don't think I went to any of them. Does it follow that she went to some of them Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#146"
+    ],
+    [
+        "Given She said good morning to Alice and Alice said hallo. She was thin and rather tall with a very lined gentle face and hair that was white but which Alice could see had once been blonde. She could also have told this was Tina's mother before Mrs Darne went off down the passage that led to the Headmaster's Flat. Should we assume that \"this was Tina's mother\" is true? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|should assume|#16"
+    ],
+    [
+        "Gloria remarked as they shared their coffee break in the kitchen. Melissa suppressed a sigh. She had hoped to dodge the subject but might have known that Gloria's boundless interest in all things morbid and sensational would make it impossible. \n\nKeeping in mind the above text, consider: Gloria's boundless interest in all things morbid and sensational would make dodging the subject impossible Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#100"
+    ],
+    [
+        "``Oh, very well,'' he said wearily. He might have known that it was useless to argue with McAllister - her tongue was as long as her will was strong. Based on the previous passage, is it true that \"it was useless to argue with McAllister\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|based on the previous passage|#102"
+    ],
+    [
+        "But the horror of losing was as much to do with money as with pride. Biddy had never let them down, come without fail all through the bad weather, and now was giving Nails an intensive course on her own horse which - in terms of money - was worth another couple of hundred pounds. Yet surely she knew they had no way of paying should she demand it? \n\nKeeping in mind the above text, consider: they had no way of paying Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#68"
+    ],
+    [
+        "And I was excited by my new importance. Proud and pleased to be playing opposite Frank Donovan who had once stood in for Hayden Coffin. Occasionally perhaps I should notice that he was not the jovial easy-going character I remembered from my humble place in the chorus. \n\nKeeping in mind the above text, consider: Frank Donovan was not the jovial easy-going character she remembered Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#109"
+    ],
+    [
+        "A: Highland Park's thinking about going that route. B: Uh-huh. A: So it, and then I think that's going to push teachers to dress a lot more professionally than they do. B: Yeah, I don't think a lot of teachers are very professional\nQuestion: a lot of teachers are very professional True, False, or Neither?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|GPT-3 style|#235"
+    ],
+    [
+        "A: Boy that's scary, isn't it. B: Oh, can you imagine, because it happens in the middle of the night, so you know, these parents didn't know the kid was gone until the kid is knocking on the door screaming, let me in.\nQuestion: the kid was gone True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#178"
+    ],
+    [
+        "Given that A: it was so fattening. B: That sounds good. A: But, I don't think we gained any weight from it Does it follow that they gained any weight from it Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#192"
+    ],
+    [
+        "A: I, that would have been stupid, B: Yeah. A: and I don't think we did it. Everything else we handled in this seemed to be perfectly right. I don't think they would have done that.\nQuestion: they would have done that True, False, or Neither?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|GPT-3 style|#200"
+    ],
+    [
+        "Given B: Uh-huh. It, I mean, I don't know, I don't think George Bush will make the American people happy with ninety-seven cents a week. A: No, no, not at all. B: I just don't think it was a well thought out incentive. Is it guaranteed true that \"it was a well thought out incentive\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#128"
+    ],
+    [
+        "Given that Anna looked at Peter again and said to herself in a guilty whisper, ``Will he become even more difficult?'' She wondered if a stranger could tell that he was difficult, just by looking at him. Would such a person watching Peter now reading the prayers of Rite B in his level pleasant voice notice that resentment lay like his blood just under his skin because the life he had chosen had not turned out as he had expected it to? Does it follow that resentment lay just under Peter's skin Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#74"
+    ],
+    [
+        "Suppose it's true that Like now. The Community in Knockglen would defend Eve vociferously. Even some of the Sisters here in Dublin might see that the girl had a point. Then, is \"the girl had a point\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#8"
+    ],
+    [
+        "Assume it is true that Jane ate without pausing. Hunger was an unknown experience. She had never imagined it could actually hurt. \n\nTherefore, \"hunger could actually hurt\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#34"
+    ],
+    [
+        "Given B: She says that when her husband died oh, that my uncle had said that he would never put her in a rest home. So it's kind of, uh, I don't know. I mean, I don't think my parents would but she is getting pretty bad like she has to have like a little toilet right by her bed and, it's, A: Uh-huh. B: and my mom has to take care of her pretty much so it gets, I don't know. it's a hard decision, but I don't think I would do it to my parents personally. Should we assume that \"she would do it to her parents\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#149"
+    ],
+    [
+        "B: but I found that, uh, it was made of some material which actually ended up rusting uh, after, A: Oh. B: even, despite, you know, diligent washing, it got rusty after about, uh, three weeks of use. And I don't think it was my fault because you know, I had made a point of like drying it off and cleaning it Based on the previous passage, is it true that \"it was his fault\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#129"
+    ],
+    [
+        "Miss Martindale had had a school, but her rigid ideas and stern manner had frightened the children, and their parents had taken them away. And gradually the school declined, until she had to give it up and retire to end her days in the white cottage with the inevitable cat as her only companion. Breeze had never imagined that digging was such hard work. Based on that information, is the claim: \"digging was such hard work\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#35"
+    ],
+    [
+        "Given that B: The kind you have sounds very interesting, though. A: Well, um, they're really sweet dogs. uh, we thought probably our neighborhood in Houston had more of this breed than any other place just because of, um, the family that had them and bred them. Does it follow that their neighborhood in Houston had more of this breed than any other place because of the family that had them and bred them Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#190"
+    ],
+    [
+        "Assume it is true that ``His name is Matthew Blake,'' Mandy informed Charity as they descended the steps from their cabin on to the paved pathway that led to the lodge. Thankfully she hadn't even noticed that Charity had changed from the blue wrap-around skirt and was now wearing red shorts with her white silk blouse. \n\nTherefore, \"Charity had changed from the blue wrap-around skirt\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#49"
+    ],
+    [
+        "I ducked so fast I wasn't sure whether he 'd seen me or not, but it gave me a prickly feeling just to imagine it, so I scuttled for the door and legged it up the spiral stairway three steps at a time, just in case. As I ran, I remember thinking stupid thoughts like. How did he know I was up here looking down?\nQuestion: he was up there looking down True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#69"
+    ],
+    [
+        "Take the following as truth: O listened. As he listened he could smell the man. And he could hear that the song was almost turning into a sob.\nThen the following statement: \"the song was almost turning into a sob\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#93"
+    ],
+    [
+        "Given B: I understand we are doing care of the elderly, right? A: Yes. B: And how do you feel about putting someone in the nursing home? A: Well, I don't think that uh, any of my relatives would really like to go there. Should we assume that \"some of her relatives would really like to go there\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#160"
+    ],
+    [
+        "Given that A: so I watch the fish, you know. Whatever I can do to keep myself occupied. I like to have the TV on, because that usually keeps me, um, more occupied. It kind of takes the time away and I don't realize, that's really the only time I ever watch TV, is when I'm on the bike. and then usually after I'm done riding the bike, just to cool myself down, I usually take a walk, you know, and that just kind of uh, gets me, you know, to where I'm not quite as tired I guess. But it's definitely a task. B: You think so? A: I can't say that I really enjoy it. Therefore, it must be true that \"she really enjoys it\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#230"
+    ],
+    [
+        "Given ``For such a person, finding a protector might not be so difficult, even in Edinburgh.'' Jean smiled. He might have known that even someone as sensible as Miss van Wiliamsburgh would try to make a play of this sort. Should we assume that \"even someone as sensible as Miss van Williamsburgh would try to make a play of this sort\" is true? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|should assume|#104"
+    ],
+    [
+        "B: Yeah. It's, uh, I have modem night computer so I can log into the, uh, network at Georgia Tech and access my account through there, which can be useful. But, uh, yeah that and word processing is while I tend to, I mean, obviously, I do almost all of my report writing on my computer, uh, whether it's term papers or even some smaller homework assignments. A: Uh-huh. B: So it's I don't know, really become my mainstay I guess. I can't even remember, actually I don't think I've ever used a typewriter in my life to do a report. Because my family, when I was growing up, we got a basic computer. TRS Eighty when they first came out.\nQuestion: he has used a typewriter to do a report True, False, or Neither?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|GPT-3 style|#143"
+    ],
+    [
+        "Suppose B: And the tanks came in and, you know, pretty much took care of that. A: Exactly. B: And, A: Yeah, uh, that, personally I don't see as Gorbachev as being maybe a threat, and I think he's actually, honestly trying to do some change. B: Uh-huh. A: But I don't believe that he, in this first pass around, you know, being the first one to really turn things around or attempt to is going to be allowed to get away with it either. Can we infer that \"Gorbachev is going to be allowed to get away with doing some change\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|can we infer|#239"
+    ],
+    [
+        "Given that She said good morning to Alice and Alice said hallo. She was thin and rather tall with a very lined gentle face and hair that was white but which Alice could see had once been blonde. She could also have told this was Tina's mother before Mrs Darne went off down the passage that led to the Headmaster's Flat. Does it follow that this was Tina's mother Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#16"
+    ],
+    [
+        "Given that It is all very well, in these changing times, to adapt one's work to take in duties not traditionally within one's realm. But bantering is of another dimension altogether. For one thing how would one know for sure that at any given moment a response of the bantering sort is truly what is expected? Therefore, it must be true that \"at any given moment a response of the bantering sort is truly what is expected\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|must be true|#67"
+    ],
+    [
+        "Suppose He also liked swimming and cycling. He said that he wrote stories, though he had to admit that he had never got further than the first two pages. Willie meanwhile not only remained silent during these conversations but picked his berries slowly so that they might forget that he was there but he reckoned without Zach. Can we infer that \"Willie was there\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|can we infer|#91"
+    ],
+    [
+        "A: Yeah, they did. They put a lot of pressure on him from the outside and from the inside. Uh, it's funny watching them play, he's probably like a lot of quarterbacks, uh, when the pressure is really on when it's down to the last few minutes of the game for the season is when the guys seem to really do their best. B: Uh-huh. A: And I haven't quite figured that out, if they figure they have got it won or if there's no real hurry because the first three quarters or, uh, uh, if something happens that that adrenalin starts flowing. Are we justified in saying that \"they have got it won\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|justified in saying|#126"
+    ],
+    [
+        "``I wanted to tell you. But the Bookman asked me to keep our meeting a secret.'' How did you know I 'd met him? \n\nQuestion: Does this imply that \"he had met the Bookman\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does this imply|#71"
+    ],
+    [
+        "Given that So who knows? In a generation or two some of the New Crowd may attain true respectability, perhaps to be displaced in turn by a later flock of unscrupulous raptors. Or perhaps Wall Street, when it has suffered enough, will realize that finance is a service industry, and change its ethos. Does it follow that finance is a service industry Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#246"
+    ],
+    [
+        "Ockleton, Morpurgo, Cornelius, Dysart and half a dozen others too drunk to mention. But there was so much coming and going that any one of us could have slipped out, pushed Everett through the window and slipped back again without being noticed. Damn it all we didn't even notice Everett was missing until a porter tripped over him in the quad so anything's theoretically possible. Using only the above description and what you know about the world, \"Everett was missing\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#51"
+    ],
+    [
+        "Given A: That is the reason, I don't play over there. B: Yeah. A: I like the course, but I don't play over there because, they don't, uh, you know don't allow you to pull a cart. B: Right. A: And, I don't think a cart damages the turf. Is it guaranteed true that \"a cart damages the turf\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#233"
+    ],
+    [
+        "Given A: But, uh, B: Okay.  Uh, uh, I've had one or two American cars I think, and they were okay. I had a Pontiac once and I never had a problem with it, but, uh, my mother had a Dodge at one point and I had driven it a few times and I really did not feel that I would buy a Dodge just from, Is it guaranteed true that \"she would buy a Dodge\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#158"
+    ],
+    [
+        "Assume it is true that A: and then once they do get elected, they don't have the power or the authority or the willingness to do those things that they promised, you know, beforehand. B: Right. A: You know, maybe it just wasn't possible at all in the first place, you know, like the no new taxes thing. You know, that's, uh, with the economy going the way it is and everything, that was nearly ridiculous thing to, even try to do. B: Yeah.  Yeah. Well, I don't think he's going to have to worry about that next year. \n\nTherefore, \"he's going to have to worry about that next year\" is guaranteed, possible, or impossible?",
+        [
+            "Impossible"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#121"
+    ],
+    [
+        "Given that But he ended up eating it himself. I was reluctant to kiss my mother, afraid that somehow her weakness and unhappiness would infect me. Naturally I didn't think for a minute that my life and spirit could stimulate her. Therefore, it must be true that \"her life and spirit could stimulate her mother\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#58"
+    ],
+    [
+        "A: Uh, well then you must know a lot more about this than I do. B: Uh, I think, uh, the system right now, you know, you know, is fine. I think it should be by a jury. I don't think the judge should have, I mean he's just there kind of like the referee. A: Uh-huh, Uh-huh. B: Uh, I don't even think that it should be unanimous either. Uh, Are we justified in saying that \"it should be unanimous\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#127"
+    ],
+    [
+        "Suppose Then it cried. It was another girl. I was a little disappointed but I could only hope that Celia was still a bit hazy from the drugs. Can we infer that \"Celia was still a bit hazy from the drugs\"? Yes, no, or maybe?",
+        [
+            "Maybe"
+        ],
+        "super_glue-cb|train|can we infer|#96"
+    ],
+    [
+        "Take the following as truth: ``Molly likes having an audience for her tales and it passes the hours for them.'' When Miss Louisa had a second more severe stroke at the end of August, and Miss Ellen another heart attack, both old ladies died within a few days of each other. Their friends could only feel that death was merciful in the circumstances especially with war imminent and that Molly had made the closing months of their lives very happy.\nThen the following statement: \"death was merciful in the circumstances\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#89"
+    ],
+    [
+        "Given that ``I wanted to tell you. But the Bookman asked me to keep our meeting a secret.'' How did you know I 'd met him? Therefore, it must be true that \"he had met the Bookman\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#71"
+    ],
+    [
+        "Look, my dear, I'm not in my dotage yet, and I know I'm a grumbler and a complainer. You could say the only form of comfort I 've got are my complaints. \n\nKeeping in mind the above text, consider: the only form of comfort he has are his complaints Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#5"
+    ],
+    [
+        "Given that A: But, uh, uh, I don't understand, I guess, why the schools seem to have such a high dropout rate in the big cities. B: Uh, well, I don't pretend to understand that either. Uh, but I'm not quite sure that it's the kind of thing that ought to be blamed on the schools. But then, again, I'm not quite sure where the blame ought to be put. Uh, because the dropout rate is, in those areas, w-, it's high in those areas where also there's poverty and crime. And they all seem to go together. And it seems like if you could eliminate one of the parts of that circle, where you have the dropout rate and crime and, you know, general poverty kind of conditions, that things ought to get better. So, uh, the other two a-, they're all three social issues and could be addressed by the government in any ways. And clearly, to me, is a kind of government thing to fix but it's just like, I don't expect them to know which part is best to fix just like I don't know. it's a complicated issue. I still don't think I would blame it directly on the school. Does it follow that he would blame it directly on the school Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#148"
+    ],
+    [
+        "A: Well, how do you feel about the immigration laws? B: At, currently, I think they are a little restrictive. Uh, particularly for, uh, certain ethnic groups or from certain countries. Um, I think we should permit, uh, more immigration from eastern Europe, for example, uh, particularly uh, the Jewish, uh, uh, people from Russia. I think we could permit more of them in than we have permitted in the last, uh, several years. And, I think we have, uh, uh, too much restriction uh, on the Orientals also, but, of course, that's just my opinion. A: Yeah, well, I'm not real sure why I got this topic, because I don't think I checked it off on the list because I know very little about the current immigration laws. \n\nQuestion: Does this imply that \"he checked the topic off on the list\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does this imply|#119"
+    ],
+    [
+        "Given A: I got a friend who goes there, by the way. I want to talk to you about that afterward, okay. B: Okay. Uh, I've, the high school I went to uh, was a good one also. And well, I guess you could say one of the problems with the public education system is the disparity between different schools. Should we assume that \"one of the problems with the public education system is the disparity between different schools\" is true? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|should assume|#167"
+    ],
+    [
+        "Given B: I think that not only applies inside the public school system, but in society itself. there's been too much negative reinforcement. How much, like, the caught being good slips. How about, just the John Q citizen out there on the street? A: Yeah, well that's true. I think, really though, I mean, that's one thing that, I mean, my kids definitely get spanked when they need to be spanked. But I really do try to use positive, uh, reinforcement with them at home, also. And it really helps. And I mean, they don't get spanked very often, but they do when they deserve it, you know. But, uh, I don't think any kid should be exempt from being spanked. I mean, I think I wouldn't mind if a teacher spanked my child. But, you know, that's just my personal opinion, and that's not going to, I mean, I don't think that law will ever change. Is it guaranteed true that \"the law will change\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#180"
+    ],
+    [
+        "Given that ``Yes?'' ``Nathan?'' He could tell it was long-distance the line was so gravelly and hollow but he didn't recognise the voice. Does it follow that the call was long-distance Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#19"
+    ],
+    [
+        "``Do you mind if I use your phone?'' Ronni could see that Guido's brain was whirring.\nQuestion: Guido's brain was whirring True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#10"
+    ],
+    [
+        "B: you know, sometimes I would go over, but you know, it wouldn't hit me in a big way because I knew that, uh, I would have it covered in that respect. A: Right.  Right. That's good. I don't think we've gone that far, to pay it you know, in advance before we spend it, Are we justified in saying that \"they've gone that far\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#207"
+    ],
+    [
+        "Given that B: So am I. A: Are you, B: You know, I think it's kind of coming back around to that, don't you, Does it follow that it's kind of coming back around to that Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|does it follow that|#214"
+    ],
+    [
+        "Suppose it's true that A: I got a friend who goes there, by the way. I want to talk to you about that afterward, okay. B: Okay. Uh, I've, the high school I went to uh, was a good one also. And well, I guess you could say one of the problems with the public education system is the disparity between different schools. Then, is \"one of the problems with the public education system is the disparity between different schools\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#167"
+    ],
+    [
+        "B: Well, I was never there for any sentencing. Uh, I finally got empaneled on one case, uh, on my next to the last day, and, uh, we got into the, uh, jury room to, uh, decide the case, and there was one guy on the jury who announced to everybody that he didn't need to deliberate, because he'd already decided that the guy was, uh, not guilty, and he would never vote for guilty. A: Huh. B: So, uh, they appointed me jury foreman and I, uh, didn't think that, uh, going in without deliberating allowed us to reach a verdict, \n\nQuestion: Does this imply that \"going in without deliberating allowed them to reach a verdict\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does this imply|#238"
+    ],
+    [
+        "However, I will let the gynandrous renegade stay here under one condition. If Penumbra questions either of us, we will not lie. If she suspects Crevecoeur is here and asks we let him go back.\nQuestion: Crevecoeur is here True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#82"
+    ],
+    [
+        "He had seen something I should have, which was a car turning in from Soho Square and coming up behind me. My right foot hovered over the accelerator pedal and I balanced Armstrong on the clutch. I wasn't as convinced as Malpass that Nevil was out of harm's way. Based on the previous passage, is it true that \"Nevil was out of harm's way\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#28"
+    ],
+    [
+        "Given If there are spirits at work at the time, they come only from yourself, not from the fume of the incense. Why should spirits aid living beings? What arrogance is it that drives people to believe they can have power over them? Should we assume that \"people can have power over spirits\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#65"
+    ],
+    [
+        "Like now. The Community in Knockglen would defend Eve vociferously. Even some of the Sisters here in Dublin might see that the girl had a point. Based on that information, is the claim: \"the girl had a point\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#8"
+    ],
+    [
+        "That is to say, I did not take sufficient account of the fact that at that time of the day, what Mr Farraday enjoys is a conversation of a lighthearted, humorous sort. Knowing this to be his likely mood when I brought in the tea yesterday afternoon, and being aware of his general propensity to talk with me in a bantering tone at such moments, it would certainly have been wiser not to have mentioned Miss Kenton at all. But you will perhaps understand that there was a natural tendency on my part in asking what was after all a generous favour from my employer to hint that there was a good professional motive behind my request. Based on that information, is the claim: \"there was a natural tendency on her part to hint that there was a good professional motive behind her request\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#24"
+    ],
+    [
+        "Take the following as truth: Chopra stood unsteadily on his feet. The shapechanger bounded around with excitement. Chopra could tell something had happened.\nThen the following statement: \"something had happened\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#20"
+    ],
+    [
+        "Take the following as truth: B: And I've worked in the hospital for fifteen years and I've taken care of a few AIDS patients. A: Uh-huh. B: Uh, when they asked us did we want to, uh, keep it the same or, uh, spend more, spend less, uh, I think right now what they're spending is adequate. Uh, for my personal opinion. Uh, because I think it's something that's going to take them a while to come up with a, uh, vaccine for. A: Yeah.  Uh-huh.  Uh-huh. B: I don't think it's going to be that easy to come up with\nThen the following statement: \"it is going to be that easy to come up with\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#125"
+    ],
+    [
+        "Suppose it's true that But, of course, that just wasn't possible. Her disappointment over Jonathan, which had driven her to France in the first place, had been relegated somewhere to the back of her mind. Now in retrospect she could see that marriage to him would have been a ghastly mistake and that her reaction to discovering that he had been seeing other women while he had been engaged to her had had far more to do with wounded pride than with a wounded heart. Then, is \"marriage to Jonathan would have been a ghastly mistake\" always, sometimes, or never true?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#7"
+    ],
+    [
+        "Given that B: I look at our big green containers, and I say, well, they work fine and I keep mine outside the garage so that I don't have any odors but it's clearly a place where, uh, uh, A: Oh, right. B: it will be interesting to see how well that works and I'm glad the community is doing it. Uh, it's one of those things that kind of has to be forced on people. Uh, I don't know what you saw back, uh, years ago, but for me the thing that strikes me is uh, growing up in rural South Dakota where, hey the farmers brought their eggs to town and the local hatchery would candle them and package them is that, uh, in the fifties, uh, you could say we had the recycling going on then that we should have now. Which was all the milk bottles were glass Therefore, it must be true that \"they had the recycling going on then that they should have now\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#195"
+    ],
+    [
+        "Given that He pulled occasionally, his arms tiring. Conker slowed a little, but the branches were coming too fast, he had to lean right forward and couldn't use his hands. He remembered the gate at the end of the track had time to hope it was open because he didn't think Conker could jump it. Therefore, it must be true that \"Conker could jump the gate\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#57"
+    ],
+    [
+        "``Ely,'' I said (that was her name and the first time I 'd ever used it), ``I want to be free.'' She looked stunned. I don't think she 'd considered this. Based on that information, is the claim: \"Ely had considered him wanting to be free\" true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#59"
+    ],
+    [
+        "B: That might be kind of tough, huh. A: It really would, yes, yes, and like I said, my sister's still in it, and I really don't think my mother'd want to be there, either. Are we justified in saying that \"his mother would want to be there\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#152"
+    ],
+    [
+        "Given Merrill dropped into her chair. That altercation with Luke had drained her. She might have known that he would never divulge his relationship with Elise. Should we assume that \"Luke would never divulge his relationship with Elise\" is true? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|should assume|#101"
+    ],
+    [
+        "Given B: I think that not only applies inside the public school system, but in society itself. there's been too much negative reinforcement. How much, like, the caught being good slips. How about, just the John Q citizen out there on the street? A: Yeah, well that's true. I think, really though, I mean, that's one thing that, I mean, my kids definitely get spanked when they need to be spanked. But I really do try to use positive, uh, reinforcement with them at home, also. And it really helps. And I mean, they don't get spanked very often, but they do when they deserve it, you know. But, uh, I don't think any kid should be exempt from being spanked. Should we assume that \"some kid should be exempt from being spanked\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#159"
+    ],
+    [
+        "Given that When he was there we were Bonnie and Clyde, now he was gone we were Blondie and Dagwood. Or rather, now he was gone, I was Dennis. If I 'd been smarter or less vain I might have realized that this meant that my former role was now vacant. Therefore, it must be true that \"this meant her former role was now vacant\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#111"
+    ],
+    [
+        "She might have sat all afternoon, nibbling and stuporous, exhausted but not sleepy. But the glazier finally came down from the upper floor, cheerfully announcing that all was now right and tight and he would be on his way. Maggie could tell that he would have liked to stop for a chat that he felt sorry for her left on her own but she lacked either her grandmother's grace or her mother's energy so she did not offer him tea. Based on that information, is the claim: \"the glazier would have liked to stop for a chat\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#17"
+    ],
+    [
+        "Given A: I spend a lot of time reading about these things. I'm quite interested. I find it very exciting for the coverage we have now, today. B: Yes and I think we do get pretty good coverage. I don't feel that the American people is being shortchanged by uh, the news coverage. Is it guaranteed true that \"the American people are being shortchanged by the news coverage\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#175"
+    ],
+    [
+        "Given B: Yeah, and the ground will filter some of it but not all of it. A: No, not when you figure, I didn't realize one cow produces that much manure Should we assume that \"one cow produces that much manure\" is true? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|should assume|#136"
+    ],
+    [
+        "Given Then the silence in the Zoo became complete. Woil stared around him and then suddenly with a push of his wings raised himself into the air, turned, and landed ten feet away on the back of a green bench. Creggan could see that he was afraid and that his fear was making him terribly uncertain. Is it guaranteed true that \"Woil was afraid\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|guaranteed true|#6"
+    ],
+    [
+        "I said you were mad to come over at this time. It's a world event. Don't you know that Venice is packed with visitors? Are we justified in saying that \"Venice is packed with visitors\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#37"
+    ],
+    [
+        "But he ended up eating it himself. I was reluctant to kiss my mother, afraid that somehow her weakness and unhappiness would infect me. Naturally I didn't think for a minute that my life and spirit could stimulate her. \n\nKeeping in mind the above text, consider: her life and spirit could stimulate her mother Is this always, sometimes, or never correct?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#58"
+    ],
+    [
+        "Richard Breeden had n't noticed that his new desk had just four telephone lines and one phone .\nQuestion: Richard Breeden's new desk had just four telephone lines and one phone True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#247"
+    ],
+    [
+        "A: and if they weren't spending all the money on drug testing, people could have got a raise. So, see, you know, there's different, I think that's more of a personal view of mine other than a yes, sir, we should have drug testing because there's really a problem B: Uh-huh. A: and I know that. But then, I have other views to it. B: I didn't think it was that expensive because my son was in probably a week and a half period Based on that information, is the claim: \"it was that expensive\" true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#130"
+    ],
+    [
+        "She might have sat all afternoon, nibbling and stuporous, exhausted but not sleepy. But the glazier finally came down from the upper floor, cheerfully announcing that all was now right and tight and he would be on his way. Maggie could tell that he would have liked to stop for a chat that he felt sorry for her left on her own but she lacked either her grandmother's grace or her mother's energy so she did not offer him tea. Are we justified in saying that \"the glazier would have liked to stop for a chat\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#17"
+    ],
+    [
+        "Suppose it's true that That evening Shannon steered well clear of Dane, all but tiptoeing around him, determined not to land in any more confrontations. From now till this snow siege ended, she would simply live under the same roof, but keep to her own side of an invisible barrier, she decided. She could only hope he 'd do the same. Then, is \"Dane would do the same\" always, sometimes, or never true?",
+        [
+            "Sometimes"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#95"
+    ],
+    [
+        "B: She says that when her husband died oh, that my uncle had said that he would never put her in a rest home. So it's kind of, uh, I don't know. I mean, I don't think my parents would but she is getting pretty bad like she has to have like a little toilet right by her bed and, it's, A: Uh-huh. B: and my mom has to take care of her pretty much so it gets, I don't know. it's a hard decision, but I don't think I would do it to my parents personally. Based on the previous passage, is it true that \"she would do it to her parents\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#149"
+    ],
+    [
+        "Assume it is true that For a while the notion gripped him, and he prowled the many floors of Hamleys looking for toys. He bought a magic set for Sebastian (although his ideal present for the kid would have been a brand-new name) and a marionette for Louise. He could remember that there was an age for puppets and magic just as he could remember the time that he 'd spent trying to fan a deck of cards or sitting in front of a mirror trying to get the hard consonants down like a real ventriloquist. \n\nTherefore, \"there was an age for puppets and magic\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#112"
+    ],
+    [
+        "Given that B: Yeah. How about Mister Rogers, is he still around? A: Yes. Yeah. They still show Mister Rogers. I don't think he's making new ones, Therefore, it must be true that \"Mister Rogers is making new Mister Rogers\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#135"
+    ],
+    [
+        "Given that B: So again, it never really penalizes, the company doing the wrong. A: Right. That will, B: They can go right on doing the same old thing they always used to. A: Huh. B: And if they know some practice is wrong, you know, Therefore, it must be true that \"some practice is wrong\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#212"
+    ],
+    [
+        "Given A: so I watch the fish, you know. Whatever I can do to keep myself occupied. I like to have the TV on, because that usually keeps me, um, more occupied. It kind of takes the time away and I don't realize, that's really the only time I ever watch TV, is when I'm on the bike. and then usually after I'm done riding the bike, just to cool myself down, I usually take a walk, you know, and that just kind of uh, gets me, you know, to where I'm not quite as tired I guess. But it's definitely a task. B: You think so? A: I can't say that I really enjoy it. Is it guaranteed true that \"she really enjoys it\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#230"
+    ],
+    [
+        "Given B: Uh, with regard uh, to jury trials. I really feel as though, uh, uh, whatever system has been used historically, in particular jurisdiction, you know, is really the only kinds of things that you can use. Because the jurisprudence is, you know, based uh, you know, on accumulated body of law. And if you have a situation where you change that body of law, then all of sudden they could start going back and digging up all these cases uh, that would be handled differently were they judged by today's standards. So I really don't think they can really do much of anything to change it. Should we assume that \"they can really do something to change it\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#187"
+    ],
+    [
+        "But don't dilly-dally for too long. Once it's published we are all going to look a little risible if we have made no adjustments to what is after all known as being predominantly my own design of gallery. Also I am a bit older than the rest of you but you can perhaps understand that I don't want to drop dead without a proper and public recantation. \n\nKeeping in mind the above text, consider: he doesn't want to drop dead without a proper and public recantation Is this always, sometimes, or never correct?",
+        [
+            "Always"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#25"
+    ],
+    [
+        "Given Her priggishness. I admire it. I know she does wrong things she tries to organize other people's lives she can't see Mr Knightley is a man in a million. Should we assume that \"Mr Knightley is a man in a million\" is true? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|should assume|#54"
+    ],
+    [
+        "Given that ``Oh, very well,'' he said wearily. He might have known that it was useless to argue with McAllister - her tongue was as long as her will was strong. Therefore, it must be true that \"it was useless to argue with McAllister\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#102"
+    ],
+    [
+        "Given that A: Big time there, sure is. B: It surely is. A: I don't think I'd go to work without a bulletproof vest on myself. Therefore, it must be true that \"he would go to work without a bulletproof vest\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|must be true|#150"
+    ],
+    [
+        "Paula could not help herself. It was just the way she was. Others might say they hated her and mean it. Using only the above description and what you know about the world, \"others hated Paula\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#116"
+    ],
+    [
+        "Miss Martindale had had a school, but her rigid ideas and stern manner had frightened the children, and their parents had taken them away. And gradually the school declined, until she had to give it up and retire to end her days in the white cottage with the inevitable cat as her only companion. Breeze had never imagined that digging was such hard work. Using only the above description and what you know about the world, \"digging was such hard work\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#35"
+    ],
+    [
+        "A: Well, presumably those who find out such information, if they are doing it, I would prefer to not to be known, and, I mean, you know, the classic, oh, I don't know C I  conspiracy theories or whatever, would have such parties trying to do it without your knowledge. So there's,, things that invade that second type of privacy where you do know about them and possibly things that invade that second type of privacy without you knowing about it, and I can't talk about the second one other than to generate paranoia. It's a surmise and, I'd like to think that it's quite low, at least in this country. B: to surmise. It is there. A: I don't think I'd like the KGB monitoring my phone or anything like that. Based on the previous passage, is it true that \"he would like the KGB monitoring his phone\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#151"
+    ],
+    [
+        "Take the following as truth: B: Well, that's kind of the way I feel about rock and roll sometimes, too, I guess. They don't really, has kind of the same sound over and over, and the other thing I don't like about it is they have a tendency to play the instrumental so loud that you can't understand what the lyrics are A: Um. Right. B: you can't understand what they're saying on some of those songs which probably is just as well on some of them, too. A: Yeah. And I can't say that I like a lot of the very modern, uh, rock and roll,\nThen the following statement: \"she likes a lot of the very modern rock and roll\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#229"
+    ],
+    [
+        "How did Selden know that the hound was following him? We know he ran a long way. He was screaming for a long time before he fell and we could hear that he was running as he screamed. Using only the above description and what you know about the world, \"Selden was running as he screamed\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#94"
+    ],
+    [
+        "This was a sheer waste of time. He would probably land and then tell them to walk back. When she glanced at him again he looked very grim and she wondered if she should have told Mitch that he might well have a lot of opportunity to photograph Spain - on foot as he walked back to Malaga. Using only the above description and what you know about the world, \"Mitch might well have a lot of opportunity to photograph Spain\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#83"
+    ],
+    [
+        "A: uh, but then when you quantify things and might also hold criminal trials for how many years is appropriate, uh, that they might leave it to somebody else who, uh, has expertise in that. B: Right, I agree, too. I don't think the jury should be the ones that put the sentencings down. Are we justified in saying that \"the jury should be the ones that put the sentencings down\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|justified in saying|#177"
+    ],
+    [
+        "However, I will let the gynandrous renegade stay here under one condition. If Penumbra questions either of us, we will not lie. If she suspects Crevecoeur is here and asks we let him go back. Based on that information, is the claim: \"Crevecoeur is here\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#82"
+    ],
+    [
+        "Look, my dear, I'm not in my dotage yet, and I know I'm a grumbler and a complainer. You could say the only form of comfort I 've got are my complaints. Are we justified in saying that \"the only form of comfort he has are his complaints\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|justified in saying|#5"
+    ],
+    [
+        "This was a sheer waste of time. He would probably land and then tell them to walk back. When she glanced at him again he looked very grim and she wondered if she should have told Mitch that he might well have a lot of opportunity to photograph Spain - on foot as he walked back to Malaga. Based on the previous passage, is it true that \"Mitch might well have a lot of opportunity to photograph Spain\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|based on the previous passage|#83"
+    ],
+    [
+        "Take the following as truth: ``And you're wrong about us. We're not children and I 'd say we're learning the rules pretty quickly.'' You may have noticed I'm not shaking any more!\nThen the following statement: \"he's not shaking any more\" is true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|take the following as truth|#110"
+    ],
+    [
+        "Given A: Well, how do you feel about the immigration laws? B: At, currently, I think they are a little restrictive. Uh, particularly for, uh, certain ethnic groups or from certain countries. Um, I think we should permit, uh, more immigration from eastern Europe, for example, uh, particularly uh, the Jewish, uh, uh, people from Russia. I think we could permit more of them in than we have permitted in the last, uh, several years. And, I think we have, uh, uh, too much restriction uh, on the Orientals also, but, of course, that's just my opinion. A: Yeah, well, I'm not real sure why I got this topic, because I don't think I checked it off on the list because I know very little about the current immigration laws. Is it guaranteed true that \"he checked the topic off on the list\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|guaranteed true|#119"
+    ],
+    [
+        "Given that A: but that is one of my solutions. Uh... B: I know here in Dallas that they have just instituted in the last couple of years, uh, a real long period of time that you can absentee vote before the elections. And I do not think they have seen a really high improvement. Does it follow that they have seen a really high improvement Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|does it follow that|#193"
+    ],
+    [
+        "Given that B: Right. And they repacked the wheel bearings. A: and they repacked the the wheel bearings. Yeah but, uh, I've had considerable experience. you might say I'm, uh, uh, good back yard mechanic Therefore, it must be true that \"she is a good back yard mechanic\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|must be true|#172"
+    ],
+    [
+        "Her priggishness. I admire it. I know she does wrong things she tries to organize other people's lives she can't see Mr Knightley is a man in a million. Using only the above description and what you know about the world, \"Mr Knightley is a man in a million\" is definitely correct, incorrect, or inconclusive?",
+        [
+            "Correct"
+        ],
+        "super_glue-cb|train|MNLI crowdsource|#54"
+    ],
+    [
+        "B: I did, too. A: I mean, it was just more for my money. B: Yeah. I didn't think it was too long at all. Based on the previous passage, is it true that \"it was too long\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#131"
+    ],
+    [
+        "Given ``For God's sake keep them in their seats. If we get panic people are going to be crushed to death and there will be mayhem in the car park.'' The announcer could only guess from the urgency in the Chief Constable's voice that the situation was very very serious. Should we assume that \"the situation was very very serious\" is true? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|should assume|#92"
+    ],
+    [
+        "B: so there's only been really one working. A: Uh-huh, same here. Uh-huh. B: And, uh, it works for me but I can't see that it would work for probably the majority of people. \n\nKeeping in mind the above text, consider: it would work for probably the majority of people Is this always, sometimes, or never correct?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|consider always/sometimes/never|#228"
+    ],
+    [
+        "Assume it is true that Indeed, in those busy days, our servants ' hall would often witness a gathering of some of the finest professionals in England talking late into the night by the warmth of the fire. Sometimes, naturally, there would be strong disagreements, but more often than not, the atmosphere was dominated by a feeling of mutual respect. Perhaps I will convey a better idea of the tone of those evenings if I say that regular visitors included the likes of Mr Harry Graham valet-butler to Sir James Chambers and Mr John Donalds valet to Mr Sydney Dickenson. \n\nTherefore, \"regular visitors included the likes of Mr Harry Graham valet-butler to Sir James Chambers\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#80"
+    ],
+    [
+        "B: Yeah. How about Mister Rogers, is he still around? A: Yes. Yeah. They still show Mister Rogers. I don't think he's making new ones, Based on the previous passage, is it true that \"Mister Rogers is making new Mister Rogers\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#135"
+    ],
+    [
+        "A: And, uh, I got to stay home with my kids, which I really wanted to do, but now I could not go back and do it. B: Yeah. A: I really couldn't, I don't think I could stay home all the time and do nothing. Based on the previous passage, is it true that \"he could stay home all the time and do nothing\"? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|based on the previous passage|#139"
+    ],
+    [
+        "Did he intend everyone in the castle to know he did not want the wife he had married in such a hurry? Did he intend to ignore her completely? Then Isabel saw Ellen's stunned face and realised that her maid at least did not know she had spent the night alone. Based on the previous passage, is it true that \"Isabel had spent the night alone\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|based on the previous passage|#40"
+    ],
+    [
+        "Suppose it's true that A: I do too. I believe about ten years ago that we went through a terrible time, but I don't, I believe that they're better now, you know, wh-, B: I think so. I don't think they're shoddy Then, is \"they're shoddy\" always, sometimes, or never true?",
+        [
+            "Never"
+        ],
+        "super_glue-cb|train|always/sometimes/never|#206"
+    ],
+    [
+        "Take the following as truth: B: That might be kind of tough, huh. A: It really would, yes, yes, and like I said, my sister's still in it, and I really don't think my mother'd want to be there, either.\nThen the following statement: \"his mother would want to be there\" is true, false, or inconclusive?",
+        [
+            "False"
+        ],
+        "super_glue-cb|train|take the following as truth|#152"
+    ],
+    [
+        "Assume it is true that ``You 've heard something like that before. Haven't you, Jimmy?'' Jimmy had been shaken by those sounds more shaken than the others for good reason but Cardiff could see that he was unprepared to show it as he pushed himself away from the reception counter. \n\nTherefore, \"Jimmy was unprepared to show he had been shaken\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#12"
+    ],
+    [
+        "Assume it is true that B: but, uh, I can definitely, uh, see on down the road, you know, where we do have kids and are getting to that age, that's going to be a definite concern. A: Yeah, you talked before, about the school funding. I think there's only going to be one solution to school funding which I don't think will be necessarily the best way \n\nTherefore, \"the one solution to school funding will be necessarily the best way\" is guaranteed, possible, or impossible?",
+        [
+            "Impossible"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#181"
+    ],
+    [
+        "B: I look at our big green containers, and I say, well, they work fine and I keep mine outside the garage so that I don't have any odors but it's clearly a place where, uh, uh, A: Oh, right. B: it will be interesting to see how well that works and I'm glad the community is doing it. Uh, it's one of those things that kind of has to be forced on people. Uh, I don't know what you saw back, uh, years ago, but for me the thing that strikes me is uh, growing up in rural South Dakota where, hey the farmers brought their eggs to town and the local hatchery would candle them and package them is that, uh, in the fifties, uh, you could say we had the recycling going on then that we should have now. Which was all the milk bottles were glass Based on the previous passage, is it true that \"they had the recycling going on then that they should have now\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|based on the previous passage|#195"
+    ],
+    [
+        "Given Meh ' Lindi did not develop the lower set of arms nor the bony, sinuous tail. Too much to expect a new pair of arms to grow out of her ribs, or her coccyx to elongate so enormously. Nor could Jaq imagine that she could attain the full strength of a purestrain Stealer - though her own strength was formidable even when unenhanced. Should we assume that \"Meh ' Lindi could attain the full strength of a purestrain Stealer\" is true? Yes, no, or maybe?",
+        [
+            "No"
+        ],
+        "super_glue-cb|train|should assume|#99"
+    ],
+    [
+        "Suppose Chopra stood unsteadily on his feet. The shapechanger bounded around with excitement. Chopra could tell something had happened. Can we infer that \"something had happened\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|can we infer|#20"
+    ],
+    [
+        "It seemed impossible that anyone could endure such pain for so long, but at last the doors of the Renault slammed and there was comparative silence. The engine was started up, revving violently as the car was turned round on the narrow road. John could tell that it was being driven back up the hill towards Putna. Based on that information, is the claim: \"the car was being driven back up the hill towards Putna\" true, false, or inconclusive?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|claim true/false/inconclusive|#21"
+    ],
+    [
+        "But, of course, that just wasn't possible. Her disappointment over Jonathan, which had driven her to France in the first place, had been relegated somewhere to the back of her mind. Now in retrospect she could see that marriage to him would have been a ghastly mistake and that her reaction to discovering that he had been seeing other women while he had been engaged to her had had far more to do with wounded pride than with a wounded heart.\nQuestion: marriage to Jonathan would have been a ghastly mistake True, False, or Neither?",
+        [
+            "True"
+        ],
+        "super_glue-cb|train|GPT-3 style|#7"
+    ],
+    [
+        "Assume it is true that How did Selden know that the hound was following him? We know he ran a long way. He was screaming for a long time before he fell and we could hear that he was running as he screamed. \n\nTherefore, \"Selden was running as he screamed\" is guaranteed, possible, or impossible?",
+        [
+            "Guaranteed"
+        ],
+        "super_glue-cb|train|guaranteed/possible/impossible|#94"
+    ],
+    [
+        "Suppose ``His name is Matthew Blake,'' Mandy informed Charity as they descended the steps from their cabin on to the paved pathway that led to the lodge. Thankfully she hadn't even noticed that Charity had changed from the blue wrap-around skirt and was now wearing red shorts with her white silk blouse. Can we infer that \"Charity had changed from the blue wrap-around skirt\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|can we infer|#49"
+    ],
+    [
+        "Given They 'd seen Miss Lavant on the promenade and about the town, always walking slowly, sometimes with a neat wicker basket. Kate had often thought she was beautiful. She hadn't known she was in love with Dr Greenslade who had a wife already and three children. Is it guaranteed true that \"Miss Lavant was in love with Dr Greenslade\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|guaranteed true|#39"
+    ],
+    [
+        "Like now. The Community in Knockglen would defend Eve vociferously. Even some of the Sisters here in Dublin might see that the girl had a point. Based on the previous passage, is it true that \"the girl had a point\"? Yes, no, or maybe?",
+        [
+            "Yes"
+        ],
+        "super_glue-cb|train|based on the previous passage|#8"
+    ]
+]

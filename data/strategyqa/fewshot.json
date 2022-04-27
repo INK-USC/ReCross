@@ -1,0 +1,2284 @@
+{
+    "16": {
+        "round#0": [
+            [
+                "Q: Could chives be mistaken for grass?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3650"
+            ],
+            [
+                "Q: Are banana trees used by judges for maintaining order?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1969"
+            ],
+            [
+                "Q: Does the word swastika have meaning in sanskrit?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3460"
+            ],
+            [
+                "Q: Did President William Howard Taft read DC Comics?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#633"
+            ],
+            [
+                "Q: Did Richard III's father have greater longevity than him?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4010"
+            ],
+            [
+                "Q: Can a snow leopard eat twice its own body weight?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1619"
+            ],
+            [
+                "Q: Is Fiat Chrysler associated with Japanese cars?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3065"
+            ],
+            [
+                "Q: Did Hamlet's author use email?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2897"
+            ],
+            [
+                "Q: Does acupuncture cause pain in many people?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#151"
+            ],
+            [
+                "Q: Do drag kings take testosterone to look masculine?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2905"
+            ],
+            [
+                "Q: Did U.S. soldiers listen to Justin Bieber's Believe album during the Battle of Baghdad?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2745"
+            ],
+            [
+                "Q: Will parma ham be ready for New Year's if the pig is slaughtered in December?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#379"
+            ],
+            [
+                "Q: Did mongoose come from later period than rhinos?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3459"
+            ],
+            [
+                "Q: Were any members of Canidae in Aesop's Fables?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#208"
+            ],
+            [
+                "Q: Is Pearl Harbor the mythical home of a shark goddess?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3761"
+            ],
+            [
+                "Q: Are some Do It Yourself projects potentially lethal?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1889"
+            ]
+        ],
+        "round#1": [
+            [
+                "Q: Does Oprah Winfrey have a degree from an Ivy League university?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2364"
+            ],
+            [
+                "Q: Did Nine Inch Nails inspire Aretha Franklin's sound?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4226"
+            ],
+            [
+                "Q: Do children's bicycles often have extra wheels?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2909"
+            ],
+            [
+                "Q: Would a model be appropriate to star in a LA Femme Nikita remake?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1169"
+            ],
+            [
+                "Q: Would Downton Abbey finale viewership defeat every Kazakhstan citizen in tug of war?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#532"
+            ],
+            [
+                "Q: Was the Euro used in Prussia?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#496"
+            ],
+            [
+                "Q: Does Antarctica have a lot of problems relating to homelessness?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#371"
+            ],
+            [
+                "Q: Did Monty Python write the Who's on First sketch?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2871"
+            ],
+            [
+                "Q: Can Amtrak's Acela Express break the sound barrier?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#700"
+            ],
+            [
+                "Q: Would Eminem perform well at the International Mathematical Olympiad?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1502"
+            ],
+            [
+                "Q: Was the sable depicted in Marvel comics anthropomorphic?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3161"
+            ],
+            [
+                "Q: Are there any official American knights?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1904"
+            ],
+            [
+                "Q: Could someone listen to the entire U2 debut studio album during an episode of Peppa Pig?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#890"
+            ],
+            [
+                "Q: Is a watchmaker likely to be able to fix an Apple Watch?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1714"
+            ],
+            [
+                "Q: Would Carmine's kitchen staff be panicked if they had no olive oil?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2716"
+            ],
+            [
+                "Q: Has Alan Greenspan lived through at least a baker's dozen of president's?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2405"
+            ]
+        ],
+        "round#2": [
+            [
+                "Q: Was Harry Truman's presidency unaffected by the twenty-third Amendment to the US Constitution?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1655"
+            ],
+            [
+                "Q: Would 7 zucchini's satisfy potassium USDA daily recommendation?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2109"
+            ],
+            [
+                "Q: Did the 40th president of the United States forward lolcats to his friends?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4063"
+            ],
+            [
+                "Q: Could someone in the Canary Islands fish for largemouth bass?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4559"
+            ],
+            [
+                "Q: Is sternum connected to any of the bones mentioned in James Weldon Johnson's Dem Bones?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#643"
+            ],
+            [
+                "Q: Would King Leonidas have succeeded with an army the size of Mozart's compositions?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#410"
+            ],
+            [
+                "Q: Do shrimp taste best when cooked for a long time?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2932"
+            ],
+            [
+                "Q: For Hostas to look their best, do they need lots of chlorophyll?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1554"
+            ],
+            [
+                "Q: Can musicians become knights?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2625"
+            ],
+            [
+                "Q: Will Chick Fil A be open on Halloween 2021?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4272"
+            ],
+            [
+                "Q: Does the country that received the most gold medals during the 1976 Olympics still exist?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2769"
+            ],
+            [
+                "Q: Can 1980 United States presidential election result be considered a photo finish?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2131"
+            ],
+            [
+                "Q: Do storks need golden toads to survive?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#795"
+            ],
+            [
+                "Q: Will 2020 elephant pregnancy last past next year with 4 solar eclipses?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1638"
+            ],
+            [
+                "Q: Is it dangerous to consume chlorine when mixed with sodium?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#387"
+            ],
+            [
+                "Q: Are any letters directly before and after H missing from Roman numerals?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#469"
+            ]
+        ],
+        "round#3": [
+            [
+                "Q: Will Chuck Norris be a nonagenarian by time next leap year after 2020 happens?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2418"
+            ],
+            [
+                "Q: Is Garfield known for hating italian cuisine?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#487"
+            ],
+            [
+                "Q: Are any of the words that CAPTCHA stands for palindromes?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#391"
+            ],
+            [
+                "Q: Was a person sold a Creative Commons License for Boticelli's The Birth of Venus ripped off?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#91"
+            ],
+            [
+                "Q: Would someone on a keto diet be able to eat Dosa?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3178"
+            ],
+            [
+                "Q: Would someone on a keto diet be able to eat Dosa?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3337"
+            ],
+            [
+                "Q: Does bull shark bite hurt worse than crocodile bite?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3839"
+            ],
+            [
+                "Q: Does Canada have a relationship with a monarch?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4495"
+            ],
+            [
+                "Q: Is ID required to get all medications from all pharmacies?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2390"
+            ],
+            [
+                "Q: Did King of Portuguese people in 1515 have familial ties to the Tudors?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3658"
+            ],
+            [
+                "Q: Did Bruiser Brody wrestle on WWE Raw?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4259"
+            ],
+            [
+                "Q: Would Kylee Jenner ask for no cream in her coffee?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3121"
+            ],
+            [
+                "Q: Can methane be seen by the naked eye?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4488"
+            ],
+            [
+                "Q: Will bumblebees derail the United States presidential election?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1943"
+            ],
+            [
+                "Q: Would a binge watch of entire Young and the Restless take longer than a leap year?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1627"
+            ],
+            [
+                "Q: Does a Disney princess on Broadway have red hair?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1631"
+            ]
+        ],
+        "round#4": [
+            [
+                "Q: Would a Common warthog starve in a greenhouse?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2033"
+            ],
+            [
+                "Q: Was Iggy Pop named after his father?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4322"
+            ],
+            [
+                "Q: Did Amy Winehouse always perform live perfectly?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#945"
+            ],
+            [
+                "Q: Would Matt Damon be afraid of parachuting?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#632"
+            ],
+            [
+                "Q: Would a kindergarten teacher make a lesson of the New Testament?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3175"
+            ],
+            [
+                "Q: Is Y2K relevant to the plot of The Godfather?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1625"
+            ],
+            [
+                "Q: Can dessert be made with vegetables?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2205"
+            ],
+            [
+                "Q: Does Santa Claus work during summer?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4365"
+            ],
+            [
+                "Q: Can a martyr saint have been excommunicated?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2941"
+            ],
+            [
+                "Q: Did the Social Democratic Party of Germany help Frederick II become King of Prussia?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1664"
+            ],
+            [
+                "Q: Could Cosmic Girls play League of Legends alone?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#260"
+            ],
+            [
+                "Q: Would Jimmy Vee be eligible to compete in the Paralympic Games?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2038"
+            ],
+            [
+                "Q: Was Dioskourides a lapidary?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2535"
+            ],
+            [
+                "Q: Is letter C crucial to spelling the two most common words in English language?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#958"
+            ],
+            [
+                "Q: Do you have to put on glasses to read a QR code?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1066"
+            ],
+            [
+                "Q: Can printing books in kanji instead of the Roman alphabet save trees?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#811"
+            ]
+        ],
+        "round#5": [
+            [
+                "Q: Does parsley sink in milk?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3043"
+            ],
+            [
+                "Q: Was Alaska part of the Northern Army during the Civil War?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#566"
+            ],
+            [
+                "Q: Could an ocelot subsist on a single bee hummingbird per day?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1967"
+            ],
+            [
+                "Q: Do urban legends always have to occur in cities?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3621"
+            ],
+            [
+                "Q: Would someone in CHE101 require a Maya Angelou book?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#622"
+            ],
+            [
+                "Q: Did Richard Wagner support the Nazis?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1442"
+            ],
+            [
+                "Q: Does the Dalai Lama believe in the divine barzakh?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1009"
+            ],
+            [
+                "Q: If your electric stove has a glass top, should you use cast iron skillets?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3660"
+            ],
+            [
+                "Q: Did Rosalind Franklin contribute to work that led to Whole Genome Sequencing?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2727"
+            ],
+            [
+                "Q: Can you buy chlorine at a dollar store?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1825"
+            ],
+            [
+                "Q: Could Katharine Hepburn have ridden the AirTrain JFK?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2037"
+            ],
+            [
+                "Q: Did Ivan the Terrible's father and grandfather have nicer nicknames?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3187"
+            ],
+            [
+                "Q: Would a vegan prefer a natural bongo drum over a synthetic one?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#849"
+            ],
+            [
+                "Q: Does Disney own a major comic book publisher?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3677"
+            ],
+            [
+                "Q: Would 7 zucchini's satisfy potassium USDA daily recommendation?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1855"
+            ],
+            [
+                "Q: Would a model be likely to frequently enjoy the menu at Cookout?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#427"
+            ]
+        ],
+        "round#6": [
+            [
+                "Q: Would you be likely to see storks at a baby shower?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3256"
+            ],
+            [
+                "Q: Is the tibia necessary to win the Stanley Cup?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#155"
+            ],
+            [
+                "Q:  Is The Invisible Man more prevalent in films than Picnic at Hanging Rock?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1353"
+            ],
+            [
+                "Q: Would it be impossible to keep an ocean sunfish and a goldfish in the same tank?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#121"
+            ],
+            [
+                "Q: Could a sloth hypothetically watch an entire episode of Scrubs underwater?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3014"
+            ],
+            [
+                "Q: Could someone listen to the entire U2 debut studio album during an episode of Peppa Pig?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#890"
+            ],
+            [
+                "Q: Would Shaggy and Redenbacher popcorn founder both raise hand during first name roll call?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1788"
+            ],
+            [
+                "Q: Are moose used for work near the kingdom of Arendelle?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1516"
+            ],
+            [
+                "Q: Is a pound sterling valuable?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4360"
+            ],
+            [
+                "Q: Coud every wife of Stone Cold Steve Austin fit in Audi TT?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2222"
+            ],
+            [
+                "Q: Can a firewall protect against a short circuit?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2296"
+            ],
+            [
+                "Q: Do people with swallowing disorders need high viscosity drinks?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3393"
+            ],
+            [
+                "Q: Can Simon Cowell vote for the next Supreme Court judge?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4337"
+            ],
+            [
+                "Q: Can the Very Large Telescope observe the largest mountain on Earth?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#554"
+            ],
+            [
+                "Q: Would Library of Alexandria need less shelf space than Library of Congress?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3346"
+            ],
+            [
+                "Q: Could all the unemployed people due to 1933 Great Depression fit in Tiger Stadium?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3420"
+            ]
+        ],
+        "round#7": [
+            [
+                "Q: Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#23"
+            ],
+            [
+                "Q: Would Jon Brower Minnoch break a chair before Voyager 2 launch mass?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3406"
+            ],
+            [
+                "Q: During the pandemic, is door to door advertising considered inconsiderate?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3961"
+            ],
+            [
+                "Q: Was Saint Vincent and the Grenadines named by an Italian explorer?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4361"
+            ],
+            [
+                "Q: Is pig meat considered inedible within the cuisine of Hawaii?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#230"
+            ],
+            [
+                "Q: Are raw carrots better for maximizing vitamin A intake?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3094"
+            ],
+            [
+                "Q: Does the United States Secretary of State answer the phones for the White House?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2370"
+            ],
+            [
+                "Q: Did Melania Trump have same profession as Olga Kurylenko?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#370"
+            ],
+            [
+                "Q: Are vinegar pickled cucumbers rich in lactobacillus?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1797"
+            ],
+            [
+                "Q: Did Hamlet's author use email?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2897"
+            ],
+            [
+                "Q: Were plants crucial for The King of Rock'n Roll's snack with bananas?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2251"
+            ],
+            [
+                "Q: Would it be hard to get toilet paper if there were no loggers?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3475"
+            ],
+            [
+                "Q: Can a diamond float on water?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3730"
+            ],
+            [
+                "Q: Are Brussels sprout particularly good for adrenal fatigue?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4267"
+            ],
+            [
+                "Q: Would an actuary be confused about what prime numbers are?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2480"
+            ],
+            [
+                "Q: Is Glenn Beck known for his mild temper?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1128"
+            ]
+        ],
+        "round#8": [
+            [
+                "Q: Could Rich and Morty be triggered for children of alcoholics?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4478"
+            ],
+            [
+                "Q: Could amoebas have played a part in the Black Death?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2039"
+            ],
+            [
+                "Q: Could Little Women have been a book read by veterans of the civil war?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2823"
+            ],
+            [
+                "Q: Are the Vietnamese people a great untapped resource for NBA players?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2718"
+            ],
+            [
+                "Q: Is Route 66 generally unknown to Americans?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1229"
+            ],
+            [
+                "Q: Do urban legends always have to occur in cities?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3736"
+            ],
+            [
+                "Q: Would it be difficult for Will Ferrell to win Empire Award for Best Newcomer?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2912"
+            ],
+            [
+                "Q: Could an escapee swim nonstop from Alcatraz island to Siberia?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2440"
+            ],
+            [
+                "Q: Will twenty pea pods contents cover entire chess board?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3865"
+            ],
+            [
+                "Q: Is Rick and Morty considered an anime?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2377"
+            ],
+            [
+                "Q: Was ship that recovered Apollo 13 named after a World War II battle?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3169"
+            ],
+            [
+                "Q: Did the color green help Theodor Geisel become famous?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3350"
+            ],
+            [
+                "Q: Did Robert Downey Jr. possess same caliber gun as Resident Evil's Barry Burton?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#168"
+            ],
+            [
+                "Q: Will the producer of Easy Rider become an octogenarian in 2021?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3114"
+            ],
+            [
+                "Q: Is the tree species that the name Leipzig refers to an evergeen tree?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#320"
+            ],
+            [
+                "Q: Could Plato have agreed with the beliefs of Jainism?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3062"
+            ]
+        ],
+        "round#9": [
+            [
+                "Q: Could a llama birth twice during War in Vietnam (1945-46)?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4316"
+            ],
+            [
+                "Q: Is it more expensive to run for President of India than to buy a new iPhone 11?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4124"
+            ],
+            [
+                "Q: Are tampons a good 24 hour solution for mentruation?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2169"
+            ],
+            [
+                "Q: Is a cory catfish likely to eat another living fish?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1883"
+            ],
+            [
+                "Q: Does the Pixar film Brave feature Scottish people?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#373"
+            ],
+            [
+                "Q: Were French people involved in the American Civil War?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2023"
+            ],
+            [
+                "Q: Could a hundred thousand lolcats fit on a first generation iPhone?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#67"
+            ],
+            [
+                "Q: Do most high school head coaches make as much as the Head Coach at NCSU?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2021"
+            ],
+            [
+                "Q: Does Disney have an ice princess?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1623"
+            ],
+            [
+                "Q: Are the names of The Powerpuff Girls alliterative? \nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3499"
+            ],
+            [
+                "Q: Can a microwave melt a Toyota Prius battery?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#378"
+            ],
+            [
+                "Q: Is Krishna similar to Holy Spirit?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1309"
+            ],
+            [
+                "Q: Can a diamond float on water?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3730"
+            ],
+            [
+                "Q: Can I ski in Steamboat Springs, Colorado in August?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2376"
+            ],
+            [
+                "Q: Can brewing occur in a prison environment?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#269"
+            ],
+            [
+                "Q: Would an American feel lost due to language barriers at Disneyland Paris?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1512"
+            ]
+        ],
+        "round#10": [
+            [
+                "Q: Could B be mistaken for an Arabic numeral?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#313"
+            ],
+            [
+                "Q: Would fans of Jonathan Larson be unaware of HIV?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3064"
+            ],
+            [
+                "Q: Would a Bengal cat be afraid of catching a fish?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#739"
+            ],
+            [
+                "Q: Were the Ten commandments the part of the bible that Jewish people do not believe in?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#848"
+            ],
+            [
+                "Q: Is dyslexia the most common intellectual disability in US?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3493"
+            ],
+            [
+                "Q: Would a dog respond to bell before Grey seal?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2606"
+            ],
+            [
+                "Q: Is the Fibonacci number sequence longer than every number discovered in Pi?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2525"
+            ],
+            [
+                "Q: Is the tree species that the name Leipzig refers to an evergeen tree?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#320"
+            ],
+            [
+                "Q: Are queen bees unnecessary for growing apples?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1949"
+            ],
+            [
+                "Q: In the world of Harry Potter, would a snake and skull tattoo be good luck?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#741"
+            ],
+            [
+                "Q: Would eliminating competition in the Japanese bulk carrier market be profitable for a steel company?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2034"
+            ],
+            [
+                "Q: Did Johann Sebastian Bach leave his first wife for his second wife?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#559"
+            ],
+            [
+                "Q: Does Buddy The Elf know anyone who works in publishing?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4342"
+            ],
+            [
+                "Q: Is a beard is moss that grows on a human?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1414"
+            ],
+            [
+                "Q: Have Douglas fir been used to fight wars?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4001"
+            ],
+            [
+                "Q: Is the most recent Democrat President in the US known for his painting practice?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4054"
+            ]
+        ],
+        "round#11": [
+            [
+                "Q: Did Johann Sebastian Bach ever win a Grammy Award?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1763"
+            ],
+            [
+                "Q: Can second row of QWERTY keyboard spell Abdastartus's kingdom?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1783"
+            ],
+            [
+                "Q: Is Freya a combination of Athena and Aphrodite?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1766"
+            ],
+            [
+                "Q: Could Intel products be purchased at McDonald's?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1050"
+            ],
+            [
+                "Q: Does Post Malone have a fear of needles?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3585"
+            ],
+            [
+                "Q: Did Native American tribes teach Spaniards how to cultivate maize?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1648"
+            ],
+            [
+                "Q: Is the tibia necessary to win the Stanley Cup?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#442"
+            ],
+            [
+                "Q: Are potatoes native to the European continent?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2153"
+            ],
+            [
+                "Q: Do you need both hot and cold water to peel a tomato?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#475"
+            ],
+            [
+                "Q: Could a bee hummingbird balance a scale with a single pea on it?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2053"
+            ],
+            [
+                "Q: Would someone in CHE101 require a Maya Angelou book?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1532"
+            ],
+            [
+                "Q: Was Great Recession the period of severest unemployment?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3787"
+            ],
+            [
+                "Q: Can a banana get a virus?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2429"
+            ],
+            [
+                "Q: Can an elite runner circle the Pyrenees in one day?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2257"
+            ],
+            [
+                "Q: Can Billie Eilish afford a Porsche?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#631"
+            ],
+            [
+                "Q: Are human footprints absent from Mount Sharp?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3457"
+            ]
+        ],
+        "round#12": [
+            [
+                "Q: Can spiders help eggplant farmers control parasites?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1184"
+            ],
+            [
+                "Q: Could Scooby Doo fit in a kangaroo pouch?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3686"
+            ],
+            [
+                "Q: Can a Goblin shark hypothetically ride a bike if it had limbs?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3100"
+            ],
+            [
+                "Q: Do all shooting sports involve bullets?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#195"
+            ],
+            [
+                "Q: Can a human heart last from NYC to Raleigh NC by Toyota Hiux?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2302"
+            ],
+            [
+                "Q: Was Krishna skilled at using the bow?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2442"
+            ],
+            [
+                "Q: Did Native American tribes teach Spaniards how to cultivate maize?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3618"
+            ],
+            [
+                "Q: Can you avoid internet trolls on reddit?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3025"
+            ],
+            [
+                "Q: Would kaffir lime be good in a White Russian?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3347"
+            ],
+            [
+                "Q: Would a tool used for Martin Luther's Reformation opening salvo aid in a crucifixion?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1167"
+            ],
+            [
+                "Q: Did Sartre write a play about Hell?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#283"
+            ],
+            [
+                "Q: Will the small intenstine break down a cotton ball?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3719"
+            ],
+            [
+                "Q: Has Cesar Millan ever tamed a short-eared dog?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#150"
+            ],
+            [
+                "Q: Did Paul the Apostle's cause of death violate the tenets of Ahimsa?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4210"
+            ],
+            [
+                "Q: Did original Nintendo have games in same format as Playstation 3?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3031"
+            ],
+            [
+                "Q: Are Big Ben's bells currently rung on their normal schedule at the Palace of Westminster?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3233"
+            ]
+        ],
+        "round#13": [
+            [
+                "Q: Are Citizens of Bern Switzerland are descendants of Genghis Khan?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2995"
+            ],
+            [
+                "Q: Is November a bad time for a photographer to take pictures of a plum tree in bloom?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#606"
+            ],
+            [
+                "Q: Could the Eiffel Tower be completely submerged at the Arctic Ocean's deepest point?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1428"
+            ],
+            [
+                "Q: Does USA fail separation of church and state in multiple ways?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#44"
+            ],
+            [
+                "Q: Is the saltwater crocodile less endangered than the European otter?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#203"
+            ],
+            [
+                "Q: Do restaurants associate meatballs with the wrong country of origin?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2293"
+            ],
+            [
+                "Q: Does the human stomach destroy a bee if ingested?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2719"
+            ],
+            [
+                "Q: Are some adherents to Christianity in China historic enemies of Catholic Church?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2555"
+            ],
+            [
+                "Q: Can printing books in kanji instead of the Roman alphabet save trees?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#811"
+            ],
+            [
+                "Q: Will Communion be denied to Wednesday name origin followers?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1367"
+            ],
+            [
+                "Q: Could the Toyota Stadium sit a tenth of the population of Gotheburg?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1985"
+            ],
+            [
+                "Q: Was latest Republican governor of New Jersey as of 2020 heftiest politician ever?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2882"
+            ],
+            [
+                "Q: Would a compact disc melt in magma?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3812"
+            ],
+            [
+                "Q: Can telescopes hear noise?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2284"
+            ],
+            [
+                "Q: Does Rusev have to worry about human overpopulation in his homeland?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#133"
+            ],
+            [
+                "Q: Was the first Vice President of the United States an Ottoman descendant?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#57"
+            ]
+        ],
+        "round#14": [
+            [
+                "Q: Is Menthol associated with Thanksgiving?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1064"
+            ],
+            [
+                "Q: Are the founders of Skype from Asia?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2886"
+            ],
+            [
+                "Q: Would fans of Jonathan Larson be unaware of HIV?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3064"
+            ],
+            [
+                "Q: Would a moose hypothetically be too much for a minotaur to devour whole?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2079"
+            ],
+            [
+                "Q: Would Gomer Pyle salute a lieutenant?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2130"
+            ],
+            [
+                "Q: Would Nancy Pelosi publicly denounce abortion?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3385"
+            ],
+            [
+                "Q: Did the Royal Air Force fight in the Boxer Rebellion?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2277"
+            ],
+            [
+                "Q: Was Moliere Queen Margot's ill fated lover?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4183"
+            ],
+            [
+                "Q: Can Clouded leopards chase down many Pronghorn antelopes?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2150"
+            ],
+            [
+                "Q: Is dessert eaten before breakfast?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3760"
+            ],
+            [
+                "Q: Can a honey bee sting a human more than once?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#261"
+            ],
+            [
+                "Q: Was Woodrow Wilson sandwiched between two presidents from the opposing party?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3526"
+            ],
+            [
+                "Q: Is honey associated with queens?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4003"
+            ],
+            [
+                "Q: Is a platypus immune from cholera?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1007"
+            ],
+            [
+                "Q: Can an elite runner circle the Pyrenees in one day?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2257"
+            ],
+            [
+                "Q: Will parma ham be ready for New Year's if the pig is slaughtered in December?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#379"
+            ]
+        ],
+        "round#15": [
+            [
+                "Q: Has a neanderthal ever served on the Supreme Court of the United States?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#614"
+            ],
+            [
+                "Q: Can you get a fever from consuming meat?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3808"
+            ],
+            [
+                "Q: Is it wise to feed a Snickers bar to a poodle?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3949"
+            ],
+            [
+                "Q: Did the Space Race use relay batons?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2223"
+            ],
+            [
+                "Q: Could amoebas have played a part in the Black Death?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2039"
+            ],
+            [
+                "Q: Could Intel products be purchased at McDonald's?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1050"
+            ],
+            [
+                "Q: Is pickled cucumber ever red?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4300"
+            ],
+            [
+                "Q: Was a person sold a Creative Commons License for Boticelli's The Birth of Venus ripped off?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#694"
+            ],
+            [
+                "Q: Should a Celiac sufferer avoid spaghetti?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4455"
+            ],
+            [
+                "Q: Does Masaharu Morimoto rely on glutamic acid?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2301"
+            ],
+            [
+                "Q: Was the Euro used in Prussia?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#834"
+            ],
+            [
+                "Q: Are there mental disorders you can hide?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4319"
+            ],
+            [
+                "Q: Is Thanksgiving sometimes considered a day of mourning?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4482"
+            ],
+            [
+                "Q: Do Shivambu practitioners believe ammonia is unhealthy?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4508"
+            ],
+            [
+                "Q: Does Orange County, California require airplanes to be quiet?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2409"
+            ],
+            [
+                "Q: Could someone mistake the smell of your brussels sprouts for a fart?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1156"
+            ]
+        ],
+        "round#16": [
+            [
+                "Q: Was being a mail carrier considered one of the most dangerous jobs?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2867"
+            ],
+            [
+                "Q: Can Iowa be hidden in the English Channel?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4231"
+            ],
+            [
+                "Q: Is a doctorate required to teach at a SUNY School?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#674"
+            ],
+            [
+                "Q: Did Queen Elizabeth I read the works of Jean-Paul Sartre?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3798"
+            ],
+            [
+                "Q: If Martin Luther did one theses a day would he run out in half a year?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4537"
+            ],
+            [
+                "Q: Is Noah's Ark an upgrade for Golden Age of Piracy pirates?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1857"
+            ],
+            [
+                "Q: Is surfing popular in Des Moines, Iowa?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1082"
+            ],
+            [
+                "Q: Does The Doctor keep his ship in his childhood home?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#979"
+            ],
+            [
+                "Q: Was Martin Luther same sect as Martin Luther King Jr.?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3820"
+            ],
+            [
+                "Q: Is a felony jury enough people for a Bunco game?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#599"
+            ],
+            [
+                "Q: Can preventive healthcare reduce STI transmission?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3874"
+            ],
+            [
+                "Q: Could a markhor give birth three times in a single year?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2556"
+            ],
+            [
+                "Q: Does  Lionel Richie believe in holistic medicine?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1721"
+            ],
+            [
+                "Q: Would Phineas and Ferb enjoy winter?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2050"
+            ],
+            [
+                "Q: In order to work in district management, does one need a car?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#200"
+            ],
+            [
+                "Q: Are any letters directly before and after H missing from Roman numerals?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1159"
+            ]
+        ],
+        "round#17": [
+            [
+                "Q: Did breakdancing grow in popularity during WW2?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3678"
+            ],
+            [
+                "Q: Would Quiet from Metal Gear be a poor hypothetical choice for lecturer at Haub?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4144"
+            ],
+            [
+                "Q: Is the title of Shirley Bassey's 1971 diamond song a true statement?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1110"
+            ],
+            [
+                "Q: Was Superhero fiction invented in the digital format?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#149"
+            ],
+            [
+                "Q: Were some people afraid of New Years Day coming in 1999?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#145"
+            ],
+            [
+                "Q: Is dopamine snorted nasally by drug users?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1384"
+            ],
+            [
+                "Q: Could a cow produce Harvey Milk?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#885"
+            ],
+            [
+                "Q: Could a cat ride Panzer VIII Maus tank missile from Barcelona to Madrid?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2931"
+            ],
+            [
+                "Q: Would a honey badger's dentures be different from a wolverine's?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#210"
+            ],
+            [
+                "Q: Do Republicans reject all forms of welfare?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#986"
+            ],
+            [
+                "Q: Does Super Mario protagonist hypothetically not need continuing education classes in Illinois?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4132"
+            ],
+            [
+                "Q: Is the Berlin University of the Arts a Baroque period relic?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#162"
+            ],
+            [
+                "Q: Are Big Ben's bells currently rung on their normal schedule at the Palace of Westminster?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3233"
+            ],
+            [
+                "Q: Is Benjamin Franklin a prime candidate to have his statues removed by Black Lives Matter movement?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3793"
+            ],
+            [
+                "Q: Does Siri know geometry?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4570"
+            ],
+            [
+                "Q: Would the fastest tortoise win a race against a Chicago \"L\"?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1042"
+            ]
+        ],
+        "round#18": [
+            [
+                "Q: Did Evander Holyfield compete in an Olympics hosted in the western hemisphere?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4525"
+            ],
+            [
+                "Q: Do you need a farmer to make a circuit board?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1259"
+            ],
+            [
+                "Q: Did Richard III know his grandson?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2741"
+            ],
+            [
+                "Q: Does Ludacris perform classical music?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2267"
+            ],
+            [
+                "Q: Was Noah concerned with buoyancy?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2248"
+            ],
+            [
+                "Q: Was Gandalf present at the death of Eomer?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4390"
+            ],
+            [
+                "Q: Do you need to worry about Zika virus in Antarctica? \nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#106"
+            ],
+            [
+                "Q: Were French people involved in the American Civil War?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2023"
+            ],
+            [
+                "Q: Is Ludacris in same music genre as 2000's Binaural?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#321"
+            ],
+            [
+                "Q: Is a pottery kiln inappropriate for use with glass blowing?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2522"
+            ],
+            [
+                "Q: Do beeswax alternatives to cling wrap use plsatic?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#4109"
+            ],
+            [
+                "Q: Would multiple average rulers be necessary to measure the length of a giant armadillo?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3786"
+            ],
+            [
+                "Q: Could Arnold Schwarzenegger hypothetically defeat Haf\u00fe\u00f3r Bj\u00f6rnsson in a powerlifting competition if both are at their peak strength?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#97"
+            ],
+            [
+                "Q: Did Moon Jae-in's residence exist when the World Trade Center was completed?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#2906"
+            ],
+            [
+                "Q: Was John George Bice's birthplace near Cornwall?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#493"
+            ],
+            [
+                "Q: Can someone in Uberlandia work for Mitsubishi?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#3170"
+            ]
+        ],
+        "round#19": [
+            [
+                "Q: Could you brew beer from start to finish in the month of September?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3429"
+            ],
+            [
+                "Q: Was dynamite used during Middle Ages warfare?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#899"
+            ],
+            [
+                "Q: Are there mental disorders you can hide?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#4290"
+            ],
+            [
+                "Q: Would nickel boil in the outer core of the earth?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1658"
+            ],
+            [
+                "Q: Are Doctors of Homeopathy more likely than Doctors of Internal Medicine to recommend Quartz as a treatment?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#2765"
+            ],
+            [
+                "Q: Would Richard Dawkins hypothetically refuse an offering of the Last rites?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#701"
+            ],
+            [
+                "Q: Was Aristotle a member of the House of Lords?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3845"
+            ],
+            [
+                "Q: Would J.K Rowling's top sellers be on a fantasy shelf?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#928"
+            ],
+            [
+                "Q: Does Hades appear in a Disney Channel musical movie?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#361"
+            ],
+            [
+                "Q: Could Saint Peter watch television?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#303"
+            ],
+            [
+                "Q: Did Julio Gonzalez like acetylene?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#3746"
+            ],
+            [
+                "Q: Is Hanuman associated with a Norse god?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#1214"
+            ],
+            [
+                "Q: Did President William Howard Taft read DC Comics?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#633"
+            ],
+            [
+                "Q: Can monkeys use QWERTY keyboards?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1977"
+            ],
+            [
+                "Q: Is a doctorate required to teach at a SUNY School?\nA:",
+                [
+                    "No"
+                ],
+                "strategyqa|all|default|#674"
+            ],
+            [
+                "Q: Would P. G. Wodehouse be taught in second grade?\nA:",
+                [
+                    "Yes"
+                ],
+                "strategyqa|all|default|#1095"
+            ]
+        ]
+    }
+}

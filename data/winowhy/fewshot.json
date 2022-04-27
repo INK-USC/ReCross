@@ -1,0 +1,2284 @@
+{
+    "16": {
+        "round#0": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the heavy book on the table and it broke. The 'it' refers to the table because it has no handles or supports.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#18"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe city councilmen refused the demonstrators a permit because they advocated violence. The 'they' refers to the demonstrators because demonstrators are more likely to be advocating violence.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3425"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research. The 'he' refers to goodman because he was actually the Spartan general Xenophanes was writing about.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4792"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMany people start to read Paul's books and can't put them down. They are popular because Paul writes so well. The 'They' refers to paul's books because in the Bible, \"the Jews\" refers to \"the people of the Gentiles.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#741"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI can't cut that tree down with that axe; it is too thick. The 'it' refers to the tree because it is too small. I can't cut that tree down with that axe.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3128"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred covered his eyes with his hands, because the wind was blowing sand around. He lowered them when the wind stopped. The 'them' refers to his hands because wind was blowing sand around covered his eyes.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2097"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. The 'He' refers to the customer because the stabber would go to the police station.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4169"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured it was too hard to pronounce. The 'it' refers to terpsichore because If she changed her name it would be likely the one that was to pronounce was the one she changed from.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#997"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnn asked Mary what time the library closes, but she had forgotten. The 'she' refers to mary because she doesn't have a clue what time it is.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#122"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoe's uncle can still beat him at tennis, even though he is 30 years older. The 'he' refers to joe's uncle because the first half of the title is \"He's got a big heart, a big soul.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3274"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAs Andrea in the crop duster passed over Susan, she could see the landing gear. The 'she' refers to susan because in the game, it isn't mentioned whether she is a man or woman.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5347"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom threw his schoolbag down to Ray after he reached the top of the stairs. The 'he' refers to tom because ray catch the tom's school bag after he reached the bottom of the stairs.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4606"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. They have gotten very bold. The 'They' refers to the foxes because the chickens got very nervous by foxes attack.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#745"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma did not pass the ball to Janie although she saw that she was open. The 'she' refers to emma because of how she was treated by the other players.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4076"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe lawyer asked the witness a question, but he was reluctant to repeat it. The 'he' refers to the lawyer because The lawyer asked the witness.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5006"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday. The 'it' refers to the old house because Joe bought a new house. So you assume he's moving from the old to the new.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3114"
+            ]
+        ],
+        "round#1": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI poured water from the bottle into the cup until it was empty. The 'it' refers to the bottle because he bottle into the cup until it was empty so  i poured water.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5441"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work. The 'it' refers to the article because of the title. It is a short story about the life of John F. Kennedy.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3819"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe lawyer asked the witness a question, but he was reluctant to repeat it. The 'he' refers to the lawyer because in his testimony the lawyer told the court he would have to ask the witness questions to make sure he.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#125"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMadonna fired her trainer because she slept with her boyfriend. The 'her' refers to madonna because madonna has no reason to fire people has nothing to do with her own boyfriend.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5343"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn the middle of the outdoor concert, the rain started falling, but it continued until 10. The 'it' refers to the concert because the rain started falling, and it continued until 10In the middle of the outdoor concert.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4652"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSusan knows all about Ann's personal problems because she is nosy. The 'she' refers to susan because nosy people are sensitive to others' problems.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4030"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn was jogging through the park when he saw a man juggling watermelons. He was very impressed. The 'He' refers to john because he is the same height as him, John is 6'1 and John's dad is 6'.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5269"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on Susan's door, but there was no answer. She was out. The 'She' refers to susan because Jane was disappointed.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5046"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the heavy book on the table and it broke. The 'it' refers to the table because A butterfly wing would likely not be heavy enough to break a table.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1750"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe woman held the girl against her chest The 'her' refers to the woman because The woman was holding the child.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1973"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nKirilov ceded the presidency to Shatov because he was less popular. The 'he' refers to kirilov because he was the only one to be elected, and therefore the only one to have the right to appoint.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1720"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred and Alice had very warm down coats, but they were not prepared for the cold in Alaska. The 'they' refers to fred and alice because the coats are what is not enough for the cold.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5221"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSid explained his theory to Mark but he couldn't convince him. The 'he' refers to sid because Because Sid was explaining to Mark but Sid couldn't convince Mark.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4291"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn couldn't see the stage with Billy in front of him because he is so short. The 'he' refers to john because John had a taller obstacle.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#512"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. The 'He' refers to the customer because the stabber would go to the police station.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2556"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on the door, and Susan answered it. She invited her to come in. The 'She' refers to susan because Susan was was the one inside.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4001"
+            ]
+        ],
+        "round#2": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off. The 'it' refers to the tv because he put it off, because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it off.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3225"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nPete envies Martin although he is very successful. The 'he' refers to pete because , as Martin says, he's \"not a real man\" and thus, Pete is a \".\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3503"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nWhen Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look. The 'him' refers to timmy because father gave him a stern look When Tommy dropped his ice cream, Timmy giggled.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#528"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred and Alice had very warm down coats, but they were not enough for the cold in Alaska. The 'they' refers to coats because they were not enough for the cold in Alaska because  Fred and Alice had very warm down coats.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5266"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred is the only man still alive who remembers my great-grandfather. He was a remarkable man. The 'He' refers to my great-grandfather because my great-grantfather is more imporant than fred.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5516"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nWhen Tommy dropped his ice cream, Timmy giggled, so father gave him a stern look. The 'him' refers to timmy because the stern look would be to the one who giggled at Tommys misfortune.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3674"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on the door, and Susan answered it. She invited her to come in. The 'She' refers to susan because JANE REFER TO SUSAN.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4014"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe man couldn't lift his son because he was so weak. The 'he' refers to the man because when he was lifted, he was shown being in the man's place.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2121"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred and Alice had very warm down coats, but they were not enough for the cold in Alaska. The 'they' refers to coats because the two women had one coat each, and they could both wear a scarf or sweater.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4907"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSusan knew that Ann's son had been in a car accident, so she told her about it. The 'she' refers to susan because she knew about Ann's husband, who was a very close friend.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4145"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFrank felt vindicated when his longtime rival Bill revealed that he was the winner of the competition. The 'he' refers to frank because he was the only winner to win the 'he' competition.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2030"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nPaul tried to call George on the phone, but he wasn't successful. The 'he' refers to paul because Phone was not reached to George.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2498"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMary took out her flute and played one of her favorite pieces. She has had it since she was a child. The 'it' refers to the flute because A piece of music is an idea, not an object to own.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1812"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe older students were bullying the younger ones, so we rescued them . The 'them' refers to the younger students because we know that they will be bullied in the future.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5040"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nPete envies Martin although he is very successful. The 'he' refers to pete because Yes, because everything flows according to your destiny.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2558"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, they were victorious within weeks. The 'they' refers to yakutsk because The sentance describes who lost, and why Yakutsk had advantages.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1189"
+            ]
+        ],
+        "round#3": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThis morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the wind  knocked it down. The 'it' refers to the flag because the toy flag is more affected by wind than a sand castle.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1343"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. I shall have to kill them . The 'them' refers to the foxes because they are not allowed to attack domestic animals and they are often seen at night in the morning.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2421"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEveryone really loved the oatmeal cookies; only a few people liked the  chocolate chip cookies. Next time, we should make more of them . The 'them' refers to the oatmeal cookies because A chocolate chip cookies is liked by few people. so it can be iprove its quality for better results.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4423"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI stuck a pin through a carrot. When I pulled the pin out, it left a hole. The 'it' refers to the pin because a carrot cannot leave a hole in itself.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#150"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe fish ate the worm. It was tasty. The 'It' refers to the worm because The fish ate the worm and hungry.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2487"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nWe had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply too many of them . The 'them' refers to chairs because they are the people who actually pay for university.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#840"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob collapsed on the sidewalk. Soon he saw Carl coming to help. He was very concerned. The 'He' refers to carl because He saw Carl coming to helpbecause he was very concerned.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3575"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI can't cut that tree down with that axe; it is too small. The 'it' refers to the axe because of the 'it' that the axe is pointing at.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1999"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoe's uncle can still beat him at tennis, even though he is 30 years older. The 'he' refers to joe's uncle because Joe being 30 years older than his uncle is extremely unlikely.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#304"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe sculpture rolled off the shelf because it wasn't anchored. The 'it' refers to the sculpture because anchored wasn't rolled off the shelf.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2887"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe father carried the sleeping boy in his arms The 'his' refers to the father because he came to see the boy in the hospital, according to the report.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3444"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnn asked Mary what time the library closes, but she had forgotten. The 'she' refers to mary because Ann already didn't know.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4183"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the half-empty plate to John because he was hungry. The 'he' refers to john because Bill was passing a plate that still had food so he must no longer be hungry.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4535"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe fish ate the worm. It was hungry. The 'It' refers to the fish because the fish was hungry so it ate the worm.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#621"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. The 'He' refers to the customer because the assailant is said to have used a knife to attack the bank employee.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5229"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe cat was lying by the mouse hole waiting for the mouse, but it was too impatient. The 'it' refers to the cat because it was too impatient. : The cat was lying by the mouse hole waiting.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#754"
+            ]
+        ],
+        "round#4": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nDr. Adams informed Kate that she had cancer and presented several options for future treatment. The 'she' refers to kate because , at the time of her death, she had been living with another woman, but Dr.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3545"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe sack of potatoes had been placed above the bag of flour, so it had to be moved first. The 'it' refers to the sack of potatoes because I believe that it would actually refer to the flour, because one would generally remove the item on top first.  Removing the object below might cause the item on top to fall.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5706"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnne gave birth to a daughter last month. She is a very charming baby. The 'She' refers to anne's daughter because The daughter is the new born baby.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4995"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it removed. The 'it' refers to the tree because The trashed crashed through the roof: therefore the roof was broken and needed the repairs.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1268"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnne gave birth to a daughter last month. She is a very charming woman. The 'She' refers to anne because Annes daughter is not old enough to be charming yet.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1363"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nPete envies Martin although he is very successful. The 'he' refers to pete because his success is a direct result of Martin's success.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3660"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnne gave birth to a daughter last month. She is a very charming baby. The 'She' refers to anne's daughter because of the fact she is the only child in the family.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1550"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nCarol believed that Rebecca regretted that she had stolen the watch. The 'she' refers to rebecca because If Rebecca regrets something of course she must of been the one that stole the watch.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3945"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJim signaled the barman and gestured toward his bathroom key. The 'his' refers to the barman because the man is the only one who enters the bathroom in the building.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3619"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAdam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, he would be here by this time. The 'he' refers to bob because Adam is waiting to be replaced: therefore Bob was the one not leaving for work on time.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5159"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe lawyer asked the witness a question, but he was reluctant to repeat it. The 'he' refers to the lawyer because he is the one who asked the question.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3107"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe large ball crashed right through the table because it was made of steel. The 'it' refers to the large ball because The one crashing is likely to be have made of styrofoam.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5545"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJim yelled at Kevin because he was so upset. The 'he' refers to jim because Kevin didn't say anything. Kevin didn't say anything because he's a quiet person.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4491"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't put the pot on the shelf because it was too tall. The 'it' refers to the pot because He pot on the shelf because it was too high.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3756"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't put the pot on the shelf because it was too high. The 'it' refers to the shelf because Because high would refer to the shelf, the pot would be tall not high.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5002"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJames asked Robert for a favor but he was refused. The 'he' refers to james because Robert is the 'he' who was forced to kill his wife and children.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4795"
+            ]
+        ],
+        "round#5": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane gave Joan candy because she wasn't hungry. The 'she' refers to jane because Joan needed to eat something.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2917"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nDan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker. The 'his' refers to bill because he was originally supposed to have the 'Dibs!' position, however this was not completed.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3682"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on Susan's door, but there was no answer. She was disappointed. The 'She' refers to jane because susan may not be at home.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3721"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMark told Pete many lies about himself, which Pete included in his book. He should have been more  skeptical. The 'He' refers to pete because Mark was the one lying. Not Pete. So Mark should have been truthful.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4644"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time. The 'They' refers to the stars because They were very persistent, so the interview lasted for a long time but The journalists interviewed the stars of the new movie.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1618"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of coffee. The 'it' refers to the pen because a pen is likely to make a mess of stuff unlike a spoon.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2364"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe man couldn't lift his son because he was so heavy. The 'he' refers to the son because His son is referred to as the pronoun here a word that can function by itself as a noun phrase and that refers either to the participants in the discourse.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2436"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred and Alice had very warm down coats, but they were not enough for the cold in Alaska. The 'they' refers to coats because the two women had one coat each, and they could both wear a scarf or sweater.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5436"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnna did a lot better than her good friend Lucy on the test because she had studied so hard. The 'she' refers to anna because lucy studied very hard so that she wrote better than anna.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4361"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nLook! There is a shark swimming right below that duck! It had better get away to safety fast! The 'It' refers to the duck because The duck is threatened.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1390"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the half-empty plate to John because he was hungry. The 'he' refers to john because he was the one who went to the diner after he left his mother's house and told his mother.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#169"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThere is a gap in the wall. You can see the garden through it . The 'it' refers to the gap because the wall is missing, or possibly the garden is missing.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2208"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom gave Ralph a lift to school so he wouldn't have to walk. The 'he' refers to ralph because walking is referring to ralph which is the he in the sentence.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2453"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma did not pass the ball to Janie although she was open. The 'she' refers to janie because she made it clear she was more than willing to use the touchline.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2557"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn hired Bill to take care of him . The 'him' refers to john because Bill to take care of John.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3396"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam took French classes from Adam, because he was known to speak it fluently. The 'he' refers to adam because French classes from Adam taken by sam.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5130"
+            ]
+        ],
+        "round#6": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSince it was raining, I carried the newspaper over my backpack to keep it dry. The 'it' refers to the backpack because newspaper inside a backpack could be kept dry during raining.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3160"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe firemen arrived before the police because they were coming from so far away. The 'they' refers to the police because they are the ones in charge of the police station.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3059"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nWe went to the lake, because a shark had been seen at the ocean beach, so it was a dangerous place to swim. The 'it' refers to the ocean beach because The pronoun probably refers to the ocean that was a dangerous place because of the shark.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2771"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnne gave birth to a daughter last month. She is a very charming baby. The 'She' refers to anne's daughter because she is not the same age as her mother.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3424"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma's mother had died long ago, and her place had been taken by an excellent woman as governess. The 'her' refers to emma's mother because her mother had died.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4073"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSteve follows Fred's example in everything. He admires him hugely. The 'He' refers to steve because Steve follows fred, so fred is the influencer.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2820"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on Susan's door, but there was no answer. She was disappointed. The 'She' refers to jane because not everything flows well.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4867"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe sack of potatoes had been placed below the bag of flour, so it had to be moved first. The 'it' refers to the bag of flour because If the sack of potatoes is on top it only makes sense that it has to be moved first.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5181"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam Goodman's biography of the Spartan general Xenophanes conveys a vivid sense of the difficulties he faced in his research. The 'he' refers to goodman because Goodman is the one doing the biography so of curse it's going to convey the difficulties of the person he is writing on, Xenophanes.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4824"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe city councilmen refused the demonstrators a permit because they feared violence. The 'they' refers to the city councilmen because The councilmen distributed permits at their discretion; the demonstrators wanted the permits.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5026"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nGrace was happy to trade me her sweater for my jacket. She thinks it looks great on her. The 'it' refers to the jacket because it would be a very nice gift for her.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2698"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoe's uncle can still beat him at tennis, even though he is 30 years younger. The 'he' refers to joe because of his age.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5635"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. They have gotten very bold. The 'They' refers to the foxes because the foxes are the aggressors, so the sentence is referring to the foxes as getting bold.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#451"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI poured water from the bottle into the cup until it was empty. The 'it' refers to the bottle because containers I poured into will be full later.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4036"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBilly cried because Toby wouldn't accept his toy. The 'his' refers to billy because yes I would think that would be correct.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4198"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of ink. The 'it' refers to the coffee because My coffee to be get stir.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4247"
+            ]
+        ],
+        "round#7": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe cat was lying by the mouse hole waiting for the mouse, but it was too impatient. The 'it' refers to the cat because The cautious animal is the one being hunted.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1063"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn promised Bill to leave, so an hour later he left. The 'he' refers to john because Bill was being ordered to leave.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5008"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve months old. The 'he' refers to my father because When Fred first saw my father, he was twelve months old Fred is the only man alive who still remembers my father as an infant.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1995"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe man couldn't lift his son because he was so heavy. The 'he' refers to the son because he's the one to be lifted.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1332"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nPaul tried to call George on the phone, but he wasn't available. The 'he' refers to george because he's the one who's been arrested.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5309"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom threw his schoolbag down to Ray after he reached the top of the stairs. The 'he' refers to tom because he is a former student of Ray's.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2278"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nStretching her back, the woman smiled at the girl. The 'her' refers to the woman because her body is not actually in contact with her own, as her head is not in contact with her.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1036"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam took French classes from Adam, because he was eager to speak it fluently. The 'he' refers to sam because The red should refer to Adam because Adam speaks it fluently.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5665"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThey broadcast an announcement, but a subway came into the  station and I couldn't hear over it . The 'it' refers to the subway because subway came into the station and I couldn't hear over it.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3834"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob paid for Charlie's college education. He is very grateful. The 'He' refers to charlie because bob paid the college education for charlie.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3492"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn ordered Bill to leave, so an hour later he left. The 'he' refers to bill because John promised Bill to leave.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2567"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBilly cried because Toby wouldn't accept his toy. The 'his' refers to billy because You assume Billy is crying because Toby won't share.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4829"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJim comforted Kevin because he was so upset. The 'he' refers to kevin because he was so upset.Jim comforted Kevin.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4897"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob paid for Charlie's college education. He is very grateful. The 'He' refers to charlie because He is very generous.Bob paid for Charlie's college education.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1893"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the butterfly wing on the table and it broke. The 'it' refers to the butterfly wing because the books most likley would not have broken the table.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#221"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on the door, and Susan answered it. She invited her to come out. The 'She' refers to jane because Susan answered it. She invited her to come ou but  Jane knocked on the door.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4260"
+            ]
+        ],
+        "round#8": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnne gave birth to a daughter last month. She is a very charming baby. The 'She' refers to anne's daughter because she was raised in an orphanage, and the name 'Marie' comes from the French word '.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2176"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the gameboy to John because his turn was over. The 'his' refers to bill because If bill is the one passing up the gameboy it's likely that it was because his turn was over.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4599"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAlthough they ran at about the same speed, Sue beat Sally because she had such a good start. The 'she' refers to sue because she has been raised as a girl, although the 'he' is also likely to refer to the.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2583"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI used an old rag to clean the knife, and then I put it in the trash. The 'it' refers to the rag because it's unlikely you would put an old rag in a drawer.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3434"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe police arrested all of the gang members. They were trying to run the drug trade in the neighborhood. The 'They' refers to the gang members because they, refers to the police because all the actions are done by them.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2339"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe older students were bullying the younger ones, so we punished them . The 'them' refers to the older students because old student bullying one so youngers.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4209"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJim comforted Kevin because he was so upset. The 'he' refers to kevin because , as he said, 'I never, ever wanted to be a rapist.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2830"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIf the con artist has succeeded in fooling Sam, he would have gotten a lot of money. The 'he' refers to the con artist because he did wrong thing and got lost.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1158"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nKirilov ceded the presidency to Shatov because he was less popular. The 'he' refers to kirilov because more popular people could get the presidency.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4243"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on Susan's door, but there was no answer. She was out. The 'She' refers to susan because Jane is disappointed.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#575"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the gameboy to John because his turn was next. The 'his' refers to john because His turn was over.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2580"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out. The 'it' refers to the sun because exactly what nouns we are replacing (Pronoun Reference), and that we use the ... will be replaced by a plural pronoun such as they. ... please refer to the subject-verb agreement handout for more information ...\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#583"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe dog chased the cat, which ran up a tree. It waited at the bottom. The 'It' refers to the dog because the dog chased the cat ran up a tree.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3757"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThey broadcast an announcement, but a subway came into the  station and I couldn't hear it . The 'it' refers to the announcement because The announcement was overshadowed by the subway sound.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5315"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it repaired. The 'it' refers to the roof because it is a large tree, it is a part of the roof, and it is the roof of.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5283"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it repaired. The 'it' refers to the roof because the roof of house crashed and have to get it repaired.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1051"
+            ]
+        ],
+        "round#9": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nPete envies Martin because he is very successful. The 'he' refers to martin because in the second part of the episode, we see that Martin's name is pronounced \"muh-.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#211"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe fish ate the worm. It was hungry. The 'It' refers to the fish because hunger makes fish predators.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4948"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam broke both his ankles and he's walking with crutches. But a month or so from now they should be better. The 'they' refers to the ankles because THE CRUTCHES LIKELY TO REFER.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2517"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred was supposed to run the dishwasher, but he put it off,  because he wanted to watch TV. But the show turned out to be boring, so he changed his mind and turned it on. The 'it' refers to the dishwasher because The TV show was boring; therefore it was already on so the dishwasher was what needed to be turned on.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4412"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the half-empty plate to John because he was hungry. The 'he' refers to john because Bill was passing a plate with food on it; therefore John must be the hungry one.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2091"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nDan had to stop Bill from toying with the injured bird. He is very compassionate. The 'He' refers to dan because a compassionate guy stops others from toying things.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4045"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThomson visited Cooper's grave in 1765. At that date he had been dead for five years. The 'he' refers to cooper because he travelling 5 years to grave.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3240"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe trophy doesn't fit into the brown suitcase because it is too small. The 'it' refers to the suitcase because it is the only one in the game that has a brown suitcase for storage.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2717"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI'm sure that my map will show this building; it is very good. The 'it' refers to the map because The building is much more likely to be famous than the map.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#531"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe painting in Mark's living room shows an oak tree. It is to the right of a house. The 'It' refers to the oak tree because No it refers to the oak tree.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5533"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoan made sure to thank Susan for all the help she had recieved. The 'she' refers to joan because The person that provided help is likely the one being thanked.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4367"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFrank was upset with Tom because the toaster he had bought from him didn't work. The 'he' refers to frank because he is the only one who can explain the whole situation to Tom.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#670"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. The 'they' refers to amy's parents because Amy's parents are snobs.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3136"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn July, Kamtchatka declared war on Yakutsk. Since Yakutsk's army was much  better equipped and ten times larger, they were victorious within weeks. The 'they' refers to yakutsk because of the region's historic ties to Russia.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3032"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSince it was raining, I carried the newspaper over my backpack to keep it dry. The 'it' refers to the backpack because james askedsome work but he was rejected.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5212"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe trophy doesn't fit into the brown suitcase because it is too large. The 'it' refers to the trophy because the green suitcase was seen in the background of the trophy's picture.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3803"
+            ]
+        ],
+        "round#10": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma's mother had died long ago, and her place had been taken by an excellent woman as governess. The 'her' refers to emma's mother because of her name's resemblance to the name 'Mortimer' (a play on 'Mort.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3322"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. They have gotten very nervous. The 'They' refers to the chickens because the chickens got very nervous by foxes attack.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#105"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred is the only man still alive who remembers my great-grandfather. He was a remarkable man. The 'He' refers to my great-grandfather because MORE LIKELY FRED.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3931"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn promised Bill to leave, so an hour later he left. The 'he' refers to john because Bill to leave so John ordered.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5183"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam tried to paint a picture of shepherds with sheep, but they ended up looking more like golfers. The 'they' refers to the shepherds because they are the ones who will be doing the shepherding.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1127"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the cake away in the refrigerator. It has a lot of leftovers in it. The 'It' refers to the refrigerator because in the kitchen, I'm usually on the other side of the room, away from the freezer and.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4495"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred is the only man alive who still remembers my father as an infant. When Fred first saw my father, he was twelve years old. The 'he' refers to fred because Fred wouldn't remember something that happened when he was twelve months old.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5107"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI took the water bottle out of the backpack so that it would be handy. The 'it' refers to the water bottle because Taking the water bottle out would make it more handy as oppose to having no effect on the handiness of the backpack.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#506"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe dog chased the cat, which ran up a tree. It waited at the bottom. The 'It' refers to the dog because the cat was the prey.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3602"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFrank was upset with Tom because the toaster he had bought from him didn't work. The 'he' refers to frank because The pronoun probably refers to Tom because he sold a toaster that was not working. And that made Frank upset.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1613"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe trophy doesn't fit into the brown suitcase because it is too small. The 'it' refers to the suitcase because there are only 2 bags in the game, the 'it' is likely to refer to the bag.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#914"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMadonna fired her trainer because she slept with her boyfriend. The 'her' refers to madonna because , in the past, she has spoken of her love for the singer.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1159"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the half-empty plate to John because he was full. The 'he' refers to bill because Bill wasn't hungry, so he gave the rest to John who was hungry.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#813"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost. The 'he' refers to adam because he is a 'he'.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4551"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAs Ollie carried Tommy up the long winding steps, his legs dangled. The 'his' refers to tommy because Olly was walking, Tommy was being carried. Only Tommy's legs could dangle.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3792"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was out. The 'it' refers to the sun because it is the primary source of light for the event.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#431"
+            ]
+        ],
+        "round#11": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped. The 'them' refers to his eyes because it had a lot of sand under it, the sand on the 'them' is a reference to.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5200"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom threw his schoolbag down to Ray after he reached the bottom of the stairs. The 'he' refers to ray because ray catch the tom's school bag after he reached the bottom of the stairs.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#823"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI stuck a pin through a carrot. When I pulled the pin out, it had a hole. The 'it' refers to the carrot because it is the first thing you see when you get in and you can't see anything because it is.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4849"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nCarol believed that Rebecca regretted that she had stolen the watch. The 'she' refers to rebecca because rebecca had the regret so she is rebecca.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1863"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. They have gotten very bold. The 'They' refers to the foxes because animals get attacked are nervous.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3906"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoe has sold his house and bought a new one a few miles away. He will be moving out of it on Thursday. The 'it' refers to the old house because He will be moving into it on Thursday and bought a new one a few miles away.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5443"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAlthough they ran at about the same speed, Sue beat Sally because she had such a bad start. The 'she' refers to sally because Sally lost the race she must have had the bad start.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2327"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nWhen the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. The 'They' refers to the opponents because The room was full of opponents therefore the sponsors must be in the minority.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3272"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the heavy book on the table and it broke. The 'it' refers to the table because it has no handles or supports.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#810"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nDan took the rear seat while Bill claimed the front because his \"Dibs!\" was slow. The 'his' refers to dan because he always uses the \"his\" when referring to his son.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2577"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nCarol believed that Rebecca suspected that she had stolen the watch. The 'she' refers to carol because This is what Carol believes. So she thinks Rebecca thinks Carol stole it.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5421"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred watched TV while George went out to buy groceries. After an hour he got up. The 'he' refers to fred because Fred is the one who currently in home.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2135"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe table won't fit through the doorway because it is too narrow. The 'it' refers to the doorway because the table is too close to it.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1972"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time. The 'They' refers to the journalists because The leading sentance is based on the movie starts, second sentence is a follow up.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#941"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSara borrowed the book from the library because she needs it for an article she is working on. She writes it when she gets home from work. The 'it' refers to the article because the 'it' is the article.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5014"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSid explained his theory to Mark but he couldn't understand him. The 'he' refers to mark because he is the only one who was able to understand Sid's thoughts.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5126"
+            ]
+        ],
+        "round#12": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIt was a summer afternoon, and the dog was sitting in the middle of the lawn. After a while, it got up and moved to a spot under the tree,  because it was cooler. The 'it' refers to the spot under the tree because it was hot for very summer.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5615"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAlice tried frantically to stop her daughter from barking at the party, leaving us to wonder why she was behaving so strangely. The 'she' refers to alice's daughter because she was there.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5531"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI took the water bottle out of the backpack so that it would be lighter. The 'it' refers to the backpack because You're taking something out of a backpack, making it lighter.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4172"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe large ball crashed right through the table because it was made of styrofoam. The 'it' refers to the table because the ball crashed through the table because the ball was made of steel.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2759"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMary tucked her daughter Anne into bed, so that she could work. The 'she' refers to mary because too sleep.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1097"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFrank was upset with Tom because the toaster he had bought from him didn't work. The 'he' refers to frank because The pronoun probably refers to Tom because he sold a toaster that was not working. And that made Frank upset.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1613"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on Susan's door but she did not get an answer. The 'she' refers to jane because Jane is knocking on the door waiting for an answer.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5460"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of ink. The 'it' refers to the coffee because The pen, because coffee can't be full of coffee.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3926"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nWe had hoped to place copies of our newsletter on all the chairs in the auditorium, but there were simply not enough of them . The 'them' refers to copies of the newsletter because the chairs was too many to supply the newsletter.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3021"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the cake away in the refrigerator. It has a lot of leftovers in it. The 'It' refers to the refrigerator because stored cake in refrigerator.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5372"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the half-empty plate to John because he was full. The 'he' refers to bill because he is an older man who might have a history of mental illness, and the 'she' could.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#853"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSusan knows all about Ann's personal problems because she is indiscreet. The 'she' refers to ann because of the fact that she is her own mother.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5264"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJames asked Robert for a favor but he was refused. The 'he' refers to james because James is the one asking, robert is refusing.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1970"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time. The 'They' refers to the journalists because they were also interested in the new movie.I'll get back to the 'They' later.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5562"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have lost. The 'he' refers to adam because he was playing with him at the table, and the 'she' refers to Eve.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2175"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn couldn't see the stage with Billy in front of him because he is so tall. The 'he' refers to billy because short one can not see infront.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5344"
+            ]
+        ],
+        "round#13": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe woman held the girl against her will. The 'her' refers to the girl because The girl is being held by the woman.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2604"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred and Alice had very warm down coats, but they were not prepared for the cold in Alaska. The 'they' refers to fred and alice because VERY WARM DOWN COATS FRED AND ALICE.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3839"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI'm sure that my map will show this building; it is very good. The 'it' refers to the map because famous buildings can be landmarks.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1357"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe fish ate the worm. It was hungry. The 'It' refers to the fish because hunger makes fish predators.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4948"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe large ball crashed right through the table because it was made of styrofoam. The 'it' refers to the table because Because the table was crashed and a ball made of steel could crash right through it.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1176"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe actress used to be named Terpsichore, but she changed it to Tina a  few years ago, because she figured it was easier to pronounce. The 'it' refers to tina because she's a former contestant on the reality show, and the 'it' is likely to be either.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1184"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMark told Pete many lies about himself, which Pete included in his book. He should have been more  skeptical. The 'He' refers to pete because he has been writing for a long time, and he has a reputation for having a lot of interesting.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3253"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI took the water bottle out of the backpack so that it would be handy. The 'it' refers to the water bottle because I thought I'd put it in my backpack for the trip.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2398"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe journalists interviewed the stars of the new movie. They were very persistent, so the interview lasted for a long time. The 'They' refers to the journalists because journalists are persistent in interviewing.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1028"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam took French classes from Adam, because he was known to speak it fluently. The 'he' refers to adam because French classes from Adam taken by sam.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5130"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nGeorge got free tickets to the play, but he gave them to Eric, because he was particularly eager to see it. The 'he' refers to eric because he is the main character in the novel.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2116"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe sun was covered by a thick cloud all morning, but luckily, by the time the picnic started, it was gone. The 'it' refers to the cloud because there's a cloud of it covering most of the sky.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5124"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe delivery truck zoomed by the school bus because it was going so slow. The 'it' refers to the school bus because it was zoomed by going so fast.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3870"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe large ball crashed right through the table because it was made of steel. The 'it' refers to the large ball because of the metal balls and the fact that the table was likely rolled and stored in a warehouse.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4574"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane knocked on Susan's door but she did not get an answer. The 'she' refers to jane because door is more likely to knock.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2915"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn promised Bill to leave, so an hour later he left. The 'he' refers to john because Bill to leave so John ordered.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5183"
+            ]
+        ],
+        "round#14": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe scientists are studying three species of fish that have recently been found living in the Indian Ocean. They began two years ago. The 'They' refers to the scientists because the researchers are studying three species of fish that have recently been found living in the Indian Ocean.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5700"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nWhen the sponsors of the bill got to the town hall, they were surprised to find that the room was full of opponents. They were very much in the majority. The 'They' refers to the opponents because of the fact that this bill is one of the \"no\" votes.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5176"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped. The 'them' refers to his eyes because He opened eye when the wind stopped.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#492"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred watched TV while George went out to buy groceries. After an hour he got back. The 'he' refers to george because of his father's name, but the 'she' is likely to be Mary.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3310"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSince it was raining, I carried the newspaper over my backpack to keep it dry. The 'it' refers to the backpack because The newspaper was covering the backpack and the newspaper would get wet.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#514"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nLily spoke to Donna, breaking her concentration. The 'her' refers to donna because of her relationship with Lily and her role in the investigation.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2952"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn the storm, the tree fell down and crashed through the roof of my  house. Now, I have to get it removed. The 'it' refers to the tree because it is a part of the house.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4812"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe father carried the sleeping boy in his arms The 'his' refers to the father because The pronoun probably refers to the father who carried the boy.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2914"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSusan knows all about Ann's personal problems because she is indiscreet. The 'she' refers to ann because a discreet person make the solution of all problems.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2816"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nPete envies Martin although he is very successful. The 'he' refers to pete because , as Martin says, he's \"not a real man\" and thus, Pete is a \".\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4571"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob paid for Charlie's college education. He is very grateful. The 'He' refers to charlie because bob paid the college education for charlie.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3492"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't put the pot on the shelf because it was too tall. The 'it' refers to the pot because No, the red should refer to the shelf as being too high.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4171"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI can't cut that tree down with that axe; it is too thick. The 'it' refers to the tree because it is too small. I can't cut that tree down with that axe.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3123"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam's drawing was hung just above Tina's and it did look much better with another one below it. The 'it' refers to sam's drawing because it's a pretty well known thing, a drawing of a fish that has a fishy body with.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5068"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma's mother had died long ago, and her education had been managed by an excellent woman as governess. The 'her' refers to emma because Emma was educated after her mother died.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4559"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe police arrested all of the gang members. They were trying to stop the drug trade in the neighborhood. The 'They' refers to the police because the red should refer to the gang members.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2128"
+            ]
+        ],
+        "round#15": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAdam can't leave work here until Bob arrives to replace him. If Bob had  left home for work on time, he would be here by this time. The 'he' refers to bob because Adam is the one waiting to go home/leave.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5133"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSusan knew that Ann's son had been in a car accident, so she told her about it. The 'she' refers to susan because Susan knew that Ann's son had been in a car accident she told her about it.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#136"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI can't cut that tree down with that axe; it is too thick. The 'it' refers to the tree because it is too thick. but : I can't cut that tree down with that axe.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2304"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred and Alice had very warm down coats, but they were not prepared for the cold in Alaska. The 'they' refers to fred and alice because they were the first couple to arrive here.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2500"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. They have gotten very bold. The 'They' refers to the foxes because they dare to attack.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1485"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoan made sure to thank Susan for all the help she had given. The 'she' refers to susan because helps has been given Susan.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#649"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred and Alice had very warm down coats, but they were not enough for the cold in Alaska. The 'they' refers to coats because Because coats don't get prepared.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4728"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob paid for Charlie's college education. He is very generous. The 'He' refers to bob because bob paid the college education for charlie.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#516"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMary took out her flute and played one of her favorite pieces. She has loved it since she was a child. The 'it' refers to the piece because it was a traditional piece of music in the village.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3968"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe firemen arrived after the police because they were coming from so far away. The 'they' refers to the firemen because The police were farther away and arrived after the fireman.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1767"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nKirilov ceded the presidency to Shatov because he was less popular. The 'he' refers to kirilov because shatov got presidency post for his popularity.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#238"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe path to the lake was blocked, so we couldn't use it . The 'it' refers to the path because blocked likely to the path.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1582"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom gave Ralph a lift to school so he wouldn't have to drive alone. The 'he' refers to tom because Tom is referred to as the pronoun here a word that can function by itself as a noun phrase and that refers either to the participants in the discourse.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4512"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI saw Jim yelling at some guy in a military uniform with a huge red  beard. I don't know who he was, but he looked very unhappy. The 'he' refers to the guy in uniform because yelling hurts than jim feelings.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4956"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nStretching her back, the woman smiled at the girl. The 'her' refers to the woman because the woman smiled at the girl and  Patting her back.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#644"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBill passed the half-empty plate to John because he was hungry. The 'he' refers to john because Bill was passing a plate that still had food so he must no longer be hungry.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2654"
+            ]
+        ],
+        "round#16": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoe's uncle can still beat him at tennis, even though he is 30 years older. The 'he' refers to joe's uncle because the 'he' is the name of his father.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3361"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob was playing cards with Adam and was way ahead. If Adam hadn't had a sudden run of good luck, he would have won. The 'he' refers to bob because Adam because Bob was ahead.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#433"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnne gave birth to a daughter last month. She is a very charming woman. The 'She' refers to anne because MORE LIKE TO REFER.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2606"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the cake away in the refrigerator. It has a lot of leftovers in it. The 'It' refers to the refrigerator because it's so big.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2296"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nGeorge got free tickets to the play, but he gave them to Eric, even though he was particularly eager to see it. The 'he' refers to george because because he was particularly eager to see it so  George got free tickets to the play, but he gave them to Eric.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1657"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nDan took the rear seat while Bill claimed the front because his \"Dibs!\" was quicker. The 'his' refers to bill because if your dibs are slow you are more likely to take the unwanted back seat.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5228"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe police arrested all of the gang members. They were trying to run the drug trade in the neighborhood. The 'They' refers to the gang members because they are also called the 'Mafiosi.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#380"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI poured water from the bottle into the cup until it was empty. The 'it' refers to the bottle because they are sold as such in stores.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4471"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn promised Bill to leave, so an hour later he left. The 'he' refers to john because john a hour late.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5064"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe lawyer asked the witness a question, but he was reluctant to answer it. The 'he' refers to the witness because The witness was reluctant to answer a question asked.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1163"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJackson was greatly influenced by Arnold, though he lived two centuries later. The 'he' refers to jackson because the author of the poem is Jackson's great-great-grandson.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4029"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't put the pot on the shelf because it was too tall. The 'it' refers to the pot because it is the only one I know of in my collection.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4459"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe firemen arrived before the police because they were coming from so far away. The 'they' refers to the police because so far away fireman.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1842"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe firemen arrived before the police because they were coming from so far away. The 'they' refers to the police because only the police could have pulled the firemen out of the burning building.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5007"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBeth didn't get angry with Sally, who had cut her off, because she stopped and counted to ten. The 'she' refers to beth because she stopped and apologized Beth didn't get angry with Sally, who had cut her off,.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3897"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nGeorge got free tickets to the play, but he gave them to Eric, because he was not particularly eager to see it. The 'he' refers to george because as a child he was a huge fan of the original 'Hairspray' and his family.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3661"
+            ]
+        ],
+        "round#17": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe path to the lake was blocked, so we couldn't use it . The 'it' refers to the path because because lake was target point we could not reach the lake of path block.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5284"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThomson visited Cooper's grave in 1765. At that date he had been dead for five years. The 'he' refers to cooper because he said he was 'a man' when he met the dead body of Henry Cooper in 1767.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#347"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma did not pass the ball to Janie although she saw that she was open. The 'she' refers to emma because Emma was the one who did not pass the ball; Janie was the one open.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5334"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThis morning, Joey built a sand castle on the beach, and put a toy  flag in the highest tower, but this afternoon the wind  knocked it down. The 'it' refers to the flag because its a flag, not a toy.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4225"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIn the middle of the outdoor concert, the rain started falling, and it continued until 10. The 'it' refers to the rain because If it was the rain continuing the sentence would be worded different.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3855"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJoe has sold his house and bought a new one a few miles away. He will be moving into it on Thursday. The 'it' refers to the new house because He moves to the new house.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#778"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago. The 'They' refers to the fish because they are found in very deep water.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4096"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe trophy doesn't fit into the brown suitcase because it is too small. The 'it' refers to the suitcase because there are only 2 bags in the game, the 'it' is likely to refer to the bag.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2423"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe dog chased the cat, which ran up a tree. It waited at the bottom. The 'It' refers to the dog because the dog chased the cat ran up a tree.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3757"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMadonna fired her trainer because she couldn't stand her boyfriend. The 'she' refers to madonna because the trainer has nothing to do with madonna's own boyfriend.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2473"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe sculpture rolled off the shelf because it wasn't level. The 'it' refers to the shelf because the artwork was shipped by a company called 'A.W. Ketcham, Inc.'.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4410"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nKirilov ceded the presidency to Shatov because he was less popular. The 'he' refers to kirilov because The person who is less popular would be the one who did not win.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2163"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nCarol believed that Rebecca regretted that she had stolen the watch. The 'she' refers to rebecca because the 'the' in 'She didn't want it' is the same sound as 'she'.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4598"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn couldn't see the stage with Billy in front of him because he is so tall. The 'he' refers to billy because MORE LIKELY TO REFER TO JOHN BILLY.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#338"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom threw his schoolbag down to Ray after he reached the top of the stairs. The 'he' refers to tom because of the way the two share their names, but it is not certain.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4732"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJane gave Joan candy because she was hungry. The 'she' refers to joan because she was an older woman and 'she' had a daughter in the household.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#906"
+            ]
+        ],
+        "round#18": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe journalists interviewed the stars of the new movie. They were very cooperative, so the interview lasted for a long time. The 'They' refers to the stars because cooperative is more likely to the interview.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4300"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe city councilmen refused the demonstrators a permit because they feared violence. The 'they' refers to the city councilmen because The demonstraters refused.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4269"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJohn was jogging through the park when he saw a man juggling watermelons. He was very impressed. The 'He' refers to john because The juggling man is likely to be impressive than the man looking.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#2968"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nAnn asked Mary what time the library closes, but she had forgotten. The 'she' refers to mary because the book is, in fact, called Mary's Book.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2470"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThere is a pillar between me and the stage, and I can't see it . The 'it' refers to the stage because I can't see because There is a pillar between me and the stage.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3202"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the cake away in the refrigerator. It has a lot of leftovers in it. The 'It' refers to the refrigerator because in the kitchen, I'm usually on the other side of the room, away from the freezer and.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4495"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSusan knew that Ann's son had been in a car accident, because she told her about it. The 'she' refers to ann because she told ann's car accident to susan.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#245"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nLily spoke to Donna, breaking her concentration. The 'her' refers to donna because Lily starting a conversation with Donna it is likely to break Donna's concentration.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#1943"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI couldn't find a spoon, so I tried using a pen to stir my  coffee. But that turned out to be a bad idea, because it got full of ink. The 'it' refers to the coffee because The coffee is the one being stirred by the pen and the pen already has ink in it.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#3164"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. I shall have to guard them . The 'them' refers to the chickens because they are the main focus of the attack.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#299"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt. The 'He' refers to bob because Bob is hurt Charlie acts like it never happened.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4558"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe man lifted the boy onto his bunk bed. The 'his' refers to the boy because he is a boy.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2388"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe scientists are studying three species of fish that have recently been found living in the Indian Ocean. They appeared two years ago. The 'They' refers to the fish because of their similarity in colouration, which suggests they are part of the same group.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2552"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom said \"Check\" to Ralph as he took his bishop. The 'his' refers to ralph because he lost his bishop.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#368"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMadonna fired her trainer because she slept with her boyfriend. The 'she' refers to the trainer because The trainer was fired; she would not be expected to sleep with the boyfriend therefore was fired.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#1173"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThere is a gap in the wall. You can see the garden behind it . The 'it' refers to the wall because You would see through a gap, not the wall.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5446"
+            ]
+        ],
+        "round#19": [
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nIf the con artist has succeeded in fooling Sam, he would have lost a lot of money. The 'he' refers to sam because he is the only person who has been able to see what is going on with him.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#4562"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSusan knows all about Ann's personal problems because she is indiscreet. The 'she' refers to ann because she can't be 'unleashed' because of her 'evil' side.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#181"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. The 'they' refers to amy's parents because they have a very low opinion of the 'they'.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2164"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nMark told Pete many lies about himself, which Pete included in his book. He should have been more  truthful. The 'He' refers to mark because He should have been more skeptical Mark told Pete many lies about himself, which Pete included in his book.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5482"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma's mother had died long ago, and her education had been managed by an excellent woman as governess. The 'her' refers to emma because the mother was the ex-guardian.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4323"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nBob paid for Charlie's college education, but now Charlie acts as though it never happened. He is very hurt. The 'He' refers to bob because Bob is hurt Charlie acts like it never happened.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#4558"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam took French classes from Adam, because he was known to speak it fluently. The 'he' refers to adam because he was a French teacher in a small town in France, and Adam was a French teacher in the.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5154"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI put the heavy book on the table and it broke. The 'it' refers to the table because broke the burrferfly wing.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#3986"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nFred covered his eyes with his hands, because the wind was blowing sand around. He opened them when the wind stopped. The 'them' refers to his eyes because wind was blowing sand around covered his eyes.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#5464"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nJackson was greatly influenced by Arnold, though he lived two centuries earlier. The 'he' refers to arnold because as he grew, he grew up in a 'he' household.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#662"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nI poured water from the bottle into the cup until it was full. The 'it' refers to the cup because The cup is not capable for getting the bottle water.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#408"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nThe foxes are getting in at night and attacking the chickens. I shall have to guard them . The 'them' refers to the chickens because they are the main focus of the attack.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#559"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSam broke both his ankles and he's walking with crutches. But a month or so from now they should be better. The 'they' refers to the ankles because we think one but it happens another to do some things.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#936"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nSince it was raining, I carried the newspaper over my backpack to keep it dry. The 'it' refers to the backpack because my backpack is referred to as the pronoun here a word that can function by itself as a noun phrase and that refers either to the participants in the discourse.\nThe above reasoning is",
+                [
+                    "incorrect"
+                ],
+                "winowhy|all|default|#2854"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nTom gave Ralph a lift to school so he wouldn't have to drive alone. The 'he' refers to tom because tom was the one driving alone before he picked ralph.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#5080"
+            ],
+            [
+                "Please answer the following questions about which words certain pronouns refer to.\n\nEmma's mother had died long ago, and her place had been taken by an excellent woman as governess. The 'her' refers to emma's mother because Emma was educated after her mother died.\nThe above reasoning is",
+                [
+                    "correct"
+                ],
+                "winowhy|all|default|#749"
+            ]
+        ]
+    }
+}

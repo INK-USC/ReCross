@@ -1,0 +1,54 @@
+{
+    "multiple_choice_qa": [
+        "wiqa",
+        "cosmos_qa",
+        "dream",
+        "social_i_qa",
+        "qasc",
+        "quail",
+        "quartz",
+        "sciq"
+    ],
+    "summarization": [
+        "gigaword",
+        "multi_news",
+        "xsum",
+        "samsum",
+        "cnn_dailymail-3.0.0"
+    ],
+    "extractive_qa": [
+        "duorc-SelfRC",
+        "adversarial_qa-dbidaf",
+        "adversarial_qa-dbert",
+        "adversarial_qa-droberta",
+        "ropes",
+        "quoref",
+        "duorc-ParaphraseRC"
+    ],
+    "sentiment": [
+        "rotten_tomatoes",
+        "app_reviews",
+        "amazon_polarity",
+        "yelp_review_full",
+        "imdb"
+    ],
+    "closed_book_qa": [
+        "kilt_tasks-hotpotqa",
+        "wiki_hop-original",
+        "wiki_qa"
+    ],
+    "structure_to_text": [
+        "wiki_bio",
+        "common_gen",
+        "cos_e-v1.11"
+    ],
+    "topic_classification": [
+        "dbpedia_14",
+        "ag_news"
+    ],
+    "paraphrase_identification": [
+        "glue-mrpc",
+        "glue-qqp",
+        "paws_x-en"
+    ]
+}

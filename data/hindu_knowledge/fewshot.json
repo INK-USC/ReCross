@@ -1,0 +1,2284 @@
+{
+    "16": {
+        "round#0": [
+            [
+                "Q: In Hindu mythology, the Sudarshana chakra is the weapon of which deity?\n  choice: Krishna\n  choice: Rama\n  choice: Balarama\n  choice: Lakshmana\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#417"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of Shiva's bow?\n  choice: Pinaka\n  choice: Vijaya\n  choice: Gandiva\n  choice: Sharanga\nA:",
+                [
+                    "Pinaka"
+                ],
+                "hindu_knowledge|all|default|#703"
+            ],
+            [
+                "Q: In Hindu mythology, what animal is Garuda?\n  choice: Elephant\n  choice: Snake\n  choice: Eagle\n  choice: Mouse\nA:",
+                [
+                    "Snake"
+                ],
+                "hindu_knowledge|all|default|#363"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following is the name of one of Sita's sons?\n  choice: Karna\n  choice: Rama\n  choice: Arjuna\n  choice: Kusha\nA:",
+                [
+                    "Karna"
+                ],
+                "hindu_knowledge|all|default|#618"
+            ],
+            [
+                "Q: Which of the following names of Shiva references his blue throat?\n  choice: Neelkanth\n  choice: Trilochana\n  choice: Mahadeva\n  choice: Omkara\nA:",
+                [
+                    "Mahadeva"
+                ],
+                "hindu_knowledge|all|default|#300"
+            ],
+            [
+                "Q: In Hindu mythology, the deity Rama is an avatar (incarnation) of which god?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Indra"
+                ],
+                "hindu_knowledge|all|default|#631"
+            ],
+            [
+                "Q: In Hindu mythology, Hiranyakashipu is granted a boon by which lord as a reward for many years of penance?\n  choice: Parvati\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Vishnu"
+                ],
+                "hindu_knowledge|all|default|#450"
+            ],
+            [
+                "Q: In Hinduism, who is the goddess of knowledge?\n  choice: Lakshmi\n  choice: Saraswati\n  choice: Ganga\n  choice: Parvati\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#262"
+            ],
+            [
+                "Q: In Hinduism, two deities are collectively known as the combined forms of feminine and masculine realities of god.  Which is the masculine part of this duo?\n  choice: Balarama\n  choice: Rama\n  choice: Arjuna\n  choice: Krishna\nA:",
+                [
+                    "Krishna"
+                ],
+                "hindu_knowledge|all|default|#53"
+            ],
+            [
+                "Q: The Hindu goddess of wealth is?\n  choice: Parvati\n  choice: Sita\n  choice: Lakshmi\n  choice: Saraswati\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#502"
+            ],
+            [
+                "Q: In Hindu mythology, what role does lord Krishna play in the Kurukshetra war?\n  choice: Commander\n  choice: Soldier\n  choice: Charioteer\n  choice: Scribe\nA:",
+                [
+                    "Commander"
+                ],
+                "hindu_knowledge|all|default|#174"
+            ],
+            [
+                "Q: In Hinduism, the Kshatriya class corresponds mostly to which occupation?\n  choice: Merchants\n  choice: Warriors\n  choice: Artisans\n  choice: Teachers and priests\nA:",
+                [
+                    "Warriors"
+                ],
+                "hindu_knowledge|all|default|#302"
+            ],
+            [
+                "Q: In Hindu mythology, the character Ravana has how many heads?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Ten\nA:",
+                [
+                    "Ten"
+                ],
+                "hindu_knowledge|all|default|#28"
+            ],
+            [
+                "Q: Complete the lyric from the Hindu song Ayigiri Nandini: Suravara varshini durdara darshini, durmukhamarshani _______.\n  choice: harsha rathe\n  choice: rathe\n  choice: Himalaya\n  choice: nandanuthe\nA:",
+                [
+                    "Himalaya"
+                ],
+                "hindu_knowledge|all|default|#536"
+            ],
+            [
+                "Q: The Hindu deity Indra rides an animal named Airavata.  What animal is Airavata?\n  choice: Calf\n  choice: Lion\n  choice: Boar\n  choice: Elephant\nA:",
+                [
+                    "Calf"
+                ],
+                "hindu_knowledge|all|default|#345"
+            ],
+            [
+                "Q: In Hindu mythlogy, the demonness Daruka becomes a goddess due to whose blessings?\n  choice: Pallavi\n  choice: Saraswati\n  choice: Lakshmi\n  choice: Parvati\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#695"
+            ]
+        ],
+        "round#1": [
+            [
+                "Q: Which character in Hindu mythology famously took a vow of celibacy to enable his father's marriage?\n  choice: Drona\n  choice: Surya\n  choice: Devavrata\n  choice: Karna\nA:",
+                [
+                    "Karna"
+                ],
+                "hindu_knowledge|all|default|#691"
+            ],
+            [
+                "Q: In Hinduism, the Shudhra class corresponds mostly to which occupation?\n  choice: Merchants\n  choice: Warriors\n  choice: Artisans\n  choice: Teachers and priests\nA:",
+                [
+                    "Artisans"
+                ],
+                "hindu_knowledge|all|default|#550"
+            ],
+            [
+                "Q: In Hinduism, the Ashvins comprise how many deities?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Three\nA:",
+                [
+                    "Three"
+                ],
+                "hindu_knowledge|all|default|#111"
+            ],
+            [
+                "Q: Which of the following Hindu deities is female?\n  choice: Parvati\n  choice: Vishnu\n  choice: Balarama\n  choice: Shiva\nA:",
+                [
+                    "Shiva"
+                ],
+                "hindu_knowledge|all|default|#624"
+            ],
+            [
+                "Q: Which Hindu chant begins with the line 'Om bhur bhuvah svah'?\n  choice: Pavamana mantra\n  choice: Surya mantra\n  choice: Gayatri mantra\n  choice: Shanti mantra\nA:",
+                [
+                    "Shanti mantra"
+                ],
+                "hindu_knowledge|all|default|#635"
+            ],
+            [
+                "Q: In Hindu mythology, Narakasura is the son of which goddess?\n  choice: Lakshmi\n  choice: Saraswati\n  choice: Bhumi\n  choice: Parvati\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#283"
+            ],
+            [
+                "Q: In Hindu mythology, the entities responsible for solar and lunar eclipses were initially known by what name?\n  choice: Chandra\n  choice: Svarbhanu\n  choice: Amrita\n  choice: Surya\nA:",
+                [
+                    "Chandra"
+                ],
+                "hindu_knowledge|all|default|#321"
+            ],
+            [
+                "Q: In the Mahabharata, which son of Arjuna was killed inside the formation known as the Chakravyuha?\n  choice: Babruvahana\n  choice: Shrutakarma\n  choice: Abhimanyu\n  choice: Iravan\nA:",
+                [
+                    "Abhimanyu"
+                ],
+                "hindu_knowledge|all|default|#226"
+            ],
+            [
+                "Q: In Hindu mythology, the ritual known as Ashwamedha yagna involves which animal?\n  choice: Cow\n  choice: Snake\n  choice: Bull\n  choice: Horse\nA:",
+                [
+                    "Cow"
+                ],
+                "hindu_knowledge|all|default|#48"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, during the war Yudhishthira proclaims that Ashwatthama is dead.  What kind of animal was this Ashwatthama?\n  choice: Horse\n  choice: Snake\n  choice: Elephant\n  choice: Lion\nA:",
+                [
+                    "Snake"
+                ],
+                "hindu_knowledge|all|default|#508"
+            ],
+            [
+                "Q: In Hindu mythology, which celestial weapon summons fire?\n  choice: Brahmastra\n  choice: Varunastra\n  choice: Agneyastra\n  choice: Indrastra\nA:",
+                [
+                    "Indrastra"
+                ],
+                "hindu_knowledge|all|default|#0"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, the demon Lavanasura possessed the trident of which god?\n  choice: Rama\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Brahma"
+                ],
+                "hindu_knowledge|all|default|#209"
+            ],
+            [
+                "Q: In Hindu mythology, Hiranyakashipu is granted a boon by which lord as a reward for many years of penance?\n  choice: Parvati\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Brahma"
+                ],
+                "hindu_knowledge|all|default|#112"
+            ],
+            [
+                "Q: In Hinduism, the Ashvins comprise how many deities?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Three\nA:",
+                [
+                    "One"
+                ],
+                "hindu_knowledge|all|default|#131"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, what was the name of Rama's mother?\n  choice: Kausalya\n  choice: Madri\n  choice: Kaikeyi\n  choice: Kunti\nA:",
+                [
+                    "Kausalya"
+                ],
+                "hindu_knowledge|all|default|#522"
+            ],
+            [
+                "Q: In Hindu mythology, the sage Durvasa cursed Saraswati to become a what?\n  choice: Mountain\n  choice: Valley\n  choice: Lake\n  choice: River\nA:",
+                [
+                    "Valley"
+                ],
+                "hindu_knowledge|all|default|#664"
+            ]
+        ],
+        "round#2": [
+            [
+                "Q: The Hindu deity Rama was a prince of which legendary city?\n  choice: Hastinapura\n  choice: Khandava\n  choice: Ayodhya\n  choice: Indraprastha\nA:",
+                [
+                    "Indraprastha"
+                ],
+                "hindu_knowledge|all|default|#6"
+            ],
+            [
+                "Q: In Hindu mythology, the deity Rama is an avatar (incarnation) of which god?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Vishnu"
+                ],
+                "hindu_knowledge|all|default|#698"
+            ],
+            [
+                "Q: The Hindu deity Dyaus is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Sky"
+                ],
+                "hindu_knowledge|all|default|#336"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with fire?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#516"
+            ],
+            [
+                "Q: In Hindu mythology, Hiranyakashipu is granted a boon by which lord as a reward for many years of penance?\n  choice: Parvati\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#328"
+            ],
+            [
+                "Q: In Hindu mythology, the Naga Kaliya was defeated by which deity?\n  choice: Indra\n  choice: Rama\n  choice: Bharata\n  choice: Krishna\nA:",
+                [
+                    "Krishna"
+                ],
+                "hindu_knowledge|all|default|#567"
+            ],
+            [
+                "Q: In Hindu mythology, the devas are said to be rivals of what more malevolent class of beings?\n  choice: Asuras\n  choice: Rishis\n  choice: Apsaras\n  choice: Gandharvas\nA:",
+                [
+                    "Rishis"
+                ],
+                "hindu_knowledge|all|default|#165"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, Duryodhana is ultimately mortally wounded by which weapon?\n  choice: Mace\n  choice: Sword\n  choice: Arrow\n  choice: Spear\nA:",
+                [
+                    "Spear"
+                ],
+                "hindu_knowledge|all|default|#688"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which character killed Lavanasura?\n  choice: Lakshmana\n  choice: Shatrughna\n  choice: Bharata\n  choice: Rama\nA:",
+                [
+                    "Lakshmana"
+                ],
+                "hindu_knowledge|all|default|#72"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following did not have a Swayamvara?\n  choice: Draupadi\n  choice: Sita\n  choice: Amba\n  choice: Hidimba\nA:",
+                [
+                    "Draupadi"
+                ],
+                "hindu_knowledge|all|default|#331"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which brother of Rama ruled Ayodhya in Rama's stead after the death of Dasharatha?\n  choice: Lakshmana\n  choice: Sita\n  choice: Bharata\n  choice: Shatrughna\nA:",
+                [
+                    "Bharata"
+                ],
+                "hindu_knowledge|all|default|#475"
+            ],
+            [
+                "Q: Complete the following line from the Hindu chant Pavamana Mantra: Asato ma sadgamaya, tamaso ma ________.\n  choice: dhimahi\n  choice: varenyam\n  choice: amritam gamaya\n  choice: jyotirgamaya\nA:",
+                [
+                    "amritam gamaya"
+                ],
+                "hindu_knowledge|all|default|#427"
+            ],
+            [
+                "Q: In Hindu mythology, the character Ravana has how many heads?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Ten\nA:",
+                [
+                    "One"
+                ],
+                "hindu_knowledge|all|default|#647"
+            ],
+            [
+                "Q: Which character in the Hindu story Mahabharata taught the Kuru princes military arts?\n  choice: Dronacharya\n  choice: Pandu\n  choice: Dhritarashtra\n  choice: Drupada\nA:",
+                [
+                    "Dronacharya"
+                ],
+                "hindu_knowledge|all|default|#518"
+            ],
+            [
+                "Q: In Hinduism, which member of the Tridevi is often depicted with a veena?\n  choice: Parvati\n  choice: Saraswati\n  choice: Lakshmi\n  choice: Rama\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#510"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, Ravana was a devotee of which deity?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Vishnu"
+                ],
+                "hindu_knowledge|all|default|#404"
+            ]
+        ],
+        "round#3": [
+            [
+                "Q: Which Hindu chant begins with the line 'Om bhur bhuvah svah'?\n  choice: Pavamana mantra\n  choice: Surya mantra\n  choice: Gayatri mantra\n  choice: Shanti mantra\nA:",
+                [
+                    "Pavamana mantra"
+                ],
+                "hindu_knowledge|all|default|#514"
+            ],
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Bhima take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Royal entertainer"
+                ],
+                "hindu_knowledge|all|default|#115"
+            ],
+            [
+                "Q: In Hindu mythology, which sage instructed Lava and Kusha?\n  choice: Parashurama\n  choice: Vyasa\n  choice: Dronacharya\n  choice: Valmiki\nA:",
+                [
+                    "Parashurama"
+                ],
+                "hindu_knowledge|all|default|#642"
+            ],
+            [
+                "Q: Which of the following is not a Hindu religious text?\n  choice: Koran\n  choice: Vedas\n  choice: Aranyakas\n  choice: Upanishads\nA:",
+                [
+                    "Upanishads"
+                ],
+                "hindu_knowledge|all|default|#485"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, what was the name of Rama's mother?\n  choice: Kausalya\n  choice: Madri\n  choice: Kaikeyi\n  choice: Kunti\nA:",
+                [
+                    "Kausalya"
+                ],
+                "hindu_knowledge|all|default|#522"
+            ],
+            [
+                "Q: In Hindu mythology, which wife of Dasharatha was responsible for Rama's banishment to the forest?\n  choice: Kausalya\n  choice: Urmila\n  choice: Kaikeyi\n  choice: Sumitra\nA:",
+                [
+                    "Sumitra"
+                ],
+                "hindu_knowledge|all|default|#109"
+            ],
+            [
+                "Q: The Hindu deity Rama was a prince of which legendary city?\n  choice: Hastinapura\n  choice: Khandava\n  choice: Ayodhya\n  choice: Indraprastha\nA:",
+                [
+                    "Indraprastha"
+                ],
+                "hindu_knowledge|all|default|#6"
+            ],
+            [
+                "Q: In Hinduism, how many husbands did Draupadi have?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Three\nA:",
+                [
+                    "Five"
+                ],
+                "hindu_knowledge|all|default|#360"
+            ],
+            [
+                "Q: In Hindu mythology, which celestial weapon summons fire?\n  choice: Brahmastra\n  choice: Varunastra\n  choice: Agneyastra\n  choice: Indrastra\nA:",
+                [
+                    "Indrastra"
+                ],
+                "hindu_knowledge|all|default|#0"
+            ],
+            [
+                "Q: The Hindu song Ayigiri Nandini is about which goddess?\n  choice: Parvati\n  choice: Saraswati\n  choice: Laxmi\n  choice: Rukmini\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#639"
+            ],
+            [
+                "Q: In Hinduism, the story of the mythical war between the Pandavas and the Kauravas is known as what?\n  choice: Hitopadesha\n  choice: Ramayana\n  choice: Dashavatara\n  choice: Mahabharata\nA:",
+                [
+                    "Mahabharata"
+                ],
+                "hindu_knowledge|all|default|#540"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which character killed Lavanasura?\n  choice: Lakshmana\n  choice: Shatrughna\n  choice: Bharata\n  choice: Rama\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#594"
+            ],
+            [
+                "Q: In Hinduism, the saptapadi is a ritual which occurs during what type of ceremony?\n  choice: Funeral\n  choice: Prayer\n  choice: Concert\n  choice: Marriage\nA:",
+                [
+                    "Concert"
+                ],
+                "hindu_knowledge|all|default|#1"
+            ],
+            [
+                "Q: The Hindu text known as the Lalita Sahasranama contains a thousand names of which Hindu goddess?\n  choice: Parvati\n  choice: Subadhra\n  choice: Laxmi\n  choice: Saraswati\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#357"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following is the name of one of Sita's sons?\n  choice: Karna\n  choice: Rama\n  choice: Arjuna\n  choice: Luva\nA:",
+                [
+                    "Luva"
+                ],
+                "hindu_knowledge|all|default|#464"
+            ],
+            [
+                "Q: Which Hindu deity, married to Riddhi, is associated with wealth?\n  choice: Kubera\n  choice: Yama\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Agni"
+                ],
+                "hindu_knowledge|all|default|#74"
+            ]
+        ],
+        "round#4": [
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Nakula take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Cook"
+                ],
+                "hindu_knowledge|all|default|#613"
+            ],
+            [
+                "Q: In Hindu mythology, the Sudarshana Chakra is a weapon wielded by which which of the following?\n  choice: Hanuman\n  choice: Shiva\n  choice: Arjuna\n  choice: Krishna\nA:",
+                [
+                    "Krishna"
+                ],
+                "hindu_knowledge|all|default|#607"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, Ravana was a devotee of which deity?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Shiva"
+                ],
+                "hindu_knowledge|all|default|#156"
+            ],
+            [
+                "Q: The Hindu song Ayigiri Nandini is about which goddess?\n  choice: Parvati\n  choice: Saraswati\n  choice: Laxmi\n  choice: Rukmini\nA:",
+                [
+                    "Rukmini"
+                ],
+                "hindu_knowledge|all|default|#350"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, Duryodhana is ultimately mortally wounded by which weapon?\n  choice: Mace\n  choice: Sword\n  choice: Arrow\n  choice: Spear\nA:",
+                [
+                    "Arrow"
+                ],
+                "hindu_knowledge|all|default|#534"
+            ],
+            [
+                "Q: Which of the following Hindu deities is depicted having the head of an elphant?\n  choice: Kartikeya\n  choice: Shiva\n  choice: Ganesha\n  choice: Laxmi\nA:",
+                [
+                    "Kartikeya"
+                ],
+                "hindu_knowledge|all|default|#34"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, the rakshasa Kumbhakarna is said to sleep for how long at a time?\n  choice: One year\n  choice: Three months\n  choice: One month\n  choice: Six months\nA:",
+                [
+                    "One month"
+                ],
+                "hindu_knowledge|all|default|#320"
+            ],
+            [
+                "Q: In the Mahabharata, the character Amba is reborn as a man in order to kill Bhisma.  What was this man's name?\n  choice: Ashwatthama\n  choice: Shikandi\n  choice: Ambika\n  choice: Drupada\nA:",
+                [
+                    "Ambika"
+                ],
+                "hindu_knowledge|all|default|#638"
+            ],
+            [
+                "Q: In Sanskrit, which suffix indciates a battle formation?\n  choice: Deva\n  choice: Vyuha\n  choice: Astra\n  choice: Graha\nA:",
+                [
+                    "Graha"
+                ],
+                "hindu_knowledge|all|default|#657"
+            ],
+            [
+                "Q: In Hindu mythology, the character Ravana has how many heads?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Ten\nA:",
+                [
+                    "Ten"
+                ],
+                "hindu_knowledge|all|default|#28"
+            ],
+            [
+                "Q: In Hindu mythlogy, the demonness Daruka becomes a goddess due to whose blessings?\n  choice: Pallavi\n  choice: Saraswati\n  choice: Lakshmi\n  choice: Parvati\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#695"
+            ],
+            [
+                "Q: In Hindu mythology, what is the name given to the first man?\n  choice: Manu\n  choice: Yama\n  choice: Dharma\n  choice: Rama\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#389"
+            ],
+            [
+                "Q: In the Mahabharata, Duryodhana crowns Karna the King of which kindgom?\n  choice: Kalinga\n  choice: Matsya\n  choice: Anga\n  choice: Magadha\nA:",
+                [
+                    "Matsya"
+                ],
+                "hindu_knowledge|all|default|#466"
+            ],
+            [
+                "Q: The Hindu deity Sagar is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Sea\n  choice: Sun\nA:",
+                [
+                    "Sky"
+                ],
+                "hindu_knowledge|all|default|#622"
+            ],
+            [
+                "Q: The Hindu song Ayigiri Nandini is about which goddess?\n  choice: Parvati\n  choice: Saraswati\n  choice: Laxmi\n  choice: Rukmini\nA:",
+                [
+                    "Laxmi"
+                ],
+                "hindu_knowledge|all|default|#653"
+            ],
+            [
+                "Q: In Hindu mythology, what is the name given to the first man?\n  choice: Manu\n  choice: Yama\n  choice: Dharma\n  choice: Rama\nA:",
+                [
+                    "Dharma"
+                ],
+                "hindu_knowledge|all|default|#293"
+            ]
+        ],
+        "round#5": [
+            [
+                "Q: Which of the following names of Shiva references the moon?\n  choice: Mahadeva\n  choice: Trilochana\n  choice: Chandrashekara\n  choice: Neelkanth\nA:",
+                [
+                    "Mahadeva"
+                ],
+                "hindu_knowledge|all|default|#449"
+            ],
+            [
+                "Q: In Hindu mythology, which deity transcribed the Mahabharata under dictation from Veda Vyasa?\n  choice: Parvati\n  choice: Vishnu\n  choice: Ganesha\n  choice: Saraswati\nA:",
+                [
+                    "Ganesha"
+                ],
+                "hindu_knowledge|all|default|#556"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, the main villain was a devotee of which deity?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Indra"
+                ],
+                "hindu_knowledge|all|default|#644"
+            ],
+            [
+                "Q: In the Ramayana, Sita gets kidnapped by Ravana because Rama was away chasing what type of animal?\n  choice: Deer\n  choice: Lion\n  choice: Boar\n  choice: Horse\nA:",
+                [
+                    "Horse"
+                ],
+                "hindu_knowledge|all|default|#352"
+            ],
+            [
+                "Q: The Rigveda speaks of how many gods known as the Trayastrinshata?\n  choice: Thirty-three\n  choice: Twenty-three\n  choice: Thirty\n  choice: Twenty\nA:",
+                [
+                    "Twenty-three"
+                ],
+                "hindu_knowledge|all|default|#150"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with wind?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Vayu"
+                ],
+                "hindu_knowledge|all|default|#492"
+            ],
+            [
+                "Q: Which flower is stylized as a throne for depictions of many deities in Hinduism?\n  choice: Lotus\n  choice: Tulip\n  choice: Jasmine\n  choice: Rose\nA:",
+                [
+                    "Jasmine"
+                ],
+                "hindu_knowledge|all|default|#382"
+            ],
+            [
+                "Q: In Hindu mythology, Lakshmana's brother had a twin named what?\n  choice: Dasharatha\n  choice: Shatrughna\n  choice: Bharata\n  choice: Rama\nA:",
+                [
+                    "Dasharatha"
+                ],
+                "hindu_knowledge|all|default|#541"
+            ],
+            [
+                "Q: The following options contain pairs of characters in Hindu mythology and their respective fathers.  Which pair is incorrectly matched?\n  choice: Karna -> Surya\n  choice: Yudhishthira -> Dharma\n  choice: Arjuna -> Indra\n  choice: Nakula -> Vayu\nA:",
+                [
+                    "Karna -> Surya"
+                ],
+                "hindu_knowledge|all|default|#309"
+            ],
+            [
+                "Q: Which of the following Hindu deities is female?\n  choice: Parvati\n  choice: Vishnu\n  choice: Balarama\n  choice: Shiva\nA:",
+                [
+                    "Balarama"
+                ],
+                "hindu_knowledge|all|default|#683"
+            ],
+            [
+                "Q: In Hinduism, two deities are collectively known as the combined forms of feminine and masculine realities of god.  Which is the masculine part of this duo?\n  choice: Balarama\n  choice: Rama\n  choice: Arjuna\n  choice: Krishna\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#429"
+            ],
+            [
+                "Q: In Hindu mythology, which body part was demanded as gurudakshina by Dronacharya from his disciple Ekalavya?\n  choice: Foot\n  choice: Toe\n  choice: Ear\n  choice: Thumb\nA:",
+                [
+                    "Thumb"
+                ],
+                "hindu_knowledge|all|default|#470"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with fire?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Indra"
+                ],
+                "hindu_knowledge|all|default|#633"
+            ],
+            [
+                "Q: Which of the following is not a Hindu religious text?\n  choice: Koran\n  choice: Vedas\n  choice: Aranyakas\n  choice: Upanishads\nA:",
+                [
+                    "Koran"
+                ],
+                "hindu_knowledge|all|default|#515"
+            ],
+            [
+                "Q: In a Hindu legend, lord Ganesha's vahana is an animal of what form?\n  choice: Lion\n  choice: Snake\n  choice: Elephant\n  choice: Mouse\nA:",
+                [
+                    "Lion"
+                ],
+                "hindu_knowledge|all|default|#674"
+            ],
+            [
+                "Q: In Hinduism, the equivalent of Hell is presided over by which god?\n  choice: Surya\n  choice: Yama\n  choice: Indra\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#630"
+            ]
+        ],
+        "round#6": [
+            [
+                "Q: In the Hindu epic Ramayana, in order to marry Sita, Rama must lift the bow of Shiva, named what?\n  choice: Khatvanga\n  choice: Vijaya\n  choice: Gandiva\n  choice: Pinaka\nA:",
+                [
+                    "Khatvanga"
+                ],
+                "hindu_knowledge|all|default|#553"
+            ],
+            [
+                "Q: Which of the following names of Shiva references his three eyes?\n  choice: Neelkanth\n  choice: Trilochana\n  choice: Mahadeva\n  choice: Omkara\nA:",
+                [
+                    "Trilochana"
+                ],
+                "hindu_knowledge|all|default|#602"
+            ],
+            [
+                "Q: In Hinduism, which of the following goddesses are not traditionally considered part of the Tridevi?\n  choice: Lakshmi\n  choice: Saraswati\n  choice: Ganga\n  choice: Parvati\nA:",
+                [
+                    "Ganga"
+                ],
+                "hindu_knowledge|all|default|#503"
+            ],
+            [
+                "Q: In Hindu mythology, the goddess Bhumi is associated with which planet?\n  choice: Jupiter\n  choice: Venus\n  choice: Earth\n  choice: Mars\nA:",
+                [
+                    "Mars"
+                ],
+                "hindu_knowledge|all|default|#559"
+            ],
+            [
+                "Q: In the Mahabharata, the character Bhishma was granted a boon that he could die only when he chose to.  Who gave him this boon?\n  choice: His father\n  choice: His mother\n  choice: His elder brother\n  choice: His grandfather\nA:",
+                [
+                    "His grandfather"
+                ],
+                "hindu_knowledge|all|default|#27"
+            ],
+            [
+                "Q: In Hindu mythology, what is the name of Sita's adopted father?\n  choice: Dhritarashthra\n  choice: Pandu\n  choice: Dasharatha\n  choice: Janaka\nA:",
+                [
+                    "Dasharatha"
+                ],
+                "hindu_knowledge|all|default|#340"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, the rakshasa Kumbhakarna is said to sleep for how long at a time?\n  choice: One year\n  choice: Three months\n  choice: One month\n  choice: Six months\nA:",
+                [
+                    "One month"
+                ],
+                "hindu_knowledge|all|default|#320"
+            ],
+            [
+                "Q: In Hindu mythology, the burning of which demonness is celebrated as the festival of Holi?\n  choice: Durukti\n  choice: Shurpanakha\n  choice: Daruka\n  choice: Hollika\nA:",
+                [
+                    "Durukti"
+                ],
+                "hindu_knowledge|all|default|#38"
+            ],
+            [
+                "Q: The Hindu deity Agni is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Sky"
+                ],
+                "hindu_knowledge|all|default|#158"
+            ],
+            [
+                "Q: Which of the following pairs of characters in Hindu mythology are twins?\n  choice: Kundi and Madri\n  choice: Rama and Balarama\n  choice: Drona and Bhisma\n  choice: Nakula and Sahadeva\nA:",
+                [
+                    "Kundi and Madri"
+                ],
+                "hindu_knowledge|all|default|#66"
+            ],
+            [
+                "Q: In Hinduism, the god of death is also associated with what?\n  choice: justice\n  choice: wealth\n  choice: harvest\n  choice: knowledge\nA:",
+                [
+                    "harvest"
+                ],
+                "hindu_knowledge|all|default|#465"
+            ],
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Arjuna take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Horse tender"
+                ],
+                "hindu_knowledge|all|default|#424"
+            ],
+            [
+                "Q: In Hinduism, mount Kailash is the abode of which god?\n  choice: Lakshmi\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Lakshmi"
+                ],
+                "hindu_knowledge|all|default|#451"
+            ],
+            [
+                "Q: Which of the following pairs of characters in Hindu mythology are twins?\n  choice: Kundi and Madri\n  choice: Rama and Balarama\n  choice: Drona and Bhisma\n  choice: Nakula and Sahadeva\nA:",
+                [
+                    "Nakula and Sahadeva"
+                ],
+                "hindu_knowledge|all|default|#457"
+            ],
+            [
+                "Q: In Hinduism, how many queen-consorts of Krishna comprise the Ashtabharya?\n  choice: Seven\n  choice: Three\n  choice: Eight\n  choice: Six\nA:",
+                [
+                    "Seven"
+                ],
+                "hindu_knowledge|all|default|#114"
+            ],
+            [
+                "Q: In Hindu mythology, which character is said to have been adopted by her father who found her in a ploughed field?\n  choice: Rukmini\n  choice: Subadra\n  choice: Draupadi\n  choice: Sita\nA:",
+                [
+                    "Subadra"
+                ],
+                "hindu_knowledge|all|default|#467"
+            ]
+        ],
+        "round#7": [
+            [
+                "Q: Which Hindu deity weilds a trident?\n  choice: Saraswati\n  choice: Vishnu\n  choice: Parvati\n  choice: Shiva\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#61"
+            ],
+            [
+                "Q: Which of the following Hindu deities do not belong to the group of three supreme divinities known as the Trimurti?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Brahma"
+                ],
+                "hindu_knowledge|all|default|#584"
+            ],
+            [
+                "Q: In Hinduism, how many wives did King Pandu of Hastinapura have?\n  choice: One\n  choice: Two\n  choice: Four\n  choice: Three\nA:",
+                [
+                    "One"
+                ],
+                "hindu_knowledge|all|default|#69"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with the Sun?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#399"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with wind?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Vayu"
+                ],
+                "hindu_knowledge|all|default|#628"
+            ],
+            [
+                "Q: In Hindu mythology, which character is said to have been adopted by her father who found her in a ploughed field?\n  choice: Rukmini\n  choice: Subadra\n  choice: Draupadi\n  choice: Sita\nA:",
+                [
+                    "Subadra"
+                ],
+                "hindu_knowledge|all|default|#467"
+            ],
+            [
+                "Q: In Hindu mythology, the Saptarishi comprise how many sages?\n  choice: Nine\n  choice: Three\n  choice: Eleven\n  choice: Seven\nA:",
+                [
+                    "Seven"
+                ],
+                "hindu_knowledge|all|default|#625"
+            ],
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Sahadeva take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Cook"
+                ],
+                "hindu_knowledge|all|default|#304"
+            ],
+            [
+                "Q: The Hindu deity Agni is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Fire"
+                ],
+                "hindu_knowledge|all|default|#41"
+            ],
+            [
+                "Q: In Hindu mythology, the sage Durvasa cursed Saraswati to become a what?\n  choice: Mountain\n  choice: Valley\n  choice: Lake\n  choice: River\nA:",
+                [
+                    "Valley"
+                ],
+                "hindu_knowledge|all|default|#664"
+            ],
+            [
+                "Q: Which Hindu deity, married to Riddhi, is associated with wealth?\n  choice: Kubera\n  choice: Yama\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Agni"
+                ],
+                "hindu_knowledge|all|default|#74"
+            ],
+            [
+                "Q: Which Hindu sage is known as the author of the Mahabharata?\n  choice: Vashistha\n  choice: Vyasa\n  choice: Valmiki\n  choice: Vishvamitra\nA:",
+                [
+                    "Vashistha"
+                ],
+                "hindu_knowledge|all|default|#571"
+            ],
+            [
+                "Q: Which of the following people survived the Kurukshetra War in the Hindu epic Mahabharata?\n  choice: Drona\n  choice: Kunti\n  choice: Bhishma\n  choice: Karna\nA:",
+                [
+                    "Drona"
+                ],
+                "hindu_knowledge|all|default|#253"
+            ],
+            [
+                "Q: Complete the lyric from the Hindu song Ayigiri Nandini: Ayi giri nandini nanditha medhini, viswa vinodhini _______.\n  choice: kudumbini\n  choice: rathe\n  choice: Himalaya\n  choice: nandanuthe\nA:",
+                [
+                    "Himalaya"
+                ],
+                "hindu_knowledge|all|default|#135"
+            ],
+            [
+                "Q: In Hinduism, mount Kailash is the abode of which god?\n  choice: Lakshmi\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Vishnu"
+                ],
+                "hindu_knowledge|all|default|#658"
+            ],
+            [
+                "Q: In Hindu mythology, what is the name of Sita's adopted father?\n  choice: Dhritarashthra\n  choice: Pandu\n  choice: Dasharatha\n  choice: Janaka\nA:",
+                [
+                    "Janaka"
+                ],
+                "hindu_knowledge|all|default|#286"
+            ]
+        ],
+        "round#8": [
+            [
+                "Q: In Hindu mythology, the Naga Kaliya was defeated by which deity?\n  choice: Indra\n  choice: Rama\n  choice: Bharata\n  choice: Krishna\nA:",
+                [
+                    "Bharata"
+                ],
+                "hindu_knowledge|all|default|#311"
+            ],
+            [
+                "Q: In Hindu mythology, which celestial weapon summons water?\n  choice: Manavastra\n  choice: Varunastra\n  choice: Bhaumastra\n  choice: Nagastra\nA:",
+                [
+                    "Bhaumastra"
+                ],
+                "hindu_knowledge|all|default|#494"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with wind?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Vayu"
+                ],
+                "hindu_knowledge|all|default|#492"
+            ],
+            [
+                "Q: In Hindu mythology, what animal is Garuda?\n  choice: Elephant\n  choice: Snake\n  choice: Eagle\n  choice: Mouse\nA:",
+                [
+                    "Mouse"
+                ],
+                "hindu_knowledge|all|default|#245"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, the rakshasa Kumbhakarna is said to sleep for how long at a time?\n  choice: One year\n  choice: Three months\n  choice: One month\n  choice: Six months\nA:",
+                [
+                    "Three months"
+                ],
+                "hindu_knowledge|all|default|#366"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, the rakshasa Kumbhakarna is said to sleep for how long at a time?\n  choice: One year\n  choice: Three months\n  choice: One month\n  choice: Six months\nA:",
+                [
+                    "Six months"
+                ],
+                "hindu_knowledge|all|default|#402"
+            ],
+            [
+                "Q: In Hindu mythology, a jyotirlinga is associated with which god?\n  choice: Lakshmi\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Brahma"
+                ],
+                "hindu_knowledge|all|default|#337"
+            ],
+            [
+                "Q: In Hindu mythology, Lakshmana and Balarama are avatars of a cosmic entity who takes the form of what animal?\n  choice: Elephant\n  choice: Snake\n  choice: Boar\n  choice: Lion\nA:",
+                [
+                    "Lion"
+                ],
+                "hindu_knowledge|all|default|#299"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of Rama's brother Bharata's wife?\n  choice: Shrutakirthi\n  choice: Urmila\n  choice: Mandavi\n  choice: Sita\nA:",
+                [
+                    "Mandavi"
+                ],
+                "hindu_knowledge|all|default|#705"
+            ],
+            [
+                "Q: In the Ramayana, at one point Lakshmana is healed by an herb called Sanjivani.  Who brought this herb to Lakshmana?\n  choice: Jambavan\n  choice: Sita\n  choice: Hanuman\n  choice: Rama\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#684"
+            ],
+            [
+                "Q: In the Ramayana, Rama's brother Lakshmana cuts which body part off Ravana's sister Shurpanakha?\n  choice: Finger\n  choice: Toe\n  choice: Ear\n  choice: Nose\nA:",
+                [
+                    "Nose"
+                ],
+                "hindu_knowledge|all|default|#617"
+            ],
+            [
+                "Q: Complete the following line from the Hindu chant Gayatri mantra: Om bhur bhuvah svah, tat savitur _______.\n  choice: prachodayath\n  choice: varenyam\n  choice: dhimahi\n  choice: svah\nA:",
+                [
+                    "varenyam"
+                ],
+                "hindu_knowledge|all|default|#377"
+            ],
+            [
+                "Q: In Hindu mythology, the Sudarshana chakra is the weapon of which deity?\n  choice: Krishna\n  choice: Rama\n  choice: Balarama\n  choice: Lakshmana\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#417"
+            ],
+            [
+                "Q: The Hindu deity Vayu is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Fire"
+                ],
+                "hindu_knowledge|all|default|#351"
+            ],
+            [
+                "Q: In Hindu mythology, which celestial weapon summons fire?\n  choice: Brahmastra\n  choice: Varunastra\n  choice: Agneyastra\n  choice: Indrastra\nA:",
+                [
+                    "Agneyastra"
+                ],
+                "hindu_knowledge|all|default|#73"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of Rama's brother Bharata's wife?\n  choice: Shrutakirthi\n  choice: Urmila\n  choice: Mandavi\n  choice: Sita\nA:",
+                [
+                    "Urmila"
+                ],
+                "hindu_knowledge|all|default|#98"
+            ]
+        ],
+        "round#9": [
+            [
+                "Q: In Hindu mythology, Lakshmana and Balarama are avatars of a cosmic entity who takes the form of what animal?\n  choice: Elephant\n  choice: Snake\n  choice: Boar\n  choice: Lion\nA:",
+                [
+                    "Elephant"
+                ],
+                "hindu_knowledge|all|default|#133"
+            ],
+            [
+                "Q: The Hindu deity Vayu is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Fire"
+                ],
+                "hindu_knowledge|all|default|#351"
+            ],
+            [
+                "Q: The Hindu deity Agni is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Fire"
+                ],
+                "hindu_knowledge|all|default|#41"
+            ],
+            [
+                "Q: Which of the following is not a Hindu religious text?\n  choice: Koran\n  choice: Vedas\n  choice: Aranyakas\n  choice: Upanishads\nA:",
+                [
+                    "Vedas"
+                ],
+                "hindu_knowledge|all|default|#292"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with water?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Vayu"
+                ],
+                "hindu_knowledge|all|default|#552"
+            ],
+            [
+                "Q: Which of the following is not a Hindu religious text?\n  choice: Koran\n  choice: Vedas\n  choice: Aranyakas\n  choice: Upanishads\nA:",
+                [
+                    "Aranyakas"
+                ],
+                "hindu_knowledge|all|default|#704"
+            ],
+            [
+                "Q: In Hinduism, the saptapadi is a ritual which occurs during what type of ceremony?\n  choice: Funeral\n  choice: Prayer\n  choice: Concert\n  choice: Marriage\nA:",
+                [
+                    "Funeral"
+                ],
+                "hindu_knowledge|all|default|#455"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, the rakshasa Kumbhakarna is said to sleep for how long at a time?\n  choice: One year\n  choice: Three months\n  choice: One month\n  choice: Six months\nA:",
+                [
+                    "Three months"
+                ],
+                "hindu_knowledge|all|default|#366"
+            ],
+            [
+                "Q: In Hindu mythology, the burning of which demonness is celebrated as the festival of Holi?\n  choice: Durukti\n  choice: Shurpanakha\n  choice: Daruka\n  choice: Hollika\nA:",
+                [
+                    "Durukti"
+                ],
+                "hindu_knowledge|all|default|#38"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following is the name of one of Sita's sons?\n  choice: Karna\n  choice: Rama\n  choice: Arjuna\n  choice: Kusha\nA:",
+                [
+                    "Karna"
+                ],
+                "hindu_knowledge|all|default|#618"
+            ],
+            [
+                "Q: Which Hindu sage is known as the author of the Ramayana?\n  choice: Vasistha\n  choice: Vyasa\n  choice: Valmiki\n  choice: Vishvamitra\nA:",
+                [
+                    "Valmiki"
+                ],
+                "hindu_knowledge|all|default|#398"
+            ],
+            [
+                "Q: Which of the following Hindu deities is female?\n  choice: Parvati\n  choice: Vishnu\n  choice: Balarama\n  choice: Shiva\nA:",
+                [
+                    "Balarama"
+                ],
+                "hindu_knowledge|all|default|#683"
+            ],
+            [
+                "Q: In a Hindu legend, lord Ganesha's vahana is an animal of what form?\n  choice: Lion\n  choice: Snake\n  choice: Elephant\n  choice: Mouse\nA:",
+                [
+                    "Mouse"
+                ],
+                "hindu_knowledge|all|default|#577"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of Rama's brother Bharata's wife?\n  choice: Shrutakirthi\n  choice: Urmila\n  choice: Mandavi\n  choice: Sita\nA:",
+                [
+                    "Mandavi"
+                ],
+                "hindu_knowledge|all|default|#705"
+            ],
+            [
+                "Q: In Hindu mythology, which celestial weapon summons wind?\n  choice: Nagastra\n  choice: Vayuvyastra\n  choice: Bhaumastra\n  choice: Varunastra\nA:",
+                [
+                    "Bhaumastra"
+                ],
+                "hindu_knowledge|all|default|#259"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which brother of Rama ruled Ayodhya in Rama's stead after the death of Dasharatha?\n  choice: Lakshmana\n  choice: Sita\n  choice: Bharata\n  choice: Shatrughna\nA:",
+                [
+                    "Lakshmana"
+                ],
+                "hindu_knowledge|all|default|#329"
+            ]
+        ],
+        "round#10": [
+            [
+                "Q: In Hindu mythology, what was the name of Lakshmana's wife?\n  choice: Sita\n  choice: Urmila\n  choice: Parvati\n  choice: Sunaina\nA:",
+                [
+                    "Sunaina"
+                ],
+                "hindu_knowledge|all|default|#565"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with wind?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Vayu"
+                ],
+                "hindu_knowledge|all|default|#492"
+            ],
+            [
+                "Q: The Hindu song Ayigiri Nandini is about which goddess?\n  choice: Parvati\n  choice: Saraswati\n  choice: Laxmi\n  choice: Rukmini\nA:",
+                [
+                    "Rukmini"
+                ],
+                "hindu_knowledge|all|default|#350"
+            ],
+            [
+                "Q: In Hindu mythology, which planet is associated with the name Brihaspati?\n  choice: Mars\n  choice: Saturn\n  choice: Jupiter\n  choice: Mercury\nA:",
+                [
+                    "Mercury"
+                ],
+                "hindu_knowledge|all|default|#592"
+            ],
+            [
+                "Q: Which of the following people survived the Kurukshetra War in the Hindu epic Mahabharata?\n  choice: Drona\n  choice: Kunti\n  choice: Bhishma\n  choice: Karna\nA:",
+                [
+                    "Bhishma"
+                ],
+                "hindu_knowledge|all|default|#94"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following is the name of one of Sita's sons?\n  choice: Karna\n  choice: Rama\n  choice: Arjuna\n  choice: Kusha\nA:",
+                [
+                    "Arjuna"
+                ],
+                "hindu_knowledge|all|default|#445"
+            ],
+            [
+                "Q: The Hindu deity Rama was a prince of which legendary city?\n  choice: Hastinapura\n  choice: Khandava\n  choice: Ayodhya\n  choice: Indraprastha\nA:",
+                [
+                    "Indraprastha"
+                ],
+                "hindu_knowledge|all|default|#6"
+            ],
+            [
+                "Q: In Hindu mythology, what animal is Garuda?\n  choice: Elephant\n  choice: Snake\n  choice: Eagle\n  choice: Mouse\nA:",
+                [
+                    "Elephant"
+                ],
+                "hindu_knowledge|all|default|#126"
+            ],
+            [
+                "Q: In Hindu mythology, a jyotirlinga is associated with which god?\n  choice: Lakshmi\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Vishnu"
+                ],
+                "hindu_knowledge|all|default|#655"
+            ],
+            [
+                "Q: In Hinduism, which member of the Tridevi is often depicted with a veena?\n  choice: Parvati\n  choice: Saraswati\n  choice: Lakshmi\n  choice: Rama\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#510"
+            ],
+            [
+                "Q: In Hinduism, mount Kailash is the abode of which god?\n  choice: Lakshmi\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Lakshmi"
+                ],
+                "hindu_knowledge|all|default|#451"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, Arjuna learned song and dance from which Gandharva?\n  choice: Chitrasena\n  choice: Vichitravirya\n  choice: Chitrangada\n  choice: Urvashi\nA:",
+                [
+                    "Chitrangada"
+                ],
+                "hindu_knowledge|all|default|#446"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following is the name of one of Sita's sons?\n  choice: Karna\n  choice: Rama\n  choice: Arjuna\n  choice: Kusha\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#682"
+            ],
+            [
+                "Q: The Hindu text known as the Lalita Sahasranama contains a thousand names of which Hindu goddess?\n  choice: Parvati\n  choice: Subadhra\n  choice: Laxmi\n  choice: Saraswati\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#334"
+            ],
+            [
+                "Q: Which character in Hindu mythology famously took a vow of celibacy to enable his father's marriage?\n  choice: Drona\n  choice: Surya\n  choice: Devavrata\n  choice: Karna\nA:",
+                [
+                    "Surya"
+                ],
+                "hindu_knowledge|all|default|#310"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, the Pandavas were forced into exile in the forest after a game of what?\n  choice: Chess\n  choice: Racing\n  choice: Cards\n  choice: Dice\nA:",
+                [
+                    "Dice"
+                ],
+                "hindu_knowledge|all|default|#129"
+            ]
+        ],
+        "round#11": [
+            [
+                "Q: In Hindu mythology, which planet is associated with the name Brihaspati?\n  choice: Mars\n  choice: Saturn\n  choice: Jupiter\n  choice: Mercury\nA:",
+                [
+                    "Mercury"
+                ],
+                "hindu_knowledge|all|default|#592"
+            ],
+            [
+                "Q: The Hindu deity Indra rides an animal named Airavata.  What animal is Airavata?\n  choice: Calf\n  choice: Lion\n  choice: Boar\n  choice: Elephant\nA:",
+                [
+                    "Elephant"
+                ],
+                "hindu_knowledge|all|default|#433"
+            ],
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Nakula take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Royal entertainer"
+                ],
+                "hindu_knowledge|all|default|#605"
+            ],
+            [
+                "Q: In Hindu mythology, the first of Vishnu's dashavatara (chronologically) is said to have rescued a man from what type of disaster?\n  choice: Earthquake\n  choice: Flood\n  choice: Cyclone\n  choice: Fire\nA:",
+                [
+                    "Earthquake"
+                ],
+                "hindu_knowledge|all|default|#68"
+            ],
+            [
+                "Q: Which Hindu deity, married to Riddhi, is associated with wealth?\n  choice: Kubera\n  choice: Yama\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Kubera"
+                ],
+                "hindu_knowledge|all|default|#49"
+            ],
+            [
+                "Q: In Hindu mythlogy, the demonness Daruka becomes a goddess due to whose blessings?\n  choice: Pallavi\n  choice: Saraswati\n  choice: Lakshmi\n  choice: Parvati\nA:",
+                [
+                    "Lakshmi"
+                ],
+                "hindu_knowledge|all|default|#227"
+            ],
+            [
+                "Q: In Hinduism, two deities are collectively known as the combined forms of feminine and masculine realities of god.  Which is the masculine part of this duo?\n  choice: Balarama\n  choice: Rama\n  choice: Arjuna\n  choice: Krishna\nA:",
+                [
+                    "Krishna"
+                ],
+                "hindu_knowledge|all|default|#53"
+            ],
+            [
+                "Q: The Hindu deity Dyaus is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Wind"
+                ],
+                "hindu_knowledge|all|default|#673"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with wind?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#544"
+            ],
+            [
+                "Q: The Hindu deity Indra rides an animal named Airavata.  What animal is Airavata?\n  choice: Calf\n  choice: Lion\n  choice: Boar\n  choice: Elephant\nA:",
+                [
+                    "Lion"
+                ],
+                "hindu_knowledge|all|default|#285"
+            ],
+            [
+                "Q: In Hindu mythology, what role does lord Krishna play in the Kurukshetra war?\n  choice: Commander\n  choice: Soldier\n  choice: Charioteer\n  choice: Scribe\nA:",
+                [
+                    "Scribe"
+                ],
+                "hindu_knowledge|all|default|#359"
+            ],
+            [
+                "Q: In the Mahabharata, the character Bhishma was granted a boon that he could die only when he chose to.  Who gave him this boon?\n  choice: His father\n  choice: His mother\n  choice: His elder brother\n  choice: His grandfather\nA:",
+                [
+                    "His father"
+                ],
+                "hindu_knowledge|all|default|#434"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following did not have a Swayamvara?\n  choice: Draupadi\n  choice: Sita\n  choice: Amba\n  choice: Hidimba\nA:",
+                [
+                    "Sita"
+                ],
+                "hindu_knowledge|all|default|#47"
+            ],
+            [
+                "Q: In Hindu mythology, which sage instructed Lava and Kusha?\n  choice: Parashurama\n  choice: Vyasa\n  choice: Dronacharya\n  choice: Valmiki\nA:",
+                [
+                    "Parashurama"
+                ],
+                "hindu_knowledge|all|default|#642"
+            ],
+            [
+                "Q: In Hindu mythology, what role does lord Krishna play in the Kurukshetra war?\n  choice: Commander\n  choice: Soldier\n  choice: Charioteer\n  choice: Scribe\nA:",
+                [
+                    "Charioteer"
+                ],
+                "hindu_knowledge|all|default|#484"
+            ],
+            [
+                "Q: Which of the following Hindu deities is depicted having the head of an elphant?\n  choice: Kartikeya\n  choice: Shiva\n  choice: Ganesha\n  choice: Laxmi\nA:",
+                [
+                    "Laxmi"
+                ],
+                "hindu_knowledge|all|default|#42"
+            ]
+        ],
+        "round#12": [
+            [
+                "Q: In the Hindu epic Mahabharata, Arjuna has a son named Iravan.  What is Iravan's mother's name?\n  choice: Rukmini\n  choice: Ulupi\n  choice: Draupadi\n  choice: Subadhra\nA:",
+                [
+                    "Subadhra"
+                ],
+                "hindu_knowledge|all|default|#591"
+            ],
+            [
+                "Q: In Hinduism, how many wives did King Pandu of Hastinapura have?\n  choice: One\n  choice: Two\n  choice: Four\n  choice: Three\nA:",
+                [
+                    "One"
+                ],
+                "hindu_knowledge|all|default|#69"
+            ],
+            [
+                "Q: In Hindu mythology, a jyotirlinga is associated with which god?\n  choice: Lakshmi\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Lakshmi"
+                ],
+                "hindu_knowledge|all|default|#139"
+            ],
+            [
+                "Q: In Hinduism, the Kshatriya class corresponds mostly to which occupation?\n  choice: Merchants\n  choice: Warriors\n  choice: Artisans\n  choice: Teachers and priests\nA:",
+                [
+                    "Merchants"
+                ],
+                "hindu_knowledge|all|default|#576"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of the mother of the wife of Lakshmana?\n  choice: Sita\n  choice: Urmila\n  choice: Durga\n  choice: Sunaina\nA:",
+                [
+                    "Sita"
+                ],
+                "hindu_knowledge|all|default|#157"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, in order to marry Sita, Rama must lift the bow of Shiva, named what?\n  choice: Khatvanga\n  choice: Vijaya\n  choice: Gandiva\n  choice: Pinaka\nA:",
+                [
+                    "Gandiva"
+                ],
+                "hindu_knowledge|all|default|#582"
+            ],
+            [
+                "Q: In Hindu mythology, the deity Krishna is an avatar (incarnation) of which god?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Brahma"
+                ],
+                "hindu_knowledge|all|default|#700"
+            ],
+            [
+                "Q: Complete the following line from the Hindu chant Pavamana Mantra: Asato ma sadgamaya, tamaso ma ________.\n  choice: dhimahi\n  choice: varenyam\n  choice: amritam gamaya\n  choice: jyotirgamaya\nA:",
+                [
+                    "jyotirgamaya"
+                ],
+                "hindu_knowledge|all|default|#220"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with wind?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Agni"
+                ],
+                "hindu_knowledge|all|default|#462"
+            ],
+            [
+                "Q: In Hinduism, the equivalent of Hell is presided over by which god?\n  choice: Surya\n  choice: Yama\n  choice: Indra\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#630"
+            ],
+            [
+                "Q: In Hinduism, the saptapadi is a ritual which occurs during what type of ceremony?\n  choice: Funeral\n  choice: Prayer\n  choice: Concert\n  choice: Marriage\nA:",
+                [
+                    "Concert"
+                ],
+                "hindu_knowledge|all|default|#1"
+            ],
+            [
+                "Q: In Hindu mythology, which planet is associated with the name Brihaspati?\n  choice: Mars\n  choice: Saturn\n  choice: Jupiter\n  choice: Mercury\nA:",
+                [
+                    "Mercury"
+                ],
+                "hindu_knowledge|all|default|#592"
+            ],
+            [
+                "Q: In Hinduism, the god of death is also associated with what?\n  choice: justice\n  choice: wealth\n  choice: harvest\n  choice: knowledge\nA:",
+                [
+                    "wealth"
+                ],
+                "hindu_knowledge|all|default|#145"
+            ],
+            [
+                "Q: In Hinduism, two deities are collectively known as the combined forms of feminine and masculine realities of god.  Which is the masculine part of this duo?\n  choice: Balarama\n  choice: Rama\n  choice: Arjuna\n  choice: Krishna\nA:",
+                [
+                    "Arjuna"
+                ],
+                "hindu_knowledge|all|default|#648"
+            ],
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Yudhishthira take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Royal entertainer"
+                ],
+                "hindu_knowledge|all|default|#535"
+            ],
+            [
+                "Q: In Hinduism, the pashupatastra is a weapon associated with which god?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Brahma"
+                ],
+                "hindu_knowledge|all|default|#274"
+            ]
+        ],
+        "round#13": [
+            [
+                "Q: In Hinduism, how many husbands did Draupadi have?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Three\nA:",
+                [
+                    "Two"
+                ],
+                "hindu_knowledge|all|default|#676"
+            ],
+            [
+                "Q: In Hinduism, the story of the mythical war between the Pandavas and the Kauravas is known as what?\n  choice: Hitopadesha\n  choice: Ramayana\n  choice: Dashavatara\n  choice: Mahabharata\nA:",
+                [
+                    "Ramayana"
+                ],
+                "hindu_knowledge|all|default|#184"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, what was the name of Rama's mother?\n  choice: Kausalya\n  choice: Madri\n  choice: Kaikeyi\n  choice: Kunti\nA:",
+                [
+                    "Madri"
+                ],
+                "hindu_knowledge|all|default|#587"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with water?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Vayu"
+                ],
+                "hindu_knowledge|all|default|#552"
+            ],
+            [
+                "Q: In Hinduism, how many queen-consorts of Krishna comprise the Ashtabharya?\n  choice: Seven\n  choice: Three\n  choice: Eight\n  choice: Six\nA:",
+                [
+                    "Six"
+                ],
+                "hindu_knowledge|all|default|#2"
+            ],
+            [
+                "Q: In Hindu mythology, the character Lakshmana has how many heads?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Ten\nA:",
+                [
+                    "Ten"
+                ],
+                "hindu_knowledge|all|default|#167"
+            ],
+            [
+                "Q: The Hindu deity Vayu is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Water"
+                ],
+                "hindu_knowledge|all|default|#244"
+            ],
+            [
+                "Q: Which of the following are not the names of the same character from Hindu mythology?\n  choice: Radheya\n  choice: Vasusena\n  choice: Karna\n  choice: Surya\nA:",
+                [
+                    "Surya"
+                ],
+                "hindu_knowledge|all|default|#120"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of the mother of the wife of Lakshmana?\n  choice: Sita\n  choice: Urmila\n  choice: Durga\n  choice: Sunaina\nA:",
+                [
+                    "Urmila"
+                ],
+                "hindu_knowledge|all|default|#491"
+            ],
+            [
+                "Q: In Hindu mythology, which of these weapons is prominently associated with Balarama?\n  choice: Chakra\n  choice: Sword\n  choice: Bow and arrow\n  choice: Plough\nA:",
+                [
+                    "Sword"
+                ],
+                "hindu_knowledge|all|default|#472"
+            ],
+            [
+                "Q: In Hindu mythology, Narakasura is the son of which goddess?\n  choice: Lakshmi\n  choice: Saraswati\n  choice: Bhumi\n  choice: Parvati\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#248"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which of the following characters was not a sibling of Ravana?\n  choice: Kumbhakarna\n  choice: Vibhishana\n  choice: Dhushasana\n  choice: Shurpanakha\nA:",
+                [
+                    "Shurpanakha"
+                ],
+                "hindu_knowledge|all|default|#406"
+            ],
+            [
+                "Q: In Hindu mythology, which body part was demanded as gurudakshina by Dronacharya from his disciple Ekalavya?\n  choice: Foot\n  choice: Toe\n  choice: Ear\n  choice: Thumb\nA:",
+                [
+                    "Foot"
+                ],
+                "hindu_knowledge|all|default|#306"
+            ],
+            [
+                "Q: In Hindu mythology, which sage instructed Lava and Kusha?\n  choice: Parashurama\n  choice: Vyasa\n  choice: Dronacharya\n  choice: Valmiki\nA:",
+                [
+                    "Vyasa"
+                ],
+                "hindu_knowledge|all|default|#170"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which character killed Lavanasura?\n  choice: Lakshmana\n  choice: Shatrughna\n  choice: Bharata\n  choice: Rama\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#594"
+            ],
+            [
+                "Q: Which of the following Hindu deities do not belong to the group of three supreme divinities known as the Trimurti?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Indra"
+                ],
+                "hindu_knowledge|all|default|#680"
+            ]
+        ],
+        "round#14": [
+            [
+                "Q: In the Hindu epic Ramayana, which of the following characters was not a sibling of Ravana?\n  choice: Kumbhakarna\n  choice: Vibhishana\n  choice: Dhushasana\n  choice: Shurpanakha\nA:",
+                [
+                    "Kumbhakarna"
+                ],
+                "hindu_knowledge|all|default|#216"
+            ],
+            [
+                "Q: The following options contain pairs of characters in Hindu mythology and their respective fathers.  Which pair is incorrectly matched?\n  choice: Karna -> Surya\n  choice: Yudhishthira -> Dharma\n  choice: Arjuna -> Indra\n  choice: Nakula -> Vayu\nA:",
+                [
+                    "Karna -> Surya"
+                ],
+                "hindu_knowledge|all|default|#309"
+            ],
+            [
+                "Q: In Hindu mythology, the sage Durvasa cursed Saraswati to become a what?\n  choice: Mountain\n  choice: Valley\n  choice: Lake\n  choice: River\nA:",
+                [
+                    "River"
+                ],
+                "hindu_knowledge|all|default|#269"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with fire?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#365"
+            ],
+            [
+                "Q: Which Hindu sage is known as the author of the Ramayana?\n  choice: Vasistha\n  choice: Vyasa\n  choice: Valmiki\n  choice: Vishvamitra\nA:",
+                [
+                    "Vasistha"
+                ],
+                "hindu_knowledge|all|default|#25"
+            ],
+            [
+                "Q: The Hindu deity Hanuman is depicted as which animal?\n  choice: Elephant\n  choice: Monkey\n  choice: Boar\n  choice: Fish\nA:",
+                [
+                    "Monkey"
+                ],
+                "hindu_knowledge|all|default|#496"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which character killed Lavanasura?\n  choice: Lakshmana\n  choice: Shatrughna\n  choice: Bharata\n  choice: Rama\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#594"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of Karna's bow?\n  choice: Pinaka\n  choice: Vijaya\n  choice: Gandiva\n  choice: Sharanga\nA:",
+                [
+                    "Vijaya"
+                ],
+                "hindu_knowledge|all|default|#270"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, Duryodhana is ultimately mortally wounded by which weapon?\n  choice: Mace\n  choice: Sword\n  choice: Arrow\n  choice: Spear\nA:",
+                [
+                    "Mace"
+                ],
+                "hindu_knowledge|all|default|#186"
+            ],
+            [
+                "Q: Which Hindu deity, married to Riddhi, is associated with wealth?\n  choice: Kubera\n  choice: Yama\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Yama"
+                ],
+                "hindu_knowledge|all|default|#335"
+            ],
+            [
+                "Q: Which of the following planets do NOT have mythological representations in the Hindu set known as the Navagraha?\n  choice: Mars\n  choice: Neptune\n  choice: Jupiter\n  choice: Mercury\nA:",
+                [
+                    "Mercury"
+                ],
+                "hindu_knowledge|all|default|#670"
+            ],
+            [
+                "Q: Which of the following people survived the Kurukshetra War in the Hindu epic Mahabharata?\n  choice: Drona\n  choice: Kunti\n  choice: Bhishma\n  choice: Karna\nA:",
+                [
+                    "Karna"
+                ],
+                "hindu_knowledge|all|default|#456"
+            ],
+            [
+                "Q: Complete the following line from the Hindu chant Pavamana Mantra: Asato ma sadgamaya, tamaso ma ________.\n  choice: dhimahi\n  choice: varenyam\n  choice: amritam gamaya\n  choice: jyotirgamaya\nA:",
+                [
+                    "amritam gamaya"
+                ],
+                "hindu_knowledge|all|default|#427"
+            ],
+            [
+                "Q: In Hinduism, the Kshatriya class corresponds mostly to which occupation?\n  choice: Merchants\n  choice: Warriors\n  choice: Artisans\n  choice: Teachers and priests\nA:",
+                [
+                    "Warriors"
+                ],
+                "hindu_knowledge|all|default|#302"
+            ],
+            [
+                "Q: In Hindu mythology, the Sudarshana chakra is the weapon of which deity?\n  choice: Krishna\n  choice: Rama\n  choice: Balarama\n  choice: Lakshmana\nA:",
+                [
+                    "Lakshmana"
+                ],
+                "hindu_knowledge|all|default|#388"
+            ],
+            [
+                "Q: In Hindu mythology, which character is said to have been adopted by her father who found her in a ploughed field?\n  choice: Rukmini\n  choice: Subadra\n  choice: Draupadi\n  choice: Sita\nA:",
+                [
+                    "Subadra"
+                ],
+                "hindu_knowledge|all|default|#467"
+            ]
+        ],
+        "round#15": [
+            [
+                "Q: Which of the following planets do NOT have mythological representations in the Hindu set known as the Navagraha?\n  choice: Mars\n  choice: Neptune\n  choice: Jupiter\n  choice: Mercury\nA:",
+                [
+                    "Neptune"
+                ],
+                "hindu_knowledge|all|default|#701"
+            ],
+            [
+                "Q: In Sanskrit, which suffix indciates a battle formation?\n  choice: Deva\n  choice: Vyuha\n  choice: Astra\n  choice: Graha\nA:",
+                [
+                    "Graha"
+                ],
+                "hindu_knowledge|all|default|#657"
+            ],
+            [
+                "Q: Which syllable is commonly used at the beginning and end of Hindu chants and texts?\n  choice: Mo\n  choice: Om\n  choice: Ma\n  choice: Na\nA:",
+                [
+                    "Mo"
+                ],
+                "hindu_knowledge|all|default|#208"
+            ],
+            [
+                "Q: The Hindu deity Indra rides an animal named Airavata.  What animal is Airavata?\n  choice: Calf\n  choice: Lion\n  choice: Boar\n  choice: Elephant\nA:",
+                [
+                    "Elephant"
+                ],
+                "hindu_knowledge|all|default|#433"
+            ],
+            [
+                "Q: In Hindu mythology, Chitrangada, Visvavasu and Chitrasena are prominet members of what class of beings?\n  choice: Devas\n  choice: Rakshasas\n  choice: Apsaras\n  choice: Gandharvas\nA:",
+                [
+                    "Rakshasas"
+                ],
+                "hindu_knowledge|all|default|#361"
+            ],
+            [
+                "Q: In the Mahabharata, the character Karna is secretly the elder brother of which of the following?\n  choice: Duryodhana\n  choice: Yudhishtira\n  choice: Bhishma\n  choice: Shakuni\nA:",
+                [
+                    "Yudhishtira"
+                ],
+                "hindu_knowledge|all|default|#84"
+            ],
+            [
+                "Q: In Hindu mythology, the Sudarshana chakra is the weapon of which deity?\n  choice: Krishna\n  choice: Rama\n  choice: Balarama\n  choice: Lakshmana\nA:",
+                [
+                    "Lakshmana"
+                ],
+                "hindu_knowledge|all|default|#388"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, Arjuna has a son named Iravan.  What is Iravan's mother's name?\n  choice: Rukmini\n  choice: Ulupi\n  choice: Draupadi\n  choice: Subadhra\nA:",
+                [
+                    "Draupadi"
+                ],
+                "hindu_knowledge|all|default|#37"
+            ],
+            [
+                "Q: In Hindu mythology, which planet is associated with the name Brihaspati?\n  choice: Mars\n  choice: Saturn\n  choice: Jupiter\n  choice: Mercury\nA:",
+                [
+                    "Saturn"
+                ],
+                "hindu_knowledge|all|default|#342"
+            ],
+            [
+                "Q: In Hindu mythology, the avatar of Vishnu known as Vamana asks for three pieces of land from which ruler?\n  choice: Dhritasashthra\n  choice: Virata\n  choice: Bali\n  choice: Janamejaya\nA:",
+                [
+                    "Dhritasashthra"
+                ],
+                "hindu_knowledge|all|default|#36"
+            ],
+            [
+                "Q: In the Mahabharata, the character Amba is reborn as a man in order to kill Bhisma.  What was this man's name?\n  choice: Ashwatthama\n  choice: Shikandi\n  choice: Ambika\n  choice: Drupada\nA:",
+                [
+                    "Shikandi"
+                ],
+                "hindu_knowledge|all|default|#391"
+            ],
+            [
+                "Q: In Hindu mythology, the sages comprising the Saptarishi are associated with the stars in which constellation?\n  choice: Caelum\n  choice: Ursa Minor\n  choice: Andromeda\n  choice: Ursa Major\nA:",
+                [
+                    "Andromeda"
+                ],
+                "hindu_knowledge|all|default|#219"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following did not have a Swayamvara?\n  choice: Draupadi\n  choice: Sita\n  choice: Amba\n  choice: Hidimba\nA:",
+                [
+                    "Draupadi"
+                ],
+                "hindu_knowledge|all|default|#331"
+            ],
+            [
+                "Q: In Hindu mythology, the avatar of Vishnu known as Vamana asks for three pieces of land from which ruler?\n  choice: Dhritasashthra\n  choice: Virata\n  choice: Bali\n  choice: Janamejaya\nA:",
+                [
+                    "Janamejaya"
+                ],
+                "hindu_knowledge|all|default|#589"
+            ],
+            [
+                "Q: In Hindu mythology, at Sita's swayamvara the prospective suitors had to string which bow?\n  choice: Gandiva\n  choice: Vijaya\n  choice: Gandharva\n  choice: Pinaka\nA:",
+                [
+                    "Pinaka"
+                ],
+                "hindu_knowledge|all|default|#414"
+            ],
+            [
+                "Q: In Hinduism, which musical instrument is most associated with the god Krishna?\n  choice: Sitar\n  choice: Veena\n  choice: Flute\n  choice: Tabla (drum)\nA:",
+                [
+                    "Veena"
+                ],
+                "hindu_knowledge|all|default|#489"
+            ]
+        ],
+        "round#16": [
+            [
+                "Q: The Hindu deity Surya is associated with what?\n  choice: Sun\n  choice: Wind\n  choice: Sky\n  choice: Water\nA:",
+                [
+                    "Sun"
+                ],
+                "hindu_knowledge|all|default|#294"
+            ],
+            [
+                "Q: In the Hindu epic Ramayana, which brother of Rama ruled Ayodhya in Rama's stead after the death of Dasharatha?\n  choice: Lakshmana\n  choice: Sita\n  choice: Bharata\n  choice: Shatrughna\nA:",
+                [
+                    "Bharata"
+                ],
+                "hindu_knowledge|all|default|#475"
+            ],
+            [
+                "Q: The Hindu deity Indra rides an animal named Airavata.  What animal is Airavata?\n  choice: Calf\n  choice: Lion\n  choice: Boar\n  choice: Elephant\nA:",
+                [
+                    "Calf"
+                ],
+                "hindu_knowledge|all|default|#345"
+            ],
+            [
+                "Q: In Hindu mythology, which celestial weapon summons wind?\n  choice: Nagastra\n  choice: Vayuvyastra\n  choice: Bhaumastra\n  choice: Varunastra\nA:",
+                [
+                    "Varunastra"
+                ],
+                "hindu_knowledge|all|default|#558"
+            ],
+            [
+                "Q: The Hindu deity Rama was a prince of which legendary city?\n  choice: Hastinapura\n  choice: Khandava\n  choice: Ayodhya\n  choice: Indraprastha\nA:",
+                [
+                    "Indraprastha"
+                ],
+                "hindu_knowledge|all|default|#6"
+            ],
+            [
+                "Q: In Hindu mythology, the sage Durvasa cursed Saraswati to become a what?\n  choice: Mountain\n  choice: Valley\n  choice: Lake\n  choice: River\nA:",
+                [
+                    "Mountain"
+                ],
+                "hindu_knowledge|all|default|#401"
+            ],
+            [
+                "Q: The Hindu deity Dyaus is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Water"
+                ],
+                "hindu_knowledge|all|default|#217"
+            ],
+            [
+                "Q: Which Hindu sage is known as the author of the Ramayana?\n  choice: Vasistha\n  choice: Vyasa\n  choice: Valmiki\n  choice: Vishvamitra\nA:",
+                [
+                    "Vasistha"
+                ],
+                "hindu_knowledge|all|default|#25"
+            ],
+            [
+                "Q: In Hindu mythology, the sage Durvasa cursed Saraswati to become a what?\n  choice: Mountain\n  choice: Valley\n  choice: Lake\n  choice: River\nA:",
+                [
+                    "Lake"
+                ],
+                "hindu_knowledge|all|default|#537"
+            ],
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Arjuna take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Horse tender"
+                ],
+                "hindu_knowledge|all|default|#424"
+            ],
+            [
+                "Q: In the Ramayana, Rama's brother Lakshmana cuts which body part off Ravana's sister Shurpanakha?\n  choice: Finger\n  choice: Toe\n  choice: Ear\n  choice: Nose\nA:",
+                [
+                    "Ear"
+                ],
+                "hindu_knowledge|all|default|#599"
+            ],
+            [
+                "Q: In Hinduism, who is the goddess of knowledge?\n  choice: Lakshmi\n  choice: Saraswati\n  choice: Ganga\n  choice: Parvati\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#207"
+            ],
+            [
+                "Q: In Hindu mythology, the character Lakshmana has how many heads?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Ten\nA:",
+                [
+                    "Two"
+                ],
+                "hindu_knowledge|all|default|#468"
+            ],
+            [
+                "Q: The Hindu deity Agni is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Water"
+                ],
+                "hindu_knowledge|all|default|#641"
+            ],
+            [
+                "Q: The Hindu deity Rama was a prince of which legendary city?\n  choice: Hastinapura\n  choice: Khandava\n  choice: Ayodhya\n  choice: Indraprastha\nA:",
+                [
+                    "Hastinapura"
+                ],
+                "hindu_knowledge|all|default|#579"
+            ],
+            [
+                "Q: In Hindu mythology, what is the name given to the first man?\n  choice: Manu\n  choice: Yama\n  choice: Dharma\n  choice: Rama\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#389"
+            ]
+        ],
+        "round#17": [
+            [
+                "Q: In the Mahabharata, the character Amba is reborn as a man in order to kill Bhisma.  What was this man's name?\n  choice: Ashwatthama\n  choice: Shikandi\n  choice: Ambika\n  choice: Drupada\nA:",
+                [
+                    "Ambika"
+                ],
+                "hindu_knowledge|all|default|#638"
+            ],
+            [
+                "Q: Which of the following pairs of characters in Hindu mythology are twins?\n  choice: Kundi and Madri\n  choice: Rama and Balarama\n  choice: Drona and Bhisma\n  choice: Nakula and Sahadeva\nA:",
+                [
+                    "Drona and Bhisma"
+                ],
+                "hindu_knowledge|all|default|#568"
+            ],
+            [
+                "Q: In Hindu mythology, the goddess Bhumi is associated with which planet?\n  choice: Jupiter\n  choice: Venus\n  choice: Earth\n  choice: Mars\nA:",
+                [
+                    "Jupiter"
+                ],
+                "hindu_knowledge|all|default|#546"
+            ],
+            [
+                "Q: In Hinduism, the god of death is also associated with what?\n  choice: justice\n  choice: wealth\n  choice: harvest\n  choice: knowledge\nA:",
+                [
+                    "harvest"
+                ],
+                "hindu_knowledge|all|default|#465"
+            ],
+            [
+                "Q: In Hindu mythology, the Sudarshana Chakra is a weapon wielded by which which of the following?\n  choice: Hanuman\n  choice: Shiva\n  choice: Arjuna\n  choice: Krishna\nA:",
+                [
+                    "Arjuna"
+                ],
+                "hindu_knowledge|all|default|#77"
+            ],
+            [
+                "Q: In Hinduism, the Ashvins comprise how many deities?\n  choice: One\n  choice: Two\n  choice: Five\n  choice: Three\nA:",
+                [
+                    "Three"
+                ],
+                "hindu_knowledge|all|default|#111"
+            ],
+            [
+                "Q: In the Mahabharata, the Pandava brothers spend their final year of exile in the court of King Virata.  What occupation does Sahadeva take during this year?\n  choice: Cow herder\n  choice: Royal entertainer\n  choice: Horse tender\n  choice: Cook\n  choice: Music and dance teacher\nA:",
+                [
+                    "Cow herder"
+                ],
+                "hindu_knowledge|all|default|#603"
+            ],
+            [
+                "Q: Which of the following Hindu deities is depicted having the head of an elphant?\n  choice: Kartikeya\n  choice: Shiva\n  choice: Ganesha\n  choice: Laxmi\nA:",
+                [
+                    "Kartikeya"
+                ],
+                "hindu_knowledge|all|default|#34"
+            ],
+            [
+                "Q: Which of the following is the Hindu deity associated with wind?\n  choice: Surya\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Surya"
+                ],
+                "hindu_knowledge|all|default|#313"
+            ],
+            [
+                "Q: In Hindu mythology, which wife of Dasharatha was responsible for Rama's banishment to the forest?\n  choice: Kausalya\n  choice: Urmila\n  choice: Kaikeyi\n  choice: Sumitra\nA:",
+                [
+                    "Kaikeyi"
+                ],
+                "hindu_knowledge|all|default|#501"
+            ],
+            [
+                "Q: The Hindu text known as the Lalita Sahasranama contains a thousand names of which Hindu goddess?\n  choice: Parvati\n  choice: Subadhra\n  choice: Laxmi\n  choice: Saraswati\nA:",
+                [
+                    "Saraswati"
+                ],
+                "hindu_knowledge|all|default|#357"
+            ],
+            [
+                "Q: In the Mahabharata, the character Karna is raised by foster parents.  What was the occupation of his foster father?\n  choice: Cook\n  choice: Teacher\n  choice: Charioteer\n  choice: Merchant\nA:",
+                [
+                    "Teacher"
+                ],
+                "hindu_knowledge|all|default|#182"
+            ],
+            [
+                "Q: In Hindu mythology, which character is said to have been adopted by her father who found her in a ploughed field?\n  choice: Rukmini\n  choice: Subadra\n  choice: Draupadi\n  choice: Sita\nA:",
+                [
+                    "Draupadi"
+                ],
+                "hindu_knowledge|all|default|#64"
+            ],
+            [
+                "Q: In Hindu mythology, the younger brother of Hiranakashipu was killed by an avatar of whom?\n  choice: Parvati\n  choice: Vishnu\n  choice: Indra\n  choice: Shiva\nA:",
+                [
+                    "Vishnu"
+                ],
+                "hindu_knowledge|all|default|#67"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, Bhima's son Ghatotkacha's weapon of choice is what?\n  choice: Mace\n  choice: Sword\n  choice: Bow and arrow\n  choice: Rake\nA:",
+                [
+                    "Bow and arrow"
+                ],
+                "hindu_knowledge|all|default|#338"
+            ],
+            [
+                "Q: In Hindu mythology, the deity Rama is an avatar (incarnation) of which god?\n  choice: Indra\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Indra"
+                ],
+                "hindu_knowledge|all|default|#631"
+            ]
+        ],
+        "round#18": [
+            [
+                "Q: The character Ravana is a villain in which Hindu epic?\n  choice: Mahabharata\n  choice: Ramayana\n  choice: Iliad\n  choice: Odyssey\nA:",
+                [
+                    "Ramayana"
+                ],
+                "hindu_knowledge|all|default|#597"
+            ],
+            [
+                "Q: Which of the following Hindu deities is female?\n  choice: Parvati\n  choice: Vishnu\n  choice: Balarama\n  choice: Shiva\nA:",
+                [
+                    "Balarama"
+                ],
+                "hindu_knowledge|all|default|#683"
+            ],
+            [
+                "Q: In Hindu mythology, the sage Durvasa cursed Saraswati to become a what?\n  choice: Mountain\n  choice: Valley\n  choice: Lake\n  choice: River\nA:",
+                [
+                    "Mountain"
+                ],
+                "hindu_knowledge|all|default|#401"
+            ],
+            [
+                "Q: The Hindu text known as the Lalita Sahasranama contains a thousand names of which Hindu goddess?\n  choice: Parvati\n  choice: Subadhra\n  choice: Laxmi\n  choice: Saraswati\nA:",
+                [
+                    "Parvati"
+                ],
+                "hindu_knowledge|all|default|#334"
+            ],
+            [
+                "Q: In Hinduism, the principle deity associated with creation is whom?\n  choice: Rama\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Vishnu"
+                ],
+                "hindu_knowledge|all|default|#148"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with fire?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#365"
+            ],
+            [
+                "Q: The character Ravana is a villain in which Hindu epic?\n  choice: Mahabharata\n  choice: Ramayana\n  choice: Iliad\n  choice: Odyssey\nA:",
+                [
+                    "Odyssey"
+                ],
+                "hindu_knowledge|all|default|#651"
+            ],
+            [
+                "Q: In Hindu mythology, the Sudarshana Chakra is a weapon wielded by which which of the following?\n  choice: Hanuman\n  choice: Shiva\n  choice: Arjuna\n  choice: Krishna\nA:",
+                [
+                    "Shiva"
+                ],
+                "hindu_knowledge|all|default|#356"
+            ],
+            [
+                "Q: In Hinduism, who is the goddess of knowledge?\n  choice: Lakshmi\n  choice: Saraswati\n  choice: Ganga\n  choice: Parvati\nA:",
+                [
+                    "Lakshmi"
+                ],
+                "hindu_knowledge|all|default|#218"
+            ],
+            [
+                "Q: The Hindu deity Agni is associated with what?\n  choice: Sky\n  choice: Wind\n  choice: Fire\n  choice: Water\nA:",
+                [
+                    "Water"
+                ],
+                "hindu_knowledge|all|default|#641"
+            ],
+            [
+                "Q: In Hindu mythology, which body part was demanded as gurudakshina by Dronacharya from his disciple Ekalavya?\n  choice: Foot\n  choice: Toe\n  choice: Ear\n  choice: Thumb\nA:",
+                [
+                    "Foot"
+                ],
+                "hindu_knowledge|all|default|#306"
+            ],
+            [
+                "Q: Which syllable is commonly used at the beginning and end of Hindu chants and texts?\n  choice: Mo\n  choice: Om\n  choice: Ma\n  choice: Na\nA:",
+                [
+                    "Om"
+                ],
+                "hindu_knowledge|all|default|#383"
+            ],
+            [
+                "Q: In Hinduism, mount Kailash is the abode of which god?\n  choice: Lakshmi\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Shiva"
+                ],
+                "hindu_knowledge|all|default|#178"
+            ],
+            [
+                "Q: In Hinduism, the equivalent of Hell is presided over by which god?\n  choice: Surya\n  choice: Yama\n  choice: Indra\n  choice: Varuna\nA:",
+                [
+                    "Surya"
+                ],
+                "hindu_knowledge|all|default|#601"
+            ],
+            [
+                "Q: The following options contain pairs of characters in Hindu mythology and their respective fathers.  Which pair is incorrectly matched?\n  choice: Karna -> Surya\n  choice: Yudhishthira -> Dharma\n  choice: Arjuna -> Indra\n  choice: Nakula -> Vayu\nA:",
+                [
+                    "Arjuna -> Indra"
+                ],
+                "hindu_knowledge|all|default|#200"
+            ],
+            [
+                "Q: In the Ramayana, Sita gets kidnapped by Ravana because Rama was away chasing what type of animal?\n  choice: Deer\n  choice: Lion\n  choice: Boar\n  choice: Horse\nA:",
+                [
+                    "Lion"
+                ],
+                "hindu_knowledge|all|default|#677"
+            ]
+        ],
+        "round#19": [
+            [
+                "Q: In Hinduism, the principle deity associated with creation is whom?\n  choice: Rama\n  choice: Vishnu\n  choice: Brahma\n  choice: Shiva\nA:",
+                [
+                    "Rama"
+                ],
+                "hindu_knowledge|all|default|#609"
+            ],
+            [
+                "Q: In the Ramayana, which avatar of Vishnu other than Rama was present at Sita's swayamvara?\n  choice: Kalki\n  choice: Parashurama\n  choice: Buddha\n  choice: Krishna\nA:",
+                [
+                    "Parashurama"
+                ],
+                "hindu_knowledge|all|default|#395"
+            ],
+            [
+                "Q: The Hindu deity Surya is associated with what?\n  choice: Sun\n  choice: Wind\n  choice: Sky\n  choice: Water\nA:",
+                [
+                    "Water"
+                ],
+                "hindu_knowledge|all|default|#93"
+            ],
+            [
+                "Q: In the Hindu epic Mahabharata, during the war Yudhishthira proclaims that Ashwatthama is dead.  What kind of animal was this Ashwatthama?\n  choice: Horse\n  choice: Snake\n  choice: Elephant\n  choice: Lion\nA:",
+                [
+                    "Lion"
+                ],
+                "hindu_knowledge|all|default|#183"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with wind?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Agni"
+                ],
+                "hindu_knowledge|all|default|#261"
+            ],
+            [
+                "Q: In the Mahabharata, the character Karna is raised by foster parents.  What was the occupation of his foster father?\n  choice: Cook\n  choice: Teacher\n  choice: Charioteer\n  choice: Merchant\nA:",
+                [
+                    "Charioteer"
+                ],
+                "hindu_knowledge|all|default|#237"
+            ],
+            [
+                "Q: In Hinduism, how many wives did King Pandu of Hastinapura have?\n  choice: One\n  choice: Two\n  choice: Four\n  choice: Three\nA:",
+                [
+                    "One"
+                ],
+                "hindu_knowledge|all|default|#69"
+            ],
+            [
+                "Q: In Hindu mythology, which celestial weapon summons fire?\n  choice: Brahmastra\n  choice: Varunastra\n  choice: Agneyastra\n  choice: Indrastra\nA:",
+                [
+                    "Brahmastra"
+                ],
+                "hindu_knowledge|all|default|#132"
+            ],
+            [
+                "Q: In the Mahabharata, Duryodhana crowns Karna the King of which kindgom?\n  choice: Kalinga\n  choice: Matsya\n  choice: Anga\n  choice: Magadha\nA:",
+                [
+                    "Matsya"
+                ],
+                "hindu_knowledge|all|default|#466"
+            ],
+            [
+                "Q: In Hindu mythology, whom did the sage Durvasa curse in order to make her husband forget her?\n  choice: Lakshmi\n  choice: Shakuntala\n  choice: Kandali\n  choice: Saraswati\nA:",
+                [
+                    "Lakshmi"
+                ],
+                "hindu_knowledge|all|default|#97"
+            ],
+            [
+                "Q: In Hinduism, which musical instrument is most associated with the god Krishna?\n  choice: Sitar\n  choice: Veena\n  choice: Flute\n  choice: Tabla (drum)\nA:",
+                [
+                    "Flute"
+                ],
+                "hindu_knowledge|all|default|#3"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with wind?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#201"
+            ],
+            [
+                "Q: In Hindu mythology, which of the following did not have a Swayamvara?\n  choice: Draupadi\n  choice: Sita\n  choice: Amba\n  choice: Hidimba\nA:",
+                [
+                    "Draupadi"
+                ],
+                "hindu_knowledge|all|default|#331"
+            ],
+            [
+                "Q: In Hindu mythology, what was the name of Lakshmana's wife?\n  choice: Sita\n  choice: Urmila\n  choice: Parvati\n  choice: Sunaina\nA:",
+                [
+                    "Sita"
+                ],
+                "hindu_knowledge|all|default|#193"
+            ],
+            [
+                "Q: In Hindu mythology, Chitrangada, Visvavasu and Chitrasena are prominet members of what class of beings?\n  choice: Devas\n  choice: Rakshasas\n  choice: Apsaras\n  choice: Gandharvas\nA:",
+                [
+                    "Rakshasas"
+                ],
+                "hindu_knowledge|all|default|#361"
+            ],
+            [
+                "Q: Which of the following Hindu deities is associated with fire?\n  choice: Indra\n  choice: Vayu\n  choice: Agni\n  choice: Varuna\nA:",
+                [
+                    "Varuna"
+                ],
+                "hindu_knowledge|all|default|#365"
+            ]
+        ]
+    }
+}

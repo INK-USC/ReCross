@@ -1,0 +1,3642 @@
+[
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . \n\nIn other words, anyone . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#0"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . In the previous sentence, does the pronoun \"him\" refer to anyone? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#0"
+    ],
+    [
+        "Context: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . \n\n\nQuestion: \"him\" is anyone. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#0"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . In the previous sentence, can the pronoun \"him\" be replaced with \"anyone\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#0"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . \nIn the passage above, the pronoun \"him\" refers to anyone. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#0"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, can the pronoun \"his\" be replaced with \"Mr. Moncrieff\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#1"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Mr. Moncrieff? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#1"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nIn other words, Mr. Moncrieff financial support. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#1"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. Here, does \"his\" stand for Mr. Moncrieff? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#1"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nQuestion: Who or what is \"his\"? Is it Mr. Moncrieff?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#1"
+    ],
+    [
+        "Passage: I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \n\nQuestion: In the passage above, does the pronoun \"they\" refer to lemon trees?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#2"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemon trees? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#2"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \nIn the passage above, the pronoun \"they\" refers to lemon trees. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#2"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. Here, by \"they\" they mean \"lemon trees\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#2"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. Here, does \"they\" stand for lemon trees? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#2"
+    ],
+    [
+        "Passage: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nQuestion: In the passage above, does the pronoun \"his\" refer to Larry?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#3"
+    ],
+    [
+        "Context: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\n\nQuestion: \"his\" is Larry. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#3"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, can the pronoun \"his\" be replaced with \"Larry\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#3"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"his\" refer to Larry? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#3"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \nIn the passage above, the pronoun \"his\" refers to Larry. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#3"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval Here, by \"his\" they mean \"Chester\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#4"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval \n\nQuestion: Who or what is \"his\"? Is it Chester?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#4"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval I think they mean \"Chester approval\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#4"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval Here, does \"his\" stand for Chester? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#4"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, can the pronoun \"his\" be replaced with \"Chester\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#4"
+    ],
+    [
+        "Passage: The large ball crashed right through the table because it was made of styrofoam. \n\nQuestion: In the passage above, does the pronoun \"it\" refer to the table?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#5"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. Here, by \"it\" they mean \"the table\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#5"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. \nIn the passage above, the pronoun \"it\" refers to the table. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#5"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. \n\nIn other words, the table was made of styrofoam. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#5"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. In the previous sentence, does the pronoun \"it\" refer to the table? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#5"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . \n\nQuestion: Who or what is \"it\"? Is it The path?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#6"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . Here, by \"it\" they mean \"The path\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#6"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . \nIn the passage above, the pronoun \"it\" refers to The path. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#6"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . In the previous sentence, does the pronoun \"it\" refer to The path? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#6"
+    ],
+    [
+        "Passage: The path to the lake was blocked, so we couldn't use it . \n\nQuestion: In the passage above, does the pronoun \"it\" refer to The path?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#6"
+    ],
+    [
+        "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. In the previous sentence, does the pronoun \"her\" refer to Ellen? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#7"
+    ],
+    [
+        "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. \nIn the passage above, the pronoun \"her\" refers to Ellen. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#7"
+    ],
+    [
+        "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. \n\nQuestion: Who or what is \"her\"? Is it Ellen?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#7"
+    ],
+    [
+        "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. Here, by \"her\" they mean \"Ellen\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#7"
+    ],
+    [
+        "Context: While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. \n\n\nQuestion: \"her\" is Ellen. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#7"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, can the pronoun \"them\" be replaced with \"their mothers\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#8"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, does \"them\" stand for their mothers? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#8"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: Who or what are \"them\"? their mothers?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#8"
+    ],
+    [
+        "Context: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\n\nQuestion: \"them\" are their mothers. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#8"
+    ],
+    [
+        "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: In the passage above, does the pronoun \"them\" refer to their mothers?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#8"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. I think they mean \"The customer was immediately taken to the hospital.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#9"
+    ],
+    [
+        "Passage: The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. \n\nQuestion: In the passage above, does the pronoun \"He\" refer to The customer?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#9"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. Here, by \"He\" they mean \"The customer\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#9"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. \nIn the passage above, the pronoun \"He\" refers to The customer. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#9"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. In the previous sentence, can the pronoun \"He\" be replaced with \"The customer\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#9"
+    ],
+    [
+        "Context: Jane gave Joan candy because she was hungry. \n\n\nQuestion: \"she\" is Jane. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#10"
+    ],
+    [
+        "Passage: Jane gave Joan candy because she was hungry. \n\nQuestion: In the passage above, does the pronoun \"she\" refer to Jane?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#10"
+    ],
+    [
+        "Jane gave Joan candy because she was hungry. In the previous sentence, does the pronoun \"she\" refer to Jane? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#10"
+    ],
+    [
+        "Jane gave Joan candy because she was hungry. \nIn the passage above, the pronoun \"she\" refers to Jane. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#10"
+    ],
+    [
+        "Jane gave Joan candy because she was hungry. Here, by \"she\" they mean \"Jane\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#10"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \n\nQuestion: Who or what are \"they\"? lemons?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#11"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemons? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#11"
+    ],
+    [
+        "Passage: I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \n\nQuestion: In the passage above, does the pronoun \"they\" refer to lemons?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#11"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \nIn the passage above, the pronoun \"they\" refers to lemons. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#11"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. I think they mean \"lemons came out looking more like light bulbs.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#11"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, can the pronoun \"her\" be replaced with \"Mama\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#12"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, does the pronoun \"her\" refer to Mama? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#12"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. I think they mean \"Mama favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#12"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. \n\nIn other words, Mama favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#12"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. \nIn the passage above, the pronoun \"her\" refers to Mama. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#12"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. I think they mean \"Antonio wing, and quickly molds him into a drug runner.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#13"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Antonio? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#13"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. Here, does \"his\" stand for Antonio? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#13"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \n\nQuestion: Who or what is \"his\"? Is it Antonio?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#13"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \n\nIn other words, Antonio wing, and quickly molds him into a drug runner. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#13"
+    ],
+    [
+        "Context: Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\n\nQuestion: \"it\" is chair. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#14"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to chair? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#14"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\nQuestion: Who or what is \"it\"? Is it chair?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#14"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, can the pronoun \"it\" be replaced with \"chair\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#14"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \nIn the passage above, the pronoun \"it\" refers to chair. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#14"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Larry? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#15"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. Here, by \"his\" they mean \"Larry\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#15"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \nIn the passage above, the pronoun \"his\" refers to Larry. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#15"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \n\nQuestion: Who or what is \"his\"? Is it Larry?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#15"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \n\nIn other words, Larry wing, and quickly molds him into a drug runner. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#15"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . Here, does \"it\" stand for living room? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#16"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\nQuestion: Who or what is \"it\"? Is it living room?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#16"
+    ],
+    [
+        "Passage: Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\nQuestion: In the passage above, does the pronoun \"it\" refer to living room?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#16"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \nIn the passage above, the pronoun \"it\" refers to living room. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#16"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\nIn other words, living room . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#16"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \nIn the passage above, the pronoun \"he\" refers to Edward. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#17"
+    ],
+    [
+        "Passage: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Edward?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#17"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nQuestion: Who or what is \"he\"? Is it Edward?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#17"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"he\" refer to Edward? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#17"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. Here, by \"he\" they mean \"Edward\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#17"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. \nIn the passage above, the pronoun \"he\" refers to Fred. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#18"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. I think they mean \"Fred got back.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#18"
+    ],
+    [
+        "Context: Fred watched TV while George went out to buy groceries. After an hour he got back. \n\n\nQuestion: \"he\" is Fred. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#18"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. \n\nQuestion: Who or what is \"he\"? Is it Fred?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#18"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. In the previous sentence, does the pronoun \"he\" refer to Fred? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#18"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. I think they mean \"Arthur and Celeste and come back quickly to tell the news.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#19"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, by \"them\" they mean \"Arthur and Celeste\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#19"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"them\" refer to Arthur and Celeste? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#19"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: Who or what are \"them\"? Arthur and Celeste?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#19"
+    ],
+    [
+        "Context: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\n\nQuestion: \"them\" are Arthur and Celeste. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#19"
+    ],
+    [
+        "Passage: Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Chester?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#20"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval Here, does \"he\" stand for Chester? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#20"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval Here, by \"he\" they mean \"Chester\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#20"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval I think they mean \"Chester couldn't very well marry without his approval\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#20"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"he\" refer to Chester? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#20"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. Here, does \"she\" stand for Joan? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#21"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. I think they mean \"Joan wasn't hungry.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#21"
+    ],
+    [
+        "Passage: Jane gave Joan candy because she wasn't hungry. \n\nQuestion: In the passage above, does the pronoun \"she\" refer to Joan?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#21"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. \n\nIn other words, Joan wasn't hungry. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#21"
+    ],
+    [
+        "Context: Jane gave Joan candy because she wasn't hungry. \n\n\nQuestion: \"she\" is Joan. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#21"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nIn other words, Dad could not Dadlp him now, for Dad said that his boss at tDad railroad company would not want anyone but him to work in tDad office. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#22"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nQuestion: Who or what is \"he\"? Is it Dad?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#22"
+    ],
+    [
+        "Context: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\n\nQuestion: \"he\" is Dad. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#22"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"he\" refer to Dad? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#22"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, can the pronoun \"he\" be replaced with \"Dad\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#22"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of steel. \n\nIn other words, the table was made of steel. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#23"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of steel. I think they mean \"the table was made of steel.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#23"
+    ],
+    [
+        "Context: The large ball crashed right through the table because it was made of steel. \n\n\nQuestion: \"it\" is the table. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#23"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of steel. \nIn the passage above, the pronoun \"it\" refers to the table. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#23"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of steel. Here, by \"it\" they mean \"the table\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#23"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \n\nQuestion: Who or what is \"his\"? Is it Larry's father?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#24"
+    ],
+    [
+        "Context: Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \n\n\nQuestion: \"his\" is Larry's father. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#24"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. I think they mean \"Larry's father wing, and quickly molds him into a drug runner.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#24"
+    ],
+    [
+        "Passage: Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. \n\nQuestion: In the passage above, does the pronoun \"his\" refer to Larry's father?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#24"
+    ],
+    [
+        "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. Here, does \"his\" stand for Larry's father? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#24"
+    ],
+    [
+        "Passage: Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. \n\nQuestion: In the passage above, does the pronoun \"his\" refer to the photographer?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#25"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. In the previous sentence, does the pronoun \"his\" refer to the photographer? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#25"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. Here, does \"his\" stand for the photographer? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#25"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. I think they mean \"the photographer purchases and feeling very elegant indeed, Babar goes to the photographer to have the photographer picture taken.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#25"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. \n\nQuestion: Who or what is \"his\"? Is it the photographer?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#25"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nIn other words, Dad now, for Dad said that his boss at the railroad company would not want anyone but Dad to work in the office. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#26"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nQuestion: Who or what is \"him\"? Is it Dad?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#26"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. I think they mean \"Dad now, for Dad said that his boss at the railroad company would not want anyone but Dad to work in the office.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#26"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, can the pronoun \"him\" be replaced with \"Dad\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#26"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"him\" refer to Dad? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#26"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \nIn the passage above, the pronoun \"his\" refers to Edward. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#27"
+    ],
+    [
+        "Context: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\n\nQuestion: \"his\" is Edward. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#27"
+    ],
+    [
+        "Passage: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nQuestion: In the passage above, does the pronoun \"his\" refer to Edward?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#27"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nIn other words, Edward financial support. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#27"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nQuestion: Who or what is \"his\"? Is it Edward?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#27"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . \nIn the passage above, the pronoun \"it\" refers to the lake. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#28"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . \n\nIn other words, the lake . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#28"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . \n\nQuestion: Who or what is \"it\"? Is it the lake?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#28"
+    ],
+    [
+        "Passage: The path to the lake was blocked, so we couldn't use it . \n\nQuestion: In the passage above, does the pronoun \"it\" refer to the lake?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#28"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't use it . I think they mean \"the lake .\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#28"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, does the pronoun \"them\" refer to the oatmeal cookies? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#29"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . Here, by \"them\" they mean \"the oatmeal cookies\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#29"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . \n\nIn other words, the oatmeal cookies . True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#29"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, can the pronoun \"them\" be replaced with \"the oatmeal cookies\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#29"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . Here, does \"them\" stand for the oatmeal cookies? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#29"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. Here, does \"it\" stand for stable? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#30"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. Here, by \"it\" they mean \"stable\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#30"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. I think they mean \"stable pleasant and airy.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#30"
+    ],
+    [
+        "Passage: The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \n\nQuestion: In the passage above, does the pronoun \"it\" refer to stable?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#30"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \n\nIn other words, stable pleasant and airy. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#30"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. \nIn the passage above, the pronoun \"they\" refers to faces. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#31"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. In the previous sentence, can the pronoun \"they\" be replaced with \"faces\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#31"
+    ],
+    [
+        "Context: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. \n\n\nQuestion: \"they\" are faces. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#31"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. \n\nQuestion: Who or what are \"they\"? faces?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#31"
+    ],
+    [
+        "Passage: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. \n\nQuestion: In the passage above, does the pronoun \"they\" refer to faces?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#31"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. In the previous sentence, does the pronoun \"he\" refer to Joe? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#32"
+    ],
+    [
+        "Passage: Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Joe?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#32"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. \n\nIn other words, Joe is 30 years older. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#32"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. I think they mean \"Joe is 30 years older.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#32"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. Here, does \"he\" stand for Joe? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#32"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \nIn the passage above, the pronoun \"his\" refers to Mark. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#33"
+    ],
+    [
+        "Context: Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\n\nQuestion: \"his\" is Mark. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#33"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful Here, by \"his\" they mean \"Mark\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#33"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful I think they mean \"Mark work was beautiful\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#33"
+    ],
+    [
+        "Passage: Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\nQuestion: In the passage above, does the pronoun \"his\" refer to Mark?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#33"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . Here, by \"them\" they mean \"faces\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#34"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\nQuestion: Who or what are \"them\"? faces?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#34"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . Here, does \"them\" stand for faces? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#34"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . I think they mean \"faces .\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#34"
+    ],
+    [
+        "Context: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\n\nQuestion: \"them\" are faces. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#34"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. I think they mean \"Chester no longer requires his financial support.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#35"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. Here, does \"he\" stand for Chester? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#35"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nIn other words, Chester no longer requires his financial support. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#35"
+    ],
+    [
+        "Context: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\n\nQuestion: \"he\" is Chester. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#35"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, can the pronoun \"he\" be replaced with \"Chester\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#35"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\nIn other words, things . True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#36"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\nQuestion: Who or what are \"them\"? things?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#36"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . In the previous sentence, does the pronoun \"them\" refer to things? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#36"
+    ],
+    [
+        "Context: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\n\nQuestion: \"them\" are things. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#36"
+    ],
+    [
+        "Passage: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\nQuestion: In the passage above, does the pronoun \"them\" refer to things?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#36"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. Here, does \"they\" stand for Amy's parents? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#37"
+    ],
+    [
+        "Context: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. \n\n\nQuestion: \"they\" are Amy's parents. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#37"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. Here, by \"they\" they mean \"Amy's parents\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#37"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. \nIn the passage above, the pronoun \"they\" refers to Amy's parents. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#37"
+    ],
+    [
+        "Passage: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. \n\nQuestion: In the passage above, does the pronoun \"they\" refer to Amy's parents?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#37"
+    ],
+    [
+        "Men had the right to keep their sons working for them until they were 21 years of age. \n\nQuestion: Who or what are \"they\"? Men?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#38"
+    ],
+    [
+        "Men had the right to keep their sons working for them until they were 21 years of age. I think they mean \"Men were 21 years of age.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#38"
+    ],
+    [
+        "Men had the right to keep their sons working for them until they were 21 years of age. In the previous sentence, does the pronoun \"they\" refer to Men? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#38"
+    ],
+    [
+        "Men had the right to keep their sons working for them until they were 21 years of age. In the previous sentence, can the pronoun \"they\" be replaced with \"Men\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#38"
+    ],
+    [
+        "Men had the right to keep their sons working for them until they were 21 years of age. \n\nIn other words, Men were 21 years of age. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#38"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . \nIn the passage above, the pronoun \"it\" refers to The path. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#39"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . Here, by \"it\" they mean \"The path\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#39"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . In the previous sentence, can the pronoun \"it\" be replaced with \"The path\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#39"
+    ],
+    [
+        "Passage: The path to the lake was blocked, so we couldn't reach it . \n\nQuestion: In the passage above, does the pronoun \"it\" refer to The path?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#39"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . \n\nIn other words, The path . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#39"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, can the pronoun \"he\" be replaced with \"Mr. Moncrieff\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#40"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nIn other words, Mr. Moncrieff no longer requires his financial support. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#40"
+    ],
+    [
+        "Context: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\n\nQuestion: \"he\" is Mr. Moncrieff. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#40"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \nIn the passage above, the pronoun \"he\" refers to Mr. Moncrieff. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#40"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. Here, by \"he\" they mean \"Mr. Moncrieff\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#40"
+    ],
+    [
+        "Context: Fred watched TV while George went out to buy groceries. After an hour he got up. \n\n\nQuestion: \"he\" is Fred. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#41"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got up. Here, does \"he\" stand for Fred? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#41"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got up. I think they mean \"Fred got up.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#41"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got up. \n\nIn other words, Fred got up. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#41"
+    ],
+    [
+        "Passage: Fred watched TV while George went out to buy groceries. After an hour he got up. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Fred?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#41"
+    ],
+    [
+        "When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to use it , but really for now, what more could they wish for? In the previous sentence, can the pronoun \"it\" be replaced with \"safe\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#42"
+    ],
+    [
+        "When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to use it , but really for now, what more could they wish for? \nIn the passage above, the pronoun \"it\" refers to safe. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#42"
+    ],
+    [
+        "When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to use it , but really for now, what more could they wish for? \n\nQuestion: Who or what is \"it\"? Is it safe?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#42"
+    ],
+    [
+        "When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to use it , but really for now, what more could they wish for? I think they mean \"use safe , but really for now, what more could they wish for?\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#42"
+    ],
+    [
+        "Context: When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to use it , but really for now, what more could they wish for? \n\n\nQuestion: \"it\" is safe. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#42"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nQuestion: Who or what is \"he\"? Is it Larry?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#43"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. Here, by \"he\" they mean \"Larry\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#43"
+    ],
+    [
+        "Passage: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Larry?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#43"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nIn other words, Larry could not Larrylp him now, for Dad said that his boss at tLarry railroad company would not want anyone but him to work in tLarry office. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#43"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. I think they mean \"Larry could not Larrylp him now, for Dad said that his boss at tLarry railroad company would not want anyone but him to work in tLarry office.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#43"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nIn other words, the elephants mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#44"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, by \"their\" they mean \"the elephants\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#44"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: Who or what is \"their\"? Is it the elephants?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#44"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \nIn the passage above, the pronoun \"their\" refers to the elephants. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#44"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, does \"their\" stand for the elephants? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#44"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemons? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#45"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. I think they mean \"lemons came out looking more like light bulbs.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#45"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \n\nIn other words, lemons came out looking more like light bulbs. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#45"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, can the pronoun \"they\" be replaced with \"lemons\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#45"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. Here, does \"they\" stand for lemons? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#45"
+    ],
+    [
+        "Jane gave Joan candy because she was hungry. In the previous sentence, can the pronoun \"she\" be replaced with \"Joan\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#46"
+    ],
+    [
+        "Context: Jane gave Joan candy because she was hungry. \n\n\nQuestion: \"she\" is Joan. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#46"
+    ],
+    [
+        "Passage: Jane gave Joan candy because she was hungry. \n\nQuestion: In the passage above, does the pronoun \"she\" refer to Joan?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#46"
+    ],
+    [
+        "Jane gave Joan candy because she was hungry. \nIn the passage above, the pronoun \"she\" refers to Joan. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#46"
+    ],
+    [
+        "Jane gave Joan candy because she was hungry. \n\nIn other words, Joan was hungry. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#46"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval I think they mean \"Uncle Vernon approval\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#47"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval \n\nIn other words, Uncle Vernon approval True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#47"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval \n\nQuestion: Who or what is \"his\"? Is it Uncle Vernon?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#47"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval \nIn the passage above, the pronoun \"his\" refers to Uncle Vernon. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#47"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval Here, does \"his\" stand for Uncle Vernon? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#47"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, can the pronoun \"he\" be replaced with \"Bernard\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#48"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to Bernard? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#48"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\nIn other words, Bernard had done anything dishonest. Still, anyone who knew that Bernard was 19 years old could take his claim away from him. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#48"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. Here, does \"he\" stand for Bernard? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#48"
+    ],
+    [
+        "Context: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\n\nQuestion: \"he\" is Bernard. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#48"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \nIn the passage above, the pronoun \"them\" refers to children. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#49"
+    ],
+    [
+        "Context: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\n\nQuestion: \"them\" are children. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#49"
+    ],
+    [
+        "Passage: Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\nQuestion: In the passage above, does the pronoun \"them\" refer to children?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#49"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . \n\nQuestion: Who or what are \"them\"? children?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#49"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . Here, does \"them\" stand for children? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#49"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was full. \n\nIn other words, John was full. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#50"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was full. \n\nQuestion: Who or what is \"he\"? Is it John?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#50"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was full. \nIn the passage above, the pronoun \"he\" refers to John. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#50"
+    ],
+    [
+        "Passage: Bill passed the half-empty plate to John because he was full. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to John?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#50"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was full. In the previous sentence, does the pronoun \"he\" refer to John? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#50"
+    ],
+    [
+        "Patting her back, the woman smiled at the girl . Here, by \"her\" they mean \"the woman\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#51"
+    ],
+    [
+        "Passage: Patting her back, the woman smiled at the girl . \n\nQuestion: In the passage above, does the pronoun \"her\" refer to the woman?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#51"
+    ],
+    [
+        "Context: Patting her back, the woman smiled at the girl . \n\n\nQuestion: \"her\" is the woman. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#51"
+    ],
+    [
+        "Patting her back, the woman smiled at the girl . Here, does \"her\" stand for the woman? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#51"
+    ],
+    [
+        "Patting her back, the woman smiled at the girl . In the previous sentence, does the pronoun \"her\" refer to the woman? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#51"
+    ],
+    [
+        "Passage: Fred watched TV while George went out to buy groceries. After an hour he got up. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to George?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#52"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got up. In the previous sentence, does the pronoun \"he\" refer to George? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#52"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got up. Here, does \"he\" stand for George? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#52"
+    ],
+    [
+        "Context: Fred watched TV while George went out to buy groceries. After an hour he got up. \n\n\nQuestion: \"he\" is George. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#52"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got up. I think they mean \"George got up.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#52"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, by \"he\" they mean \"Dick\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#53"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nQuestion: Who or what is \"he\"? Is it Dick?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#53"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, does \"he\" stand for Dick? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#53"
+    ],
+    [
+        "Context: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\n\nQuestion: \"he\" is Dick. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#53"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#53"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. Here, does \"she\" stand for Jane? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#54"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. \n\nIn other words, Jane wasn't hungry. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#54"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. \nIn the passage above, the pronoun \"she\" refers to Jane. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#54"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. I think they mean \"Jane wasn't hungry.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#54"
+    ],
+    [
+        "Jane gave Joan candy because she wasn't hungry. Here, by \"she\" they mean \"Jane\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#54"
+    ],
+    [
+        "Context: Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\n\nQuestion: \"it\" is button. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#55"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . Here, by \"it\" they mean \"button\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#55"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\nIn other words, button . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#55"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, can the pronoun \"it\" be replaced with \"button\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#55"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to button? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#55"
+    ],
+    [
+        "Passage: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. \n\nQuestion: In the passage above, does the pronoun \"they\" refer to Amy's parents?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#56"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. In the previous sentence, can the pronoun \"they\" be replaced with \"Amy's parents\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#56"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. \n\nQuestion: Who or what are \"they\"? Amy's parents?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#56"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. I think they mean \"Amy's parents are fifteen.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#56"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. Here, does \"they\" stand for Amy's parents? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#56"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . In the previous sentence, can the pronoun \"them\" be replaced with \"stores\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#57"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . \n\nIn other words, stores . True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#57"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . \n\nQuestion: Who or what are \"them\"? stores?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#57"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . \nIn the passage above, the pronoun \"them\" refers to stores. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#57"
+    ],
+    [
+        "Passage: The storekeepers stayed in town to run their stores and lived in the rooms behind them . \n\nQuestion: In the passage above, does the pronoun \"them\" refer to stores?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#57"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\nQuestion: Who or what is \"he\"? Is it the government official?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#58"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. Here, by \"he\" they mean \"the government official\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#58"
+    ],
+    [
+        "Passage: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to the government official?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#58"
+    ],
+    [
+        "Context: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\n\nQuestion: \"he\" is the government official. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#58"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to the government official? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#58"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. Here, by \"it\" they mean \"The large ball\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#59"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. Here, does \"it\" stand for The large ball? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#59"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. In the previous sentence, does the pronoun \"it\" refer to The large ball? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#59"
+    ],
+    [
+        "Context: The large ball crashed right through the table because it was made of styrofoam. \n\n\nQuestion: \"it\" is The large ball. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#59"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of styrofoam. In the previous sentence, can the pronoun \"it\" be replaced with \"The large ball\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#59"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. \n\nIn other words, Sam and Amy are snobs. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#60"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. I think they mean \"Sam and Amy are snobs.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#60"
+    ],
+    [
+        "Passage: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. \n\nQuestion: In the passage above, does the pronoun \"they\" refer to Sam and Amy?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#60"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. Here, by \"they\" they mean \"Sam and Amy\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#60"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. In the previous sentence, does the pronoun \"they\" refer to Sam and Amy? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#60"
+    ],
+    [
+        "Context: Then Dad figured out how much the man owed the store; to that he added the man 's board-bill at the cook-shanty. He subtracted that amount from the man 's wages, and made out his check \n\n\nQuestion: \"He\" is the man. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#61"
+    ],
+    [
+        "Then Dad figured out how much the man owed the store; to that he added the man 's board-bill at the cook-shanty. He subtracted that amount from the man 's wages, and made out his check \nIn the passage above, the pronoun \"He\" refers to the man. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#61"
+    ],
+    [
+        "Then Dad figured out how much the man owed the store; to that he added the man 's board-bill at the cook-shanty. He subtracted that amount from the man 's wages, and made out his check \n\nQuestion: Who or what is \"he\"? Is it the man?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#61"
+    ],
+    [
+        "Then Dad figured out how much the man owed the store; to that he added the man 's board-bill at the cook-shanty. He subtracted that amount from the man 's wages, and made out his check In the previous sentence, can the pronoun \"He\" be replaced with \"the man\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#61"
+    ],
+    [
+        "Then Dad figured out how much the man owed the store; to that he added the man 's board-bill at the cook-shanty. He subtracted that amount from the man 's wages, and made out his check In the previous sentence, does the pronoun \"he\" refer to the man? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#61"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Chester? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#62"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nQuestion: Who or what is \"his\"? Is it Chester?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#62"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. Here, does \"his\" stand for Chester? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#62"
+    ],
+    [
+        "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. I think they mean \"Chester financial support.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#62"
+    ],
+    [
+        "Passage: Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. \n\nQuestion: In the passage above, does the pronoun \"his\" refer to Chester?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#62"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. \n\nIn other words, Joe's uncle is 30 years older. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#63"
+    ],
+    [
+        "Passage: Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Joe's uncle?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#63"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. \n\nQuestion: Who or what is \"he\"? Is it Joe's uncle?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#63"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. \nIn the passage above, the pronoun \"he\" refers to Joe's uncle. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#63"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. Here, by \"he\" they mean \"Joe's uncle\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#63"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, by \"he\" they mean \"the master\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#64"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, does \"he\" stand for the master? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#64"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nIn other words, the master jumped in a snap, and catching Dick by tthe master arm, the master hit him so hard that the master roared with tthe master pain and surprise. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#64"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, can the pronoun \"he\" be replaced with \"the master\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#64"
+    ],
+    [
+        "Passage: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to the master?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#64"
+    ],
+    [
+        "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: In the passage above, does the pronoun \"them\" refer to the elephants?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#65"
+    ],
+    [
+        "Context: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\n\nQuestion: \"them\" are the elephants. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#65"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: Who or what are \"them\"? the elephants?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#65"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \nIn the passage above, the pronoun \"them\" refers to the elephants. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#65"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, by \"them\" they mean \"the elephants\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#65"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, does \"he\" stand for the master? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#66"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \nIn the passage above, the pronoun \"he\" refers to the master. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#66"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nIn other words, the master roared with tthe master pain and surprise. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#66"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to the master? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#66"
+    ],
+    [
+        "Context: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\n\nQuestion: \"he\" is the master. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#66"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. Here, does \"he\" stand for Bernard? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#67"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. Here, by \"he\" they mean \"Bernard\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#67"
+    ],
+    [
+        "Context: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\n\nQuestion: \"he\" is Bernard. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#67"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, can the pronoun \"he\" be replaced with \"Bernard\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#67"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \nIn the passage above, the pronoun \"he\" refers to Bernard. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#67"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \n\nIn other words, yard pleasant and airy. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#68"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \nIn the passage above, the pronoun \"it\" refers to yard. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#68"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. I think they mean \"yard pleasant and airy.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#68"
+    ],
+    [
+        "Passage: The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \n\nQuestion: In the passage above, does the pronoun \"it\" refer to yard?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#68"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, can the pronoun \"it\" be replaced with \"yard\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#68"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"him\" refer to Larry? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#69"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, can the pronoun \"him\" be replaced with \"Larry\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#69"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \nIn the passage above, the pronoun \"him\" refers to Larry. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#69"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. Here, does \"him\" stand for Larry? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#69"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. I think they mean \"Larry now, for Dad said that his boss at the railroad company would not want anyone but Larry to work in the office.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#69"
+    ],
+    [
+        "Context: Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. \n\n\nQuestion: \"he\" is Joe's uncle. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#70"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. I think they mean \"Joe's uncle is 30 years younger.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#70"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. In the previous sentence, does the pronoun \"he\" refer to Joe's uncle? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#70"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. Here, does \"he\" stand for Joe's uncle? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#70"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. Here, by \"he\" they mean \"Joe's uncle\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#70"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \n\nQuestion: Who or what is \"it\"? Is it window?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#71"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, can the pronoun \"it\" be replaced with \"window\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#71"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. Here, by \"it\" they mean \"window\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#71"
+    ],
+    [
+        "Passage: The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \n\nQuestion: In the passage above, does the pronoun \"it\" refer to window?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#71"
+    ],
+    [
+        "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. \nIn the passage above, the pronoun \"it\" refers to window. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#71"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of steel. \n\nIn other words, The large ball was made of steel. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#72"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of steel. In the previous sentence, does the pronoun \"it\" refer to The large ball? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#72"
+    ],
+    [
+        "The large ball crashed right through the table because it was made of steel. \n\nQuestion: Who or what is \"it\"? Is it The large ball?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#72"
+    ],
+    [
+        "Passage: The large ball crashed right through the table because it was made of steel. \n\nQuestion: In the passage above, does the pronoun \"it\" refer to The large ball?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#72"
+    ],
+    [
+        "Context: The large ball crashed right through the table because it was made of steel. \n\n\nQuestion: \"it\" is The large ball. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#72"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, does \"he\" stand for the master? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#73"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nIn other words, the master was tthe masterre, watching what was going on; over tthe master the masterdge the master jumped in a snap, and catching Dick by tthe master arm, the master hit him so hard that the master roared with tthe master pain and surprise. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#73"
+    ],
+    [
+        "Passage: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to the master?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#73"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \nIn the passage above, the pronoun \"he\" refers to the master. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#73"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, by \"he\" they mean \"the master\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#73"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, does the pronoun \"she\" refer to Mama? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#74"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. Here, by \"she\" they mean \"Mama\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#74"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, can the pronoun \"she\" be replaced with \"Mama\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#74"
+    ],
+    [
+        "Context: Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. \n\n\nQuestion: \"she\" is Mama. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#74"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. Here, does \"she\" stand for Mama? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#74"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nQuestion: Who or what is \"him\"? Is it Dick?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#75"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, can the pronoun \"him\" be replaced with \"Dick\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#75"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, does \"him\" stand for Dick? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#75"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. I think they mean \"Dick so hard that he roared with the pain and surprise.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#75"
+    ],
+    [
+        "Context: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\n\nQuestion: \"him\" is Dick. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#75"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. \n\nQuestion: Who or what is \"he\"? Is it George?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#76"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. Here, does \"he\" stand for George? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#76"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. In the previous sentence, can the pronoun \"he\" be replaced with \"George\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#76"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. In the previous sentence, does the pronoun \"he\" refer to George? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#76"
+    ],
+    [
+        "Fred watched TV while George went out to buy groceries. After an hour he got back. I think they mean \"George got back.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#76"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. Here, by \"they\" they mean \"children\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#77"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. In the previous sentence, does the pronoun \"they\" refer to children? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#77"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. Here, does \"they\" stand for children? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#77"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. \n\nIn other words, children had to be denied so many things because he couldn't afford them. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#77"
+    ],
+    [
+        "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. \nIn the passage above, the pronoun \"they\" refers to children. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#77"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. Here, does \"he\" stand for Joe? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#78"
+    ],
+    [
+        "Context: Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. \n\n\nQuestion: \"he\" is Joe. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#78"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. I think they mean \"Joe is 30 years younger.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#78"
+    ],
+    [
+        "Passage: Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Joe?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#78"
+    ],
+    [
+        "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. \nIn the passage above, the pronoun \"he\" refers to Joe. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#78"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \nIn the passage above, the pronoun \"him\" refers to the master. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#79"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. I think they mean \"the master so hard that he roared with the pain and surprise.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#79"
+    ],
+    [
+        "Context: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\n\nQuestion: \"him\" is the master. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#79"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, by \"him\" they mean \"the master\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#79"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, can the pronoun \"him\" be replaced with \"the master\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#79"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval I think they mean \"Uncle Vernon couldn't very well marry without his approval\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#80"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval \n\nIn other words, Uncle Vernon couldn't very well marry without his approval True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#80"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, can the pronoun \"he\" be replaced with \"Uncle Vernon\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#80"
+    ],
+    [
+        "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval Here, does \"he\" stand for Uncle Vernon? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#80"
+    ],
+    [
+        "Passage: Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Uncle Vernon?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#80"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . \n\nQuestion: Who or what are \"them\"? the oatmeal cookies?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#81"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . Here, by \"them\" they mean \"the oatmeal cookies\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#81"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . In the previous sentence, does the pronoun \"them\" refer to the oatmeal cookies? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#81"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . \n\nIn other words, the oatmeal cookies . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#81"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . \nIn the passage above, the pronoun \"them\" refers to the oatmeal cookies. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#81"
+    ],
+    [
+        "Context: While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. \n\n\nQuestion: \"her\" is Nancy. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#82"
+    ],
+    [
+        "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. \n\nQuestion: Who or what is \"her\"? Is it Nancy?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#82"
+    ],
+    [
+        "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. In the previous sentence, does the pronoun \"her\" refer to Nancy? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#82"
+    ],
+    [
+        "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. I think they mean \"Nancy stricken face told the girls that the precious map was gone.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#82"
+    ],
+    [
+        "Passage: While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. \n\nQuestion: In the passage above, does the pronoun \"her\" refer to Nancy?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#82"
+    ],
+    [
+        "Passage: Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, \n\nQuestion: In the passage above, does the pronoun \"his\" refer to Mr. Taylor?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#83"
+    ],
+    [
+        "Context: Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, \n\n\nQuestion: \"his\" is Mr. Taylor. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#83"
+    ],
+    [
+        "Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, Here, does \"his\" stand for Mr. Taylor? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#83"
+    ],
+    [
+        "Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, Here, by \"his\" they mean \"Mr. Taylor\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#83"
+    ],
+    [
+        "Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, \n\nQuestion: Who or what is \"his\"? Is it Mr. Taylor?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#83"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . \nIn the passage above, the pronoun \"them\" refers to rooms. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#84"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . \n\nQuestion: Who or what are \"them\"? rooms?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#84"
+    ],
+    [
+        "Context: The storekeepers stayed in town to run their stores and lived in the rooms behind them . \n\n\nQuestion: \"them\" are rooms. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#84"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . I think they mean \"rooms .\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#84"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . \n\nIn other words, rooms . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#84"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\nIn other words, the government official had done anything dishonest. Still, anyone who knew that the government official was 19 years old could take his claim away from him. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#85"
+    ],
+    [
+        "Context: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\n\nQuestion: \"he\" is the government official. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#85"
+    ],
+    [
+        "Passage: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to the government official?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#85"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, can the pronoun \"he\" be replaced with \"the government official\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#85"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. Here, by \"he\" they mean \"the government official\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#85"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#86"
+    ],
+    [
+        "Passage: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Dick?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#86"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, can the pronoun \"he\" be replaced with \"Dick\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#86"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, by \"he\" they mean \"Dick\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#86"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, does \"he\" stand for Dick? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#86"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . \n\nQuestion: Who or what is \"it\"? Is it the lake?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#87"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . I think they mean \"the lake .\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#87"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . \n\nIn other words, the lake . True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#87"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . In the previous sentence, can the pronoun \"it\" be replaced with \"the lake\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#87"
+    ],
+    [
+        "The path to the lake was blocked, so we couldn't reach it . \nIn the passage above, the pronoun \"it\" refers to the lake. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#87"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . Here, does \"him\" stand for the government official? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#88"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . \n\nQuestion: Who or what is \"him\"? Is it the government official?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#88"
+    ],
+    [
+        "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . I think they mean \"the government official .\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#88"
+    ],
+    [
+        "Passage: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . \n\nQuestion: In the passage above, does the pronoun \"him\" refer to the government official?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#88"
+    ],
+    [
+        "Context: Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . \n\n\nQuestion: \"him\" is the government official. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#88"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, can the pronoun \"them\" be replaced with \"the chocolate chip cookies\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#89"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . \nIn the passage above, the pronoun \"them\" refers to the chocolate chip cookies. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#89"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, does the pronoun \"them\" refer to the chocolate chip cookies? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#89"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . \n\nIn other words, the chocolate chip cookies . True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#89"
+    ],
+    [
+        "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . \n\nQuestion: Who or what are \"them\"? the chocolate chip cookies?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#89"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to album? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#90"
+    ],
+    [
+        "Context: Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\n\nQuestion: \"it\" is album. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#90"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . Here, by \"it\" they mean \"album\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#90"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\nQuestion: Who or what is \"it\"? Is it album?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#90"
+    ],
+    [
+        "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . \n\nIn other words, album . True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#90"
+    ],
+    [
+        "Passage: Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. \n\nQuestion: In the passage above, does the pronoun \"his\" refer to the photographer?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#91"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. Here, by \"his\" they mean \"the photographer\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#91"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. \n\nQuestion: Who or what is \"his\"? Is it the photographer?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#91"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. \nIn the passage above, the pronoun \"his\" refers to the photographer. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#91"
+    ],
+    [
+        "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. In the previous sentence, can the pronoun \"his\" be replaced with \"the photographer\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#91"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\nQuestion: Who or what is \"he\"? Is it Mark?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#92"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful I think they mean \"Mark needed to get him to finish his work, because his work was beautiful\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#92"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"he\" refer to Mark? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#92"
+    ],
+    [
+        "Passage: Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\nQuestion: In the passage above, does the pronoun \"He\" refer to Mark?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#92"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\nIn other words, Mark needed to get him to finish his work, because his work was beautiful True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#92"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. Here, does \"he\" stand for Dick? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#93"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, can the pronoun \"he\" be replaced with \"Dick\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#93"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \nIn the passage above, the pronoun \"he\" refers to Dick. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#93"
+    ],
+    [
+        "Passage: One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Dick?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#93"
+    ],
+    [
+        "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. I think they mean \"Dick was tDickre, watching what was going on; over tDick Dickdge Dick jumped in a snap, and catching Dick by tDick arm, Dick hit him so hard that Dick roared with tDick pain and surprise.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#93"
+    ],
+    [
+        "Passage: Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\nQuestion: In the passage above, does the pronoun \"He\" refer to Mr. Schmidt?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#94"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful I think they mean \"Mr. Schmidt needed to get him to finish his work, because his work was beautiful\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#94"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\nIn other words, Mr. Schmidt needed to get him to finish his work, because his work was beautiful True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#94"
+    ],
+    [
+        "Context: Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \n\n\nQuestion: \"He\" is Mr. Schmidt. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#94"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, can the pronoun \"He\" be replaced with \"Mr. Schmidt\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#94"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, does \"their\" stand for their mothers? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#95"
+    ],
+    [
+        "Context: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\n\nQuestion: \"their\" is their mothers. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#95"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: Who or what is \"their\"? Is it their mothers?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#95"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, by \"their\" they mean \"their mothers\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#95"
+    ],
+    [
+        "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: In the passage above, does the pronoun \"their\" refer to their mothers?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#95"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. Here, does \"he\" stand for The customer? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#96"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. \n\nIn other words, The customer was immediately taken to the police station. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#96"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. I think they mean \"The customer was immediately taken to the police station.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#96"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. In the previous sentence, can the pronoun \"He\" be replaced with \"The customer\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#96"
+    ],
+    [
+        "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. \nIn the passage above, the pronoun \"He\" refers to The customer. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#96"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \nIn the passage above, the pronoun \"they\" refers to lemon trees. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#97"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \n\nQuestion: Who or what are \"they\"? lemon trees?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#97"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. \n\nIn other words, lemon trees came out looking more like light bulbs. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#97"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. I think they mean \"lemon trees came out looking more like light bulbs.\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#97"
+    ],
+    [
+        "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, can the pronoun \"they\" be replaced with \"lemon trees\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#97"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . \nIn the passage above, the pronoun \"them\" refers to storekeepers. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#98"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . I think they mean \"storekeepers .\" Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#98"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . Here, does \"them\" stand for storekeepers? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#98"
+    ],
+    [
+        "Context: The storekeepers stayed in town to run their stores and lived in the rooms behind them . \n\n\nQuestion: \"them\" are storekeepers. True or false?\n\n\nAnswer:",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#98"
+    ],
+    [
+        "The storekeepers stayed in town to run their stores and lived in the rooms behind them . Here, by \"them\" they mean \"storekeepers\". Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#98"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful \nIn the passage above, the pronoun \"his\" refers to Mr. Schmidt. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#99"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful Here, by \"his\" they mean \"Mr. Schmidt\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#99"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful Here, does \"his\" stand for Mr. Schmidt? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#99"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, can the pronoun \"his\" be replaced with \"Mr. Schmidt\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#99"
+    ],
+    [
+        "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"his\" refer to Mr. Schmidt? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#99"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was hungry. \n\nIn other words, Bill was hungry. True or false?",
+        [
+            "False"
+        ],
+        "super_glue-wsc.fixed|validation|in other words|#100"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was hungry. Here, does \"he\" stand for Bill? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#100"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was hungry. \n\nQuestion: Who or what is \"he\"? Is it Bill?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#100"
+    ],
+    [
+        "Passage: Bill passed the half-empty plate to John because he was hungry. \n\nQuestion: In the passage above, does the pronoun \"he\" refer to Bill?\n\nAnswer:",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#100"
+    ],
+    [
+        "Bill passed the half-empty plate to John because he was hungry. In the previous sentence, can the pronoun \"he\" be replaced with \"Bill\"? Yes or no?",
+        [
+            "No"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#100"
+    ],
+    [
+        "Context: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\n\nQuestion: \"their\" is Arthur and Celeste. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#101"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. Here, by \"their\" they mean \"Arthur and Celeste\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#101"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"their\" refer to Arthur and Celeste? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does the pronoun refer to|#101"
+    ],
+    [
+        "Passage: Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. \n\nQuestion: In the passage above, does the pronoun \"their\" refer to Arthur and Celeste?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#101"
+    ],
+    [
+        "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. I think they mean \"Arthur and Celeste mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#101"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. I think they mean \"Dad boss at the railroad company would not want anyone but him to work in the office.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#102"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \nIn the passage above, the pronoun \"his\" refers to Dad. True or false?",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|the pronoun refers to|#102"
+    ],
+    [
+        "Context: Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\n\nQuestion: \"his\" is Dad. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#102"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. \n\nQuestion: Who or what is \"his\"? Is it Dad?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|Who or what is/are|#102"
+    ],
+    [
+        "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, can the pronoun \"his\" be replaced with \"Dad\"? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|replaced with|#102"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. I think they mean \"Sam and Amy are fifteen.\" Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|I think they mean|#103"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. Here, does \"they\" stand for Sam and Amy? Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|does p stand for|#103"
+    ],
+    [
+        "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. Here, by \"they\" they mean \"Sam and Amy\". Yes or no?",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|by p they mean|#103"
+    ],
+    [
+        "Context: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. \n\n\nQuestion: \"they\" are Sam and Amy. True or false?\n\n\nAnswer:",
+        [
+            "True"
+        ],
+        "super_glue-wsc.fixed|validation|p is/are r|#103"
+    ],
+    [
+        "Passage: Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. \n\nQuestion: In the passage above, does the pronoun \"they\" refer to Sam and Amy?\n\nAnswer:",
+        [
+            "Yes"
+        ],
+        "super_glue-wsc.fixed|validation|GPT-3 Style|#103"
+    ]
+]

@@ -1,0 +1,3502 @@
+[
+    [
+        "The man turned on the faucet.  As a consequence... \nHelp me pick the more plausible option:\n- The toilet filled with water.\n- Water flowed from the spout.",
+        [
+            "Water flowed from the spout."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#0"
+    ],
+    [
+        "The man turned on the faucet.\n\nSelect the most plausible  effect: \n- The toilet filled with water.\n- Water flowed from the spout.",
+        [
+            "Water flowed from the spout."
+        ],
+        "super_glue-copa|validation|cause_effect|#0"
+    ],
+    [
+        "The man turned on the faucet. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- The toilet filled with water.\n- Water flowed from the spout.",
+        [
+            "Water flowed from the spout."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#0"
+    ],
+    [
+        "The man turned on the faucet. As a result, \"The toilet filled with water.\" or \"Water flowed from the spout.\"?",
+        [
+            "Water flowed from the spout."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#0"
+    ],
+    [
+        "\"The toilet filled with water.\" or \"Water flowed from the spout.\"? The man turned on the faucet.  so",
+        [
+            "Water flowed from the spout."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#0"
+    ],
+    [
+        "The girl found a bug in her cereal. As a result, \"She poured milk in the bowl.\" or \"She lost her appetite.\"?",
+        [
+            "She lost her appetite."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#1"
+    ],
+    [
+        "\"She poured milk in the bowl.\" or \"She lost her appetite.\"? The girl found a bug in her cereal.  so",
+        [
+            "She lost her appetite."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#1"
+    ],
+    [
+        "The girl found a bug in her cereal. \n\nWhat's the best option?\n- She poured milk in the bowl.\n- She lost her appetite.\n\nWe are looking for  an effect",
+        [
+            "She lost her appetite."
+        ],
+        "super_glue-copa|validation|best_option|#1"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe girl found a bug in her cereal.  as a consequence: \n- She poured milk in the bowl.\n- She lost her appetite.",
+        [
+            "She lost her appetite."
+        ],
+        "super_glue-copa|validation|more likely|#1"
+    ],
+    [
+        "The girl found a bug in her cereal.\n\nSelect the most plausible  effect: \n- She poured milk in the bowl.\n- She lost her appetite.",
+        [
+            "She lost her appetite."
+        ],
+        "super_glue-copa|validation|cause_effect|#1"
+    ],
+    [
+        "The woman retired.  so... \nChoose between:\n- She received her pension.\n- She paid off her mortgage.",
+        [
+            "She received her pension."
+        ],
+        "super_glue-copa|validation|choose|#2"
+    ],
+    [
+        "The woman retired. \n\nWhat's the best option?\n- She received her pension.\n- She paid off her mortgage.\n\nWe are looking for  an effect",
+        [
+            "She received her pension."
+        ],
+        "super_glue-copa|validation|best_option|#2"
+    ],
+    [
+        "The woman retired.\n\nSelect the most plausible  effect: \n- She received her pension.\n- She paid off her mortgage.",
+        [
+            "She received her pension."
+        ],
+        "super_glue-copa|validation|cause_effect|#2"
+    ],
+    [
+        "\"She received her pension.\" or \"She paid off her mortgage.\"? The woman retired.  so",
+        [
+            "She received her pension."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#2"
+    ],
+    [
+        "The woman retired. As a result, \"She received her pension.\" or \"She paid off her mortgage.\"?",
+        [
+            "She received her pension."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#2"
+    ],
+    [
+        "I wanted to conserve energy.  As a consequence... \nHelp me pick the more plausible option:\n- I swept the floor in the unoccupied room.\n- I shut off the light in the unoccupied room.",
+        [
+            "I shut off the light in the unoccupied room."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#3"
+    ],
+    [
+        "I wanted to conserve energy. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- I swept the floor in the unoccupied room.\n- I shut off the light in the unoccupied room.",
+        [
+            "I shut off the light in the unoccupied room."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#3"
+    ],
+    [
+        "\"I swept the floor in the unoccupied room.\" or \"I shut off the light in the unoccupied room.\"? I wanted to conserve energy.  so",
+        [
+            "I shut off the light in the unoccupied room."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#3"
+    ],
+    [
+        "I wanted to conserve energy. What could happen next, \"I swept the floor in the unoccupied room.\" or \"I shut off the light in the unoccupied room.\"?",
+        [
+            "I shut off the light in the unoccupied room."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#3"
+    ],
+    [
+        "I wanted to conserve energy. As a result, \"I swept the floor in the unoccupied room.\" or \"I shut off the light in the unoccupied room.\"?",
+        [
+            "I shut off the light in the unoccupied room."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#3"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe hamburger meat browned.  as a result of: \n- The cook froze it.\n- The cook grilled it.",
+        [
+            "The cook grilled it."
+        ],
+        "super_glue-copa|validation|more likely|#4"
+    ],
+    [
+        "\"The cook froze it.\" or \"The cook grilled it.\"? The hamburger meat browned.  because",
+        [
+            "The cook grilled it."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#4"
+    ],
+    [
+        "The hamburger meat browned. Why? \"The cook froze it.\" or \"The cook grilled it.\"?",
+        [
+            "The cook grilled it."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#4"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe hamburger meat browned.  because... \n- The cook froze it.\n- The cook grilled it.",
+        [
+            "The cook grilled it."
+        ],
+        "super_glue-copa|validation|exercise|#4"
+    ],
+    [
+        "The hamburger meat browned. Which may be caused by \"The cook froze it.\" or \"The cook grilled it.\"?",
+        [
+            "The cook grilled it."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#4"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nI doubted the salesman's pitch.  as a consequence: \n- I turned his offer down.\n- He persuaded me to buy the product.",
+        [
+            "I turned his offer down."
+        ],
+        "super_glue-copa|validation|more likely|#5"
+    ],
+    [
+        "I doubted the salesman's pitch.\n\nSelect the most plausible  effect: \n- I turned his offer down.\n- He persuaded me to buy the product.",
+        [
+            "I turned his offer down."
+        ],
+        "super_glue-copa|validation|cause_effect|#5"
+    ],
+    [
+        "I doubted the salesman's pitch. \n\nWhat's the best option?\n- I turned his offer down.\n- He persuaded me to buy the product.\n\nWe are looking for  an effect",
+        [
+            "I turned his offer down."
+        ],
+        "super_glue-copa|validation|best_option|#5"
+    ],
+    [
+        "I doubted the salesman's pitch. As a result, \"I turned his offer down.\" or \"He persuaded me to buy the product.\"?",
+        [
+            "I turned his offer down."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#5"
+    ],
+    [
+        "I doubted the salesman's pitch.  so... \nChoose between:\n- I turned his offer down.\n- He persuaded me to buy the product.",
+        [
+            "I turned his offer down."
+        ],
+        "super_glue-copa|validation|choose|#5"
+    ],
+    [
+        "I decided to stay home for the night.  because... \nChoose between:\n- The forecast called for storms.\n- My friends urged me to go out.",
+        [
+            "The forecast called for storms."
+        ],
+        "super_glue-copa|validation|choose|#6"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nI decided to stay home for the night.  because... \n- The forecast called for storms.\n- My friends urged me to go out.",
+        [
+            "The forecast called for storms."
+        ],
+        "super_glue-copa|validation|exercise|#6"
+    ],
+    [
+        "I decided to stay home for the night. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The forecast called for storms.\n- My friends urged me to go out.",
+        [
+            "The forecast called for storms."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#6"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nI decided to stay home for the night.  as a result of: \n- The forecast called for storms.\n- My friends urged me to go out.",
+        [
+            "The forecast called for storms."
+        ],
+        "super_glue-copa|validation|more likely|#6"
+    ],
+    [
+        "I decided to stay home for the night. \n\nWhat's the best option?\n- The forecast called for storms.\n- My friends urged me to go out.\n\nWe are looking for  a cause",
+        [
+            "The forecast called for storms."
+        ],
+        "super_glue-copa|validation|best_option|#6"
+    ],
+    [
+        "My eyes became red and puffy. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- I was sobbing.\n- I was laughing.",
+        [
+            "I was sobbing."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#7"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nMy eyes became red and puffy.  as a result of: \n- I was sobbing.\n- I was laughing.",
+        [
+            "I was sobbing."
+        ],
+        "super_glue-copa|validation|more likely|#7"
+    ],
+    [
+        "My eyes became red and puffy.  This happened because... \nHelp me pick the more plausible option:\n- I was sobbing.\n- I was laughing.",
+        [
+            "I was sobbing."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#7"
+    ],
+    [
+        "My eyes became red and puffy.  because... \nChoose between:\n- I was sobbing.\n- I was laughing.",
+        [
+            "I was sobbing."
+        ],
+        "super_glue-copa|validation|choose|#7"
+    ],
+    [
+        "My eyes became red and puffy. Why? \"I was sobbing.\" or \"I was laughing.\"?",
+        [
+            "I was sobbing."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#7"
+    ],
+    [
+        "The flame on the candle went out.  because... \nChoose between:\n- I blew on the wick.\n- I put a match to the wick.",
+        [
+            "I blew on the wick."
+        ],
+        "super_glue-copa|validation|choose|#8"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe flame on the candle went out.  because... \n- I blew on the wick.\n- I put a match to the wick.",
+        [
+            "I blew on the wick."
+        ],
+        "super_glue-copa|validation|exercise|#8"
+    ],
+    [
+        "The flame on the candle went out. Which may be caused by \"I blew on the wick.\" or \"I put a match to the wick.\"?",
+        [
+            "I blew on the wick."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#8"
+    ],
+    [
+        "The flame on the candle went out. \n\nWhat's the best option?\n- I blew on the wick.\n- I put a match to the wick.\n\nWe are looking for  a cause",
+        [
+            "I blew on the wick."
+        ],
+        "super_glue-copa|validation|best_option|#8"
+    ],
+    [
+        "\"I blew on the wick.\" or \"I put a match to the wick.\"? The flame on the candle went out.  because",
+        [
+            "I blew on the wick."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#8"
+    ],
+    [
+        "The man drank heavily at the party. \n\nWhat's the best option?\n- He had a headache the next day.\n- He had a runny nose the next day.\n\nWe are looking for  an effect",
+        [
+            "He had a headache the next day."
+        ],
+        "super_glue-copa|validation|best_option|#9"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe man drank heavily at the party.  as a consequence: \n- He had a headache the next day.\n- He had a runny nose the next day.",
+        [
+            "He had a headache the next day."
+        ],
+        "super_glue-copa|validation|more likely|#9"
+    ],
+    [
+        "The man drank heavily at the party. As a result, \"He had a headache the next day.\" or \"He had a runny nose the next day.\"?",
+        [
+            "He had a headache the next day."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#9"
+    ],
+    [
+        "The man drank heavily at the party.  As a consequence... \nHelp me pick the more plausible option:\n- He had a headache the next day.\n- He had a runny nose the next day.",
+        [
+            "He had a headache the next day."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#9"
+    ],
+    [
+        "\"He had a headache the next day.\" or \"He had a runny nose the next day.\"? The man drank heavily at the party.  so",
+        [
+            "He had a headache the next day."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#9"
+    ],
+    [
+        "The bowling ball knocked over the bowling pins. Which may be caused by \"The man rolled the bowling ball down the alley.\" or \"The man dropped the bowling ball on his foot.\"?",
+        [
+            "The man rolled the bowling ball down the alley."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#10"
+    ],
+    [
+        "\"The man rolled the bowling ball down the alley.\" or \"The man dropped the bowling ball on his foot.\"? The bowling ball knocked over the bowling pins.  because",
+        [
+            "The man rolled the bowling ball down the alley."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#10"
+    ],
+    [
+        "The bowling ball knocked over the bowling pins. Why? \"The man rolled the bowling ball down the alley.\" or \"The man dropped the bowling ball on his foot.\"?",
+        [
+            "The man rolled the bowling ball down the alley."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#10"
+    ],
+    [
+        "The bowling ball knocked over the bowling pins.\n\nSelect the most plausible  cause: \n- The man rolled the bowling ball down the alley.\n- The man dropped the bowling ball on his foot.",
+        [
+            "The man rolled the bowling ball down the alley."
+        ],
+        "super_glue-copa|validation|cause_effect|#10"
+    ],
+    [
+        "The bowling ball knocked over the bowling pins. \n\nWhat's the best option?\n- The man rolled the bowling ball down the alley.\n- The man dropped the bowling ball on his foot.\n\nWe are looking for  a cause",
+        [
+            "The man rolled the bowling ball down the alley."
+        ],
+        "super_glue-copa|validation|best_option|#10"
+    ],
+    [
+        "The community learned of the man's death.  This happened because... \nHelp me pick the more plausible option:\n- His family buried him in the cemetery.\n- His obituary appeared in the newspaper.",
+        [
+            "His obituary appeared in the newspaper."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#11"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe community learned of the man's death.  as a result of: \n- His family buried him in the cemetery.\n- His obituary appeared in the newspaper.",
+        [
+            "His obituary appeared in the newspaper."
+        ],
+        "super_glue-copa|validation|more likely|#11"
+    ],
+    [
+        "The community learned of the man's death. Which may be caused by \"His family buried him in the cemetery.\" or \"His obituary appeared in the newspaper.\"?",
+        [
+            "His obituary appeared in the newspaper."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#11"
+    ],
+    [
+        "The community learned of the man's death. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- His family buried him in the cemetery.\n- His obituary appeared in the newspaper.",
+        [
+            "His obituary appeared in the newspaper."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#11"
+    ],
+    [
+        "The community learned of the man's death. \n\nWhat's the best option?\n- His family buried him in the cemetery.\n- His obituary appeared in the newspaper.\n\nWe are looking for  a cause",
+        [
+            "His obituary appeared in the newspaper."
+        ],
+        "super_glue-copa|validation|best_option|#11"
+    ],
+    [
+        "My computer crashed. As a result, \"I installed new speakers.\" or \"I lost all my data.\"?",
+        [
+            "I lost all my data."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#12"
+    ],
+    [
+        "\"I installed new speakers.\" or \"I lost all my data.\"? My computer crashed.  so",
+        [
+            "I lost all my data."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#12"
+    ],
+    [
+        "My computer crashed.  so... \nChoose between:\n- I installed new speakers.\n- I lost all my data.",
+        [
+            "I lost all my data."
+        ],
+        "super_glue-copa|validation|choose|#12"
+    ],
+    [
+        "My computer crashed. What could happen next, \"I installed new speakers.\" or \"I lost all my data.\"?",
+        [
+            "I lost all my data."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#12"
+    ],
+    [
+        "My computer crashed.  As a consequence... \nHelp me pick the more plausible option:\n- I installed new speakers.\n- I lost all my data.",
+        [
+            "I lost all my data."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#12"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman resigned from her job.  because... \n- She aspired to hold an executive position in the firm.\n- She believed her superiors were acting unethically.",
+        [
+            "She believed her superiors were acting unethically."
+        ],
+        "super_glue-copa|validation|exercise|#13"
+    ],
+    [
+        "\"She aspired to hold an executive position in the firm.\" or \"She believed her superiors were acting unethically.\"? The woman resigned from her job.  because",
+        [
+            "She believed her superiors were acting unethically."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#13"
+    ],
+    [
+        "The woman resigned from her job. \n\nWhat's the best option?\n- She aspired to hold an executive position in the firm.\n- She believed her superiors were acting unethically.\n\nWe are looking for  a cause",
+        [
+            "She believed her superiors were acting unethically."
+        ],
+        "super_glue-copa|validation|best_option|#13"
+    ],
+    [
+        "The woman resigned from her job. Which may be caused by \"She aspired to hold an executive position in the firm.\" or \"She believed her superiors were acting unethically.\"?",
+        [
+            "She believed her superiors were acting unethically."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#13"
+    ],
+    [
+        "The woman resigned from her job.\n\nSelect the most plausible  cause: \n- She aspired to hold an executive position in the firm.\n- She believed her superiors were acting unethically.",
+        [
+            "She believed her superiors were acting unethically."
+        ],
+        "super_glue-copa|validation|cause_effect|#13"
+    ],
+    [
+        "The player caught the ball. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- Her teammate threw it to her.\n- Her opponent tried to intercept it.",
+        [
+            "Her teammate threw it to her."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#14"
+    ],
+    [
+        "\"Her teammate threw it to her.\" or \"Her opponent tried to intercept it.\"? The player caught the ball.  because",
+        [
+            "Her teammate threw it to her."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#14"
+    ],
+    [
+        "The player caught the ball.  because... \nChoose between:\n- Her teammate threw it to her.\n- Her opponent tried to intercept it.",
+        [
+            "Her teammate threw it to her."
+        ],
+        "super_glue-copa|validation|choose|#14"
+    ],
+    [
+        "The player caught the ball.\n\nSelect the most plausible  cause: \n- Her teammate threw it to her.\n- Her opponent tried to intercept it.",
+        [
+            "Her teammate threw it to her."
+        ],
+        "super_glue-copa|validation|cause_effect|#14"
+    ],
+    [
+        "The player caught the ball. Why? \"Her teammate threw it to her.\" or \"Her opponent tried to intercept it.\"?",
+        [
+            "Her teammate threw it to her."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#14"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe judge pounded the gavel.  as a result of: \n- The courtroom broke into uproar.\n- The jury announced its verdict.",
+        [
+            "The courtroom broke into uproar."
+        ],
+        "super_glue-copa|validation|more likely|#15"
+    ],
+    [
+        "The judge pounded the gavel. \n\nWhat's the best option?\n- The courtroom broke into uproar.\n- The jury announced its verdict.\n\nWe are looking for  a cause",
+        [
+            "The courtroom broke into uproar."
+        ],
+        "super_glue-copa|validation|best_option|#15"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe judge pounded the gavel.  because... \n- The courtroom broke into uproar.\n- The jury announced its verdict.",
+        [
+            "The courtroom broke into uproar."
+        ],
+        "super_glue-copa|validation|exercise|#15"
+    ],
+    [
+        "The judge pounded the gavel.\n\nSelect the most plausible  cause: \n- The courtroom broke into uproar.\n- The jury announced its verdict.",
+        [
+            "The courtroom broke into uproar."
+        ],
+        "super_glue-copa|validation|cause_effect|#15"
+    ],
+    [
+        "The judge pounded the gavel.  because... \nChoose between:\n- The courtroom broke into uproar.\n- The jury announced its verdict.",
+        [
+            "The courtroom broke into uproar."
+        ],
+        "super_glue-copa|validation|choose|#15"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman banished the children from her property.  as a result of: \n- The children hit a ball into her yard.\n- The children trampled through her garden.",
+        [
+            "The children trampled through her garden."
+        ],
+        "super_glue-copa|validation|more likely|#16"
+    ],
+    [
+        "The woman banished the children from her property. Which may be caused by \"The children hit a ball into her yard.\" or \"The children trampled through her garden.\"?",
+        [
+            "The children trampled through her garden."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#16"
+    ],
+    [
+        "The woman banished the children from her property. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The children hit a ball into her yard.\n- The children trampled through her garden.",
+        [
+            "The children trampled through her garden."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#16"
+    ],
+    [
+        "The woman banished the children from her property. Why? \"The children hit a ball into her yard.\" or \"The children trampled through her garden.\"?",
+        [
+            "The children trampled through her garden."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#16"
+    ],
+    [
+        "The woman banished the children from her property.\n\nSelect the most plausible  cause: \n- The children hit a ball into her yard.\n- The children trampled through her garden.",
+        [
+            "The children trampled through her garden."
+        ],
+        "super_glue-copa|validation|cause_effect|#16"
+    ],
+    [
+        "The kidnappers released the hostage. Why? \"They accepted ransom money.\" or \"They escaped from jail.\"?",
+        [
+            "They accepted ransom money."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#17"
+    ],
+    [
+        "The kidnappers released the hostage. \n\nWhat's the best option?\n- They accepted ransom money.\n- They escaped from jail.\n\nWe are looking for  a cause",
+        [
+            "They accepted ransom money."
+        ],
+        "super_glue-copa|validation|best_option|#17"
+    ],
+    [
+        "The kidnappers released the hostage. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- They accepted ransom money.\n- They escaped from jail.",
+        [
+            "They accepted ransom money."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#17"
+    ],
+    [
+        "\"They accepted ransom money.\" or \"They escaped from jail.\"? The kidnappers released the hostage.  because",
+        [
+            "They accepted ransom money."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#17"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe kidnappers released the hostage.  as a result of: \n- They accepted ransom money.\n- They escaped from jail.",
+        [
+            "They accepted ransom money."
+        ],
+        "super_glue-copa|validation|more likely|#17"
+    ],
+    [
+        "The cook's eyes watered.  because... \nChoose between:\n- He ran out of onions.\n- He cut an onion.",
+        [
+            "He cut an onion."
+        ],
+        "super_glue-copa|validation|choose|#18"
+    ],
+    [
+        "The cook's eyes watered. \n\nWhat's the best option?\n- He ran out of onions.\n- He cut an onion.\n\nWe are looking for  a cause",
+        [
+            "He cut an onion."
+        ],
+        "super_glue-copa|validation|best_option|#18"
+    ],
+    [
+        "The cook's eyes watered. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- He ran out of onions.\n- He cut an onion.",
+        [
+            "He cut an onion."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#18"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe cook's eyes watered.  as a result of: \n- He ran out of onions.\n- He cut an onion.",
+        [
+            "He cut an onion."
+        ],
+        "super_glue-copa|validation|more likely|#18"
+    ],
+    [
+        "\"He ran out of onions.\" or \"He cut an onion.\"? The cook's eyes watered.  because",
+        [
+            "He cut an onion."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#18"
+    ],
+    [
+        "The woman ran her finger under cold water. Which may be caused by \"She burned her finger on the toaster.\" or \"She put a diamond ring on her finger.\"?",
+        [
+            "She burned her finger on the toaster."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#19"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman ran her finger under cold water.  because... \n- She burned her finger on the toaster.\n- She put a diamond ring on her finger.",
+        [
+            "She burned her finger on the toaster."
+        ],
+        "super_glue-copa|validation|exercise|#19"
+    ],
+    [
+        "The woman ran her finger under cold water.  This happened because... \nHelp me pick the more plausible option:\n- She burned her finger on the toaster.\n- She put a diamond ring on her finger.",
+        [
+            "She burned her finger on the toaster."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#19"
+    ],
+    [
+        "The woman ran her finger under cold water.  because... \nChoose between:\n- She burned her finger on the toaster.\n- She put a diamond ring on her finger.",
+        [
+            "She burned her finger on the toaster."
+        ],
+        "super_glue-copa|validation|choose|#19"
+    ],
+    [
+        "The woman ran her finger under cold water. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- She burned her finger on the toaster.\n- She put a diamond ring on her finger.",
+        [
+            "She burned her finger on the toaster."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#19"
+    ],
+    [
+        "The student misspelled the word. As a result, \"The teacher corrected her.\" or \"The teacher dismissed her.\"?",
+        [
+            "The teacher corrected her."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#20"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe student misspelled the word.  as a consequence: \n- The teacher corrected her.\n- The teacher dismissed her.",
+        [
+            "The teacher corrected her."
+        ],
+        "super_glue-copa|validation|more likely|#20"
+    ],
+    [
+        "The student misspelled the word.\n\nSelect the most plausible  effect: \n- The teacher corrected her.\n- The teacher dismissed her.",
+        [
+            "The teacher corrected her."
+        ],
+        "super_glue-copa|validation|cause_effect|#20"
+    ],
+    [
+        "The student misspelled the word. What could happen next, \"The teacher corrected her.\" or \"The teacher dismissed her.\"?",
+        [
+            "The teacher corrected her."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#20"
+    ],
+    [
+        "The student misspelled the word. \n\nWhat's the best option?\n- The teacher corrected her.\n- The teacher dismissed her.\n\nWe are looking for  an effect",
+        [
+            "The teacher corrected her."
+        ],
+        "super_glue-copa|validation|best_option|#20"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nI regained composure from my fit of anger.  because... \n- My heart pounded.\n- I took deep breaths.",
+        [
+            "I took deep breaths."
+        ],
+        "super_glue-copa|validation|exercise|#21"
+    ],
+    [
+        "I regained composure from my fit of anger.  because... \nChoose between:\n- My heart pounded.\n- I took deep breaths.",
+        [
+            "I took deep breaths."
+        ],
+        "super_glue-copa|validation|choose|#21"
+    ],
+    [
+        "I regained composure from my fit of anger. Why? \"My heart pounded.\" or \"I took deep breaths.\"?",
+        [
+            "I took deep breaths."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#21"
+    ],
+    [
+        "I regained composure from my fit of anger. \n\nWhat's the best option?\n- My heart pounded.\n- I took deep breaths.\n\nWe are looking for  a cause",
+        [
+            "I took deep breaths."
+        ],
+        "super_glue-copa|validation|best_option|#21"
+    ],
+    [
+        "I regained composure from my fit of anger.\n\nSelect the most plausible  cause: \n- My heart pounded.\n- I took deep breaths.",
+        [
+            "I took deep breaths."
+        ],
+        "super_glue-copa|validation|cause_effect|#21"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nI put my hands under the running faucet.  as a consequence: \n- The soap rinsed off my hands.\n- The water splashed in my face.",
+        [
+            "The soap rinsed off my hands."
+        ],
+        "super_glue-copa|validation|more likely|#22"
+    ],
+    [
+        "I put my hands under the running faucet.\n\nSelect the most plausible  effect: \n- The soap rinsed off my hands.\n- The water splashed in my face.",
+        [
+            "The soap rinsed off my hands."
+        ],
+        "super_glue-copa|validation|cause_effect|#22"
+    ],
+    [
+        "I put my hands under the running faucet. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- The soap rinsed off my hands.\n- The water splashed in my face.",
+        [
+            "The soap rinsed off my hands."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#22"
+    ],
+    [
+        "I put my hands under the running faucet. \n\nWhat's the best option?\n- The soap rinsed off my hands.\n- The water splashed in my face.\n\nWe are looking for  an effect",
+        [
+            "The soap rinsed off my hands."
+        ],
+        "super_glue-copa|validation|best_option|#22"
+    ],
+    [
+        "\"The soap rinsed off my hands.\" or \"The water splashed in my face.\"? I put my hands under the running faucet.  so",
+        [
+            "The soap rinsed off my hands."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#22"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe man dressed in his best suit.  because... \n- He scheduled a meeting with an important client.\n- His wife bought him a new tie.",
+        [
+            "He scheduled a meeting with an important client."
+        ],
+        "super_glue-copa|validation|exercise|#23"
+    ],
+    [
+        "The man dressed in his best suit.  This happened because... \nHelp me pick the more plausible option:\n- He scheduled a meeting with an important client.\n- His wife bought him a new tie.",
+        [
+            "He scheduled a meeting with an important client."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#23"
+    ],
+    [
+        "The man dressed in his best suit. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- He scheduled a meeting with an important client.\n- His wife bought him a new tie.",
+        [
+            "He scheduled a meeting with an important client."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#23"
+    ],
+    [
+        "The man dressed in his best suit. \n\nWhat's the best option?\n- He scheduled a meeting with an important client.\n- His wife bought him a new tie.\n\nWe are looking for  a cause",
+        [
+            "He scheduled a meeting with an important client."
+        ],
+        "super_glue-copa|validation|best_option|#23"
+    ],
+    [
+        "The man dressed in his best suit.\n\nSelect the most plausible  cause: \n- He scheduled a meeting with an important client.\n- His wife bought him a new tie.",
+        [
+            "He scheduled a meeting with an important client."
+        ],
+        "super_glue-copa|validation|cause_effect|#23"
+    ],
+    [
+        "The man confessed his love for the woman. \n\nWhat's the best option?\n- The woman rejected him.\n- The woman envied him.\n\nWe are looking for  an effect",
+        [
+            "The woman rejected him."
+        ],
+        "super_glue-copa|validation|best_option|#24"
+    ],
+    [
+        "The man confessed his love for the woman.\n\nSelect the most plausible  effect: \n- The woman rejected him.\n- The woman envied him.",
+        [
+            "The woman rejected him."
+        ],
+        "super_glue-copa|validation|cause_effect|#24"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe man confessed his love for the woman.  as a consequence: \n- The woman rejected him.\n- The woman envied him.",
+        [
+            "The woman rejected him."
+        ],
+        "super_glue-copa|validation|more likely|#24"
+    ],
+    [
+        "The man confessed his love for the woman.  As a consequence... \nHelp me pick the more plausible option:\n- The woman rejected him.\n- The woman envied him.",
+        [
+            "The woman rejected him."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#24"
+    ],
+    [
+        "The man confessed his love for the woman. As a result, \"The woman rejected him.\" or \"The woman envied him.\"?",
+        [
+            "The woman rejected him."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#24"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe driver got a flat tire.  as a result of: \n- He went over the speed limit.\n- He ran over a nail.",
+        [
+            "He ran over a nail."
+        ],
+        "super_glue-copa|validation|more likely|#25"
+    ],
+    [
+        "The driver got a flat tire. \n\nWhat's the best option?\n- He went over the speed limit.\n- He ran over a nail.\n\nWe are looking for  a cause",
+        [
+            "He ran over a nail."
+        ],
+        "super_glue-copa|validation|best_option|#25"
+    ],
+    [
+        "\"He went over the speed limit.\" or \"He ran over a nail.\"? The driver got a flat tire.  because",
+        [
+            "He ran over a nail."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#25"
+    ],
+    [
+        "The driver got a flat tire. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- He went over the speed limit.\n- He ran over a nail.",
+        [
+            "He ran over a nail."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#25"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe driver got a flat tire.  because... \n- He went over the speed limit.\n- He ran over a nail.",
+        [
+            "He ran over a nail."
+        ],
+        "super_glue-copa|validation|exercise|#25"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nMy view of the movie screen was blocked.  as a result of: \n- The couple behind me was whispering.\n- A tall person was sitting in front of me.",
+        [
+            "A tall person was sitting in front of me."
+        ],
+        "super_glue-copa|validation|more likely|#26"
+    ],
+    [
+        "My view of the movie screen was blocked. \n\nWhat's the best option?\n- The couple behind me was whispering.\n- A tall person was sitting in front of me.\n\nWe are looking for  a cause",
+        [
+            "A tall person was sitting in front of me."
+        ],
+        "super_glue-copa|validation|best_option|#26"
+    ],
+    [
+        "My view of the movie screen was blocked. Why? \"The couple behind me was whispering.\" or \"A tall person was sitting in front of me.\"?",
+        [
+            "A tall person was sitting in front of me."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#26"
+    ],
+    [
+        "My view of the movie screen was blocked.  because... \nChoose between:\n- The couple behind me was whispering.\n- A tall person was sitting in front of me.",
+        [
+            "A tall person was sitting in front of me."
+        ],
+        "super_glue-copa|validation|choose|#26"
+    ],
+    [
+        "My view of the movie screen was blocked.\n\nSelect the most plausible  cause: \n- The couple behind me was whispering.\n- A tall person was sitting in front of me.",
+        [
+            "A tall person was sitting in front of me."
+        ],
+        "super_glue-copa|validation|cause_effect|#26"
+    ],
+    [
+        "The driver turned on the car's headlights. Which may be caused by \"He heard thunder.\" or \"The sun went down.\"?",
+        [
+            "The sun went down."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#27"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe driver turned on the car's headlights.  as a result of: \n- He heard thunder.\n- The sun went down.",
+        [
+            "The sun went down."
+        ],
+        "super_glue-copa|validation|more likely|#27"
+    ],
+    [
+        "The driver turned on the car's headlights.\n\nSelect the most plausible  cause: \n- He heard thunder.\n- The sun went down.",
+        [
+            "The sun went down."
+        ],
+        "super_glue-copa|validation|cause_effect|#27"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe driver turned on the car's headlights.  because... \n- He heard thunder.\n- The sun went down.",
+        [
+            "The sun went down."
+        ],
+        "super_glue-copa|validation|exercise|#27"
+    ],
+    [
+        "The driver turned on the car's headlights.  This happened because... \nHelp me pick the more plausible option:\n- He heard thunder.\n- The sun went down.",
+        [
+            "The sun went down."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#27"
+    ],
+    [
+        "The girl refused to eat her vegetables.\n\nSelect the most plausible  effect: \n- Her father told her to drink her milk.\n- Her father took away her dessert.",
+        [
+            "Her father took away her dessert."
+        ],
+        "super_glue-copa|validation|cause_effect|#28"
+    ],
+    [
+        "The girl refused to eat her vegetables. \n\nWhat's the best option?\n- Her father told her to drink her milk.\n- Her father took away her dessert.\n\nWe are looking for  an effect",
+        [
+            "Her father took away her dessert."
+        ],
+        "super_glue-copa|validation|best_option|#28"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe girl refused to eat her vegetables.  as a consequence: \n- Her father told her to drink her milk.\n- Her father took away her dessert.",
+        [
+            "Her father took away her dessert."
+        ],
+        "super_glue-copa|validation|more likely|#28"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe girl refused to eat her vegetables.  so... \n- Her father told her to drink her milk.\n- Her father took away her dessert.",
+        [
+            "Her father took away her dessert."
+        ],
+        "super_glue-copa|validation|exercise|#28"
+    ],
+    [
+        "The girl refused to eat her vegetables.  As a consequence... \nHelp me pick the more plausible option:\n- Her father told her to drink her milk.\n- Her father took away her dessert.",
+        [
+            "Her father took away her dessert."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#28"
+    ],
+    [
+        "The woman covered her mouth with her hand. \n\nWhat's the best option?\n- She exhaled.\n- She sneezed.\n\nWe are looking for  a cause",
+        [
+            "She sneezed."
+        ],
+        "super_glue-copa|validation|best_option|#29"
+    ],
+    [
+        "The woman covered her mouth with her hand. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- She exhaled.\n- She sneezed.",
+        [
+            "She sneezed."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#29"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman covered her mouth with her hand.  because... \n- She exhaled.\n- She sneezed.",
+        [
+            "She sneezed."
+        ],
+        "super_glue-copa|validation|exercise|#29"
+    ],
+    [
+        "The woman covered her mouth with her hand.  because... \nChoose between:\n- She exhaled.\n- She sneezed.",
+        [
+            "She sneezed."
+        ],
+        "super_glue-copa|validation|choose|#29"
+    ],
+    [
+        "The woman covered her mouth with her hand. Why? \"She exhaled.\" or \"She sneezed.\"?",
+        [
+            "She sneezed."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#29"
+    ],
+    [
+        "The secretary put the caller on hold.  As a consequence... \nHelp me pick the more plausible option:\n- The caller's phone lost reception.\n- The caller waited on the line.",
+        [
+            "The caller waited on the line."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#30"
+    ],
+    [
+        "The secretary put the caller on hold. What could happen next, \"The caller's phone lost reception.\" or \"The caller waited on the line.\"?",
+        [
+            "The caller waited on the line."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#30"
+    ],
+    [
+        "The secretary put the caller on hold.  so... \nChoose between:\n- The caller's phone lost reception.\n- The caller waited on the line.",
+        [
+            "The caller waited on the line."
+        ],
+        "super_glue-copa|validation|choose|#30"
+    ],
+    [
+        "The secretary put the caller on hold. \n\nWhat's the best option?\n- The caller's phone lost reception.\n- The caller waited on the line.\n\nWe are looking for  an effect",
+        [
+            "The caller waited on the line."
+        ],
+        "super_glue-copa|validation|best_option|#30"
+    ],
+    [
+        "The secretary put the caller on hold.\n\nSelect the most plausible  effect: \n- The caller's phone lost reception.\n- The caller waited on the line.",
+        [
+            "The caller waited on the line."
+        ],
+        "super_glue-copa|validation|cause_effect|#30"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman walked with crutches.  because... \n- She shaved her legs.\n- She broke her leg.",
+        [
+            "She broke her leg."
+        ],
+        "super_glue-copa|validation|exercise|#31"
+    ],
+    [
+        "\"She shaved her legs.\" or \"She broke her leg.\"? The woman walked with crutches.  because",
+        [
+            "She broke her leg."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#31"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman walked with crutches.  as a result of: \n- She shaved her legs.\n- She broke her leg.",
+        [
+            "She broke her leg."
+        ],
+        "super_glue-copa|validation|more likely|#31"
+    ],
+    [
+        "The woman walked with crutches. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- She shaved her legs.\n- She broke her leg.",
+        [
+            "She broke her leg."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#31"
+    ],
+    [
+        "The woman walked with crutches.  This happened because... \nHelp me pick the more plausible option:\n- She shaved her legs.\n- She broke her leg.",
+        [
+            "She broke her leg."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#31"
+    ],
+    [
+        "I coughed. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- I inhaled smoke.\n- I lowered my voice.",
+        [
+            "I inhaled smoke."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#32"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nI coughed.  as a result of: \n- I inhaled smoke.\n- I lowered my voice.",
+        [
+            "I inhaled smoke."
+        ],
+        "super_glue-copa|validation|more likely|#32"
+    ],
+    [
+        "I coughed. Which may be caused by \"I inhaled smoke.\" or \"I lowered my voice.\"?",
+        [
+            "I inhaled smoke."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#32"
+    ],
+    [
+        "I coughed.\n\nSelect the most plausible  cause: \n- I inhaled smoke.\n- I lowered my voice.",
+        [
+            "I inhaled smoke."
+        ],
+        "super_glue-copa|validation|cause_effect|#32"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nI coughed.  because... \n- I inhaled smoke.\n- I lowered my voice.",
+        [
+            "I inhaled smoke."
+        ],
+        "super_glue-copa|validation|exercise|#32"
+    ],
+    [
+        "The clock chimed. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- It was the top of the hour.\n- The hour seemed to drag on.",
+        [
+            "It was the top of the hour."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#33"
+    ],
+    [
+        "The clock chimed. Why? \"It was the top of the hour.\" or \"The hour seemed to drag on.\"?",
+        [
+            "It was the top of the hour."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#33"
+    ],
+    [
+        "The clock chimed.  because... \nChoose between:\n- It was the top of the hour.\n- The hour seemed to drag on.",
+        [
+            "It was the top of the hour."
+        ],
+        "super_glue-copa|validation|choose|#33"
+    ],
+    [
+        "The clock chimed.  This happened because... \nHelp me pick the more plausible option:\n- It was the top of the hour.\n- The hour seemed to drag on.",
+        [
+            "It was the top of the hour."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#33"
+    ],
+    [
+        "The clock chimed.\n\nSelect the most plausible  cause: \n- It was the top of the hour.\n- The hour seemed to drag on.",
+        [
+            "It was the top of the hour."
+        ],
+        "super_glue-copa|validation|cause_effect|#33"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe chef hit the egg on the side of the bowl.  as a consequence: \n- The egg cracked.\n- The egg rotted.",
+        [
+            "The egg cracked."
+        ],
+        "super_glue-copa|validation|more likely|#34"
+    ],
+    [
+        "The chef hit the egg on the side of the bowl. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- The egg cracked.\n- The egg rotted.",
+        [
+            "The egg cracked."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#34"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe chef hit the egg on the side of the bowl.  so... \n- The egg cracked.\n- The egg rotted.",
+        [
+            "The egg cracked."
+        ],
+        "super_glue-copa|validation|exercise|#34"
+    ],
+    [
+        "The chef hit the egg on the side of the bowl.  As a consequence... \nHelp me pick the more plausible option:\n- The egg cracked.\n- The egg rotted.",
+        [
+            "The egg cracked."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#34"
+    ],
+    [
+        "The chef hit the egg on the side of the bowl. What could happen next, \"The egg cracked.\" or \"The egg rotted.\"?",
+        [
+            "The egg cracked."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#34"
+    ],
+    [
+        "The police searched the offender's car.  because... \nChoose between:\n- They were trying to elicit a confession.\n- They were looking for illegal drugs.",
+        [
+            "They were looking for illegal drugs."
+        ],
+        "super_glue-copa|validation|choose|#35"
+    ],
+    [
+        "The police searched the offender's car. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- They were trying to elicit a confession.\n- They were looking for illegal drugs.",
+        [
+            "They were looking for illegal drugs."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#35"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe police searched the offender's car.  as a result of: \n- They were trying to elicit a confession.\n- They were looking for illegal drugs.",
+        [
+            "They were looking for illegal drugs."
+        ],
+        "super_glue-copa|validation|more likely|#35"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe police searched the offender's car.  because... \n- They were trying to elicit a confession.\n- They were looking for illegal drugs.",
+        [
+            "They were looking for illegal drugs."
+        ],
+        "super_glue-copa|validation|exercise|#35"
+    ],
+    [
+        "The police searched the offender's car. \n\nWhat's the best option?\n- They were trying to elicit a confession.\n- They were looking for illegal drugs.\n\nWe are looking for  a cause",
+        [
+            "They were looking for illegal drugs."
+        ],
+        "super_glue-copa|validation|best_option|#35"
+    ],
+    [
+        "The couple travelled south for the winter.  because... \nChoose between:\n- They were retired.\n- They were separated.",
+        [
+            "They were retired."
+        ],
+        "super_glue-copa|validation|choose|#36"
+    ],
+    [
+        "The couple travelled south for the winter.\n\nSelect the most plausible  cause: \n- They were retired.\n- They were separated.",
+        [
+            "They were retired."
+        ],
+        "super_glue-copa|validation|cause_effect|#36"
+    ],
+    [
+        "The couple travelled south for the winter. Which may be caused by \"They were retired.\" or \"They were separated.\"?",
+        [
+            "They were retired."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#36"
+    ],
+    [
+        "\"They were retired.\" or \"They were separated.\"? The couple travelled south for the winter.  because",
+        [
+            "They were retired."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#36"
+    ],
+    [
+        "The couple travelled south for the winter. Why? \"They were retired.\" or \"They were separated.\"?",
+        [
+            "They were retired."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#36"
+    ],
+    [
+        "The man felt obligated to attend the event.  This happened because... \nHelp me pick the more plausible option:\n- He turned down his friend's invitation to go.\n- He promised his friend that he would go.",
+        [
+            "He promised his friend that he would go."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#37"
+    ],
+    [
+        "The man felt obligated to attend the event. Why? \"He turned down his friend's invitation to go.\" or \"He promised his friend that he would go.\"?",
+        [
+            "He promised his friend that he would go."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#37"
+    ],
+    [
+        "The man felt obligated to attend the event.  because... \nChoose between:\n- He turned down his friend's invitation to go.\n- He promised his friend that he would go.",
+        [
+            "He promised his friend that he would go."
+        ],
+        "super_glue-copa|validation|choose|#37"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe man felt obligated to attend the event.  because... \n- He turned down his friend's invitation to go.\n- He promised his friend that he would go.",
+        [
+            "He promised his friend that he would go."
+        ],
+        "super_glue-copa|validation|exercise|#37"
+    ],
+    [
+        "The man felt obligated to attend the event. \n\nWhat's the best option?\n- He turned down his friend's invitation to go.\n- He promised his friend that he would go.\n\nWe are looking for  a cause",
+        [
+            "He promised his friend that he would go."
+        ],
+        "super_glue-copa|validation|best_option|#37"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe bride got cold feet before the wedding.  as a consequence: \n- The wedding guests brought gifts.\n- She called the wedding off.",
+        [
+            "She called the wedding off."
+        ],
+        "super_glue-copa|validation|more likely|#38"
+    ],
+    [
+        "The bride got cold feet before the wedding.  As a consequence... \nHelp me pick the more plausible option:\n- The wedding guests brought gifts.\n- She called the wedding off.",
+        [
+            "She called the wedding off."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#38"
+    ],
+    [
+        "The bride got cold feet before the wedding.\n\nSelect the most plausible  effect: \n- The wedding guests brought gifts.\n- She called the wedding off.",
+        [
+            "She called the wedding off."
+        ],
+        "super_glue-copa|validation|cause_effect|#38"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe bride got cold feet before the wedding.  so... \n- The wedding guests brought gifts.\n- She called the wedding off.",
+        [
+            "She called the wedding off."
+        ],
+        "super_glue-copa|validation|exercise|#38"
+    ],
+    [
+        "The bride got cold feet before the wedding.  so... \nChoose between:\n- The wedding guests brought gifts.\n- She called the wedding off.",
+        [
+            "She called the wedding off."
+        ],
+        "super_glue-copa|validation|choose|#38"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe man grew old.  so... \n- His hair turned gray.\n- He sold his belongings.",
+        [
+            "His hair turned gray."
+        ],
+        "super_glue-copa|validation|exercise|#39"
+    ],
+    [
+        "The man grew old.\n\nSelect the most plausible  effect: \n- His hair turned gray.\n- He sold his belongings.",
+        [
+            "His hair turned gray."
+        ],
+        "super_glue-copa|validation|cause_effect|#39"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe man grew old.  as a consequence: \n- His hair turned gray.\n- He sold his belongings.",
+        [
+            "His hair turned gray."
+        ],
+        "super_glue-copa|validation|more likely|#39"
+    ],
+    [
+        "The man grew old. \n\nWhat's the best option?\n- His hair turned gray.\n- He sold his belongings.\n\nWe are looking for  an effect",
+        [
+            "His hair turned gray."
+        ],
+        "super_glue-copa|validation|best_option|#39"
+    ],
+    [
+        "The man grew old.  As a consequence... \nHelp me pick the more plausible option:\n- His hair turned gray.\n- He sold his belongings.",
+        [
+            "His hair turned gray."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#39"
+    ],
+    [
+        "The friends decided to share the hamburger. What could happen next, \"They cut the hamburger in half.\" or \"They ordered fries with the hamburger.\"?",
+        [
+            "They cut the hamburger in half."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#40"
+    ],
+    [
+        "The friends decided to share the hamburger.  As a consequence... \nHelp me pick the more plausible option:\n- They cut the hamburger in half.\n- They ordered fries with the hamburger.",
+        [
+            "They cut the hamburger in half."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#40"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe friends decided to share the hamburger.  as a consequence: \n- They cut the hamburger in half.\n- They ordered fries with the hamburger.",
+        [
+            "They cut the hamburger in half."
+        ],
+        "super_glue-copa|validation|more likely|#40"
+    ],
+    [
+        "The friends decided to share the hamburger. As a result, \"They cut the hamburger in half.\" or \"They ordered fries with the hamburger.\"?",
+        [
+            "They cut the hamburger in half."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#40"
+    ],
+    [
+        "\"They cut the hamburger in half.\" or \"They ordered fries with the hamburger.\"? The friends decided to share the hamburger.  so",
+        [
+            "They cut the hamburger in half."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#40"
+    ],
+    [
+        "I twisted the cap off the soda bottle. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- The soda fizzed.\n- The soda leaked out.",
+        [
+            "The soda fizzed."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#41"
+    ],
+    [
+        "I twisted the cap off the soda bottle. As a result, \"The soda fizzed.\" or \"The soda leaked out.\"?",
+        [
+            "The soda fizzed."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#41"
+    ],
+    [
+        "I twisted the cap off the soda bottle. What could happen next, \"The soda fizzed.\" or \"The soda leaked out.\"?",
+        [
+            "The soda fizzed."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#41"
+    ],
+    [
+        "I twisted the cap off the soda bottle. \n\nWhat's the best option?\n- The soda fizzed.\n- The soda leaked out.\n\nWe are looking for  an effect",
+        [
+            "The soda fizzed."
+        ],
+        "super_glue-copa|validation|best_option|#41"
+    ],
+    [
+        "I twisted the cap off the soda bottle.  so... \nChoose between:\n- The soda fizzed.\n- The soda leaked out.",
+        [
+            "The soda fizzed."
+        ],
+        "super_glue-copa|validation|choose|#41"
+    ],
+    [
+        "The pair of students came under scrutiny by the teacher. Which may be caused by \"The students both received excellent grades.\" or \"Their responses on the assignment were identical.\"?",
+        [
+            "Their responses on the assignment were identical."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#42"
+    ],
+    [
+        "The pair of students came under scrutiny by the teacher. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The students both received excellent grades.\n- Their responses on the assignment were identical.",
+        [
+            "Their responses on the assignment were identical."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#42"
+    ],
+    [
+        "The pair of students came under scrutiny by the teacher.\n\nSelect the most plausible  cause: \n- The students both received excellent grades.\n- Their responses on the assignment were identical.",
+        [
+            "Their responses on the assignment were identical."
+        ],
+        "super_glue-copa|validation|cause_effect|#42"
+    ],
+    [
+        "\"The students both received excellent grades.\" or \"Their responses on the assignment were identical.\"? The pair of students came under scrutiny by the teacher.  because",
+        [
+            "Their responses on the assignment were identical."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#42"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe pair of students came under scrutiny by the teacher.  as a result of: \n- The students both received excellent grades.\n- Their responses on the assignment were identical.",
+        [
+            "Their responses on the assignment were identical."
+        ],
+        "super_glue-copa|validation|more likely|#42"
+    ],
+    [
+        "The student was in a rush to get to school on time. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- He left his assignment at home.\n- He brought his lunch to school.",
+        [
+            "He left his assignment at home."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#43"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe student was in a rush to get to school on time.  as a consequence: \n- He left his assignment at home.\n- He brought his lunch to school.",
+        [
+            "He left his assignment at home."
+        ],
+        "super_glue-copa|validation|more likely|#43"
+    ],
+    [
+        "The student was in a rush to get to school on time. \n\nWhat's the best option?\n- He left his assignment at home.\n- He brought his lunch to school.\n\nWe are looking for  an effect",
+        [
+            "He left his assignment at home."
+        ],
+        "super_glue-copa|validation|best_option|#43"
+    ],
+    [
+        "\"He left his assignment at home.\" or \"He brought his lunch to school.\"? The student was in a rush to get to school on time.  so",
+        [
+            "He left his assignment at home."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#43"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe student was in a rush to get to school on time.  so... \n- He left his assignment at home.\n- He brought his lunch to school.",
+        [
+            "He left his assignment at home."
+        ],
+        "super_glue-copa|validation|exercise|#43"
+    ],
+    [
+        "The journalist wrote a biography about the humanitarian's life.  because... \nChoose between:\n- The humanitarian was difficult for the journalist to interview.\n- The journalist was intrigued by the humanitarian's work.",
+        [
+            "The journalist was intrigued by the humanitarian's work."
+        ],
+        "super_glue-copa|validation|choose|#44"
+    ],
+    [
+        "The journalist wrote a biography about the humanitarian's life. Why? \"The humanitarian was difficult for the journalist to interview.\" or \"The journalist was intrigued by the humanitarian's work.\"?",
+        [
+            "The journalist was intrigued by the humanitarian's work."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#44"
+    ],
+    [
+        "The journalist wrote a biography about the humanitarian's life.  This happened because... \nHelp me pick the more plausible option:\n- The humanitarian was difficult for the journalist to interview.\n- The journalist was intrigued by the humanitarian's work.",
+        [
+            "The journalist was intrigued by the humanitarian's work."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#44"
+    ],
+    [
+        "The journalist wrote a biography about the humanitarian's life. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The humanitarian was difficult for the journalist to interview.\n- The journalist was intrigued by the humanitarian's work.",
+        [
+            "The journalist was intrigued by the humanitarian's work."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#44"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe journalist wrote a biography about the humanitarian's life.  as a result of: \n- The humanitarian was difficult for the journalist to interview.\n- The journalist was intrigued by the humanitarian's work.",
+        [
+            "The journalist was intrigued by the humanitarian's work."
+        ],
+        "super_glue-copa|validation|more likely|#44"
+    ],
+    [
+        "The man defied the authorities of the church.  As a consequence... \nHelp me pick the more plausible option:\n- He donated money to the church.\n- He was excommunicated from the church.",
+        [
+            "He was excommunicated from the church."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#45"
+    ],
+    [
+        "The man defied the authorities of the church. What could happen next, \"He donated money to the church.\" or \"He was excommunicated from the church.\"?",
+        [
+            "He was excommunicated from the church."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#45"
+    ],
+    [
+        "The man defied the authorities of the church. As a result, \"He donated money to the church.\" or \"He was excommunicated from the church.\"?",
+        [
+            "He was excommunicated from the church."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#45"
+    ],
+    [
+        "The man defied the authorities of the church.\n\nSelect the most plausible  effect: \n- He donated money to the church.\n- He was excommunicated from the church.",
+        [
+            "He was excommunicated from the church."
+        ],
+        "super_glue-copa|validation|cause_effect|#45"
+    ],
+    [
+        "The man defied the authorities of the church. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- He donated money to the church.\n- He was excommunicated from the church.",
+        [
+            "He was excommunicated from the church."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#45"
+    ],
+    [
+        "\"She pulled her hair back with a clip.\" or \"She lathered shampoo into her hair.\"? The woman's hair fell in her face.  so",
+        [
+            "She pulled her hair back with a clip."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#46"
+    ],
+    [
+        "The woman's hair fell in her face.  As a consequence... \nHelp me pick the more plausible option:\n- She pulled her hair back with a clip.\n- She lathered shampoo into her hair.",
+        [
+            "She pulled her hair back with a clip."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#46"
+    ],
+    [
+        "The woman's hair fell in her face. \n\nWhat's the best option?\n- She pulled her hair back with a clip.\n- She lathered shampoo into her hair.\n\nWe are looking for  an effect",
+        [
+            "She pulled her hair back with a clip."
+        ],
+        "super_glue-copa|validation|best_option|#46"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman's hair fell in her face.  so... \n- She pulled her hair back with a clip.\n- She lathered shampoo into her hair.",
+        [
+            "She pulled her hair back with a clip."
+        ],
+        "super_glue-copa|validation|exercise|#46"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman's hair fell in her face.  as a consequence: \n- She pulled her hair back with a clip.\n- She lathered shampoo into her hair.",
+        [
+            "She pulled her hair back with a clip."
+        ],
+        "super_glue-copa|validation|more likely|#46"
+    ],
+    [
+        "The ring on my finger got stuck. \n\nWhat's the best option?\n- My finger swelled.\n- I chipped my fingernail.\n\nWe are looking for  a cause",
+        [
+            "My finger swelled."
+        ],
+        "super_glue-copa|validation|best_option|#47"
+    ],
+    [
+        "The ring on my finger got stuck. Why? \"My finger swelled.\" or \"I chipped my fingernail.\"?",
+        [
+            "My finger swelled."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#47"
+    ],
+    [
+        "The ring on my finger got stuck.\n\nSelect the most plausible  cause: \n- My finger swelled.\n- I chipped my fingernail.",
+        [
+            "My finger swelled."
+        ],
+        "super_glue-copa|validation|cause_effect|#47"
+    ],
+    [
+        "The ring on my finger got stuck. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- My finger swelled.\n- I chipped my fingernail.",
+        [
+            "My finger swelled."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#47"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe ring on my finger got stuck.  because... \n- My finger swelled.\n- I chipped my fingernail.",
+        [
+            "My finger swelled."
+        ],
+        "super_glue-copa|validation|exercise|#47"
+    ],
+    [
+        "I pulled the rubber band. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- It flung across the room.\n- It stretched.",
+        [
+            "It stretched."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#48"
+    ],
+    [
+        "I pulled the rubber band.  As a consequence... \nHelp me pick the more plausible option:\n- It flung across the room.\n- It stretched.",
+        [
+            "It stretched."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#48"
+    ],
+    [
+        "I pulled the rubber band.  so... \nChoose between:\n- It flung across the room.\n- It stretched.",
+        [
+            "It stretched."
+        ],
+        "super_glue-copa|validation|choose|#48"
+    ],
+    [
+        "I pulled the rubber band. As a result, \"It flung across the room.\" or \"It stretched.\"?",
+        [
+            "It stretched."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#48"
+    ],
+    [
+        "I pulled the rubber band. \n\nWhat's the best option?\n- It flung across the room.\n- It stretched.\n\nWe are looking for  an effect",
+        [
+            "It stretched."
+        ],
+        "super_glue-copa|validation|best_option|#48"
+    ],
+    [
+        "I pressed my hand into the wet cement.  As a consequence... \nHelp me pick the more plausible option:\n- My handprint dried in the cement.\n- Cracks emerged in the cement.",
+        [
+            "My handprint dried in the cement."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#49"
+    ],
+    [
+        "I pressed my hand into the wet cement. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- My handprint dried in the cement.\n- Cracks emerged in the cement.",
+        [
+            "My handprint dried in the cement."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#49"
+    ],
+    [
+        "I pressed my hand into the wet cement. \n\nWhat's the best option?\n- My handprint dried in the cement.\n- Cracks emerged in the cement.\n\nWe are looking for  an effect",
+        [
+            "My handprint dried in the cement."
+        ],
+        "super_glue-copa|validation|best_option|#49"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nI pressed my hand into the wet cement.  so... \n- My handprint dried in the cement.\n- Cracks emerged in the cement.",
+        [
+            "My handprint dried in the cement."
+        ],
+        "super_glue-copa|validation|exercise|#49"
+    ],
+    [
+        "\"My handprint dried in the cement.\" or \"Cracks emerged in the cement.\"? I pressed my hand into the wet cement.  so",
+        [
+            "My handprint dried in the cement."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#49"
+    ],
+    [
+        "My skin broke out into a rash. Why? \"I brushed against poison ivy in my yard.\" or \"I eradicated the poison ivy from my yard.\"?",
+        [
+            "I brushed against poison ivy in my yard."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#50"
+    ],
+    [
+        "My skin broke out into a rash. \n\nWhat's the best option?\n- I brushed against poison ivy in my yard.\n- I eradicated the poison ivy from my yard.\n\nWe are looking for  a cause",
+        [
+            "I brushed against poison ivy in my yard."
+        ],
+        "super_glue-copa|validation|best_option|#50"
+    ],
+    [
+        "\"I brushed against poison ivy in my yard.\" or \"I eradicated the poison ivy from my yard.\"? My skin broke out into a rash.  because",
+        [
+            "I brushed against poison ivy in my yard."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#50"
+    ],
+    [
+        "My skin broke out into a rash. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- I brushed against poison ivy in my yard.\n- I eradicated the poison ivy from my yard.",
+        [
+            "I brushed against poison ivy in my yard."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#50"
+    ],
+    [
+        "My skin broke out into a rash. Which may be caused by \"I brushed against poison ivy in my yard.\" or \"I eradicated the poison ivy from my yard.\"?",
+        [
+            "I brushed against poison ivy in my yard."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#50"
+    ],
+    [
+        "My subscription to the magazine expired. \n\nWhat's the best option?\n- I discarded the new issue.\n- I stopped receiving new issues.\n\nWe are looking for  an effect",
+        [
+            "I stopped receiving new issues."
+        ],
+        "super_glue-copa|validation|best_option|#51"
+    ],
+    [
+        "My subscription to the magazine expired.\n\nSelect the most plausible  effect: \n- I discarded the new issue.\n- I stopped receiving new issues.",
+        [
+            "I stopped receiving new issues."
+        ],
+        "super_glue-copa|validation|cause_effect|#51"
+    ],
+    [
+        "My subscription to the magazine expired.  so... \nChoose between:\n- I discarded the new issue.\n- I stopped receiving new issues.",
+        [
+            "I stopped receiving new issues."
+        ],
+        "super_glue-copa|validation|choose|#51"
+    ],
+    [
+        "My subscription to the magazine expired. As a result, \"I discarded the new issue.\" or \"I stopped receiving new issues.\"?",
+        [
+            "I stopped receiving new issues."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#51"
+    ],
+    [
+        "My subscription to the magazine expired. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- I discarded the new issue.\n- I stopped receiving new issues.",
+        [
+            "I stopped receiving new issues."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#51"
+    ],
+    [
+        "The detective revealed an anomaly in the case. As a result, \"He finalized his theory.\" or \"He scrapped his theory.\"?",
+        [
+            "He scrapped his theory."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#52"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe detective revealed an anomaly in the case.  as a consequence: \n- He finalized his theory.\n- He scrapped his theory.",
+        [
+            "He scrapped his theory."
+        ],
+        "super_glue-copa|validation|more likely|#52"
+    ],
+    [
+        "The detective revealed an anomaly in the case.  As a consequence... \nHelp me pick the more plausible option:\n- He finalized his theory.\n- He scrapped his theory.",
+        [
+            "He scrapped his theory."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#52"
+    ],
+    [
+        "The detective revealed an anomaly in the case.  so... \nChoose between:\n- He finalized his theory.\n- He scrapped his theory.",
+        [
+            "He scrapped his theory."
+        ],
+        "super_glue-copa|validation|choose|#52"
+    ],
+    [
+        "The detective revealed an anomaly in the case.\n\nSelect the most plausible  effect: \n- He finalized his theory.\n- He scrapped his theory.",
+        [
+            "He scrapped his theory."
+        ],
+        "super_glue-copa|validation|cause_effect|#52"
+    ],
+    [
+        "The boy threw a temper tantrum.\n\nSelect the most plausible  cause: \n- His brother took his toys from him.\n- He shared his toys with his brother.",
+        [
+            "His brother took his toys from him."
+        ],
+        "super_glue-copa|validation|cause_effect|#53"
+    ],
+    [
+        "The boy threw a temper tantrum. Which may be caused by \"His brother took his toys from him.\" or \"He shared his toys with his brother.\"?",
+        [
+            "His brother took his toys from him."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#53"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe boy threw a temper tantrum.  as a result of: \n- His brother took his toys from him.\n- He shared his toys with his brother.",
+        [
+            "His brother took his toys from him."
+        ],
+        "super_glue-copa|validation|more likely|#53"
+    ],
+    [
+        "\"His brother took his toys from him.\" or \"He shared his toys with his brother.\"? The boy threw a temper tantrum.  because",
+        [
+            "His brother took his toys from him."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#53"
+    ],
+    [
+        "The boy threw a temper tantrum. Why? \"His brother took his toys from him.\" or \"He shared his toys with his brother.\"?",
+        [
+            "His brother took his toys from him."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#53"
+    ],
+    [
+        "The child learned how to read.  because... \nChoose between:\n- He began attending school.\n- He skipped a grade in school.",
+        [
+            "He began attending school."
+        ],
+        "super_glue-copa|validation|choose|#54"
+    ],
+    [
+        "The child learned how to read.  This happened because... \nHelp me pick the more plausible option:\n- He began attending school.\n- He skipped a grade in school.",
+        [
+            "He began attending school."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#54"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe child learned how to read.  as a result of: \n- He began attending school.\n- He skipped a grade in school.",
+        [
+            "He began attending school."
+        ],
+        "super_glue-copa|validation|more likely|#54"
+    ],
+    [
+        "\"He began attending school.\" or \"He skipped a grade in school.\"? The child learned how to read.  because",
+        [
+            "He began attending school."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#54"
+    ],
+    [
+        "The child learned how to read. Why? \"He began attending school.\" or \"He skipped a grade in school.\"?",
+        [
+            "He began attending school."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#54"
+    ],
+    [
+        "The boy skipped dinner.  because... \nChoose between:\n- His mother cooked his favorite meal.\n- He ate a big lunch.",
+        [
+            "He ate a big lunch."
+        ],
+        "super_glue-copa|validation|choose|#55"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe boy skipped dinner.  because... \n- His mother cooked his favorite meal.\n- He ate a big lunch.",
+        [
+            "He ate a big lunch."
+        ],
+        "super_glue-copa|validation|exercise|#55"
+    ],
+    [
+        "The boy skipped dinner. Why? \"His mother cooked his favorite meal.\" or \"He ate a big lunch.\"?",
+        [
+            "He ate a big lunch."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#55"
+    ],
+    [
+        "The boy skipped dinner. \n\nWhat's the best option?\n- His mother cooked his favorite meal.\n- He ate a big lunch.\n\nWe are looking for  a cause",
+        [
+            "He ate a big lunch."
+        ],
+        "super_glue-copa|validation|best_option|#55"
+    ],
+    [
+        "The boy skipped dinner.\n\nSelect the most plausible  cause: \n- His mother cooked his favorite meal.\n- He ate a big lunch.",
+        [
+            "He ate a big lunch."
+        ],
+        "super_glue-copa|validation|cause_effect|#55"
+    ],
+    [
+        "The woman lavished her friend with flattery. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- She wanted to ask her friend for a favor.\n- She was irritated with her friend's whining.",
+        [
+            "She wanted to ask her friend for a favor."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#56"
+    ],
+    [
+        "The woman lavished her friend with flattery.  because... \nChoose between:\n- She wanted to ask her friend for a favor.\n- She was irritated with her friend's whining.",
+        [
+            "She wanted to ask her friend for a favor."
+        ],
+        "super_glue-copa|validation|choose|#56"
+    ],
+    [
+        "The woman lavished her friend with flattery.  This happened because... \nHelp me pick the more plausible option:\n- She wanted to ask her friend for a favor.\n- She was irritated with her friend's whining.",
+        [
+            "She wanted to ask her friend for a favor."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#56"
+    ],
+    [
+        "The woman lavished her friend with flattery. \n\nWhat's the best option?\n- She wanted to ask her friend for a favor.\n- She was irritated with her friend's whining.\n\nWe are looking for  a cause",
+        [
+            "She wanted to ask her friend for a favor."
+        ],
+        "super_glue-copa|validation|best_option|#56"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman lavished her friend with flattery.  because... \n- She wanted to ask her friend for a favor.\n- She was irritated with her friend's whining.",
+        [
+            "She wanted to ask her friend for a favor."
+        ],
+        "super_glue-copa|validation|exercise|#56"
+    ],
+    [
+        "The key was missing from my pants pocket. Which may be caused by \"The pocket had a hole.\" or \"The pants were new.\"?",
+        [
+            "The pocket had a hole."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#57"
+    ],
+    [
+        "The key was missing from my pants pocket.  This happened because... \nHelp me pick the more plausible option:\n- The pocket had a hole.\n- The pants were new.",
+        [
+            "The pocket had a hole."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#57"
+    ],
+    [
+        "The key was missing from my pants pocket. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The pocket had a hole.\n- The pants were new.",
+        [
+            "The pocket had a hole."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#57"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe key was missing from my pants pocket.  as a result of: \n- The pocket had a hole.\n- The pants were new.",
+        [
+            "The pocket had a hole."
+        ],
+        "super_glue-copa|validation|more likely|#57"
+    ],
+    [
+        "The key was missing from my pants pocket. \n\nWhat's the best option?\n- The pocket had a hole.\n- The pants were new.\n\nWe are looking for  a cause",
+        [
+            "The pocket had a hole."
+        ],
+        "super_glue-copa|validation|best_option|#57"
+    ],
+    [
+        "The man fainted. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- He took a nap.\n- He ran a marathon.",
+        [
+            "He ran a marathon."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#58"
+    ],
+    [
+        "The man fainted.  This happened because... \nHelp me pick the more plausible option:\n- He took a nap.\n- He ran a marathon.",
+        [
+            "He ran a marathon."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#58"
+    ],
+    [
+        "The man fainted.\n\nSelect the most plausible  cause: \n- He took a nap.\n- He ran a marathon.",
+        [
+            "He ran a marathon."
+        ],
+        "super_glue-copa|validation|cause_effect|#58"
+    ],
+    [
+        "The man fainted. Which may be caused by \"He took a nap.\" or \"He ran a marathon.\"?",
+        [
+            "He ran a marathon."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#58"
+    ],
+    [
+        "The man fainted. Why? \"He took a nap.\" or \"He ran a marathon.\"?",
+        [
+            "He ran a marathon."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#58"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe man lost the competition.  because... \n- The competition was sabotaged.\n- He intimidated his competitors.",
+        [
+            "The competition was sabotaged."
+        ],
+        "super_glue-copa|validation|exercise|#59"
+    ],
+    [
+        "The man lost the competition. \n\nWhat's the best option?\n- The competition was sabotaged.\n- He intimidated his competitors.\n\nWe are looking for  a cause",
+        [
+            "The competition was sabotaged."
+        ],
+        "super_glue-copa|validation|best_option|#59"
+    ],
+    [
+        "The man lost the competition. Which may be caused by \"The competition was sabotaged.\" or \"He intimidated his competitors.\"?",
+        [
+            "The competition was sabotaged."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#59"
+    ],
+    [
+        "The man lost the competition.\n\nSelect the most plausible  cause: \n- The competition was sabotaged.\n- He intimidated his competitors.",
+        [
+            "The competition was sabotaged."
+        ],
+        "super_glue-copa|validation|cause_effect|#59"
+    ],
+    [
+        "The man lost the competition. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The competition was sabotaged.\n- He intimidated his competitors.",
+        [
+            "The competition was sabotaged."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#59"
+    ],
+    [
+        "The mother called an ambulance. \n\nWhat's the best option?\n- Her son lost his cat.\n- Her son fell out of his bed.\n\nWe are looking for  a cause",
+        [
+            "Her son fell out of his bed."
+        ],
+        "super_glue-copa|validation|best_option|#60"
+    ],
+    [
+        "The mother called an ambulance.  because... \nChoose between:\n- Her son lost his cat.\n- Her son fell out of his bed.",
+        [
+            "Her son fell out of his bed."
+        ],
+        "super_glue-copa|validation|choose|#60"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe mother called an ambulance.  because... \n- Her son lost his cat.\n- Her son fell out of his bed.",
+        [
+            "Her son fell out of his bed."
+        ],
+        "super_glue-copa|validation|exercise|#60"
+    ],
+    [
+        "The mother called an ambulance.\n\nSelect the most plausible  cause: \n- Her son lost his cat.\n- Her son fell out of his bed.",
+        [
+            "Her son fell out of his bed."
+        ],
+        "super_glue-copa|validation|cause_effect|#60"
+    ],
+    [
+        "The mother called an ambulance. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- Her son lost his cat.\n- Her son fell out of his bed.",
+        [
+            "Her son fell out of his bed."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#60"
+    ],
+    [
+        "The driver slammed on his brakes. Why? \"A deer appeared on the road.\" or \"The car radio shut off.\"?",
+        [
+            "A deer appeared on the road."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#61"
+    ],
+    [
+        "The driver slammed on his brakes.\n\nSelect the most plausible  cause: \n- A deer appeared on the road.\n- The car radio shut off.",
+        [
+            "A deer appeared on the road."
+        ],
+        "super_glue-copa|validation|cause_effect|#61"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe driver slammed on his brakes.  as a result of: \n- A deer appeared on the road.\n- The car radio shut off.",
+        [
+            "A deer appeared on the road."
+        ],
+        "super_glue-copa|validation|more likely|#61"
+    ],
+    [
+        "The driver slammed on his brakes.  This happened because... \nHelp me pick the more plausible option:\n- A deer appeared on the road.\n- The car radio shut off.",
+        [
+            "A deer appeared on the road."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#61"
+    ],
+    [
+        "The driver slammed on his brakes. Which may be caused by \"A deer appeared on the road.\" or \"The car radio shut off.\"?",
+        [
+            "A deer appeared on the road."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#61"
+    ],
+    [
+        "The lock opened. Why? \"I turned the key in the lock.\" or \"I made a duplicate of the key.\"?",
+        [
+            "I turned the key in the lock."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#62"
+    ],
+    [
+        "The lock opened. Which may be caused by \"I turned the key in the lock.\" or \"I made a duplicate of the key.\"?",
+        [
+            "I turned the key in the lock."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#62"
+    ],
+    [
+        "The lock opened.\n\nSelect the most plausible  cause: \n- I turned the key in the lock.\n- I made a duplicate of the key.",
+        [
+            "I turned the key in the lock."
+        ],
+        "super_glue-copa|validation|cause_effect|#62"
+    ],
+    [
+        "The lock opened.  This happened because... \nHelp me pick the more plausible option:\n- I turned the key in the lock.\n- I made a duplicate of the key.",
+        [
+            "I turned the key in the lock."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#62"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe lock opened.  because... \n- I turned the key in the lock.\n- I made a duplicate of the key.",
+        [
+            "I turned the key in the lock."
+        ],
+        "super_glue-copa|validation|exercise|#62"
+    ],
+    [
+        "I put rubber gloves on.\n\nSelect the most plausible  cause: \n- I was preparing to wash my hands.\n- I was preparing to clean the bathroom.",
+        [
+            "I was preparing to clean the bathroom."
+        ],
+        "super_glue-copa|validation|cause_effect|#63"
+    ],
+    [
+        "I put rubber gloves on. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- I was preparing to wash my hands.\n- I was preparing to clean the bathroom.",
+        [
+            "I was preparing to clean the bathroom."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#63"
+    ],
+    [
+        "I put rubber gloves on.  This happened because... \nHelp me pick the more plausible option:\n- I was preparing to wash my hands.\n- I was preparing to clean the bathroom.",
+        [
+            "I was preparing to clean the bathroom."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#63"
+    ],
+    [
+        "\"I was preparing to wash my hands.\" or \"I was preparing to clean the bathroom.\"? I put rubber gloves on.  because",
+        [
+            "I was preparing to clean the bathroom."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#63"
+    ],
+    [
+        "I put rubber gloves on.  because... \nChoose between:\n- I was preparing to wash my hands.\n- I was preparing to clean the bathroom.",
+        [
+            "I was preparing to clean the bathroom."
+        ],
+        "super_glue-copa|validation|choose|#63"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe animal species became endangered.  as a result of: \n- Their habitat was destroyed.\n- Their predators went extinct.",
+        [
+            "Their habitat was destroyed."
+        ],
+        "super_glue-copa|validation|more likely|#64"
+    ],
+    [
+        "The animal species became endangered. Which may be caused by \"Their habitat was destroyed.\" or \"Their predators went extinct.\"?",
+        [
+            "Their habitat was destroyed."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#64"
+    ],
+    [
+        "The animal species became endangered.  This happened because... \nHelp me pick the more plausible option:\n- Their habitat was destroyed.\n- Their predators went extinct.",
+        [
+            "Their habitat was destroyed."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#64"
+    ],
+    [
+        "The animal species became endangered. Why? \"Their habitat was destroyed.\" or \"Their predators went extinct.\"?",
+        [
+            "Their habitat was destroyed."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#64"
+    ],
+    [
+        "The animal species became endangered.\n\nSelect the most plausible  cause: \n- Their habitat was destroyed.\n- Their predators went extinct.",
+        [
+            "Their habitat was destroyed."
+        ],
+        "super_glue-copa|validation|cause_effect|#64"
+    ],
+    [
+        "The man perceived that the woman looked different. \n\nWhat's the best option?\n- The woman got her hair cut.\n- The woman wore a bracelet.\n\nWe are looking for  a cause",
+        [
+            "The woman got her hair cut."
+        ],
+        "super_glue-copa|validation|best_option|#65"
+    ],
+    [
+        "\"The woman got her hair cut.\" or \"The woman wore a bracelet.\"? The man perceived that the woman looked different.  because",
+        [
+            "The woman got her hair cut."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#65"
+    ],
+    [
+        "The man perceived that the woman looked different.  because... \nChoose between:\n- The woman got her hair cut.\n- The woman wore a bracelet.",
+        [
+            "The woman got her hair cut."
+        ],
+        "super_glue-copa|validation|choose|#65"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe man perceived that the woman looked different.  because... \n- The woman got her hair cut.\n- The woman wore a bracelet.",
+        [
+            "The woman got her hair cut."
+        ],
+        "super_glue-copa|validation|exercise|#65"
+    ],
+    [
+        "The man perceived that the woman looked different.\n\nSelect the most plausible  cause: \n- The woman got her hair cut.\n- The woman wore a bracelet.",
+        [
+            "The woman got her hair cut."
+        ],
+        "super_glue-copa|validation|cause_effect|#65"
+    ],
+    [
+        "The student forgot to do her assignment.  As a consequence... \nHelp me pick the more plausible option:\n- She made up an excuse to tell the teacher.\n- The teacher promoted her to the next grade.",
+        [
+            "She made up an excuse to tell the teacher."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#66"
+    ],
+    [
+        "The student forgot to do her assignment. What could happen next, \"She made up an excuse to tell the teacher.\" or \"The teacher promoted her to the next grade.\"?",
+        [
+            "She made up an excuse to tell the teacher."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#66"
+    ],
+    [
+        "The student forgot to do her assignment. As a result, \"She made up an excuse to tell the teacher.\" or \"The teacher promoted her to the next grade.\"?",
+        [
+            "She made up an excuse to tell the teacher."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#66"
+    ],
+    [
+        "The student forgot to do her assignment. \n\nWhat's the best option?\n- She made up an excuse to tell the teacher.\n- The teacher promoted her to the next grade.\n\nWe are looking for  an effect",
+        [
+            "She made up an excuse to tell the teacher."
+        ],
+        "super_glue-copa|validation|best_option|#66"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe student forgot to do her assignment.  so... \n- She made up an excuse to tell the teacher.\n- The teacher promoted her to the next grade.",
+        [
+            "She made up an excuse to tell the teacher."
+        ],
+        "super_glue-copa|validation|exercise|#66"
+    ],
+    [
+        "The dog barked. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The cat lounged on the couch.\n- A knock sounded at the door.",
+        [
+            "A knock sounded at the door."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#67"
+    ],
+    [
+        "\"The cat lounged on the couch.\" or \"A knock sounded at the door.\"? The dog barked.  because",
+        [
+            "A knock sounded at the door."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#67"
+    ],
+    [
+        "The dog barked. Why? \"The cat lounged on the couch.\" or \"A knock sounded at the door.\"?",
+        [
+            "A knock sounded at the door."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#67"
+    ],
+    [
+        "The dog barked.  This happened because... \nHelp me pick the more plausible option:\n- The cat lounged on the couch.\n- A knock sounded at the door.",
+        [
+            "A knock sounded at the door."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#67"
+    ],
+    [
+        "The dog barked.  because... \nChoose between:\n- The cat lounged on the couch.\n- A knock sounded at the door.",
+        [
+            "A knock sounded at the door."
+        ],
+        "super_glue-copa|validation|choose|#67"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nPlans were announced to replace a local park with a shopping mall.  as a consequence: \n- Environmentalists started a petition.\n- Environmentalists produced a documentary.",
+        [
+            "Environmentalists started a petition."
+        ],
+        "super_glue-copa|validation|more likely|#68"
+    ],
+    [
+        "Plans were announced to replace a local park with a shopping mall. \n\nWhat's the best option?\n- Environmentalists started a petition.\n- Environmentalists produced a documentary.\n\nWe are looking for  an effect",
+        [
+            "Environmentalists started a petition."
+        ],
+        "super_glue-copa|validation|best_option|#68"
+    ],
+    [
+        "Plans were announced to replace a local park with a shopping mall.  so... \nChoose between:\n- Environmentalists started a petition.\n- Environmentalists produced a documentary.",
+        [
+            "Environmentalists started a petition."
+        ],
+        "super_glue-copa|validation|choose|#68"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nPlans were announced to replace a local park with a shopping mall.  so... \n- Environmentalists started a petition.\n- Environmentalists produced a documentary.",
+        [
+            "Environmentalists started a petition."
+        ],
+        "super_glue-copa|validation|exercise|#68"
+    ],
+    [
+        "\"Environmentalists started a petition.\" or \"Environmentalists produced a documentary.\"? Plans were announced to replace a local park with a shopping mall.  so",
+        [
+            "Environmentalists started a petition."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#68"
+    ],
+    [
+        "The couple was happy to see each other.  As a consequence... \nHelp me pick the more plausible option:\n- They kissed.\n- They rested.",
+        [
+            "They kissed."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#69"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe couple was happy to see each other.  so... \n- They kissed.\n- They rested.",
+        [
+            "They kissed."
+        ],
+        "super_glue-copa|validation|exercise|#69"
+    ],
+    [
+        "The couple was happy to see each other. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- They kissed.\n- They rested.",
+        [
+            "They kissed."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#69"
+    ],
+    [
+        "The couple was happy to see each other. \n\nWhat's the best option?\n- They kissed.\n- They rested.\n\nWe are looking for  an effect",
+        [
+            "They kissed."
+        ],
+        "super_glue-copa|validation|best_option|#69"
+    ],
+    [
+        "The couple was happy to see each other.  so... \nChoose between:\n- They kissed.\n- They rested.",
+        [
+            "They kissed."
+        ],
+        "super_glue-copa|validation|choose|#69"
+    ],
+    [
+        "The woman asked the man to leave.  because... \nChoose between:\n- He insulted her.\n- He thanked her.",
+        [
+            "He insulted her."
+        ],
+        "super_glue-copa|validation|choose|#70"
+    ],
+    [
+        "The woman asked the man to leave. Why? \"He insulted her.\" or \"He thanked her.\"?",
+        [
+            "He insulted her."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#70"
+    ],
+    [
+        "The woman asked the man to leave. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- He insulted her.\n- He thanked her.",
+        [
+            "He insulted her."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#70"
+    ],
+    [
+        "The woman asked the man to leave. Which may be caused by \"He insulted her.\" or \"He thanked her.\"?",
+        [
+            "He insulted her."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#70"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman asked the man to leave.  as a result of: \n- He insulted her.\n- He thanked her.",
+        [
+            "He insulted her."
+        ],
+        "super_glue-copa|validation|more likely|#70"
+    ],
+    [
+        "The tree branch landed in the river.\n\nSelect the most plausible  effect: \n- The branch moved downstream.\n- The river's current became stronger.",
+        [
+            "The branch moved downstream."
+        ],
+        "super_glue-copa|validation|cause_effect|#71"
+    ],
+    [
+        "The tree branch landed in the river. What could happen next, \"The branch moved downstream.\" or \"The river's current became stronger.\"?",
+        [
+            "The branch moved downstream."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#71"
+    ],
+    [
+        "The tree branch landed in the river.  so... \nChoose between:\n- The branch moved downstream.\n- The river's current became stronger.",
+        [
+            "The branch moved downstream."
+        ],
+        "super_glue-copa|validation|choose|#71"
+    ],
+    [
+        "\"The branch moved downstream.\" or \"The river's current became stronger.\"? The tree branch landed in the river.  so",
+        [
+            "The branch moved downstream."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#71"
+    ],
+    [
+        "The tree branch landed in the river. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- The branch moved downstream.\n- The river's current became stronger.",
+        [
+            "The branch moved downstream."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#71"
+    ],
+    [
+        "The teacher assigned homework to the students. As a result, \"The students passed notes.\" or \"The students groaned.\"?",
+        [
+            "The students groaned."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#72"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe teacher assigned homework to the students.  so... \n- The students passed notes.\n- The students groaned.",
+        [
+            "The students groaned."
+        ],
+        "super_glue-copa|validation|exercise|#72"
+    ],
+    [
+        "The teacher assigned homework to the students. What could happen next, \"The students passed notes.\" or \"The students groaned.\"?",
+        [
+            "The students groaned."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#72"
+    ],
+    [
+        "The teacher assigned homework to the students.\n\nSelect the most plausible  effect: \n- The students passed notes.\n- The students groaned.",
+        [
+            "The students groaned."
+        ],
+        "super_glue-copa|validation|cause_effect|#72"
+    ],
+    [
+        "The teacher assigned homework to the students. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- The students passed notes.\n- The students groaned.",
+        [
+            "The students groaned."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#72"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe seasons changed from summer to autumn.  so... \n- People evacuated their homes.\n- Leaves fell from the trees.",
+        [
+            "Leaves fell from the trees."
+        ],
+        "super_glue-copa|validation|exercise|#73"
+    ],
+    [
+        "The seasons changed from summer to autumn. What could happen next, \"People evacuated their homes.\" or \"Leaves fell from the trees.\"?",
+        [
+            "Leaves fell from the trees."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#73"
+    ],
+    [
+        "The seasons changed from summer to autumn. As a result, \"People evacuated their homes.\" or \"Leaves fell from the trees.\"?",
+        [
+            "Leaves fell from the trees."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#73"
+    ],
+    [
+        "The seasons changed from summer to autumn. \n\nWhat's the best option?\n- People evacuated their homes.\n- Leaves fell from the trees.\n\nWe are looking for  an effect",
+        [
+            "Leaves fell from the trees."
+        ],
+        "super_glue-copa|validation|best_option|#73"
+    ],
+    [
+        "The seasons changed from summer to autumn.\n\nSelect the most plausible  effect: \n- People evacuated their homes.\n- Leaves fell from the trees.",
+        [
+            "Leaves fell from the trees."
+        ],
+        "super_glue-copa|validation|cause_effect|#73"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe politician was convicted of fraud.  as a consequence: \n- He campaigned for re-election.\n- He was removed from office.",
+        [
+            "He was removed from office."
+        ],
+        "super_glue-copa|validation|more likely|#74"
+    ],
+    [
+        "\"He campaigned for re-election.\" or \"He was removed from office.\"? The politician was convicted of fraud.  so",
+        [
+            "He was removed from office."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#74"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe politician was convicted of fraud.  so... \n- He campaigned for re-election.\n- He was removed from office.",
+        [
+            "He was removed from office."
+        ],
+        "super_glue-copa|validation|exercise|#74"
+    ],
+    [
+        "The politician was convicted of fraud.\n\nSelect the most plausible  effect: \n- He campaigned for re-election.\n- He was removed from office.",
+        [
+            "He was removed from office."
+        ],
+        "super_glue-copa|validation|cause_effect|#74"
+    ],
+    [
+        "The politician was convicted of fraud.  so... \nChoose between:\n- He campaigned for re-election.\n- He was removed from office.",
+        [
+            "He was removed from office."
+        ],
+        "super_glue-copa|validation|choose|#74"
+    ],
+    [
+        "I pushed the wagon.\n\nSelect the most plausible  effect: \n- The objects in the wagon fell out.\n- The wagon wheels spun forward.",
+        [
+            "The wagon wheels spun forward."
+        ],
+        "super_glue-copa|validation|cause_effect|#75"
+    ],
+    [
+        "I pushed the wagon. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- The objects in the wagon fell out.\n- The wagon wheels spun forward.",
+        [
+            "The wagon wheels spun forward."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#75"
+    ],
+    [
+        "I pushed the wagon.  so... \nChoose between:\n- The objects in the wagon fell out.\n- The wagon wheels spun forward.",
+        [
+            "The wagon wheels spun forward."
+        ],
+        "super_glue-copa|validation|choose|#75"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nI pushed the wagon.  as a consequence: \n- The objects in the wagon fell out.\n- The wagon wheels spun forward.",
+        [
+            "The wagon wheels spun forward."
+        ],
+        "super_glue-copa|validation|more likely|#75"
+    ],
+    [
+        "I pushed the wagon.  As a consequence... \nHelp me pick the more plausible option:\n- The objects in the wagon fell out.\n- The wagon wheels spun forward.",
+        [
+            "The wagon wheels spun forward."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#75"
+    ],
+    [
+        "The lobbyist persuaded the legislature to support the bill.\n\nSelect the most plausible  effect: \n- The president vetoed the bill.\n- The legislature passed the bill.",
+        [
+            "The legislature passed the bill."
+        ],
+        "super_glue-copa|validation|cause_effect|#76"
+    ],
+    [
+        "The lobbyist persuaded the legislature to support the bill. What could happen next, \"The president vetoed the bill.\" or \"The legislature passed the bill.\"?",
+        [
+            "The legislature passed the bill."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#76"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe lobbyist persuaded the legislature to support the bill.  so... \n- The president vetoed the bill.\n- The legislature passed the bill.",
+        [
+            "The legislature passed the bill."
+        ],
+        "super_glue-copa|validation|exercise|#76"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe lobbyist persuaded the legislature to support the bill.  as a consequence: \n- The president vetoed the bill.\n- The legislature passed the bill.",
+        [
+            "The legislature passed the bill."
+        ],
+        "super_glue-copa|validation|more likely|#76"
+    ],
+    [
+        "The lobbyist persuaded the legislature to support the bill.  As a consequence... \nHelp me pick the more plausible option:\n- The president vetoed the bill.\n- The legislature passed the bill.",
+        [
+            "The legislature passed the bill."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#76"
+    ],
+    [
+        "My closet was messy. \n\nWhat's the best option?\n- I organized it.\n- I decorated it.\n\nWe are looking for  an effect",
+        [
+            "I organized it."
+        ],
+        "super_glue-copa|validation|best_option|#77"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nMy closet was messy.  as a consequence: \n- I organized it.\n- I decorated it.",
+        [
+            "I organized it."
+        ],
+        "super_glue-copa|validation|more likely|#77"
+    ],
+    [
+        "My closet was messy. As a result, \"I organized it.\" or \"I decorated it.\"?",
+        [
+            "I organized it."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#77"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nMy closet was messy.  so... \n- I organized it.\n- I decorated it.",
+        [
+            "I organized it."
+        ],
+        "super_glue-copa|validation|exercise|#77"
+    ],
+    [
+        "My closet was messy. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- I organized it.\n- I decorated it.",
+        [
+            "I organized it."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#77"
+    ],
+    [
+        "I stayed up late.  As a consequence... \nHelp me pick the more plausible option:\n- I had vivid dreams that night.\n- I was tired in the morning.",
+        [
+            "I was tired in the morning."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#78"
+    ],
+    [
+        "I stayed up late. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- I had vivid dreams that night.\n- I was tired in the morning.",
+        [
+            "I was tired in the morning."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#78"
+    ],
+    [
+        "I stayed up late. What could happen next, \"I had vivid dreams that night.\" or \"I was tired in the morning.\"?",
+        [
+            "I was tired in the morning."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#78"
+    ],
+    [
+        "\"I had vivid dreams that night.\" or \"I was tired in the morning.\"? I stayed up late.  so",
+        [
+            "I was tired in the morning."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#78"
+    ],
+    [
+        "I stayed up late. \n\nWhat's the best option?\n- I had vivid dreams that night.\n- I was tired in the morning.\n\nWe are looking for  an effect",
+        [
+            "I was tired in the morning."
+        ],
+        "super_glue-copa|validation|best_option|#78"
+    ],
+    [
+        "The man's pocket jingled as he walked. Why? \"His pocket was filled with coins.\" or \"He sewed the hole in his pocket.\"?",
+        [
+            "His pocket was filled with coins."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#79"
+    ],
+    [
+        "The man's pocket jingled as he walked.  This happened because... \nHelp me pick the more plausible option:\n- His pocket was filled with coins.\n- He sewed the hole in his pocket.",
+        [
+            "His pocket was filled with coins."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#79"
+    ],
+    [
+        "The man's pocket jingled as he walked. Which may be caused by \"His pocket was filled with coins.\" or \"He sewed the hole in his pocket.\"?",
+        [
+            "His pocket was filled with coins."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#79"
+    ],
+    [
+        "The man's pocket jingled as he walked. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- His pocket was filled with coins.\n- He sewed the hole in his pocket.",
+        [
+            "His pocket was filled with coins."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#79"
+    ],
+    [
+        "The man's pocket jingled as he walked. \n\nWhat's the best option?\n- His pocket was filled with coins.\n- He sewed the hole in his pocket.\n\nWe are looking for  a cause",
+        [
+            "His pocket was filled with coins."
+        ],
+        "super_glue-copa|validation|best_option|#79"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nEveryone in the class turned to stare at the student.  as a result of: \n- The student's phone rang.\n- The student took notes.",
+        [
+            "The student's phone rang."
+        ],
+        "super_glue-copa|validation|more likely|#80"
+    ],
+    [
+        "Everyone in the class turned to stare at the student.  because... \nChoose between:\n- The student's phone rang.\n- The student took notes.",
+        [
+            "The student's phone rang."
+        ],
+        "super_glue-copa|validation|choose|#80"
+    ],
+    [
+        "Everyone in the class turned to stare at the student.  This happened because... \nHelp me pick the more plausible option:\n- The student's phone rang.\n- The student took notes.",
+        [
+            "The student's phone rang."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#80"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nEveryone in the class turned to stare at the student.  because... \n- The student's phone rang.\n- The student took notes.",
+        [
+            "The student's phone rang."
+        ],
+        "super_glue-copa|validation|exercise|#80"
+    ],
+    [
+        "Everyone in the class turned to stare at the student. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The student's phone rang.\n- The student took notes.",
+        [
+            "The student's phone rang."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#80"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe horse bucked.  because... \n- A fly bit the horse.\n- The rider stroked the horse.",
+        [
+            "A fly bit the horse."
+        ],
+        "super_glue-copa|validation|exercise|#81"
+    ],
+    [
+        "The horse bucked. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- A fly bit the horse.\n- The rider stroked the horse.",
+        [
+            "A fly bit the horse."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#81"
+    ],
+    [
+        "The horse bucked.\n\nSelect the most plausible  cause: \n- A fly bit the horse.\n- The rider stroked the horse.",
+        [
+            "A fly bit the horse."
+        ],
+        "super_glue-copa|validation|cause_effect|#81"
+    ],
+    [
+        "The horse bucked.  This happened because... \nHelp me pick the more plausible option:\n- A fly bit the horse.\n- The rider stroked the horse.",
+        [
+            "A fly bit the horse."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#81"
+    ],
+    [
+        "The horse bucked. Which may be caused by \"A fly bit the horse.\" or \"The rider stroked the horse.\"?",
+        [
+            "A fly bit the horse."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#81"
+    ],
+    [
+        "\"The stolen jewelry was returned to its owners.\" or \"The cost of the stolen jewelry was calculated.\"? The jewelry thieves were caught.  so",
+        [
+            "The stolen jewelry was returned to its owners."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#82"
+    ],
+    [
+        "The jewelry thieves were caught. \n\nWhat's the best option?\n- The stolen jewelry was returned to its owners.\n- The cost of the stolen jewelry was calculated.\n\nWe are looking for  an effect",
+        [
+            "The stolen jewelry was returned to its owners."
+        ],
+        "super_glue-copa|validation|best_option|#82"
+    ],
+    [
+        "The jewelry thieves were caught.  As a consequence... \nHelp me pick the more plausible option:\n- The stolen jewelry was returned to its owners.\n- The cost of the stolen jewelry was calculated.",
+        [
+            "The stolen jewelry was returned to its owners."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#82"
+    ],
+    [
+        "The jewelry thieves were caught.\n\nSelect the most plausible  effect: \n- The stolen jewelry was returned to its owners.\n- The cost of the stolen jewelry was calculated.",
+        [
+            "The stolen jewelry was returned to its owners."
+        ],
+        "super_glue-copa|validation|cause_effect|#82"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe jewelry thieves were caught.  as a consequence: \n- The stolen jewelry was returned to its owners.\n- The cost of the stolen jewelry was calculated.",
+        [
+            "The stolen jewelry was returned to its owners."
+        ],
+        "super_glue-copa|validation|more likely|#82"
+    ],
+    [
+        "Political violence broke out in the nation.  so... \nChoose between:\n- Many citizens relocated to the capitol.\n- Many citizens took refuge in other territories.",
+        [
+            "Many citizens took refuge in other territories."
+        ],
+        "super_glue-copa|validation|choose|#83"
+    ],
+    [
+        "Political violence broke out in the nation.\n\nSelect the most plausible  effect: \n- Many citizens relocated to the capitol.\n- Many citizens took refuge in other territories.",
+        [
+            "Many citizens took refuge in other territories."
+        ],
+        "super_glue-copa|validation|cause_effect|#83"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nPolitical violence broke out in the nation.  so... \n- Many citizens relocated to the capitol.\n- Many citizens took refuge in other territories.",
+        [
+            "Many citizens took refuge in other territories."
+        ],
+        "super_glue-copa|validation|exercise|#83"
+    ],
+    [
+        "Political violence broke out in the nation. \n\nWhat's the best option?\n- Many citizens relocated to the capitol.\n- Many citizens took refuge in other territories.\n\nWe are looking for  an effect",
+        [
+            "Many citizens took refuge in other territories."
+        ],
+        "super_glue-copa|validation|best_option|#83"
+    ],
+    [
+        "Political violence broke out in the nation. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- Many citizens relocated to the capitol.\n- Many citizens took refuge in other territories.",
+        [
+            "Many citizens took refuge in other territories."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#83"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman was arrested.  because... \n- She checked into rehab.\n- She committed assault.",
+        [
+            "She committed assault."
+        ],
+        "super_glue-copa|validation|exercise|#84"
+    ],
+    [
+        "The woman was arrested. \n\nWhat's the best option?\n- She checked into rehab.\n- She committed assault.\n\nWe are looking for  a cause",
+        [
+            "She committed assault."
+        ],
+        "super_glue-copa|validation|best_option|#84"
+    ],
+    [
+        "The woman was arrested. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- She checked into rehab.\n- She committed assault.",
+        [
+            "She committed assault."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#84"
+    ],
+    [
+        "The woman was arrested. Which may be caused by \"She checked into rehab.\" or \"She committed assault.\"?",
+        [
+            "She committed assault."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#84"
+    ],
+    [
+        "The woman was arrested.\n\nSelect the most plausible  cause: \n- She checked into rehab.\n- She committed assault.",
+        [
+            "She committed assault."
+        ],
+        "super_glue-copa|validation|cause_effect|#84"
+    ],
+    [
+        "\"She discovered the outcome of the election.\" or \"She casted a vote in the election.\"? The woman read the newspaper.  so",
+        [
+            "She discovered the outcome of the election."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#85"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman read the newspaper.  as a consequence: \n- She discovered the outcome of the election.\n- She casted a vote in the election.",
+        [
+            "She discovered the outcome of the election."
+        ],
+        "super_glue-copa|validation|more likely|#85"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe woman read the newspaper.  so... \n- She discovered the outcome of the election.\n- She casted a vote in the election.",
+        [
+            "She discovered the outcome of the election."
+        ],
+        "super_glue-copa|validation|exercise|#85"
+    ],
+    [
+        "The woman read the newspaper.  so... \nChoose between:\n- She discovered the outcome of the election.\n- She casted a vote in the election.",
+        [
+            "She discovered the outcome of the election."
+        ],
+        "super_glue-copa|validation|choose|#85"
+    ],
+    [
+        "The woman read the newspaper. \n\nWhat's the best option?\n- She discovered the outcome of the election.\n- She casted a vote in the election.\n\nWe are looking for  an effect",
+        [
+            "She discovered the outcome of the election."
+        ],
+        "super_glue-copa|validation|best_option|#85"
+    ],
+    [
+        "The sick child coughed on his friend. \n\nWhat's the best option?\n- His friend got sick.\n- His friend sneezed.\n\nWe are looking for  an effect",
+        [
+            "His friend got sick."
+        ],
+        "super_glue-copa|validation|best_option|#86"
+    ],
+    [
+        "\"His friend got sick.\" or \"His friend sneezed.\"? The sick child coughed on his friend.  so",
+        [
+            "His friend got sick."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#86"
+    ],
+    [
+        "The sick child coughed on his friend.  so... \nChoose between:\n- His friend got sick.\n- His friend sneezed.",
+        [
+            "His friend got sick."
+        ],
+        "super_glue-copa|validation|choose|#86"
+    ],
+    [
+        "The sick child coughed on his friend.  As a consequence... \nHelp me pick the more plausible option:\n- His friend got sick.\n- His friend sneezed.",
+        [
+            "His friend got sick."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#86"
+    ],
+    [
+        "The sick child coughed on his friend.\n\nSelect the most plausible  effect: \n- His friend got sick.\n- His friend sneezed.",
+        [
+            "His friend got sick."
+        ],
+        "super_glue-copa|validation|cause_effect|#86"
+    ],
+    [
+        "The couple got engaged. What could happen next, \"They planned a wedding.\" or \"They took some time apart.\"?",
+        [
+            "They planned a wedding."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#87"
+    ],
+    [
+        "The couple got engaged.  so... \nChoose between:\n- They planned a wedding.\n- They took some time apart.",
+        [
+            "They planned a wedding."
+        ],
+        "super_glue-copa|validation|choose|#87"
+    ],
+    [
+        "The couple got engaged. As a result, \"They planned a wedding.\" or \"They took some time apart.\"?",
+        [
+            "They planned a wedding."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#87"
+    ],
+    [
+        "The couple got engaged.  As a consequence... \nHelp me pick the more plausible option:\n- They planned a wedding.\n- They took some time apart.",
+        [
+            "They planned a wedding."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#87"
+    ],
+    [
+        "\"They planned a wedding.\" or \"They took some time apart.\"? The couple got engaged.  so",
+        [
+            "They planned a wedding."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#87"
+    ],
+    [
+        "\"The woman planned to buy a condo.\" or \"The woman needed to clean her house.\"? The woman contacted the real estate agent.  because",
+        [
+            "The woman planned to buy a condo."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#88"
+    ],
+    [
+        "The woman contacted the real estate agent. Why? \"The woman planned to buy a condo.\" or \"The woman needed to clean her house.\"?",
+        [
+            "The woman planned to buy a condo."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#88"
+    ],
+    [
+        "The woman contacted the real estate agent. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- The woman planned to buy a condo.\n- The woman needed to clean her house.",
+        [
+            "The woman planned to buy a condo."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#88"
+    ],
+    [
+        "The woman contacted the real estate agent. \n\nWhat's the best option?\n- The woman planned to buy a condo.\n- The woman needed to clean her house.\n\nWe are looking for  a cause",
+        [
+            "The woman planned to buy a condo."
+        ],
+        "super_glue-copa|validation|best_option|#88"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman contacted the real estate agent.  as a result of: \n- The woman planned to buy a condo.\n- The woman needed to clean her house.",
+        [
+            "The woman planned to buy a condo."
+        ],
+        "super_glue-copa|validation|more likely|#88"
+    ],
+    [
+        "The man won the lottery.\n\nSelect the most plausible  effect: \n- He became rich.\n- He owed money.",
+        [
+            "He became rich."
+        ],
+        "super_glue-copa|validation|cause_effect|#89"
+    ],
+    [
+        "The man won the lottery.  As a consequence... \nHelp me pick the more plausible option:\n- He became rich.\n- He owed money.",
+        [
+            "He became rich."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#89"
+    ],
+    [
+        "The man won the lottery. \n\nWhat's the best option?\n- He became rich.\n- He owed money.\n\nWe are looking for  an effect",
+        [
+            "He became rich."
+        ],
+        "super_glue-copa|validation|best_option|#89"
+    ],
+    [
+        "The man won the lottery.  so... \nChoose between:\n- He became rich.\n- He owed money.",
+        [
+            "He became rich."
+        ],
+        "super_glue-copa|validation|choose|#89"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe man won the lottery.  as a consequence: \n- He became rich.\n- He owed money.",
+        [
+            "He became rich."
+        ],
+        "super_glue-copa|validation|more likely|#89"
+    ],
+    [
+        "I lit the candle. \n\nWhat's the best option?\n- Wax dripped off the candle.\n- The wax on the candle hardened.\n\nWe are looking for  an effect",
+        [
+            "Wax dripped off the candle."
+        ],
+        "super_glue-copa|validation|best_option|#90"
+    ],
+    [
+        "I lit the candle. \n\nI am hesitating between two options. Help me choose the more likely  effect: \n- Wax dripped off the candle.\n- The wax on the candle hardened.",
+        [
+            "Wax dripped off the candle."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#90"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nI lit the candle.  so... \n- Wax dripped off the candle.\n- The wax on the candle hardened.",
+        [
+            "Wax dripped off the candle."
+        ],
+        "super_glue-copa|validation|exercise|#90"
+    ],
+    [
+        "I lit the candle.\n\nSelect the most plausible  effect: \n- Wax dripped off the candle.\n- The wax on the candle hardened.",
+        [
+            "Wax dripped off the candle."
+        ],
+        "super_glue-copa|validation|cause_effect|#90"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nI lit the candle.  as a consequence: \n- Wax dripped off the candle.\n- The wax on the candle hardened.",
+        [
+            "Wax dripped off the candle."
+        ],
+        "super_glue-copa|validation|more likely|#90"
+    ],
+    [
+        "I spent the day at the pool.\n\nSelect the most plausible  effect: \n- I sprained my ankle.\n- My face got sunburned.",
+        [
+            "My face got sunburned."
+        ],
+        "super_glue-copa|validation|cause_effect|#91"
+    ],
+    [
+        "I spent the day at the pool. \n\nWhat's the best option?\n- I sprained my ankle.\n- My face got sunburned.\n\nWe are looking for  an effect",
+        [
+            "My face got sunburned."
+        ],
+        "super_glue-copa|validation|best_option|#91"
+    ],
+    [
+        "I spent the day at the pool. As a result, \"I sprained my ankle.\" or \"My face got sunburned.\"?",
+        [
+            "My face got sunburned."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#91"
+    ],
+    [
+        "I spent the day at the pool. What could happen next, \"I sprained my ankle.\" or \"My face got sunburned.\"?",
+        [
+            "My face got sunburned."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#91"
+    ],
+    [
+        "\"I sprained my ankle.\" or \"My face got sunburned.\"? I spent the day at the pool.  so",
+        [
+            "My face got sunburned."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#91"
+    ],
+    [
+        "The man received a parking ticket. Which may be caused by \"He parallel parked on the street.\" or \"The parking meter expired.\"?",
+        [
+            "The parking meter expired."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#92"
+    ],
+    [
+        "The man received a parking ticket.\n\nSelect the most plausible  cause: \n- He parallel parked on the street.\n- The parking meter expired.",
+        [
+            "The parking meter expired."
+        ],
+        "super_glue-copa|validation|cause_effect|#92"
+    ],
+    [
+        "The man received a parking ticket.  This happened because... \nHelp me pick the more plausible option:\n- He parallel parked on the street.\n- The parking meter expired.",
+        [
+            "The parking meter expired."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#92"
+    ],
+    [
+        "The man received a parking ticket. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- He parallel parked on the street.\n- The parking meter expired.",
+        [
+            "The parking meter expired."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#92"
+    ],
+    [
+        "The man received a parking ticket. Why? \"He parallel parked on the street.\" or \"The parking meter expired.\"?",
+        [
+            "The parking meter expired."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#92"
+    ],
+    [
+        "The woman became famous.  so... \nChoose between:\n- Photographers followed her.\n- Her family avoided her.",
+        [
+            "Photographers followed her."
+        ],
+        "super_glue-copa|validation|choose|#93"
+    ],
+    [
+        "The woman became famous.\n\nSelect the most plausible  effect: \n- Photographers followed her.\n- Her family avoided her.",
+        [
+            "Photographers followed her."
+        ],
+        "super_glue-copa|validation|cause_effect|#93"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman became famous.  as a consequence: \n- Photographers followed her.\n- Her family avoided her.",
+        [
+            "Photographers followed her."
+        ],
+        "super_glue-copa|validation|more likely|#93"
+    ],
+    [
+        "The woman became famous. What could happen next, \"Photographers followed her.\" or \"Her family avoided her.\"?",
+        [
+            "Photographers followed her."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#93"
+    ],
+    [
+        "The woman became famous.  As a consequence... \nHelp me pick the more plausible option:\n- Photographers followed her.\n- Her family avoided her.",
+        [
+            "Photographers followed her."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#93"
+    ],
+    [
+        "The girl wanted to wear earrings.  so... \nChoose between:\n- She got her ears pierced.\n- She got a tattoo.",
+        [
+            "She got her ears pierced."
+        ],
+        "super_glue-copa|validation|choose|#94"
+    ],
+    [
+        "The girl wanted to wear earrings. \n\nWhat's the best option?\n- She got her ears pierced.\n- She got a tattoo.\n\nWe are looking for  an effect",
+        [
+            "She got her ears pierced."
+        ],
+        "super_glue-copa|validation|best_option|#94"
+    ],
+    [
+        "The girl wanted to wear earrings.\n\nSelect the most plausible  effect: \n- She got her ears pierced.\n- She got a tattoo.",
+        [
+            "She got her ears pierced."
+        ],
+        "super_glue-copa|validation|cause_effect|#94"
+    ],
+    [
+        "The girl wanted to wear earrings. What could happen next, \"She got her ears pierced.\" or \"She got a tattoo.\"?",
+        [
+            "She got her ears pierced."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#94"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe girl wanted to wear earrings.  as a consequence: \n- She got her ears pierced.\n- She got a tattoo.",
+        [
+            "She got her ears pierced."
+        ],
+        "super_glue-copa|validation|more likely|#94"
+    ],
+    [
+        "My ears were ringing. \n\nI am hesitating between two options. Help me choose the more likely  cause: \n- I went to a museum.\n- I went to a concert.",
+        [
+            "I went to a concert."
+        ],
+        "super_glue-copa|validation|i_am_hesitating|#95"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nMy ears were ringing.  as a result of: \n- I went to a museum.\n- I went to a concert.",
+        [
+            "I went to a concert."
+        ],
+        "super_glue-copa|validation|more likely|#95"
+    ],
+    [
+        "My ears were ringing.\n\nSelect the most plausible  cause: \n- I went to a museum.\n- I went to a concert.",
+        [
+            "I went to a concert."
+        ],
+        "super_glue-copa|validation|cause_effect|#95"
+    ],
+    [
+        "My ears were ringing.  because... \nChoose between:\n- I went to a museum.\n- I went to a concert.",
+        [
+            "I went to a concert."
+        ],
+        "super_glue-copa|validation|choose|#95"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nMy ears were ringing.  because... \n- I went to a museum.\n- I went to a concert.",
+        [
+            "I went to a concert."
+        ],
+        "super_glue-copa|validation|exercise|#95"
+    ],
+    [
+        "I tidied up my house. Which may be caused by \"I was swamped with work.\" or \"I was expecting company.\"?",
+        [
+            "I was expecting company."
+        ],
+        "super_glue-copa|validation|\u2026which may be caused by|#96"
+    ],
+    [
+        "I tidied up my house. \n\nWhat's the best option?\n- I was swamped with work.\n- I was expecting company.\n\nWe are looking for  a cause",
+        [
+            "I was expecting company."
+        ],
+        "super_glue-copa|validation|best_option|#96"
+    ],
+    [
+        "I tidied up my house.  because... \nChoose between:\n- I was swamped with work.\n- I was expecting company.",
+        [
+            "I was expecting company."
+        ],
+        "super_glue-copa|validation|choose|#96"
+    ],
+    [
+        "I tidied up my house. Why? \"I was swamped with work.\" or \"I was expecting company.\"?",
+        [
+            "I was expecting company."
+        ],
+        "super_glue-copa|validation|\u2026why? C1 or C2|#96"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nI tidied up my house.  because... \n- I was swamped with work.\n- I was expecting company.",
+        [
+            "I was expecting company."
+        ],
+        "super_glue-copa|validation|exercise|#96"
+    ],
+    [
+        "\"They offered me compensation.\" or \"They cancelled my flight.\"? The airline mishandled my luggage.  so",
+        [
+            "They offered me compensation."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#97"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe airline mishandled my luggage.  so... \n- They offered me compensation.\n- They cancelled my flight.",
+        [
+            "They offered me compensation."
+        ],
+        "super_glue-copa|validation|exercise|#97"
+    ],
+    [
+        "The airline mishandled my luggage.  so... \nChoose between:\n- They offered me compensation.\n- They cancelled my flight.",
+        [
+            "They offered me compensation."
+        ],
+        "super_glue-copa|validation|choose|#97"
+    ],
+    [
+        "The airline mishandled my luggage. As a result, \"They offered me compensation.\" or \"They cancelled my flight.\"?",
+        [
+            "They offered me compensation."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#97"
+    ],
+    [
+        "The airline mishandled my luggage. What could happen next, \"They offered me compensation.\" or \"They cancelled my flight.\"?",
+        [
+            "They offered me compensation."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#97"
+    ],
+    [
+        "The computer was expensive to fix. As a result, \"I got it repaired.\" or \"I bought a new one.\"?",
+        [
+            "I bought a new one."
+        ],
+        "super_glue-copa|validation|\u2026As a result, C1 or C2?|#98"
+    ],
+    [
+        "The computer was expensive to fix.  so... \nChoose between:\n- I got it repaired.\n- I bought a new one.",
+        [
+            "I bought a new one."
+        ],
+        "super_glue-copa|validation|choose|#98"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe computer was expensive to fix.  as a consequence: \n- I got it repaired.\n- I bought a new one.",
+        [
+            "I bought a new one."
+        ],
+        "super_glue-copa|validation|more likely|#98"
+    ],
+    [
+        "Exercise: choose the most plausible alternative.\n\nThe computer was expensive to fix.  so... \n- I got it repaired.\n- I bought a new one.",
+        [
+            "I bought a new one."
+        ],
+        "super_glue-copa|validation|exercise|#98"
+    ],
+    [
+        "\"I got it repaired.\" or \"I bought a new one.\"? The computer was expensive to fix.  so",
+        [
+            "I bought a new one."
+        ],
+        "super_glue-copa|validation|C1 or C2? premise, so/because\u2026|#98"
+    ],
+    [
+        "The woman was in a bad mood.  so... \nChoose between:\n- She engaged in small talk with her friend.\n- She told her friend to leave her alone.",
+        [
+            "She told her friend to leave her alone."
+        ],
+        "super_glue-copa|validation|choose|#99"
+    ],
+    [
+        "The woman was in a bad mood.  As a consequence... \nHelp me pick the more plausible option:\n- She engaged in small talk with her friend.\n- She told her friend to leave her alone.",
+        [
+            "She told her friend to leave her alone."
+        ],
+        "super_glue-copa|validation|plausible_alternatives|#99"
+    ],
+    [
+        "Pick the more likely continuation to the following sentence:\nThe woman was in a bad mood.  as a consequence: \n- She engaged in small talk with her friend.\n- She told her friend to leave her alone.",
+        [
+            "She told her friend to leave her alone."
+        ],
+        "super_glue-copa|validation|more likely|#99"
+    ],
+    [
+        "The woman was in a bad mood. \n\nWhat's the best option?\n- She engaged in small talk with her friend.\n- She told her friend to leave her alone.\n\nWe are looking for  an effect",
+        [
+            "She told her friend to leave her alone."
+        ],
+        "super_glue-copa|validation|best_option|#99"
+    ],
+    [
+        "The woman was in a bad mood. What could happen next, \"She engaged in small talk with her friend.\" or \"She told her friend to leave her alone.\"?",
+        [
+            "She told her friend to leave her alone."
+        ],
+        "super_glue-copa|validation|\u2026What could happen next, C1 or C2?|#99"
+    ]
+]
