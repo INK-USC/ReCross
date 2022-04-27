@@ -109,23 +109,5 @@ done
 python scripts/ret/merge_memory_index.py memory_cache/bart0_memory.pkl 32
 
 
-----
-
-for shard_id in {0..9};
-do
-    sbatch scripts/ret/build_index.sh BART 10 $shard_id
-done
-
-python scripts/ret/merge_memory_index.py memory_cache/bart_memory.pkl 10
-
-
-----
-#  sbatch scripts/ret/build_index.sh Trained 16 0
-for shard_id in {0..15};
-do
-    sbatch scripts/ret/build_index.sh Trained 16 $shard_id
-done
-
-python scripts/ret/merge_memory_index.py memory_cache/trained_memory.pkl 16
 
 '

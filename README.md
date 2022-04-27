@@ -85,30 +85,32 @@ For both SBERT and ReCross methods, we will need to build the dense index of ups
 
 - ***Build the index in parallel *** （SBERT）
 
-Please run `scripts/zs_retrieval/zeroshot_build_index.sh`.
+Please run `scripts/ret/build_index.sh`.
 
 ```bash
 # submit multiple indexing jobs in parallel 
-for shard_id in {0..7}; # in 8 batches
+for shard_id in {0..15};
 do
-    sbatch scripts/zs_retrieval/zeroshot_build_index.sh Semantic 8 $shard_id
+    sbatch scripts/ret/build_index.sh Semantic 16 $shard_id
 done
-
 # when the above jobs are finished, combine the produced files 
-python scripts/zs_retrieval/merge_memory_index.py memory_cache/sbert_memory.pkl 8
+python scripts/ret/merge_memory_index.py memory_cache/sbert_memory.pkl 16
+
+
+
 ```
 
 - ***Build the index in parallel *** （BART0）
 
 ```bash 
 # submit multiple indexing jobs in parallel 
-for shard_id in {0..19};    # in 20 batches
+for shard_id in {0..31};
 do
-    sbatch scripts/zs_retrieval/zeroshot_build_index.sh BART 20 $shard_id
+    sbatch scripts/ret/build_index.sh BART0 32 $shard_id
 done
 
 # when the above jobs are finished, combine the produced files 
-python scripts/zs_retrieval/merge_memory_index.py memory_cache/bart0_memory.pkl 20
+python scripts/ret/merge_memory_index.py memory_cache/bart0_memory.pkl 32
 ```
 
 
@@ -137,7 +139,7 @@ The final slot is to indicate whether we want to enable re-ranking stage for the
 
 TBA.
 
-The scripts related to the reranker are located in `scripts/distant_supervision` and `metax/distant_supervision`
+The scripts related to the reranker are located in `scripts/distant_supervision` and `scripts/reranker_bootstrap` +  `metax/distant_supervision` and `metax/reranker_bootstrap`.
 
 ## Analysis and Visualization 
 
