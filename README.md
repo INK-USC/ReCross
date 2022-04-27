@@ -122,15 +122,44 @@ Here, one can run a particular experiment that uses a particular retrieval metho
 sbatch scripts/ret/zs_with_ret.sh  [task names]  [retriever] 42 5 [no|rerank]
 ```
 
-The first slot should be a string that is a comma-separated list of target task names. For example, `ai2_arc-ARC-Challenge,super_glue-cb`. Then, this script will run 2 individual process at the same time ***on a single gpu*** for each target task. You can also just input a single task name for the 1st slot to run a single target task at a time --- this depends the memory size of the GPUs you have and the consideration on the trade-off between single-gpu efficiency and the number of required gpus.
+The first slot should be a string that is a comma-separated list of target task names. For example, `ai2_arc-ARC-Challenge,super_glue-cb`. Then, this script will run 2 individual process at the same time ***on a single gpu*** for each target task. You can also just input a single task name for the 1st slot to run a single target task at a time --- this depends the memory size of the GPUs you have and the consideration on the trade-off between single-gpu efficiency and the number of required GPUs.
 
 The second slot is the name of the retriever where we have three options here: Random, SentenceTransformer, BART. The index path for each option is listed in the script, which can be customized by yourself.
 
 
+The 42 and 5 here are the initial random seed and the number of rounds. That is, if we input 5, then the script will run 5 times of retrieval and fine-tuning where each round has a different set of query examples.
+
+
+The final slot is to indicate whether we want to enable re-ranking stage for the ReCross method, where we will introduce in the next section. Simply put, `no` means we won't enable the reranker for refining the retrieved results form BART0 index. And the configurations about the reranker, e.g., the upsampling ratio and the path to the reranker checkpoint is also listed in the script, which can be customized.
+
+
+### Train the Re-ranking module for ReCross 
+
+TBA.
+
+The scripts related to the reranker are located in `scripts/distant_supervision` and `metax/distant_supervision`
+
+## Analysis and Visualization 
+
+The above scripts will result in logs, prediction results, and retrieved data (if any). The paths of the saved files can be found in the script, and you can customize the paths if you'd like.
+To analyze the performance and the behavior of the results on multiple task, please refer to the `scripts/visualize_scores.py`. We also use `scripts/task_corr.ipynb` to draw heatmaps for understanding the task correlation.
 
 
 
+## Contact
 
+The codebase and the documentation are still under development, please stay tuned.
 
-### Train the Reranking module for ReCross 
+Please email yuchen.lin@usc.edu if you have any questions. 
 
+If you'd like cite us, please use this:
+
+```bibtex
+@article{Lin2022UnsupervisedCG,
+  title={Unsupervised Cross-Task Generalization via Retrieval Augmentation},
+  author={Bill Yuchen Lin and Kangmin Tan and Chris Miller and Beiwen Tian and Xiang Ren},
+  journal={ArXiv},
+  year={2022},
+  volume={abs/2204.07937}
+}
+```
