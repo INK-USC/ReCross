@@ -14,8 +14,8 @@ last_modified_date: April 5th 2022
 <span class="fs-2">
 [Paper](https://arxiv.org/abs/2204.07937){: target="_blank" .btn .btn-green .mr-1 .fs-3}
 [Github](https://github.com/INK-USC/ReCross/){: target="_blank" .btn .btn-purple .mr-1 .fs-3 }
-[Video](#){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
-[Slides](#){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
+[Video](https://youtu.be/D7Hjpmcnpd4){: target="_blank" .btn .btn-blue .mr-1 .fs-3 }
+[Slides](slides.pptx){: target="_blank" .btn .btn-red .mr-1 .fs-3 }
 </span>
 
 
